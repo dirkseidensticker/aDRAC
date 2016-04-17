@@ -1,6 +1,6 @@
 # CARD (Central African Radiocarbon Database)
 
-*[Dirk Seidensticker M.A. (University of Cologne)](https://uni-koeln.academia.edu/DirkSeidensticker){:target="_blank"}*
+*[Dirk Seidensticker M.A. (University of Cologne)](https://uni-koeln.academia.edu/DirkSeidensticker)*
 
 The *Central African Radiocarbon Database* (CARD) aims at delivering a reliable and free to use dataset containing all available radiocarbon datings from Central Africa. Contributions are highly welcome.
 
