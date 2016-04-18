@@ -4,8 +4,21 @@
 
 The *Central African Radiocarbon Database* (CARD) aims at delivering a reliable and free to use dataset containing all available radiocarbon datings from Central Africa. Contributions are highly welcome.
 
+The [CARD-Webapp](https://dirkseidensticker.shinyapps.io/webapp/) will help you to explore the dataset.
+
+## Structure of the Repository
+
+| Folder | Description |
+|-----------|-----------------------------------------------|
+| /data | Contains the dataset itself as well as a description (.md file) |
+| /Python | Examples of Python-Code |
+| /R | Examples of R-Code  |
+| /webapp | Files for a Shiny-Webapp which helps to explore the dataset | 
+
+
 ## Roadmap and ToDo's
 
-* R-Code which covers the same steps as the Python-Code
+* Deploy and refine the Shiny-App (Code inside /webapp) which delivers a first easy-to-use interface
+* Deploy R-Code which covers the same steps as the Python-Code
 * Including the CARD-dataset into the [radiocarbon3/neolithicR-pakage](https://github.com/nevrome/neolithicR) of [Clemens Schmid](https://github.com/nevrome)
 
