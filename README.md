@@ -28,4 +28,6 @@ The dataset (inside /data) is licensed under the [Creative Commons Attribution 3
 
 ## Citation
 
+[![DOI](https://zenodo.org/badge/20329/dirkseidensticker/CARD.svg)](https://zenodo.org/badge/latestdoi/20329/dirkseidensticker/CARD)
+
 Seidensticker, D. (2016), ‘CARD. Central African Radiocarbon Database’, Version 0.1 <https://github.com/dirkseidensticker/CARD>.
