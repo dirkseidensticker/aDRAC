@@ -25,3 +25,7 @@ The [CARD-Webapp](https://dirkseidensticker.shinyapps.io/webapp/) will help you 
 ## License
 
 The dataset (inside /data) is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US) while all source code is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
+
+## Citation
+
+Seidensticker, D. (2016), ‘CARD. Central African Radiocarbon Database’, Version 0.1 <https://github.com/dirkseidensticker/CARD>.
