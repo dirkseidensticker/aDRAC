@@ -45,4 +45,7 @@ Temporary Items
 .Rproj.user
 .Rhistory
 .RData
-
+*.html
+.ipynb_checkpoints
+rsconnect
+db_dump.*

@@ -26,7 +26,7 @@ The [radiocarbon5-Web-App](https://nevrome.shinyapps.io/radiocarbon5/) of [Cleme
 
 ## License
 
-The dataset (inside /data) is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US) while all source code is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
+The CARD-dataset (inside /data) is made available under the [Open Database License]( http://opendatacommons.org/licenses/odbl/1.0/). Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/). All source code is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
 
 ## Citation
 
