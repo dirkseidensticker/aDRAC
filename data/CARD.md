@@ -11,6 +11,9 @@
 | COUNTRY | [ISO 3166-1 alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1) three-letter country code |
 | FEATURE | Designation of the Feature |
 | FEATURE_DESC | Category of the Feature |
-| LAT | Latitude as decimal degrees |
-| LONG | Longitude as decimal degrees |
+| LAT | Latitude as decimal degrees$^{1}$ |
+| LONG | Longitude as decimal degrees$^{1}$ |
 | SOURCE | Source |
+
+---
+1 All geo-coordinates included within CARD are either obtained from the published sources that contained the radiocarbon dates itself or were derived by searching for the name of the site within [geonames.org](http://www.geonames.org/)
