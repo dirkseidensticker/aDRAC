@@ -15,13 +15,13 @@ library(shiny)
 library(RCurl)
 
 
-myfile <- getURL('https://raw.githubusercontent.com/dirkseidensticker/CARD/master/data/CARD.csv', ssl.verifyhost=FALSE, ssl.verifypeer=FALSE)
+myfile <- getURL('https://raw.githubusercontent.com/dirkseidensticker/aDRAC/master/data/aDRAC.csv', ssl.verifyhost=FALSE, ssl.verifypeer=FALSE)
 data <- read.csv(textConnection(myfile), header=T, sep=",")
 
 # Define the overall UI
 ui <- shinyUI(
   fluidPage(
-    titlePanel("CARD (Central African Radiocarbon Database)"),
+    titlePanel("aDRAC (Archives des datations radiocarbone d'Afrique centrale)"),
     
     # Create a new Row in the UI for selectInputs
     fluidRow(

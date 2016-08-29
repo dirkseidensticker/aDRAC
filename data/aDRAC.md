@@ -16,4 +16,4 @@
 | SOURCE | Source |
 
 ---
-1 All geo-coordinates included within CARD are either obtained from the published sources that contained the radiocarbon dates itself or were derived by searching for the name of the site within [geonames.org](http://www.geonames.org/)
+1 All geo-coordinates included within aDRAC are either obtained from the published sources that contained the radiocarbon dates itself or were derived by searching for the name of the site within [geonames.org](http://www.geonames.org/)

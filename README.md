@@ -1,4 +1,4 @@
-# aDRAC (Archives des datations radiocarbone d'afrique centrale)
+# aDRAC (Archives des datations radiocarbone d'Afrique centrale)
 
 *[Dirk Seidensticker M.A. (University of Cologne)](https://uni-koeln.academia.edu/DirkSeidensticker)*
 
@@ -6,7 +6,7 @@ The *archive for radiocarbon datings from Central Africa* (aDRAC) aims at delive
 
 The [aDRAC-Webapp](https://dirkseidensticker.shinyapps.io/webapp/) will help you to explore the dataset.
 
-The [radiocarbon5-Web-App](https://nevrome.shinyapps.io/radiocarbon5/) of [Clemens Schmid](https://github.com/nevrome) provides another overview. The data are compiled through an [custom module](https://github.com/nevrome/neolithicR/blob/master/modules/CARD/data_processor.R).
+The [radiocarbon5-Web-App](https://nevrome.shinyapps.io/radiocarbon5/) of [Clemens Schmid](https://github.com/nevrome) provides another overview. The data are compiled through an [custom module](https://github.com/nevrome/neolithicR/blob/master/modules/aDRAC/data_processor.R).
 
 
 ## Structure of the Repository
