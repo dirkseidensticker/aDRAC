@@ -1,10 +1,10 @@
-# CARD (Central African Radiocarbon Database)
+# aDRAC (Archives des datations radiocarbone d'afrique centrale)
 
 *[Dirk Seidensticker M.A. (University of Cologne)](https://uni-koeln.academia.edu/DirkSeidensticker)*
 
-The *Central African Radiocarbon Database* (CARD) aims at delivering a reliable and free to use dataset containing all available radiocarbon datings from Central Africa. Contributions are highly welcome.
+The *archive for radiocarbon datings from Central Africa* (aDRAC) aims at delivering a reliable and free to use dataset containing all available radiocarbon datings from Central Africa. Contributions are highly welcome.
 
-The [CARD-Webapp](https://dirkseidensticker.shinyapps.io/webapp/) will help you to explore the dataset.
+The [aDRAC-Webapp](https://dirkseidensticker.shinyapps.io/webapp/) will help you to explore the dataset.
 
 The [radiocarbon5-Web-App](https://nevrome.shinyapps.io/radiocarbon5/) of [Clemens Schmid](https://github.com/nevrome) provides another overview. The data are compiled through an [custom module](https://github.com/nevrome/neolithicR/blob/master/modules/CARD/data_processor.R).
 
@@ -26,7 +26,7 @@ The [radiocarbon5-Web-App](https://nevrome.shinyapps.io/radiocarbon5/) of [Cleme
 
 ## License
 
-The CARD-dataset (inside /data) is made available under the [Open Database License]( http://opendatacommons.org/licenses/odbl/1.0/). Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/). All source code is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
+The aDRAC-dataset (inside /data) is made available under the [Open Database License]( http://opendatacommons.org/licenses/odbl/1.0/). Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/). All source code is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
 
 ## Citation
 

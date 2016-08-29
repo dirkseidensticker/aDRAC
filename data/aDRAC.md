@@ -1,4 +1,4 @@
-# Description of the CARD-Dataset
+# Description of the aDRAC-Dataset
 
 | Datafield | Description |
 |-----------|-------------|
@@ -11,8 +11,8 @@
 | COUNTRY | [ISO 3166-1 alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1) three-letter country code |
 | FEATURE | Designation of the Feature |
 | FEATURE_DESC | Category of the Feature |
-| LAT | Latitude as decimal degrees$^{1}$ |
-| LONG | Longitude as decimal degrees$^{1}$ |
+| LAT | Latitude as decimal degrees <sup>1</sup> |
+| LONG | Longitude as decimal degrees <sup>1</sup> |
 | SOURCE | Source |
 
 ---
