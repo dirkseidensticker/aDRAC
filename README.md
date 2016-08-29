@@ -30,3 +30,6 @@ The aDRAC-dataset (inside /data) is made available under the [Open Database Lice
 
 ## Citation
 
+[![DOI](https://zenodo.org/badge/20329/dirkseidensticker/aDRAC.svg)](https://zenodo.org/badge/latestdoi/20329/dirkseidensticker/aDRAC)
+
+Seidensticker, D. (2016), ‘aDRAC. Archives des datations radiocarbone d'Afrique centrale’, Version 0.1 <https://github.com/dirkseidensticker/aDRAC>.
