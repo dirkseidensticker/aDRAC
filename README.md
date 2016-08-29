@@ -13,15 +13,15 @@ The [radiocarbon5-Web-App](https://nevrome.shinyapps.io/radiocarbon5/) of [Cleme
 
 | Folder | Description |
 |-----------|-----------------------------------------------|
+| /aDRACweb | Files for a Shiny-Webapp which helps to explore the dataset | 
 | /data | Contains the dataset itself as well as a description (.md file) |
 | /Python | Examples of Python-Code |
 | /R | Examples of R-Code  |
-| /webapp | Files for a Shiny-Webapp which helps to explore the dataset | 
 
 
 ## Roadmap and ToDo's
 
-* Refine the [Shiny-Web-App](https://dirkseidensticker.shinyapps.io/webapp/) (Code inside /webapp) which delivers a first easy-to-use interface
+* Refine the [Shiny-Web-App](https://dirkseidensticker.shinyapps.io/aDRACweb/) (Code inside /aDRACweb) which delivers a first easy-to-use interface
 * Deploy R-Code which covers the same steps as the Python-Code
 
 ## License
