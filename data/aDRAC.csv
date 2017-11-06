@@ -2,6 +2,27 @@ LABNR,C14AGE,C14STD,C13,MATERIAL,SITE,COUNTRY,FEATURE,FEATURE_DESC,LAT,LONG,SOUR
 AA-78447,2362,39,0.0,,Mbaere,CAF,,Pollencore,3.988639,16.924447,Kiahtipes/Lupo et al. 2011
 AA-78448,2171,37,0.0,,Mbaere,CAF,,Pollencore,3.988639,16.924447,Kiahtipes/Lupo et al. 2011
 AA-78449,834,35,0.0,,Mbaere,CAF,,Pollencore,3.988639,16.924447,Kiahtipes/Lupo et al. 2011
+AA-94529,215,34,0.0,,Ngotto,CAF,BB01-29,Slag Mound,,,Kiahtipes 2016:81 Tab. 4-1
+AA-94530,168,35,0.0,,Ngotto,CAF,BB01-30,Slag Mound,,,Kiahtipes 2016:81 Tab. 4-1
+AA-94531,207,35,0.0,,Ngotto,CAF,BB01-31,Slag Mound,,,Kiahtipes 2016:81 Tab. 4-1
+AA-94532,148,34,0.0,,Ngotto,CAF,BB01-36,Slag Mound,,,Kiahtipes 2016:81 Tab. 4-1
+AA-94533,231,34,0.0,,Ngotto,CAF,BB05-32,Slag Mound,,,Kiahtipes 2016:81 Tab. 4-1
+AA-94534,187,34,0.0,,Ngotto,CAF,BB05-41,Slag Mound,,,Kiahtipes 2016:81 Tab. 4-1
+AA-94537,160,35,0.0,,Ngotto,CAF,ND01-03,Ore Quarry,,,Kiahtipes 2016:81 Tab. 4-1
+AA-94538,242,34,0.0,,Ngotto,CAF,ND02-76,Slag Mound,,,Kiahtipes 2016:81 Tab. 4-1
+AA-94539,217,48,0.0,,Ngotto,CAF,NG01-74,Slag Mound,,,Kiahtipes 2016:81 Tab. 4-1
+AA-94540,706,35,0.0,,Ngotto,CAF,NZ03-23,Low Mound,,,Kiahtipes 2016:81 Tab. 4-1
+AA-94541,494,34,0.0,,Ngotto,CAF,NZ03-17,Low Mound,,,Kiahtipes 2016:81 Tab. 4-1
+AA-94542,593,34,0.0,,Ngotto,CAF,NZ03-12,Low Mound,,,Kiahtipes 2016:81 Tab. 4-1
+AA-94543,152,35,0.0,,Ngotto,CAF,OB01-67,Slag Mound,,,Kiahtipes 2016:81 Tab. 4-1
+AA-94544,210,34,0.0,,Ngotto,CAF,OB02-49,Slag Mound,,,Kiahtipes 2016:81 Tab. 4-1
+AA-94545,188,39,0.0,,Ngotto,CAF,OB05-53,Midden,,,Kiahtipes 2016:81 Tab. 4-1
+AA-94546,131,34,0.0,,Ngotto,CAF,OB05-54,Midden,,,Kiahtipes 2016:81 Tab. 4-1
+AA-94547,131,34,0.0,,Ngotto,CAF,OB06-63,Slag Mound,,,Kiahtipes 2016:81 Tab. 4-1
+AA-96496,1652,37,0.0,,Ngotto,CAF,P02-01,Pit,,,Kiahtipes 2016:81 Tab. 4-1
+AA-96498,143,34,0.0,,Ngotto,CAF,P02-07,Pit,,,Kiahtipes 2016:81 Tab. 4-1
+AA-96499,1264,36,0.0,,Ngotto,CAF,Z13-10,Furnace,,,Kiahtipes 2016:81 Tab. 4-1
+AA-96500,2179,37,0.0,,Ngotto,CAF,Z02-02,Midden,,,Kiahtipes 2016:81 Tab. 4-1
 Arc-339,2310,60,0.0,Charcoal,Mont Brazza,GAB,,,,,Clist 2004/05
 Arc-340,540,50,0.0,,Mont Barnier,COG,,,-4.18639,15.20028,Pincon 1991
 Arc-341,2210,100,0.0,Charcoal,Kango 5,GAB,,,0.200833,10.0825,Clist 2004/05
@@ -252,6 +273,7 @@ Beta-282418,480,40,0.0,,Bodingue,CAF,,Pollencore,3.628716,16.836355,Kiahtipes/Lu
 Beta-282419,270,40,0.0,,Bodingue,CAF,,Pollencore,3.628716,16.836355,Kiahtipes/Lupo et al. 2011
 Beta-282420,1650,40,0.0,,Ngotto (Pos C),CAF,,Trench,4.002085,17.308372,Kiahtipes/Lupo et al. 2011
 Beta-282421,1140,40,0.0,,Boua (Pos B),CAF,,Trench,4.079858,17.042457,Kiahtipes/Lupo et al. 2011
+Beta-287971,220,40,0.0,,Ngotto,CAF,P01-03.1,Pit,,,Kiahtipes 2016:81 Tab. 4-1
 Beta-287972,1210,40,0.0,,Boua (Pos B),CAF,,Trench,4.079858,17.042457,Kiahtipes/Lupo et al. 2011
 Beta-28828,970,80,0.0,Charcoal,"Mina, Leconi",GAB,,,-1.58431,14.25905,Clist 2004/05
 Beta-292440,1340,30,0.0,,Lac Ndembo,COG,,,-4.354739,11.653141,Denbow 2012
