@@ -73,6 +73,7 @@
 | Oslisly/Assoko Ndong 2006        | Oslisly, R., and Assoko Ndong, A. (2006), Archéologie de sauvetage sur la route Médoumane – Lalara. Vallée de l'Okano – Gabon (Libreville: Wildlife Conservation Society - Libreville Gabon). |
 | Pincon 1991                      | Pinçon, B. (1991), ‘L'archéologie du royaume Teke’, in R. Lanfranchi and B. Clist (eds.), Aux origines de l'Afrique centrale, Y. de La Croix (Paris: Centres culturels français d'Afrique centrale; Centre international des civilisations Bantu; Sépia avec le concours de UTA), 243–9. |
 | Sánchez-Elipe et al. 2016        | Sánchez-Elipe, M., González-Ruibal, A., Jordá Pardo, J. F. et al. (2016), ‘The Iron Age in West Central Africa. radiocarbon Dates from Corisco Island (Equatorial Guinea)’, J. Afr. Hist., 57/03: 345–365. |
+| Saulieu et al. 2017              | Saulieu, G. de, Oslisly, R., Nlend Nlend, P. et al. (2017), Deux mille cinq cents ans de traditions céramiques à Dibamba Yassa (Cameroun). Afrique: Archéologie & Arts, 13. |
 | Van Noten 1977                   | van Noten, F. L. (1977), ‘Excavations at Matupi cave’, Antiquity, 51: 35–40. |
 | Van Noten 1982                   | van Noten, F. L. (1982), ‘The Bantu Expansion Problem’, in F. L. van Noten (ed.), The archaeology of Central Africa, D. Cahen, P. de Maret, J. J. Moeyersons et al. (Graz: Akademische Druck- u. Verlagsanstalt), 65–7. |
 | Wirrmann 1992                    | Wirrmann, D. (1992), ‘Le Lac Ossa. Une Monographie Preliminaire’, Revue de Géographie du Cameroun, 11/1: 27–38. |

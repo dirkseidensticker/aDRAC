@@ -94,7 +94,7 @@ Beta-15065,5460,70,0.0,Charcoal,Lope 5,GAB,,,,,Clist 2004/05
 Beta-15066,1980,80,0.0,,Otoumbi 4,GAB,,,-0.069167,11.121667,Oslisly 1992
 Beta-15067,2260,120,0.0,,Otoumbi 5,GAB,,,-0.0625,11.124167,Oslisly 1992
 Beta-15068,1900,90,0.0,,Otoumbi 5,GAB,,Pit,-0.0625,11.124167,Oslisly 1992
-Beta-156376,1570,70,0.0,,Boussibilinga 1,CMR,BOS 1 1,Pit,2.745,10.011822,Nlend Nlend 2013/2014
+Beta-156376,1570,70,0.0,,Boussibilinga 1,CMR,BOS 1 1,Pit,2745,10.011822,Nlend Nlend 2013/2014
 Beta-156377,550,70,0.0,,Bwambe-Beach,CMR,BWB D1,Trench,2.898504,9.901455,Nlend Nlend 2013/2014
 Beta-156378,2240,70,0.0,,Bwambe-Sommet (Est),CMR,BWS 12,Pit,2.893551,9.903519,Nlend Nlend 2013/2014
 Beta-156379,2360,70,0.0,,Bwambe-Sommet (Est),CMR,BWS 16,Pit,2.893551,9.903519,Nlend Nlend 2013/2014
@@ -244,14 +244,27 @@ Beta-233402,2040,50,0.0,,Kribi-Talla,CMR,,,2.930278,9.909722,Gouem Gouem 2010/11
 Beta-233557,210,40,0.0,,Ndele (Pos A),CAF,,Trench,3.650128,16.870005,Kiahtipes/Lupo et al. 2011
 Beta-242316,2190,50,0.0,,Kribi-Mpoengu,CMR,,Pit,2.926944,9.912222,Gouem Gouem 2010/11: 196
 Beta-242317,1470,40,0.0,,Kribi-Mpoengu,CMR,,Pit,2.926944,9.912222,Gouem Gouem 2010/2011: 303
-Beta-245109,730,50,0.0,,Dibamba,CMR,,,3.995833,9.8215,Oslisly 2013
-Beta-245110,260,50,0.0,,Dibamba,CMR,,,3.995833,9.8215,Oslisly 2013
-Beta-245112,910,50,0.0,,Dibamba,CMR,,,3.995833,9.8215,Oslisly 2013
-Beta-245115,1880,50,0.0,,Dibamba,CMR,,,3.995833,9.8215,Oslisly 2013
-Beta-245117,500,40,0.0,,Dibamba,CMR,,,3.995833,9.8215,Oslisly 2013
-Beta-245118,800,50,0.0,,Dibamba,CMR,,,3.995833,9.8215,Oslisly 2013
-Beta-245120,120,50,0.0,,Dibamba,CMR,,,3.995833,9.8215,Oslisly 2013
-Beta-245121,180,50,0.0,,Dibamba,CMR,,,3.995833,9.8215,Oslisly 2013
+Beta-245103,220,40,0.0,,Dibamba,CMR,F. 08 (40-50 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-245104,190,40,0.0,,Dibamba,CMR,F. 11 (30-50 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-245105,760,40,0.0,,Dibamba,CMR,F. 15 (40-50 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-245106,530,40,0.0,,Dibamba,CMR,F. 16 (60-70 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-245107,130,40,0.0,,Dibamba,CMR,F. 22 (110-130 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-245108,770,40,0.0,,Dibamba,CMR,F. 25 (50-60 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-245109,790,50,0.0,,Dibamba,CMR,F. 27 (120-130 cm),,3.995833,9.8215,Oslisly 2013; Saulieu et al. 2017
+Beta-245110,250,50,0.0,,Dibamba,CMR,F. 28 (60-80 cm),,3.995833,9.8215,Oslisly 2013; Saulieu et al. 2017
+Beta-245111,730,40,0.0,,Dibamba,CMR,F. 31 (30-40 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-245112,920,50,0.0,,Dibamba,CMR,F. 32 (60-90 cm),,3.995833,9.8215,Oslisly 2013; Saulieu et al. 2017
+Beta-245113,760,40,0.0,,Dibamba,CMR,F34 (60-80 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-245114,260,50,0.0,,Dibamba,CMR,F. 35 (100-120 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-245115,1980,50,0.0,,Dibamba,CMR,F. 37 (40-60 cm),,3.995833,9.8215,Oslisly 2013; Saulieu et al. 2017
+Beta-245116,1900,50,0.0,,Dibamba,CMR,F. 43 (40-55 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-245117,530,40,0.0,,Dibamba,CMR,F. 51 (40-60 cm),,3.995833,9.8215,Oslisly 2013; Saulieu et al. 2017
+Beta-245118,830,50,0.0,,Dibamba,CMR,F. 54 (100-120 cm),,3.995833,9.8215,Oslisly 2013; Saulieu et al. 2017
+Beta-245119,1810,50,0.0,,Dibamba,CMR,F. 73 (150-160 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-245120,120,50,0.0,,Dibamba,CMR,F. 84A (30-40 cm),,3.995833,9.8215,Oslisly 2013; Saulieu et al. 2017
+Beta-245121,210,50,0.0,,Dibamba,CMR,F. 85A (40-60 cm),,3.995833,9.8215,Oslisly 2013; Saulieu et al. 2017
+Beta-245122,200,40,0.0,,Dibamba,CMR,F. 171 (40-60 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-245123,130,40,0.0,,Dibamba,CMR,Niv. 1,,3.995833,9.8215,Saulieu et al. 2017
 Beta-246742,1610,40,0.0,,Kribi-Talla,CMR,,,2.930278,9.909722,Gouem Gouem 2010/2011
 Beta-246743,1660,40,0.0,,Kribi-Talla,CMR,,,2.930278,9.909722,Gouem Gouem 2010/2011: 226
 Beta-25544,1110,60,0.0,,Carboneras,GNQ,,,,,Clist 1998
@@ -289,6 +302,18 @@ Beta-29773,4590,70,0.0,Charcoal,Lac Noir de Ndende,GAB,,,,,Clist 2004/05
 Beta-29774,7180,220,0.0,Charcoal,Lac Noir de Ndende,GAB,,,,,Clist 2004/05
 Beta-29775,1790,80,0.0,Charcoal,Lac Noir de Ndende,GAB,,,,,Clist 2004/05
 Beta-29777,7760,120,0.0,Charcoal,Lac Noir de Ndende,GAB,,,,,Clist 2004/05
+Beta-300121,880,30,0.0,,Dibamba,CMR,F. 32 (30-60 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-300122,990,30,0.0,,Dibamba,CMR,F. 32 (60-90 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-300123,1810,30,0.0,,Dibamba,CMR,F. 73 (150-160 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-300124,310,30,0.0,,Dibamba,CMR,F. 171 (50-60 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-302753,260,30,0.0,,Dibamba,CMR,F. 23 (30-60 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-302754,110,30,0.0,,Dibamba,CMR,F. 23 (60-90 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-302755,160,30,0.0,,Dibamba,CMR,F. 53 (40-80 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-302756,240,30,0.0,,Dibamba,CMR,F. 53 (80-120 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-302757,150,30,0.0,,Dibamba,CMR,F. 53 (120-160 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-302758,110,30,0.0,,Dibamba,CMR,F. 184 (0-44 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-302759,1040,30,0.0,,Dibamba,CMR,F. 193 (40-60 cm),,3.995833,9.8215,Saulieu et al. 2017
+Beta-302760,520,30,0.0,,Dibamba,CMR,F. 193 (60-90 cm),,3.995833,9.8215,Saulieu et al. 2017
 Beta-324748,2190,30,0.0,,Lukula,COD,,Trench,-5.435267,12.961583,Hubau/Van den Bulcke et al. 2014
 Beta-329503,900,30,0.0,Elaeis guineensis,Lukula,COD,,Trench,-5.435267,12.961583,Hubau/Van den Bulcke et al. 2014
 Beta-329504,1200,30,0.0,Elaeis guineensis,Lukula,COD,,Trench,-5.435267,12.961583,Hubau/Van den Bulcke et al. 2014
@@ -366,11 +391,11 @@ Gif-11050,530,35,0.0,,Ewani 1,CMR,,,5.213889,9.443611,Oslisly 2000
 Gif-11051,310,50,0.0,,Ewani 6,CMR,,,5.193889,9.429167,Oslisly 2000
 Gif-11052,580,40,0.0,,Ewani 7,CMR,,,5.196389,9.408333,Oslisly 2000
 Gif-11053,760,15,0.0,,Ewani 9,CMR,,,5.220833,9.450833,Oslisly 2000
-Gif-11118,500,20,0.0,,Kokobuma 1,CMR,,,5.419722,9.655,Oslisly 2000
+Gif-11118,500,20,0.0,,Kokobuma 1,CMR,,,5.419722,9655,Oslisly 2000
 Gif-11152,40010,850,0.0,Charcoal,Maboue 5,GAB,,,,,Clist 2004/05
-Gif-11155,2210,45,0.0,Charcoal,Toube 1,GAB,,,-0.0375,11.585,Clist 2004/05
+Gif-11155,2210,45,0.0,Charcoal,Toube 1,GAB,,,-0.0375,11585,Clist 2004/05
 Gif-11156,1350,60,0.0,Charcoal,Maboue 1,GAB,,,-0.143611,11.526111,Clist 2004/05
-Gif-11157,1950,60,0.0,Charcoal,Toube 1,GAB,,,-0.0375,11.585,Clist 2004/05
+Gif-11157,1950,60,0.0,Charcoal,Toube 1,GAB,,,-0.0375,11585,Clist 2004/05
 Gif-11340,6090,65,0.0,Charcoal,Riviere Denis 1,GAB,,,0.322222,9.347778,Clist 2004/05
 Gif-11341,1785,50,0.0,Charcoal,Riviere Denis 1,GAB,,,0.322222,9.347778,Clist 2004/05
 Gif-11342,1920,45,0.0,Charcoal,Riviere Denis 2,GAB,,,0.322222,9.347778,Clist 2004/05
@@ -527,7 +552,7 @@ Gif-7526,0,0,0.0,Charcoal,Otoumbi 10,GAB,,,,,Clist 2004/05
 Gif-7602,1970,60,0.0,,Lokoku,COD,,,,,de Bayle des Hermens 1990
 Gif-7774,2310,70,0.0,,Lope 10,GAB,,,-0.177778,11.604167,Oslisly 1992
 Gif-7775,1730,60,0.0,,Mingoue 5,GAB,,,,,Clist 2004/05
-Gif-7776,2110,70,0.0,,Okanda 2,GAB,,,-0.119444,11.575,Oslisly 1992
+Gif-7776,2110,70,0.0,,Okanda 2,GAB,,,-0.119444,11575,Oslisly 1992
 Gif-7777,1420,50,0.0,,Mbama 1,GAB,,,,,Clist 2004/05
 Gif-7815,1400,70,0.0,Charcoal,Mingoue 11,GAB,,,,,Clist 2004/05
 Gif-8049,1480,80,0.0,Charcoal,Mingoue 11,GAB,,,,,Clist 2004/05
@@ -879,8 +904,8 @@ KIA-33075,1901,24,-25.59,Elaeis guineensis,Campo,CMR,CAM 07/3,Burial,2.377257,9.
 KIA-33076,1988,28,-25.83,Charcoal,Campo,CMR,CAM 07/3,Burial,2.377257,9.83092,Meister/Eggert 2008
 KIA-33077,1184,22,-24.95,Charcoal,Campo,CMR,CAM 07/4,Burial,2.377257,9.83092,Meister/Eggert 2008
 KIA-33078,1847,22,-23.74,Elaeis guineensis,Campo,CMR,CAM 07/4,Burial,2.377257,9.83092,Meister/Eggert 2008
-KIA-34141,1565,30,0.0,Elaeis guineensis,Pokola 1,COG,,,1.405,16.31833,Morin-Rivat 2014
-KIA-34142,620,25,0.0,Elaeis guineensis,Pokola 2,COG,,,1.405,16.31833,Morin-Rivat 2014
+KIA-34141,1565,30,0.0,Elaeis guineensis,Pokola 1,COG,,,1405,16.31833,Morin-Rivat 2014
+KIA-34142,620,25,0.0,Elaeis guineensis,Pokola 2,COG,,,1405,16.31833,Morin-Rivat 2014
 KIA-34143,2170,30,0.0,,Ikelemba 1,,,,1.227166,16.504824,Morin-Rivat 2014
 KIA-34144,2095,30,0.0,Elaeis guineensis,Ilamba 2,COG,,,1.207868,16.767443,Morin-Rivat 2014
 KIA-34147,1830,35,0.0,,Ikelemba 3,,,,1.227166,16.504824,Morin-Rivat 2014
@@ -1122,6 +1147,15 @@ Poz-45693,1845,30,0.0,,Bolo Bai,,,,2.166667,15.716667,Oslisly et al 2013
 Poz-45694,1160,30,0.0,,Bolo Bai,,,,2.166667,15.716667,Oslisly et al 2013
 Poz-57246,2085,30,0.0,,Baombi II,COD,BAO/13/I,Pit,0.656695,25.160636,Livingstone-Smith et al. 2017: 4 Tab. 1
 Poz-57248,2155,30,0.0,,Baombi II,COD,BAO/13/I,Pit,0.656695,25.160636,Livingstone-Smith et al. 2017: 4 Tab. 1
+Poz-74441,2470,30,0.0,,Dibamba,CMR,F. 121 (0-60 cm),,3.995833,9.8215,Saulieu et al. 2017
+Poz-74444,340,30,0.0,,Dibamba,CMR,F. 206 (0-70 cm),,3.995833,9.8215,Saulieu et al. 2017
+Poz-74504,2435,30,0.0,,Dibamba,CMR,F. 80 (0-60 cm),,3.995833,9.8215,Saulieu et al. 2017
+Poz-74505,1855,30,0.0,,Dibamba,CMR,F. 103 (0-50 cm),,3.995833,9.8215,Saulieu et al. 2017
+Poz-74506,320,30,0.0,,Dibamba,CMR,F. 183 (0-80 cm),,3.995833,9.8215,Saulieu et al. 2017
+Poz-74507,165,30,0.0,,Dibamba,CMR,F. 84B (20-60 cm),,3.995833,9.8215,Saulieu et al. 2017
+Poz-74508,435,30,0.0,,Dibamba,CMR,F. 69 (0-50 cm),,3.995833,9.8215,Saulieu et al. 2017
+Poz-74509,420,30,0.0,,Dibamba,CMR,F. 67 (0-30 cm),,3.995833,9.8215,Saulieu et al. 2017
+Poz-74510,520,30,0.0,,Dibamba,CMR,F. 38B (30-67 cm),,3.995833,9.8215,Saulieu et al. 2017
 Poz-75451,370,30,0.0,,Yangambi,COD,YAN/15/05,,0.76755,24.43973,Livingstone-Smith et al. 2017: 4 Tab. 1
 Poz-75452,1670,30,0.0,,Yangambi,COD,YAN/15/05,,0.76755,24.43973,Livingstone-Smith et al. 2017: 4 Tab. 1
 Poz-75462,1230,30,0.0,,Yangambi,COD,YAS/15/02,,0.76755,24.43973,Livingstone-Smith et al. 2017: 4 Tab. 1
