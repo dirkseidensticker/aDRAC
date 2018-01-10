@@ -94,7 +94,7 @@ Beta-15065,5460,70,0.0,Charcoal,Lope 5,GAB,,,,,Clist 2004/05
 Beta-15066,1980,80,0.0,,Otoumbi 4,GAB,,,-0.069167,11.121667,Oslisly 1992
 Beta-15067,2260,120,0.0,,Otoumbi 5,GAB,,,-0.0625,11.124167,Oslisly 1992
 Beta-15068,1900,90,0.0,,Otoumbi 5,GAB,,Pit,-0.0625,11.124167,Oslisly 1992
-Beta-156376,1570,70,0.0,,Boussibilinga 1,CMR,BOS 1 1,Pit,2745,10.011822,Nlend Nlend 2013/2014
+Beta-156376,1570,70,0.0,,Boussibilinga 1,CMR,BOS 1 1,Pit,2.745,10.011822,Nlend Nlend 2013/2014
 Beta-156377,550,70,0.0,,Bwambe-Beach,CMR,BWB D1,Trench,2.898504,9.901455,Nlend Nlend 2013/2014
 Beta-156378,2240,70,0.0,,Bwambe-Sommet (Est),CMR,BWS 12,Pit,2.893551,9.903519,Nlend Nlend 2013/2014
 Beta-156379,2360,70,0.0,,Bwambe-Sommet (Est),CMR,BWS 16,Pit,2.893551,9.903519,Nlend Nlend 2013/2014
@@ -391,11 +391,11 @@ Gif-11050,530,35,0.0,,Ewani 1,CMR,,,5.213889,9.443611,Oslisly 2000
 Gif-11051,310,50,0.0,,Ewani 6,CMR,,,5.193889,9.429167,Oslisly 2000
 Gif-11052,580,40,0.0,,Ewani 7,CMR,,,5.196389,9.408333,Oslisly 2000
 Gif-11053,760,15,0.0,,Ewani 9,CMR,,,5.220833,9.450833,Oslisly 2000
-Gif-11118,500,20,0.0,,Kokobuma 1,CMR,,,5.419722,9655,Oslisly 2000
+Gif-11118,500,20,0.0,,Kokobuma 1,CMR,,,5.419722,9.655,Oslisly 2000
 Gif-11152,40010,850,0.0,Charcoal,Maboue 5,GAB,,,,,Clist 2004/05
-Gif-11155,2210,45,0.0,Charcoal,Toube 1,GAB,,,-0.0375,11585,Clist 2004/05
+Gif-11155,2210,45,0.0,Charcoal,Toube 1,GAB,,,-0.0375,11.585,Clist 2004/05
 Gif-11156,1350,60,0.0,Charcoal,Maboue 1,GAB,,,-0.143611,11.526111,Clist 2004/05
-Gif-11157,1950,60,0.0,Charcoal,Toube 1,GAB,,,-0.0375,11585,Clist 2004/05
+Gif-11157,1950,60,0.0,Charcoal,Toube 1,GAB,,,-0.0375,11.585,Clist 2004/05
 Gif-11340,6090,65,0.0,Charcoal,Riviere Denis 1,GAB,,,0.322222,9.347778,Clist 2004/05
 Gif-11341,1785,50,0.0,Charcoal,Riviere Denis 1,GAB,,,0.322222,9.347778,Clist 2004/05
 Gif-11342,1920,45,0.0,Charcoal,Riviere Denis 2,GAB,,,0.322222,9.347778,Clist 2004/05
@@ -552,7 +552,7 @@ Gif-7526,0,0,0.0,Charcoal,Otoumbi 10,GAB,,,,,Clist 2004/05
 Gif-7602,1970,60,0.0,,Lokoku,COD,,,,,de Bayle des Hermens 1990
 Gif-7774,2310,70,0.0,,Lope 10,GAB,,,-0.177778,11.604167,Oslisly 1992
 Gif-7775,1730,60,0.0,,Mingoue 5,GAB,,,,,Clist 2004/05
-Gif-7776,2110,70,0.0,,Okanda 2,GAB,,,-0.119444,11575,Oslisly 1992
+Gif-7776,2110,70,0.0,,Okanda 2,GAB,,,-0.119444,11.575,Oslisly 1992
 Gif-7777,1420,50,0.0,,Mbama 1,GAB,,,,,Clist 2004/05
 Gif-7815,1400,70,0.0,Charcoal,Mingoue 11,GAB,,,,,Clist 2004/05
 Gif-8049,1480,80,0.0,Charcoal,Mingoue 11,GAB,,,,,Clist 2004/05
@@ -904,8 +904,8 @@ KIA-33075,1901,24,-25.59,Elaeis guineensis,Campo,CMR,CAM 07/3,Burial,2.377257,9.
 KIA-33076,1988,28,-25.83,Charcoal,Campo,CMR,CAM 07/3,Burial,2.377257,9.83092,Meister/Eggert 2008
 KIA-33077,1184,22,-24.95,Charcoal,Campo,CMR,CAM 07/4,Burial,2.377257,9.83092,Meister/Eggert 2008
 KIA-33078,1847,22,-23.74,Elaeis guineensis,Campo,CMR,CAM 07/4,Burial,2.377257,9.83092,Meister/Eggert 2008
-KIA-34141,1565,30,0.0,Elaeis guineensis,Pokola 1,COG,,,1405,16.31833,Morin-Rivat 2014
-KIA-34142,620,25,0.0,Elaeis guineensis,Pokola 2,COG,,,1405,16.31833,Morin-Rivat 2014
+KIA-34141,1565,30,0.0,Elaeis guineensis,Pokola 1,COG,,,1.405,16.31833,Morin-Rivat 2014
+KIA-34142,620,25,0.0,Elaeis guineensis,Pokola 2,COG,,,1.405,16.31833,Morin-Rivat 2014
 KIA-34143,2170,30,0.0,,Ikelemba 1,,,,1.227166,16.504824,Morin-Rivat 2014
 KIA-34144,2095,30,0.0,Elaeis guineensis,Ilamba 2,COG,,,1.207868,16.767443,Morin-Rivat 2014
 KIA-34147,1830,35,0.0,,Ikelemba 3,,,,1.227166,16.504824,Morin-Rivat 2014
