@@ -11,6 +11,7 @@
 | COUNTRY | [ISO 3166-1 alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1) three-letter country code |
 | FEATURE | Designation of the Feature |
 | FEATURE_DESC | Category of the Feature |
+| RELIABILITY | 0 not to be relied on; 1 reliable |
 | LAT | Latitude as decimal degrees <sup>1</sup> |
 | LONG | Longitude as decimal degrees <sup>1</sup> |
 | SOURCE | Source |
