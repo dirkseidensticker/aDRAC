@@ -1,14 +1,14 @@
 | SOURCE                           | QUOTE                                    |
 | -------------------------------- | ---------------------------------------- |
 | Asombang 1988                    | Asombang, R. N. (1988), ‘Bamenda in Prehistory. The Evidence from Fiye Nkwi, Mbi Crater and Shum Laka Rockshelters’, Unpublished Ph.D. Dissertation (London, University of London). |
-| Assombang 1998 | |
+| Asombang 1998 | Asombang, R. N.'a. (1998), ‘Ten Years of Archaeological Research in the Bamenda Grassfields’, in M. Delneuf, J.-M. Essomba, and A. Froment (eds.), Paléo-anthropologie en Afrique centrale. Un bilan de l'archéologie au Cameroun (Collection Étude Africaines, Paris, Montreal: L'Harmattan), 193–202. |
 | Assoko Ndong 2001                | Assoko Ndong, A. (2000/2001), Archéologie du peuplement holocène de la reserve de faune de la Lopé, Gabon. Unpublished Ph.D. Dissertation. Université Libre de Bruxelles; Academic Year 2000–2001 (Bruxelles). |
 | Atangana 1992                    | Atangana, C. (1992), ‘Les Fosses d'Okolo (Sud du Cameroun). Fouilles et Axes de Recherches’, Nyame Akuma, 38: 7–13. |
-| Bremond et al. 2017 | |
+| Bremond et al. 2017 | Bremond, L., Bodin, S. C., Bentaleb, I. et al. (2017), ‘Past tree cover of the Congo Basin recovered by phytoliths and δ 13 C along soil profiles’, Long-term perspectives on human occupation of tropical rainforests, 434: 91–101. |
 | Buchet 1992                      | Buchet, G. (1992), 'Résultats de l'analyse palynologique', in L. Koté, Naissance et développement des économies de production en Afrique centrale. Formulation d'un modèle archéologique en terra incognita, Thèse présentée en vue du grade de docteur de l'université de Parix X (Paris, Université de Paris X, Nanterre), 310-2. |
 | Claes 1992                       | Claes, P. (1992), ‘A propos des céramiques de Mimboman et d’Okolo’, in J.-M. Essomba (ed.), L'archéologie au Cameroun. Actes du premier colloque international de Yaoundé (6 - 9 janvier 1986), Premier Colloque International sur l'Archéologie au Cameroun (Archéologies africaines, Paris: Ed. Karthala), 215–27. |
 | Clist 1989                       | Clist, B. (1989), ‘Archaeology in Gabon, 1886-1988’, African Arch. Rev., 7: 59–95. |
-| Clist 1995 | |
+| Clist 1995 | Clist, B. (1995), Gabon: 100 000 ans d'histoire (Libreville, Saint-Maur: Centre culturel français Saint Exupéry; Sépia) <http://​www.worldcat.org​/​oclc/​611659376>. |
 | Clist 1998                       | Clist, B. (1998), ‘Nouvelles données archéologiques sur l'histoire ancienne de la Guinée-Equatoriale’, L'Anthropologie, 102/2: 213–217. |
 | Clist 2004/05                    | Clist, B. (2004/2005), Des premièrs villages aux premiers Européens autour de l'Estuaire du Gabon. Quatre millénaires d'interactions entre l'homme et son milieu. Unpublished Ph.D. Dissertation. Université Libre de Bruxelles, Academic Year 2004–2005 (Brüssel: Universite Libre de Bruxelles/Freie Universität Brüssel). |
 | Clist 2012                       | Clist, B. (2012), ‘Vers une réduction des préjugés et la fonte des antagonismes. Un bilan de l'expansion de la métallurgie du fer en Afrique sud-saharienne’, Jour. African Arch., 10/1: 71–84. |
@@ -20,17 +20,17 @@
 | de Maret 1982                    | de Maret, P. (1982), ‘New Survey of Archaeological Research and Dates for West-Central and North-Central Africa’, Jour. African Hist., 23/1: 1–15. |
 | de Maret 1985                    | de Maret, P. (1985), ‘Recent Archaeological Research and Dates from Central Africa’, Jour. African Hist., 26/2/3: 129–148. |
 | de Maret 1986                    | de Maret, P. (1986), ‘The Ngovo Group. An industry with polished stone tools and pottery in Lower Zaïre’, African Arch. Rev., 4: 103–133. |
-| de Maret 1990 | |
+| de Maret 1990 | de Maret, P. (1990), ‘Le "Néolithique" et l'âge du fer ancien dans le Sud-Quest de l'Afrique Central’, in R. Lanfranchi and D. Schwartz (eds.), Paysages quaternaires de l'Afrique Centrale Atlantique (Collection Didactiques, Paris: ORSTOM), 447–57. |
 | de Maret 1992                    | de Maret, P. (1992), ‘Sédentarisation, agriculture et métallurgie du Sud-Cameroun. Synthèse des recherches depuis 1978’, in , L'archéologie au Cameroun. Actes du premier Colloque international de Yaoundé (6-9 janvier 1986) (Kathala, Paris), 247–62. |
 | de Maret/Stainier 1999           | de Maret, P., and Stainier, P. (1999), ‘Excavations in the upper levels at Gombe and the early ceramic industries in the Kinshasa area (Zaïre)’, in G. Smolla, F. R. Herrmann, I. Schmidt et al. (eds.), Festschrift für Günter Smolla (Materialien zur Vor- und Frühgeschichte von Hessen, 8, Wiesbaden: Landesamt für Denkmalpflege Hessen), 477–86. |
 | de Maret/van Noten/Cahen 1977    | de Maret, P., van Noten, F. L., and Cahen, D. (1977), ‘Radiocarbon dates from West Central Africa. A Synthesis’, Jour. African Hist., 18/4: 481–505. |
-| de Saulieu et al. 2015 | |
-| Delibrias/Guilier 1988 | |
-| Delneuf 2001 | |
+| de Saulieu et al. 2015 | Saulieu, G. de, Ngouoh, F., and Oslisly, R. (2015), ‘L’âge du Fer ancien dans le bloc forestier du sud Cameroun: nouvelles données entre Sangmélima et Mintom’, Azania, 50/3: 402–417. |
+| Delibrias/Guilier 1988 | Delibrias, G., and Guillier, M. T. (1988), ‘Gif natural radiocarbon measurements’, Radiocarbon, 30/1: 61–124. |
+| Delneuf 2001 | Delneuf, M. (2001), ‘Surveillance archéologique de l’axe routier Bertoua Garoua Boulaï, Rapport final’ (Unpublished report). |
 | Delneuf et al. 2003 | Delneuf, M., Otto, T., Thinon, M. (2003), ‘Occupations humaines anciennes et dynamique forestière. Approche croisée en plaine Tikar’, in A. Froment and J. Guffroy (eds.), Peuplements anciens et actuels des forêts tropicales. Actes du séminaire-atelier, Orléans, 15 et 16 octobre 1998 (Collection Colloques et séminaires / Institut français de recherche scientifique pour le développement, Paris: IRD Éditions; IRD éd), 127–56. |
 | Denbow 1990                      | Denbow, J. (1990), ‘Congo to Kalahari. Data and hypotheses about the political economy of the western stream of the Early Iron Age’, African Arch. Rev., 8: 139–176. |
 | Denbow 2012                      | Denbow, J. (2012), ‘Pride, Prejudice, Plunder and Preservation. Archaeology and the Re-Envisioning of Ethnogenesis on the Loango Coast of the Republic of Congo’, Antiquity, 86: 383–408. |
-| Dupre/Pincon 1997 | |
+| Dupre/Pincon 1997 | Dupré, M.-C., and Pinçon, B. (1997), Métallurgie et politique en Afrique centrale: Deux mille ans de vestiges sur les plateaux batéké Gabon, Congo, Zaïre (Paris: Khartala). |
 | Eggert 1984                      | Eggert, M. K. H. (1984), ‘Imbonga und Lingonda: Zur frühesten Besiedlung des zentralafrikanischen Regenwaldes’, Beitr. Allg. Vergl. Arch., 6: 247–288. |
 | Eggert 1987                      | Eggert, M. K. H. (1987), ‘Imbonga and Batalimo. Ceramic evidence for early settlement of the equatorial rain forest’, African Arch. Rev., 5: 129–145. |
 | Eggert 1993                      | Eggert, M. K. H. (1993), ‘Central Africa and the Archaeology of the Equatorial Rainforest. Reflections on Some Major Topics’, in T. Shaw, P. Sinclair, B. Andah et al. (eds.), The Archaeology of Africa. Food, Metal and Towns (One World Archaeology, 20, London/New York: Routledge), 289–329. |
@@ -39,24 +39,24 @@
 | Elouga 1998                      | Elouga, M. (1998), ‘Recherches archéologiques au Cameroun méridional. Résultats des prospections et hypothèses sur les phases de peuplement’, in M. Delneuf, J.-M. Essomba, and A. Froment (eds.), Paléo-anthropologie en Afrique centrale. Un bilan de l'archéologie au Cameroun (Collection Étude Africaines, Paris/Montreal: L'Harmattan), 213–24. |
 | Essomba 1988                     | Essomba, J.-M. (1988), ‘Quelques Analyses des Sites de Métallurgie Ancienne du Fer de Pan-Pan en Pays Basa (Sud-Cameroun)’, Nsi, 3: 15–19. |
 | Essomba 1989                     | Essomba, J.-M. (1989), ‘Dix ans de recherches archeologiques au Cameroun meridional (1979-1989)’, Nsi, 6: 33–57. |
-| Essomba 1998 | |
-| Garcin et al. 2018 | |
+| Essomba 1998 | Essomba, J.-M. (1998), ‘L'Archéologie de l'âge du fer au Cameroun méridional’, in M. Delneuf, J.-M. Essomba, and A. Froment (eds.), Paléo-anthropologie en Afrique centrale. Un bilan de l'archéologie au Cameroun (Collection Étude Africaines, Paris, Montreal: L'Harmattan), 233–47. |
+| Garcin et al. 2018 | Garcin, Y., Deschamps, P., Ménot, G. et al. (2018), ‘Early anthropogenic impact on Western Central African rainforests 2,600 y ago’, Proceedings of the National Academy of Sciences of the United States of America, 30: 201715336. |
 | Giblin et al. 2010               | Giblin, J., Clement, A., and Humphris, J. (2010), ‘An Urewe burial in Rwanda. Exchange, health, wealth and violence c. AD 400’, Azania, 45/3: 276–297. |
 | Gonzalez Ruibal 2011             | González-Ruibal, A., Gelabert, L. P., and Mañe, A. V. (2011), ‘Early Iron Age Burials from Equatorial Guinea. The Sites of Corisco Island’, Jour. African Arch., 9/1: 41–66. |
 | Gonzalez Ruibal 2012             | González-Ruibal, A., Sánchez-Elipe, M., and Otero-Vilariño, C. (2012), ‘An Ancient and Common Tradition. Funerary Rituals and Society in Equatorial Guinea (First–Twelfth Centuries AD)’, African Arch. Rev., 30/2: 115–143. |
 | Gouem Gouem 2010/2011            | Gouem Gouem, B. (2010/2011), ‘Des premières communautés villageoises aux sociétés complexes sur le littoral méridional du Cameroun’, Dissertation (Brüssel, Universite libre de Bruxelles). |
-| Holl 1991 | |
+| Holl 1991 | Holl, A. F. C. (1991), ‘Cameroun’, in R. Lanfranchi and B. Clist (eds.), Aux origines de l'Afrique centrale, Y. de La Croix (Paris: Centres culturels français d'Afrique centrale; Centre international des civilisations Bantu; Sépia avec le concours de UTA), 149–54 + 193-6. |
 | Hori et al. 1986                 | Hori, N., Kadomura, H., and Tamura, T. (1986), ‘Radiocarbon Dates from Cameroon and Kenya’, in H. Kadomura (ed.), Geomorphology and Environmental changes in Tropical Africa. Case Studies in Cameroon and Kenya, A preliminary report of the Tropical African Geomorphology and Late-Quaternary Palaeoenvironments Research Project 1984/85 (Sapporo: Hokkaido University), 247–55. |
-| Hubau et al. 2013 |  |
+| Hubau et al. 2013 | Hubau, W., Van den Bulcke, J., Kitin, P. et al. (2013), ‘Ancient charcoal as a natural archive for palaeofire regime and vegetation change in the Mayumbe, Democratic Republic of the Congo’, Quaternary Research, 80: 326–340. |
 | Hubau/Van den Bulcke et al. 2014 | Hubau, W., Van den Bulcke, J., Bostoen, K. et al. (2014), ‘Archaeological charcoals as archives for firewood preferences and vegetation composition during the late Holocene in the southern Mayumbe, Democratic Republic of the Congo (DRC)’, Vegetation History and Archaeobotany, 23: 591–606. |
 | Insoll 2012                      | Insoll, T., Kankpeyeng, B. W., and Nkumbaan, S. N. (2012), ‘Fragmentary Ancestors? Medicine, Bodies, and Personhood in a Koma Mound, Northern Ghana’, in K. Rountree, C. Morris, and A. A. D. Peatfield (eds.), Archaeology of Spirituakities (New York: Springer), 25–45. |
-| Kahlheber et al. 2014 | |
+| Kahlheber et al. 2014 | Kahlheber, S., Eggert, M. K. H., Seidensticker, D. et al. (2014), ‘Pearl Millet and Other Plant Remains from the Early Iron Age Site of Boso-Njafo (Inner Congo Basin, Democratic Republic of the Congo)’, African Arch. Rev., 2014: 479–512. |
 | Kahlheber 2014                   | Kahlheber, S., Eggert, M. K. H., Seidensticker, D. et al. (2014), ‘Pearl Millet and Other Plant Remains from the Early Iron Age Site of Boso-Njafo (Inner Congo Basin, Democratic Republic of the Congo)’, African Arch. Rev., 2014: 479–512. |
 | Kiahtipes 2016                   | Kiahtipes, C. A. (2016), Late Holocene Paleoenvironments and Anthropogenic Impacts in the Ngotto Forest: PhD Dissertation (Dallas). |
 | Kiahtipes/Lupo et al. 2011       | Kiahtipes, C. A., Lupo, K., Schmitt, D. N. et al. (2011), ‘Prehistory and the present. Palaeoenvironments in the northern Congo Basin’, Before Faming, 2. |
 | Kote 1992                        | Koté, L. (1992), ‘Naissance et développement des économies de production en Afrique centrale. Formulation d'un modèle archéologique en terra incognita’, Thèse présentée en vue du grade de docteur de l'université de Parix X (Paris, Université de Paris X, Nanterre). |
 | Kouyoumontzakis u.a. 1985        | Kouyoumontzakis, G., Lanfranchi, R., and Giresse, P. (1985), ‘Les datations radiométriques de quaternaire de la République Populare du Congo’, Cahier congolais d'anthopologie et d'histoire, 10: 11–31. |
-| Lavachery 2001 | |
+| Lavachery 2001 | Lavachery, P. (2001), ‘The Holocene Archaeological Sequence of Shum Laka Rock Shelter (Grassfields, Western Cameroon)’, African Arch. Rev., 18/4: 213–247. |
 | Lanfranchi/Ndanga/Zana 1998      | Lanfranchi, R., Ndanga, A. J.-P., and Zana, H. (1998), ‘New Carbon 14C Datings of Iron Metallurgy in the Central African Dense Forest’, Yale F&ES Bulletin, 102: 41–50. |
 | Lavacherry/Cornelissen 2000      | Lavachery, P., and Cornelissen, E. (2000), ‘Natural and Cultural Spatial Patterning in the Late Holocene Deposits o f Shum Laka Rock Shelter, Cameroon’, Jour. Field Arch., 27/2: 153–168. |
 | Lavachery et al. 2005            | Lavachery, P., MacEachern, S., Bouimon, T. et al. (2005), ‘Komé to Ebomé. Archaeological Research for the Chad Export Project, 1999-2003’, Jour. African Arch., 3/2: 175–193. |
@@ -64,11 +64,10 @@
 | Leka 2008                        | Leka, M. J. (2008), Nouvelles recherches archeologiques en pays Tikar: Premiers resultats, SAFA-Meeting, 2008 (Frankfurt a. M.). |
 | Livingstone-Smith et al. 2007    | Livingstone Smith, A., Assoko Ndong, A., and Cornelissen, E. (2007), ‘Prospection archéologique dans le sud du Gabon’, Nyame Akuma, 67: 26–35. |
 | Livingstone-Smith et al. 2017    | Livingstone Smith, A., Cornelissen, E., Francquen, C. de et al. (2017), ‘Forests and rivers. The archaeology of the north eastern Congo’, Quaternary International, 2017: 1–22. |
-| Lupo et al. 2015 | |
+| Lupo et al. 2015 | Lupo, K. D., Schmitt, D. N., Kiahtipes, C. A. et al. (2015), ‘On Intensive Late Holocene Iron Mining and Production in the Northern Congo Basin and the Environmental Consequences Associated with Metallurgy in Central Africa’, PLoS ONE, 10/7: e0132632. |
 | MacDonald et al. 2003            | MacDonald, K., Vernet, R., Fuller, D. et al. (2003), ‘New Light on the Tichitt Tradition. A preliminary report on survey and excavation at Dhar Nema’, in P. Mitchell, A. Haour, and J. Hobart (eds.), Researching Africa's past. New contributions from British archaeologists (Oxford University School of Archaeology monograph, no. 57, Oxford: Oxford University School of Archaeology), 73–80. |
 | Manning 2010                     | Manning, K. (2010), ‘A Developmental History for early West African Agriculture’, in P. Allsworth-Jones (ed.), West African Archaeology. New Developments, new Perspectives (BAR International Series, 2164, Oxford: British Archaeological Reports; Archaeopress), 43–52. |
 | Manning/Pelling 2011             | Manning, K., Pelling, R., Higham, T. et al. (2011), ‘4500-Year old Domesticated Pearl Millet (Pennisetum glaucum) from the Tilemsi Vallen, Mali. New Insights into an Alternate Cereal Domestication Pathway’, Jour. Arch. Science, 38: 312–322. |
-| Mbida Mindzie 1992 | |
 | Mbida Mindzie 1996               | Mbida Mindzié, C. (1996), ‘L’émergence de communautés villagoises au Cameroun méridional. Etude archéologique des sites de Nkang et Ndindan’, Thèse de Doctorat (Brüssel, Universite libre de Bruxelles). |
 | Mbida Mindzie 2002               | Mbida Mindzié, C. (2002), ‘Ndindan. Synthèse archéologique d'un site datant de trois millénaires à Yaoundé (Cameroun)’, L'Anthropologie, 106: 159–172. |
 | Mbida Mindzie u.a. 2000          | Mbida Mindzié, C., Van Neer, W., Doutrelepont, H. et al. (2000), ‘Evidence for Banana Cultivation and Animal Husbandry During the First Millennium BC in the Forest of Southern Cameroon’, Jour. Arch. Science, 27: 151–162. |
@@ -86,12 +85,12 @@
 | Oslisly 2006                     | Oslisly, R., and Assoko Ndong, A. (2006), Archéologie de sauvetage sur la route Médoumane – Lalara. Vallée de l'Okano – Gabon (Libreville: Wildlife Conservation Society - Libreville Gabon). |
 | Oslisly et al. 2006              | Oslisly, R., Ateba, L., Betougeda, R. et al. (2006), ‘Premiers resultat de la Recherche Archeologique sur le Littoral du Cameroun entre Kribi et Campo’, in , Actes du XIVème Congrès UISPP, Université de Liège, Belgique, 2–8 septembre 2001 (BAR International Series 1522), 127–34. |
 | Oslisly et al. 2013              | Oslisly, R., Bentaleb, I., Favier, C. et al. (2013), ‘West Central African Peoples: Survey of Radiocarbon Dates over the Past 5000 Years’, Radiocarbon, 55/2–3. |
-| Oslisly et al. 2015 | |
+| Oslisly et al. 2015 | Oslisly, R., Saulieu, G. de, and Nlend Nlend, P. (2015), ‘Archaeological data and oral traditions from the Oku and Kovifem sites in northwest Cameroon’, Azania, 50/1: 76–91. |
 | Oslisly/Assoko Ndong 2006        | Oslisly, R., and Assoko Ndong, A. (2006), Archéologie de sauvetage sur la route Médoumane – Lalara. Vallée de l'Okano – Gabon (Libreville: Wildlife Conservation Society - Libreville Gabon). |
 | Pincon 1991                      | Pinçon, B. (1991), ‘L'archéologie du royaume Teke’, in R. Lanfranchi and B. Clist (eds.), Aux origines de l'Afrique centrale, Y. de La Croix (Paris: Centres culturels français d'Afrique centrale; Centre international des civilisations Bantu; Sépia avec le concours de UTA), 243–9. |
 | Sánchez-Elipe et al. 2016        | Sánchez-Elipe, M., González-Ruibal, A., Jordá Pardo, J. F. et al. (2016), ‘The Iron Age in West Central Africa. radiocarbon Dates from Corisco Island (Equatorial Guinea)’, J. Afr. Hist., 57/03: 345–365. |
 | Saulieu et al. 2017              | Saulieu, G. de, Oslisly, R., Nlend Nlend, P. et al. (2017), Deux mille cinq cents ans de traditions céramiques à Dibamba Yassa (Cameroun). Afrique: Archéologie & Arts, 13. |
-| Schwartz 1990 | |
+| Schwartz 1990 | Schwartz, D., de Foresta, H., Dechamps, R. et al. (1990), ‘Découverte d'un premier site de l'âge du fer ancien (2 110 B.P.) dans le Mayombe congolais. Implications paléobotaniques et pédologiques’, C. R. Acad. Sci. Paris, 310/2: 1293–1298. |
 | Van Noten 1977                   | van Noten, F. L. (1977), ‘Excavations at Matupi cave’, Antiquity, 51: 35–40. |
 | Van Noten 1982                   | van Noten, F. L. (1982), ‘The Bantu Expansion Problem’, in F. L. van Noten (ed.), The archaeology of Central Africa, D. Cahen, P. de Maret, J. J. Moeyersons et al. (Graz: Akademische Druck- u. Verlagsanstalt), 65–7. |
 | Vleminckx et al. 2014 | |
