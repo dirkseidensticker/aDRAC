@@ -2,27 +2,30 @@ LABNR,C14AGE,C14STD,C13,MATERIAL,SITE,COUNTRY,FEATURE,FEATURE_DESC,PHASE,POTTERY
 AA-78447,2362,39,0,,Mbaere,CAF,,Pollencore,,,,0,3.988639,16.924447,Kiahtipes/Lupo et al. 2011
 AA-78448,2171,37,0,,Mbaere,CAF,,Pollencore,,,,0,3.988639,16.924447,Kiahtipes/Lupo et al. 2011
 AA-78449,834,35,0,,Mbaere,CAF,,Pollencore,,,,0,3.988639,16.924447,Kiahtipes/Lupo et al. 2011
-AA-94529,215,34,0,,Ngotto,CAF,BB01-29,Slag Mound,,,,,3.835,17.47,Lupo et al. 1015; Kiahtipes 2016:81 Tab. 4-1
-AA-94530,168,35,0,,Ngotto,CAF,BB01-30,Slag Mound,,,,,3.835,17.47,Lupo et al. 1015; Kiahtipes 2016:81 Tab. 4-1
-AA-94531,207,35,0,,Ngotto,CAF,BB01-31,Slag Mound,,,,,3.835,17.47,Lupo et al. 1015; Kiahtipes 2016:81 Tab. 4-1
-AA-94532,148,34,0,,Ngotto,CAF,BB01-36,Slag Mound,,,,,3.835,17.47,Lupo et al. 1015; Kiahtipes 2016:81 Tab. 4-1
-AA-94533,231,34,0,,Ngotto,CAF,BB05-32,Slag Mound,,,,,3.835,17.47,Lupo et al. 1015; Kiahtipes 2016:81 Tab. 4-1
-AA-94534,187,34,0,,Ngotto,CAF,BB05-41,Slag Mound,,,,,3.835,17.47,Lupo et al. 1015; Kiahtipes 2016:81 Tab. 4-1
-AA-94537,160,35,0,,Ngotto,CAF,ND01-03,Ore Quarry,,,,,3.839,17.488,Lupo et al. 1015; Kiahtipes 2016:81 Tab. 4-1
-AA-94538,242,34,0,,Ngotto,CAF,ND02-76,Slag Mound,,,,,3.839,17.488,Lupo et al. 1015; Kiahtipes 2016:81 Tab. 4-1
-AA-94539,217,48,0,,Ngotto,CAF,NG01-74,Slag Mound,,,,,3.872,17.46,Lupo et al. 1015; Kiahtipes 2016:81 Tab. 4-1
-AA-94540,706,35,0,,Ngotto,CAF,NZ03-23,Low Mound,,,,,3.842,17.497,Lupo et al. 1015; Kiahtipes 2016:81 Tab. 4-1
-AA-94541,494,34,0,,Ngotto,CAF,NZ03-17,Low Mound,,,,,3.842,17.497,Lupo et al. 1015; Kiahtipes 2016:81 Tab. 4-1
-AA-94542,593,34,0,,Ngotto,CAF,NZ03-12,Low Mound,,,,,3.842,17.497,Lupo et al. 1015; Kiahtipes 2016:81 Tab. 4-1
-AA-94543,152,35,0,,Ngotto,CAF,OB01-67,Slag Mound,,,,,3.825,17.486,Lupo et al. 1015; Kiahtipes 2016:81 Tab. 4-1
-AA-94544,210,34,0,,Ngotto,CAF,OB02-49,Slag Mound,,,,,3.825,17.486,Lupo et al. 1015; Kiahtipes 2016:81 Tab. 4-1
-AA-94545,188,39,0,,Ngotto,CAF,OB05-53,Midden,,,,,3.825,17.486,Lupo et al. 1015; Kiahtipes 2016:81 Tab. 4-1
-AA-94546,131,34,0,,Ngotto,CAF,OB05-54,Midden,,,,,3.825,17.486,Lupo et al. 1015; Kiahtipes 2016:81 Tab. 4-1
-AA-94547,131,34,0,,Ngotto,CAF,OB06-63,Slag Mound,,,,,3.825,17.486,Lupo et al. 1015; Kiahtipes 2016:81 Tab. 4-1
-AA-96496,1652,37,0,,Ngotto,CAF,P02-01,Pit,,,,,,,Kiahtipes 2016:81 Tab. 4-1
-AA-96498,143,34,0,,Ngotto,CAF,P02-07,Pit,,,,,,,Kiahtipes 2016:81 Tab. 4-1
-AA-96499,1264,36,0,,Ngotto,CAF,Z13-10,Furnace,,,,,,,Kiahtipes 2016:81 Tab. 4-1
-AA-96500,2179,37,0,,Ngotto,CAF,Z02-02,Midden,,,,,,,Kiahtipes 2016:81 Tab. 4-1
+AA-94529,215,34,0,,Ngotto,CAF,BB01-29,Slag Mound,,,,,3.835,17.47,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
+AA-94530,168,35,0,,Ngotto,CAF,BB01-30,Slag Mound,,,,,3.835,17.47,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
+AA-94531,207,35,0,,Ngotto,CAF,BB01-31,Slag Mound,,,,,3.835,17.47,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
+AA-94532,148,34,0,,Ngotto,CAF,BB01-36,Slag Mound,,,,,3.835,17.47,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
+AA-94533,231,34,0,,Ngotto,CAF,BB05-32,Slag Mound,,,,,3.835,17.47,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
+AA-94534,187,34,0,,Ngotto,CAF,BB05-41,Slag Mound,,,,,3.835,17.47,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1
+AA-94535,412,34,0,,Ngotto,CAF,LL01,Slag Mound,,,,,,,Lupo et al. 2018: 9 Tab. 2
+AA-94536,1938,36,0,,Ngotto,CAF,ML01,,,,,,,,Lupo et al. 2018: 9 Tab. 2
+AA-94537,160,35,0,,Ngotto,CAF,ND01-03,Ore Quarry,,,,,3.839,17.488,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
+AA-94538,242,34,0,,Ngotto,CAF,ND02-76,Slag Mound,,,,,3.839,17.488,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
+AA-94539,217,48,0,,Ngotto,CAF,NG01-74,Slag Mound,,,,,3.872,17.46,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
+AA-94540,706,35,0,,Ngotto,CAF,NZ03-23,Low Mound,,,,,3.842,17.497,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
+AA-94541,494,34,0,,Ngotto,CAF,NZ03-17,Low Mound,,,,,3.842,17.497,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
+AA-94542,593,34,0,,Ngotto,CAF,NZ03-12,Low Mound,,,,,3.842,17.497,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
+AA-94543,152,35,0,,Ngotto,CAF,OB01-67,Slag Mound,,,,,3.825,17.486,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
+AA-94544,210,34,0,,Ngotto,CAF,OB02-49,Slag Mound,,,,,3.825,17.486,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
+AA-94545,188,39,0,,Ngotto,CAF,OB05-53,Midden,,,,,3.825,17.486,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
+AA-94546,131,34,0,,Ngotto,CAF,OB05-54,Midden,,,,,3.825,17.486,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
+AA-94547,131,34,0,,Ngotto,CAF,OB06-63,Slag Mound,,,,,3.825,17.486,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
+AA-96496,1652,37,0,,Ngotto,CAF,P02-01,Pit,,,,,4.0333,17.3181,Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 7 Tab. 1
+AA-96496,0,0,0,,Ngotto,CAF,P02,,,,,,4.0333,17.3181,Lupo et al. 2018: 7 Tab. 1
+AA-96498,143,34,0,,Ngotto,CAF,P02-07,Pit,,,,,4.0333,17.3181,Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 7 Tab. 1
+AA-96499,1264,36,0,,Ngotto,CAF,Z13-10,Furnace,,,,,4.0728,17.0713,Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 7 Tab. 1
+AA-96500,2179,37,0,,Ngotto,CAF,Z02-02,Midden,,,,,4.0752,17.0707,Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 7 Tab. 1
 Arc-339,2310,60,0,Charcoal,Mont Brazza,GAB,,,,,,,-0.074,1.352,Clist 1995; Clist 2004/05
 Arc-340,540,50,0,,Mont Barnier,COG,,,,,,,-4.18639,15.20028,Pincon 1991
 Arc-341,2210,100,0,Charcoal,Kango 5,GAB,,,,,,,0.200833,10.0825,Clist 2004/05
@@ -37,22 +40,22 @@ B-758,1650,80,0,Charcoal,Cyamakuza,RWA,,,,,,,,,de Maret/van Noten/Cahen 1977
 B-759,80,80,0,,Mikweti,COD,,,,,,,,,de Maret/van Noten/Cahen 1977
 B-760,760,160,0,,Katoto,COD,,,,,,,,,de Maret/van Noten/Cahen 1977
 Bdy-253,140,240,0,,Mondongué,CAF,,,,,,,3.65,18.56,Kote 1992; Moga 2008
-Bdy-255,430,180,0,,Lingbadongo,CAF,,,,,,,3.816667,18.533333,Moga 2008
-Bdy-301,1890,130,0,,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,Kote 1992
-Bdy-303,870,210,0,,Sikilongo,CAF,,,,,,,3.65,18.56,Kote 1992; Moga 2008
-Bdy-304,1730,120,0,,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,Kote 1992
-Bdy-306,1990,210,0,,Batalimo,CAF,,Trench,,Batalimo-Maluba,,,3.675942,18.455022,Zangato 2000
+Bdy-255,430,180,0,,Lingbadongo,CAF,,,,,,,3.816667,18.533333,Moga 2008; Lupo et al. 2018: 14 Tab. 3
+Bdy-301,1890,130,0,,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,Kote 1992: 118 Tab. 10; Lupo et al. 2018: 14 Tab. 3
+Bdy-303,870,210,0,,Sikilongo,CAF,,,,,,,3.65,18.56,Kote 1992: 118 Tab. 10; Moga 2008; Lupo et al. 2018: 14 Tab. 3
+Bdy-304,1730,120,0,,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,Kote 1992: 118 Tab. 10; Lupo et al. 2018: 14 Tab. 3
+Bdy-306,1990,210,0,,Batalimo,CAF,,Trench,,Batalimo-Maluba,,,3.675942,18.455022,Zangato 2000; Lupo et al. 2018: 14 Tab. 3
 Bdy-311,670,60,0,,Té Ndongué,CAF,,,,,,,5.716667,18,Moga 2008
 Bdy-312,810,310,0,,Té Ndongué,CAF,,,,,,,5.716667,18,Moga 2008
-Bdy-461,1200,120,0,,Eyo,CAF,,,,,,,3.66,18.48,Kote 1992; Moga 2008
-Bdy-462,240,75,0,,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,Kote 1992
+Bdy-461,1200,120,0,,Eyo,CAF,,,,,,,3.66,18.48,Kote 1992: 118 Tab. 10; Moga 2008; Lupo et al. 2018: 14 Tab. 3
+Bdy-462,240,75,0,,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,Kote 1992: 118 Tab. 10; Lupo et al. 2018: 14 Tab. 3
 Bdy-463,70,120,0,,Lingbangbo,CAF,,,,,,,3.633333,18.4,Kote 1992; Moga 2008
-Bdy-464,110,80,0,,Lingbangbo,CAF,,,,,,,3.633333,18.4,Kote 1992; Moga 2008
-Bdy-465,1270,125,0,,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,Kote 1992
-Bdy-579,1020,115,0,,Eyo,CAF,,,,,,,3.66,18.48,Kote 1992; Moga 2008
-Bdy-581,1798,101,0,,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,Kote 1992
-Bdy-582,559,77,0,,Lingbangbo,CAF,,,,,,,3.633333,18.4,Kote 1992; Moga 2008
-Bdy-583,1200,100,0,,Bobélé 2,CAF,,,,,,,4.03,18.38,Kote 1992; Moga 2008
+Bdy-464,110,80,0,,Lingbangbo,CAF,,,,,,,3.633333,18.4,Kote 1992: 118 Tab. 10; Moga 2008; Lupo et al. 2018: 14 Tab. 3
+Bdy-465,1270,125,0,,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,Kote 1992: 118 Tab. 10; Lupo et al. 2018: 14 Tab. 3
+Bdy-579,1020,115,0,,Eyo,CAF,,,,,,,3.66,18.48,Kote 1992: 118 Tab. 10; Moga 2008; Lupo et al. 2018: 14 Tab. 3
+Bdy-581,1798,101,0,,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,Kote 1992: 118 Tab. 10; Lupo et al. 2018: 14 Tab. 3
+Bdy-582,559,77,0,,Lingbangbo,CAF,,,,,,,3.633333,18.4,Kote 1992: 118 Tab. 10; Moga 2008; Lupo et al. 2018: 14 Tab. 3
+Bdy-583,1200,100,0,,Bobélé 2,CAF,,,,,,,4.03,18.38,Kote 1992: 118 Tab. 10; Moga 2008; Lupo et al. 2018: 14 Tab. 3
 Beta-?,2050,70,0,,Issemeyo 4,GAB,,Pit,,,,,0.300172,11.3891,Oslisly/Assoko Ndong 2001
 Beta-10301,1670,50,0,Charcoal,Lac Bleu de Mouila,GAB,,,,,,,-1.916,11.0167,Clist 2004/05
 Beta-103857,410,60,0,,Vafio,CAF,,,,,,,7.40714,18.40859,Moga 2008
@@ -245,7 +248,11 @@ Beta-22495,2380,70,0,,Mfomakap/Nkometou,CMR,,,,,,,4.049917,11.55,Elouga 1998
 Beta-233400,1520,40,0,,Kribi-Mpoengu,CMR,,Burial,,,,,2.926944,9.912222,Gouem Gouem 2010/11: 627; Eggert/Seidensticker 2016:79 Tab. 4.2
 Beta-233401,1510,50,0,,Kribi-Mpoengu,CMR,,Pit,,,,,2.926944,9.912222,Gouem Gouem 2010/2011: 279; Eggert/Seidensticker 2016:79 Tab. 4.2
 Beta-233402,2040,50,0,,Kribi-Talla,CMR,,,,,,,2.930278,9.909722,Gouem Gouem 2010/11: 220; Eggert/Seidensticker 2016:80 Tab. 4.2
-Beta-233557,210,40,0,,Ndele (Pos A),CAF,,Trench,,,,,3.650128,16.870005,Kiahtipes/Lupo et al. 2011
+Beta-233555,200,40,,,Limbumba (LM),CAF,,,,,,,,,Lupo et al. 2018: 11 Tab. 3
+Beta-233556,2380,40,,,Limbumba (LM),CAF,,,,,,,,,Lupo et al. 2018: 11 Tab. 3
+Beta-233557,210,40,0,,Limbumba (LM)/Ndele (Pos A),CAF,,Trench,,,,,3.650128,16.870005,Kiahtipes/Lupo et al. 2011; Lupo et al. 2018: 11 Tab. 3
+Beta-234983,120,40,,,Limbumba (LM),CAF,,,,,,,,,Lupo et al. 2018: 11 Tab. 3
+Beta-234984,160,40,,,Limbumba (LM),CAF,,,,,,,,,Lupo et al. 2018: 11 Tab. 3
 Beta-242316,2190,50,0,,Kribi-Mpoengu,CMR,,Pit,,,,,2.926944,9.912222,Gouem Gouem 2010/11: 196; Eggert/Seidensticker 2016:79 Tab. 4.2
 Beta-242317,1470,40,0,,Kribi-Mpoengu,CMR,,Pit,,,,,2.926944,9.912222,Gouem Gouem 2010/2011: 303; Eggert/Seidensticker 2016:79 Tab. 4.2
 Beta-245103,220,40,0,,Dibamba,CMR,F. 08 (40-50 cm),,,,,,3.995833,9.8215,Saulieu et al. 2017
@@ -294,10 +301,10 @@ Beta-279286,2450,40,0,,Kribi-Mpolongwe,CMR,,Pit,,,,,2.930278,9.912222,Nlend Nlen
 Beta-282417,1240,40,0,,Bodingue,CAF,,Pollencore,,,,0,3.628716,16.836355,Kiahtipes/Lupo et al. 2011
 Beta-282418,480,40,0,,Bodingue,CAF,,Pollencore,,,,0,3.628716,16.836355,Kiahtipes/Lupo et al. 2011
 Beta-282419,270,40,0,,Bodingue,CAF,,Pollencore,,,,0,3.628716,16.836355,Kiahtipes/Lupo et al. 2011
-Beta-282420,1650,40,0,,Ngotto,CAF,Pos C,Trench,,,,,4.002085,17.308372,Kiahtipes/Lupo et al. 2011
-Beta-282421,1140,40,0,,Boua (Pos B),CAF,,Trench,,,,,4.079858,17.042457,Kiahtipes/Lupo et al. 2011
-Beta-287971,220,40,0,,Ngotto,CAF,P01-03.1,Pit,,,,,,,Kiahtipes 2016:81 Tab. 4-1
-Beta-287972,1210,40,0,,Boua (Pos B),CAF,,Trench,,,,,4.079858,17.042457,Kiahtipes/Lupo et al. 2011
+Beta-282420,1650,40,0,,Ngotto,CAF,Pos C,Trench,,,,,4.002085,17.308372,Kiahtipes/Lupo et al. 2011; Lupo et al. 2018: 7 Tab. 1
+Beta-282421,1140,40,0,,Boua (Pos B),CAF,,Trench,,,,,4.079858,17.042457,Kiahtipes/Lupo et al. 2011; Lupo et al. 2018: 7 Tab. 1
+Beta-287971,220,40,0,,Ngotto,CAF,P01-03.1,Pit,,,,,4.0426,17.3299,Kiahtipes 2016:81 Tab. 4-1, Lupo et al. 2018: 7 Tab. 1
+Beta-287972,1230,40,0,,Boua (Pos B),CAF,,Trench,,,,,4.079858,17.042457,Kiahtipes/Lupo et al. 2011; Lupo et al. 2018: 7 Tab. 1
 Beta-28828,970,80,0,Charcoal,"Mina, Leconi",GAB,,,,,,,-1.58431,14.25905,Clist 2004/05
 Beta-292440,1340,30,0,,Lac Ndembo,COG,20N/17E,,,Spaced Curvilinear,,,-4.354739,11.653141,Denbow 2012: 387 Tab. 1
 Beta-292441,1250,30,0,,Lac Ndembo,COG,20N/19E,,,Spaced Curvilinear,,,-4.354739,11.653141,Denbow 2012: 387 Tab. 1
@@ -450,7 +457,7 @@ Beta-75851,1860,90,,,Kenie Branch,CAR,2,,,,,0,2.37,16.14,Fay 1997; Garcin et al.
 Beta-75852,2090,90,,,Kenie Branch,CAR,3,,,,,0,2.37,16.14,Fay 1997; Garcin et al. 2018
 Beta-75853,1640,110,,,Kenie Branch,CAR,4,,,,,0,2.37,16.14,Fay 1997; Garcin et al. 2018
 Beta-75854,1890,100,,,Kenie Branch,CAR,5,,,,,0,2.37,16.14,Fay 1997; Garcin et al. 2018
-Beta-88067,1870,70,0,,Bécaré II,CAF,,,,,,,3.525773,16.040565,Lanfranchi/Ndanga/Zana 1996
+Beta-88067,1870,70,0,,Bécaré II,CAF,,,,,,,3.525773,16.040565,Lanfranchi/Ndanga/Zana 1996; Lupo et al. 2018: 14 Tab. 4
 Beta-9076,1600,50,0,Charcoal,Massango,GAB,,,,,,,-1.6319,13.1417,Clist 2004/05
 Beta-9077,1680,100,0,Charcoal,Mboma,GAB,,,,,,,-1.708333,13.347222,Clist 2004/05
 Beta-9078,400,50,0,Charcoal,Lebombi,GAB,,,,,,,-1.5,13.3725,Clist 2004/05
@@ -645,7 +652,7 @@ Gif-5700,9410,170,0,,Oyo,COG,,,,,,0,-1.116667,15.95,Kouyoumontzakis u.a. 1985
 Gif-5701,31000,2200,0,,Oyo,COG,,,,,,0,-1.116667,15.95,Kouyoumontzakis u.a. 1985
 Gif-5796,1460,90,0,Charcoal,Nzabi,COG,,,,,,0,-2.383333,14.45,Kouyoumontzakis u.a. 1985
 Gif-5821,4920,110,0,,Bacongo,COG,,,,,,0,-4.291667,15.266667,Kouyoumontzakis u.a. 1985
-Gif-5894,1590,90,0,Charcoal,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,"de Maret 1985, Eggert 1993"
+Gif-5894,1590,90,0,Charcoal,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,de Maret 1985; Eggert 1993
 Gif-5972,590,60,0,Charcoal,Bugarama,RWA,,,,,,,-2.610004,29.02,de Maret 1985
 Gif-5986,660,80,0,Charcoal,Mpassa,COG,,,,,,,-4.3,14.266667,de Maret 1985
 Gif-5987,4870,90,0,Charcoal,Sabiliere,GAB,,,LSA,,,0,0.5,9.383333,Clist 1989
@@ -1276,8 +1283,8 @@ Ly-5203,2370,65,0,,Avoh,CMR,,,,,,,4.273528,11.239167,Elouga 1998
 Ly-5456,175,40,0,,Nguila,CMR,,,,,,,4.71667,11.68333,Elouga 1998
 Ly-5457,245,45,0,,Nguila,CMR,,,,,,,4.71667,11.68333,Elouga 1998
 Ly-5919,330,45,0,,Île de Ngara,,,,,,,,4.03,18.38,Moga 2008
-Ly-5921,630,45,0,Elaeis guineensis,Sabélé,CAF,,Furnace,,,,,3.334174,16.188058,Lanfranchi/Ndanga/Zana 1996
-Ly-5922,715,35,0,Elaeis guineensis,Sabélé,CAF,,Furnace,,,,,3.334174,16.188058,Lanfranchi/Ndanga/Zana 1996
+Ly-5921,630,45,0,Elaeis guineensis,Sabélé,CAF,,Furnace,,,,,3.334174,16.188058,Lanfranchi/Ndanga/Zana 1996; Lupo et al. 2018: 14 Tab. 4
+Ly-5922,715,35,0,Elaeis guineensis,Sabélé,CAF,,Furnace,,,,,3.334174,16.188058,Lanfranchi/Ndanga/Zana 1996; Lupo et al. 2018: 14 Tab. 4
 Ly-70122,1810,35,,,Pk 2-4 225 Wantamo,CMR,,,,,,,5.0083,14.0239,Delneuf 2001; Garcin et al. 2018
 Ly-70723,1800,35,,,Pk 2-4 225 Wantamo,CMR,,,,,,,5.0083,14.0239,Delneuf 2001; Garcin et al. 2018
 Ly-9170,1725,35,0,,Mbirijom,CMR,2,Furnace,,,,,6.356946,11.339814,Delneuf et al. 2003
@@ -1307,20 +1314,6 @@ OBDY-1515,2630,40,0,,Gbabiri,CAF,,,,,,,,,Zangato/Holl 2010
 OBDY-1671,2500,40,0,,Ngoume PK 35,CMR,,,,,,,5.48333,11.4,Delneuf et al. 2003
 OBDY-1673,120,30,0,,Ndtam Moauée,CMR,,Surface,,,,,5.3667,11.2333,Delneuf et al. 2003
 OBDY-1680,2420,40,0,,Ngoume PK 35,CMR,,,,,,,5.48333,11.4,Delneuf et al. 2003
-OBDY-253,140,100,,,Mondongué,CAR,,,,,,,3.65,18.56,Moga 2008; Garcin et al. 2018
-OBDY-255,1520,180,,,Lingbangbo,CAR,,,,,,,3.8167,18.5333,Moga 2008; Garcin et al. 2018
-OBDY-301,1890,130,,,Batalimo,CAR,,,,,,,3.675942,18.455022,Kote 1992; Garcin et al. 2018
-OBDY-304,1730,120,,,Batalimo,CAR,,,,,,,3.675942,18.455022,Kote 1992; Garcin et al. 2018
-OBDY-461,750,120,,,Eyo,CAR,,,,,,,3.66,18.48,Moga 2008; Garcin et al. 2018
-OBDY-462,240,75,,,Batalimo,CAR,,,,,,,3.675942,18.455022,Kote 1992; Garcin et al. 2018
-OBDY-463,1880,120,,,Lingbangbo,CAR,,,,,,,3.8167,18.5333,Moga 2008; Garcin et al. 2018
-OBDY-464,1840,80,,,Lingbangbo,CAR,,,,,,,3.8167,18.5333,Moga 2008; Garcin et al. 2018
-OBDY-465,1270,130,,,Batalimo,CAR,,,,,,,3.675942,18.455022,Kote 1992; Garcin et al. 2018
-OBDY-579,930,120,,,Eyo,CAR,,,,,,,3.66,18.48,Moga 2008; Garcin et al. 2018
-OBDY-581,1800,100,,,Batalimo,CAR,,,,,,,3.675942,18.455022,Kote 1992; Garcin et al. 2018
-OBDY-582,1390,75,,,Lingbangbo,CAR,,,,,,,3.8167,18.5333,Moga 2008; Garcin et al. 2018
-OBDY-583,750,100,,,Bobélé 2,CAR,,,,,,,4.03,18.38,Moga 2008; Garcin et al. 2018
-OBDY-662,300,40,,,Ganda-Kimpese,COG,,,,,,,-4.4,12.3833,Schwartz/Dechamps 1991; Garcin et al. 2018
 OxA-1139,9050,100,,,Mbi Crater,CMR,,,,,,,6.050191,10.203466,Asomband 1998; Garcin et al. 2018
 OxA-1362,7040,80,,,Shum Laka,CMR,,,,,,,5.858611,10.077778,Lavachery 2001; Garcin et al. 2018
 OxA-19517,1610,26,"-23,09",Charcoal,Kabusanze,RWA,,Pit,,Urewe,,,,,Giblin et al. 2010
