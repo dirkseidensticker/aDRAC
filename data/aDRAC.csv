@@ -1183,13 +1183,13 @@ Lv-1533,860,50,0,,Moubiri,COG,,,,,,,-3.87278,13.74972,Pincon 1991
 Lv-1534,280,60,0,,Moubiri,COG,,,,,,,-3.87278,13.74972,Pincon 1991
 Lv-1603,8480,140,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,Lavachery 2001; Garcing et al. 2018
 Lv-1605,2320,70,,,Okolo,CMR,,,,,,,3.933333,11.516667,Atangana 1992; Garcin et al. 2018
-Lv-162,5750,110,0,,Gafula,COD,,,,,,,-4.4166,15.28333,van Noten 1982
-Lv-163,26000,0,0,,Basoko,COD,,,,,,,,,van Noten 1982
-Lv-164,9730,200,0,,Basoko,COD,,,,,,,,,van Noten 1982
-Lv-165,8920,160,0,,Belgika,COD,,,,,,,-4.33333,15.31667,van Noten 1982
-Lv-166,15080,480,0,,Belgika,COD,,,,,,,-4.33333,15.31667,van Noten 1982
-Lv-167,2220,90,0,,Funa (Île de la Funa),COD,,,,,,,-4.31915,15.34503,van Noten 1982
-Lv-168,1540,100,0,,Île des Mimosas,COD,,,,,,,-4.328826,15.227313,Eggert 1984; Pincon 1991
+Lv-162,5750,110,0,,Gafula,COD,,,,,,,-4.4166,15.28333,Gilot et al. 1965: 121; van Noten 1982
+Lv-163,26000,0,0,,Basoko,COD,,,,,,,,,Gilot et al. 1965: 121; van Noten 1982
+Lv-164,9730,200,0,,Basoko,COD,,,,,,,,,Gilot et al. 1965: 121; van Noten 1982
+Lv-165,8920,160,0,,Belgika,COD,,,,,,,-4.33333,15.31667,Gilot et al. 1965: 121; van Noten 1982
+Lv-166,15080,480,0,,Belgika,COD,,,,,,,-4.33333,15.31667,Gilot et al. 1965: 121; van Noten 1982
+Lv-167,2220,90,0,,Funa (Île de la Funa),COD,,,,,,,-4.31915,15.34503,Gilot et al. 1965: 121; van Noten 1982
+Lv-168,1540,100,0,,Île des Mimosas,COD,,,,,,,-4.328826,15.227313,Gilot et al. 1965: 122; Eggert 1984; Pincon 1991
 Lv-1697,2290,50,,,Sakuzi,COD,,,,,,,-5.167222,14.0075,de Maret 1990; Garcin et al. 2018
 Lv-1698,3510,55,,,Sakuzi,COD,,,,,,,-5.167222,14.0075,de Maret 1990; Garcin et al. 2018
 Lv-1699,2120,65,,,Sakuzi,COD,,,,,,,-5.167222,14.0075,de Maret 1990; Garcin et al. 2018
@@ -1573,21 +1573,21 @@ UCLA-1468D,2830,80,0,,Camissombo,AGO,,,,,,0,-8.156123,20.657119,van Noten 1982
 UCLA-167,6830,120,0,,Mufo,AGO,,,,,,,,,van Noten 1982
 UCLA-168,38000,2500,0,,Mose,COD,,,,,,,,,van Noten 1982
 UCLA-169,34000,0,0,,Mufo,AGO,,,,,,,,,van Noten 1982
-UCLA-170,1880,80,0,,Furi,AGO,,,,,,,,,van Noten 1982
+UCLA-170,1880,80,0,,Furi,AGO,,,,,,,-7.361821,21.197910,van Noten 1982
 UCLA-171,4700,100,0,,Calunda,AGO,,,,,,0,-12.13008,23.46373,van Noten 1982
-UCLA-686,2830,80,0,,Camissombo,AGO,,,,,,0,-8.156123,20.657119,van Noten 1982
+UCLA-686,2830,80,0,,Camissombo,AGO,,,,,,0,-8.15,20.6833,Berger et al. 1965: 357; van Noten 1982
 UCLA-708A,34000,0,0,,Leba,AGO,,,,,,,,,van Noten 1982
 UCLA-708C,29800,1650,0,,Leba,AGO,,,,,,,,,van Noten 1982
 UCLA-708D,34000,0,0,,Cangalonge,AGO,,,,,,,-15.270437,13.464792,van Noten 1982
-UCLA-709A,40000,0,0,,Mufo,AGO,,,,,,,,,van Noten 1982
-UCLA-710,2080,80,0,,Cangalonge,AGO,,,,,,,-15.270437,13.464792,van Noten 1982
-UCLA-711,1330,80,0,,Mucuquesse,AGO,,,,,,,,,van Noten 1982
-UCLA-712,880,80,0,,Tchibaba,AGO,,,,,,,,,van Noten 1982
-UCLA-714,2160,80,0,,Matafari,AGO,,,,,,,,,van Noten 1982
-UCLA-715,800,80,0,,Marrhura,AGO,,,,,,,,,van Noten 1982
-UCLA-716,1190,80,0,,Dundo,AGO,,,,,,,-7.374172,20.819528,van Noten 1982
-UCLA-717,1010,80,0,,Ricoco,AGO,,,,,,,,,van Noten 1982
-UCLA-718,465,80,0,,Museque,AGO,,,,,,,,,van Noten 1982
+UCLA-709A,40000,0,0,,Mufo,AGO,,,,,,,-7.516667,21.416667,Berger et al. 1965: 356; van Noten 1982
+UCLA-710,2080,80,0,,Cangalonge/Chambuage Mine,AGO,,,,,,,-8.251667,20.75,Berger et al. 1965: 357; van Noten 1982
+UCLA-711,1330,80,0,,Mucuquesse 3 Mine,AGO,,,,,,,-7.63333,21.36667,Berger et al. 1965: 358; van Noten 1982
+UCLA-712,880,80,0,,Tchibaba,AGO,,,,,,,-8.391667,20.735,Berger et al. 1965: 358; van Noten 1982
+UCLA-714,2160,80,0,,Matafari,AGO,,,,,,,-7.369884,20.832694,Berger et al. 1965: 357; Clark 1971; van Noten 1982
+UCLA-715,800,80,0,,Marrhura,AGO,,,,,,,-7.36,20.46667,Berger et al. 1965: 358; van Noten 1982
+UCLA-716,1190,80,0,,Dundo Airfield,AGO,,,,,Layer,1,-7.374172,20.819528,Berger et al. 1965: 358; Clark 1968: 192pp.; van Noten 1982
+UCLA-717,1010,80,0,,Ricoco II,AGO,,,,,,1,-7.46667,20.85,Berger et al. 1965: 358; van Noten 1982
+UCLA-718,465,80,0,,Museque,AGO,,,,,,,-10.833,19.1667,Berger et al. 1965: 359; van Noten 1982
 Uga-5720,2525,85,0,,Tchissanga,COG,West,Pit,,"Ceramic Later Stone Age pottery, Phase 1",,,-4.538866,11.798009,Denbow 1990
 UTC-13254,1786,33,0,Charcoal,Mimongo,GAB,,,,,,,-0.916929,10.454202,Livingstone-Smith et al. 2007
 UTC-13255,1784,42,0,Charcoal,Mimongo,GAB,,,,,,,-0.916929,10.454202,Livingstone-Smith et al. 2007
