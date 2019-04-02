@@ -1336,9 +1336,9 @@ OxA-7604,2160,35,0,Charcoal,Okanda 6,GAB,,,,,,,-0.1175,11.568611,Clist 2004/05
 OxA-7753,1830,35,0,Charcoal,Lindili 1,GAB,,,,,,,-0.158056,11.5025,Clist 2004/05
 OxA-930,7790,80,,,Shum Laka,CMR,,,,,,,5.858611,10.077778,de Maret 1992; Garcin et al. 2018
 OxTL-154a-4,1570,220,0,,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,"de Bayle des Hermens 1975, 233; Eggert 1987"
-OxTL-209a,1610,110,0,,Gombe-Point,COD,,,,,,0,-4.300597,15.280791,Pincon 1991
-OxTL-209c,1600,100,0,,Gombe-Point,COD,,,,,,0,-4.300597,15.280791,Pincon 1991
-OxTL-209d,1645,110,0,,Gombe-Point,COD,,,,,,0,-4.300597,15.280791,Pincon 1991
+OxTL-209a,1610,110,0,,Gombe-Point,COD,,Layer,,,Gombe,1,-4.300597,15.280791,Cahen 1981: 131; Pincon 1991; Clist 2018: 235
+OxTL-209c,1600,100,0,,Gombe-Point,COD,,Layer,,,Gombe,1,-4.300597,15.280791,Cahen 1981: 131; Pincon 1991; Clist 2018: 235
+OxTL-209d,1645,110,0,,Gombe-Point,COD,,Layer,,,Gombe,1,-4.300597,15.280791,Cahen 1981: 131; Pincon 1991; Clist 2018: 235
 Pa-1446,2670,40,0,,Gbabiri,CAF,,,,,,,,,Zangato/Holl 2010
 Pa-1451,2680,40,0,,Gbabiri,CAF,,,,,,,,,Zangato/Holl 2010
 Pa-1538,2640,40,0,,Gbabiri,CAF,,Furnace,,,,,,,Zangato/Holl 2010
