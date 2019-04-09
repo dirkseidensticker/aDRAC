@@ -8,8 +8,8 @@ AA-94531,207,35,0,,Ngotto,CAF,BB01-31,Slag Mound,,,,,3.835,17.47,Lupo et al. 201
 AA-94532,148,34,0,,Ngotto,CAF,BB01-36,Slag Mound,,,,,3.835,17.47,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
 AA-94533,231,34,0,,Ngotto,CAF,BB05-32,Slag Mound,,,,,3.835,17.47,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
 AA-94534,187,34,0,,Ngotto,CAF,BB05-41,Slag Mound,,,,,3.835,17.47,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1
-AA-94535,412,34,0,,Ngotto,CAF,LL01,Slag Mound,,,,,,,Lupo et al. 2018: 9 Tab. 2
-AA-94536,1938,36,0,,Ngotto,CAF,ML01,,,,,,,,Lupo et al. 2018: 9 Tab. 2
+AA-94535,412,34,0,,Ngotto,CAF,LL01,Slag Mound,,,,,3.7628,17.5151,Lupo et al. 2018: 9 Tab. 2
+AA-94536,1938,36,0,,Ngotto,CAF,ML01,,,,,,3.7382,17.5110,Lupo et al. 2018: 9 Tab. 2
 AA-94537,160,35,0,,Ngotto,CAF,ND01-03,Ore Quarry,,,,,3.839,17.488,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
 AA-94538,242,34,0,,Ngotto,CAF,ND02-76,Slag Mound,,,,,3.839,17.488,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
 AA-94539,217,48,0,,Ngotto,CAF,NG01-74,Slag Mound,,,,,3.872,17.46,Lupo et al. 2015; Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 9 Tab. 2
@@ -483,6 +483,25 @@ CSIC-129,1290,100,,,Carboneras,GNQ,,,,,,,3.75,8.75, Clist 1998;  Garcin et al. 2
 CSIC-96,1170,100,,,Carboneras,GNQ,,,,,,,3.75,8.75, Clist 1998;  Garcin et al. 2018
 CSIC-97,470,100,,,Carboneras,GNQ,,,,,,,3.75,8.75, Clist 1998;  Garcin et al. 2018
 CSIC-99,1250,100,,,Carboneras,GNQ,,,,,,,3.75,8.75, Clist 1998;  Garcin et al. 2018
+D-AMS-27051,170,21,0,,Carrieres,CAF,CA2,Slag Mound,,,,,3.7745,17.5035,Schmitt et al. 2019: 63 Tab. 1
+D-AMS-27052,101,21,0,,Carrieres,CAF,CA3,Slag Mound,,,,,3.7731,17.5051,Schmitt et al. 2019: 63 Tab. 1
+D-AMS-27053,225,23,0,,Lebe,CAF,LE1,Slag Mound,,,,,3.7621,17.5145,Schmitt et al. 2019: 63 Tab. 1
+D-AMS-27054,1898,27,0,,Lebe,CAF,LE2,Slag Mound,,,,,3.7634,17.5155,Schmitt et al. 2019: 63 Tab. 1
+D-AMS-27055,348,25,0,,Lebe,CAF,LE3,Slag Mound,,,,,3.7652,17.5144,Schmitt et al. 2019: 63 Tab. 1
+D-AMS-27056,347,23,0,,Lebe,CAF,LE3,Slag Mound,,,,,3.7652,17.5144,Schmitt et al. 2019: 63 Tab. 1
+D-AMS-27057,782,22,0,,Lebe,CAF,LE4,Slag Mound,,,,,3.7897,17.5121,Schmitt et al. 2019: 63 Tab. 1
+D-AMS-27058,356,24,0,,Lebe,CAF,LE5,Slag Mound,,,,,3.7645,17.5148,Schmitt et al. 2019: 63 Tab. 1
+D-AMS-27059,252,23,0,,Lebe,CAF,LE5,Slag Mound,,,,,3.7645,17.5148,Schmitt et al. 2019: 63 Tab. 1
+D-AMS-27060,246,23,0,,Lebe,CAF,LE6,Slag Mound,,,,,3.7635,17.5146,Schmitt et al. 2019: 63 Tab. 1
+D-AMS-27061,102,24,0,,Lebe,CAF,LE7,Slag Mound,,,,,3.7612,17.5151,Schmitt et al. 2019: 63 Tab. 1
+D-AMS-27062,1144,27,0,,Moloukou,CAF,MO7,Slag Mound,,,,,3.7403,17.5185,Schmitt et al. 2019: 63 Tab. 1
+D-AMS-27063,1146,26,0,,Moloukou,CAF,MO9,Slag Mound,,,,,3.7382,17.5067,Schmitt et al. 2019: 63 Tab. 1
+D-AMS-27064,1875,27,0,,Moloukou,CAF,MO9,Slag Mound,,,,,3.7382,17.5067,Schmitt et al. 2019: 63 Tab. 1
+D-AMS-27065,175,23,0,,Moloukou,CAF,MO6,,,,,,3.7388,17.5155,Schmitt et al. 2019: 63 Tab. 1
+D-AMS-27066,1907,34,0,,Moloukou,CAF,MO8,,,,,,3.7381,17.5082,Schmitt et al. 2019: 63 Tab. 1
+D-AMS-27780,1508,23,0,,Moloukou,CAF,MO11,,,,,,3.7260,17.5059,Schmitt et al. 2019: 63 Tab. 1
+D-AMS-27781,326,23,0,,Lebe,CAF,LE5,Slag Mound,,,,,3.7645,17.5148,Schmitt et al. 2019: 63 Tab. 1
+D-AMS-27782,325,23,0,,Lebe,CAF,LE2,Slag Mound,,,,,3.7634,17.5155,Schmitt et al. 2019: 63 Tab. 1
 Erl-12252,270,40,0,,Bagofit,CMR,,BGF 08/1,,,,,3.3921,13.8554,Meyer et al. 2009; Garcin et al. 2018
 Erl-12253,1920,40,,,Bagofit,CMR,,BGF 08/6,,,,,3.3921,13.8554,Meyer et al. 2009; Garcin et al. 2018
 Erl-12254,2560,40,,,Bagofit,CMR,,BGF 08/9,,,,,3.3921,13.8554,Meyer et al. 2009; Garcin et al. 2018
