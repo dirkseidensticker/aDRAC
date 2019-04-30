@@ -337,7 +337,7 @@ Beta-302761,0,0,0,,Dibamba,CMR,F. 131 (130 cm),,,,,,3.995833,9.8215,Saulieu et 
 Beta-31410,2810,100,0,,Oliga,CMR,,,,,,0,3.9044,11.5003,Essomba 1998; Garcin et al. 2018
 Beta-31411,2710,130,0,,Oliga,CMR,,,,,,0,3.9044,11.5003,Essomba 1998; Garcin et al. 2018
 Beta-31412,1860,70,0,,Oliga,CMR,,,,,,0,3.9044,11.5003,Essomba 1998; Garcin et al. 2018
-Beta-314122,580,30,0,,CZ3,COD,,,,,,0,-5.9785,13.2421,Hubau et al. 2013; Garcin et al. 2018
+Beta-314122,580,30,0,Charcoal,CZ3,COD,,Layer,,,,0,-5.9785,13.2421,Hubau et al. 2013; Garcin et al. 2018; Clist 2018: 238 Tab. 18.2
 Beta-31413,1960,80,0,,Oliga,CMR,,,,,,0,3.9044,11.5003,Essomba 1998; Garcin et al. 2018
 Beta-31414,2820,70,0,,Oliga,CMR,,,,,,0,3.9044,11.5003,Essomba 1998; Garcin et al. 2018
 Beta-31534,2110,60,0,,Oliga,CMR,,,,,,0,3.9044,11.5003,Essomba 1998; Garcin et al. 2018
@@ -347,11 +347,23 @@ Beta-324743,330,30,0,,KS8,COD,,,,,,0,-4.75,13.0089,Hubau et al. 2013; Garcin et 
 Beta-324744,850,30,0,,KS8,COD,,,,,,0,-4.75,13.0089,Hubau et al. 2013; Garcin et al. 2018
 Beta-324745,2360,30,0,,KS8,COD,,,,,,0,-4.75,13.0089,Hubau et al. 2013; Garcin et al. 2018
 Beta-324746,6050,30,0,,KS8,COD,,,,,,0,-4.75,13.0089,Hubau et al. 2013; Garcin et al. 2018
-Beta-324748,2190,30,0,,Lukula,COD,,Trench,,,,0,-5.435267,12.961583,Hubau/Van den Bulcke et al. 2014
-Beta-329503,900,30,0,Elaeis guineensis,Lukula,COD,,Trench,,,,0,-5.435267,12.961583,Hubau/Van den Bulcke et al. 2014
-Beta-329504,1200,30,0,Elaeis guineensis,Lukula,COD,,Trench,,,,0,-5.435267,12.961583,Hubau/Van den Bulcke et al. 2014
+Beta-324748,2190,30,0,,Lukula,COD,,Layer,,,,0,-5.435267,12.961583,Hubau/Van den Bulcke et al. 2014; Clist 2018: 238 Tab. 18.2
+Beta-329503,900,30,0,Elaeis guineensis,Lukula,COD,,Layer,,,,0,-5.435267,12.961583,"Hubau/Van den Bulcke et al. 2014; Clist 2018: 238 Tab. 18.2, 239 Tab. 18.3"
+Beta-329504,1200,30,0,Elaeis guineensis,Lukula,COD,,Trench,,,,0,-5.435267,12.961583,"Hubau/Van den Bulcke et al. 2014; Clist 2018: 238 Tab. 18.2, 239 Tab. 18.3"
+Beta-333282,180,30,0,Charcoal,Kindoki,COD,10,Pit,,,,,-5.07,15.01,Clist 2018: 237 Tab. 18.1
+Beta-333283,340,30,0,Charcoal,Kindoki,COD,Tr sud,Layer,,Kindoki,,1,-5.07,15.01,Clist 2018: 237 Tab. 18.1; Clist et al. 2018: 258 Tab. 19.3
+Beta-333284,310,30,0,Charcoal,Kindoki,COD,Tr sud,Pit,,Kindoki,,1,-5.07,15.01,Clist 2018: 237 Tab. 18.1; Clist et al. 2018: 258 Tab. 19.3
+Beta-333285,190,30,0,Charcoal,Kindoki,COD,9,Burial,,,,,-5.07,15.01,Clist 2018: 237 Tab. 18.1
+Beta-333286,250,30,0,Charcoal,Kindoki,COD,Tr sud,Layer,,,,,-5.07,15.01,Clist 2018: 237 Tab. 18.1
+Beta-347644,120,30,0,,Ngongo Mbata,COD,,Layer,,,,,-5.7813,15.1166,Clist 2018: 238 Tab. 18.1
+Beta-347645,0,0,0,,Ngongo Mbata Village,COD,Tr1,Layer,,,,,-5.7701,15.11,Clist 2018: 238 Tab. 18.1
+Beta-379378,2090,30,0,Charcoal,Ngongo Mbata,COD,Tr61,Layer,,,,,-5.7813,15.1166,Clist 2018: 238 Tab. 18.1
+Beta-379379,330,30,0,Charcoal,Ngongo Mbata,COD,Tr65,Pit,,,,,-5.7813,15.1166,Clist 2018: 238 Tab. 18.1
+Beta-382528,370,30,0,Charcoal,Kindoki,COD,Tr23/Fosse 7,Pit,,Kindoki,,1,-5.07,15.01,Clist 2018: 237 Tab. 18.1; Clist et al. 2018: 258 Tab. 19.3
 Beta-44107,50,50,0,Shell (River/Ocean),Evinayong,GAB,,,,,,0,0.6,9.65,Clist 2004/05
 Beta-44108,440,80,0,Shell (River/Ocean),Evinayong,GAB,,,,,,0,0.6,9.65,Clist 2004/05
+Beta-451398,320,30,0,Charcoal,Ngongo Mbata,COD,Tr7,Pit,,,,,-5.7813,15.1166,Clist 2018: 238 Tab. 18.1
+Beta-451399,160,30,0,Charcoal,Ngongo Mbata,COD,Tr83,Pit,,,,,-5.7813,15.1166,Clist 2018: 238 Tab. 18.1
 Beta-46139,2160,70,0,Charcoal,Ofoubou 16,GAB,,,,,,,-1.4052,10.0713,Clist 2004/05
 Beta-46140,1090,70,0,Charcoal,Ofoubou 33,GAB,,,,,,,-1.4052,10.0713,Clist 2004/05
 Beta-46141,2390,50,0,Charcoal,Ofoubou 5,GAB,,,,,,,-1.4052,10.0713,Clist 2004/05
@@ -613,7 +625,7 @@ Gif-4150,150,80,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985
 Gif-4151,650,80,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985
 Gif-4152,520,80,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985
 Gif-4157,5040,150,0,,Owando,COG,,,LSA,,,,-0.5,15.916667,Clist 1989
-Gif-4158,2190,90,0,,Nsele,,,,,,,,-4.23444,15.55028,Pincon 1991
+Gif-4158,2190,90,0,Charcoal,Nsele,,,Layer,,,,,-4.23444,15.55028,Pincon 1991; Clist 2018: 238 Tab. 18.2
 Gif-4219,370,80,0,,Ntadi-Yomba,COG,,,,,,0,-4.25,13.766667,Kouyoumontzakis u.a. 1985
 Gif-4220,270,80,0,,Ntadi-Yomba,COG,,,,,,0,-4.25,13.766667,Kouyoumontzakis u.a. 1985
 Gif-4221,300,80,0,,Ntadi-Yomba,COG,,,,,,0,-4.25,13.766667,Kouyoumontzakis u.a. 1985
@@ -821,7 +833,7 @@ GrN-6920C,275,55,0,,Buru,COD,,,,Uele,,,3.738526,26.904011,van Noten 1982
 GrN-6947,75,65,0,,Hau,COD,,,,,,,3.5,19.3,van Noten 1982
 GrN-6948,0,0,0,,Hau,COD,,,,,,,3.5,19.3,van Noten 1982
 GrN-7041,0,0,0,,Hau,COD,,,,,,,3.5,19.3,van Noten 1982
-GrN-7218,220,30,0,,Gombe-Point,COD,,,,Groupe X,,1,-4.300597,15.280791,van Noten 1982; Clist 2018: 235
+GrN-7218,220,30,0,,Gombe-Point,COD,,Layer,,Groupe X,,1,-4.300597,15.280791,"van Noten 1982; Clist 2018: 235, 238 Tab. 18.2"
 GrN-7219,3385,35,0,,Gombe-Point,COD,,T12,,Tshitolian/Upper,,1,-4.300597,15.280791,Cahen 1976: 592 Fig. 9; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
 GrN-7220,8095,50,0,,Gombe-Point,COD,,T12,,Lupemban/Tshitolian,,1,-4.300597,15.280791,Cahen 1976: 592 Fig. 9; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
 GrN-7221,27240,280,0,,Gombe-Point,COD,,,,Sangoan/Lupemban,,1,-4.300597,15.280791,Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
@@ -840,9 +852,9 @@ GrN-7349,33000,1900,0,,Gbabiri,CAF,,,,,,,,,Van Noten 1977
 GrN-7585,45,45,0,,Rya Murari,RWA,,,,,,,,,van Noten 1982
 GrN-7588,155,45,0,,Rya Murari,RWA,,,,,,,,,van Noten 1982
 GrN-7589,185,45,0,,Rya Murari,RWA,,,,,,,,,van Noten 1982
-GrN-7668,2225,50,0,,Gombe-Point,COD,,,,,,0,-4.300597,15.280791,de Maret/Stainier 1999
-GrN-7669,915,20,0,,Gombe-Point,COD,,,,,,0,-4.300597,15.280791,Pincon 1991
-GrN-7670,2550,90,,,Gombe-Point,COD,,,,,,0,-4.300597,15.280791,de Maret 1982; Garcin et al. 2018
+GrN-7668,2225,50,0,Charcoal,Gombe-Point,COD,,Layer,,,,0,-4.300597,15.280791,de Maret/Stainier 1999; Clist 2018: 238 Tab. 18.2
+GrN-7669,915,20,0,Charcoal,Gombe-Point,COD,,Layer,,,,0,-4.300597,15.280791,Pincon 1991; Clist 2018: 238 Tab. 18.2
+GrN-7670,2550,90,,Charcoal,Gombe-Point,COD,,Layer,,,,0,-4.300597,15.280791,de Maret 1982; Garcin et al. 2018; Clist 2018: 238 Tab. 18.2
 GrN-7671,1075,95,0,,Akameru,RWA,,,,,,,,,van Noten 1982
 GrN-7672,845,75,0,,Akameru,RWA,,,,,,,,,van Noten 1982
 GrN-7673,1595,30,0,,Kabuye,RWA,,,,,,,-2.6,29.833333,van Noten 1982
@@ -860,16 +872,16 @@ GrN-8054,14430,120,0,,Gombe-Point,COD,,,,,,0,-4.300597,15.280791,de Maret 1985
 GrN-8055,36400,580,0,,Gombe-Point,COD,,,,,,0,-4.300597,15.280791,de Maret 1985
 GrN-8056,37450,650,0,,Gombe-Point,COD,,,,,,0,-4.300597,15.280791,de Maret 1985
 GrN-8057,46500,1500,0,,Gombe-Point,COD,,,,,,0,-4.300597,15.280791,de Maret 1985
-Hv-10580,2055,70,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,deMaret 1992
-Hv-10581,6020,505,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,deMaret 1992
-Hv-10582,2900,110,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,deMaret 1992
+Hv-10580,2055,70,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,de Maret 1992
+Hv-10581,6020,505,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,de Maret 1992
+Hv-10582,2900,110,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,de Maret 1992
 Hv-10583,3070,95,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,Eggert 1993
 Hv-10586,5565,120,0,,Abeke,CMR,,,,,,,5.925278,10.158333,de Maret 1982
 Hv-10587,885,55,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,Lavachery/Cornelissen 2000
-Hv-10588,1690,55,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,deMaret 1992
+Hv-10588,1690,55,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,de Maret 1992
 Hv-10832,1990,95,0,,Obobogo,CMR,,,,,,,3.816667,11.504167,Eggert 1993
 Hv-10833,2955,110,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,Eggert 1993
-Hv-10834,1870,105,0,Charcoal,Boma,COD,,,,,,,-5.85,13.066667,de Maret 1985
+Hv-10834,1870,105,0,Charcoal,Boma,COD,,Layer,,,,1,-5.85,13.066667,"de Maret 1985; Clist 2018: 238 Tab. 18.2, 239 Tab. 18.3"
 Hv-10852,2900,110,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,de Maret 1986
 Hv-10874,1790,120,0,Charcoal,Mirama,BDI,,,,,,,-3.383333,29.983333,de Maret 1985
 Hv-10875,570,110,0,Charcoal,Mirama,BDI,,,,,,,-3.383333,29.983333,de Maret 1985
@@ -917,7 +929,7 @@ Hv-12625,915,105,0,Charcoal,Bolondo,COD,BLD 83/1,,,Bolondo,,0,-0.305801,21.25316
 Hv-12626,1895,65,0,Charcoal,Isaka-Elinga,COD,ISK 83/104,,,Lingonda,,0,-0.666969,20.202048,Wotzka 1995: 115; see Seidensticker 2017: Tab. 21
 Hv-12627,3485,220,0,Charcoal,Bokuma,COD,BOK 83/1,,,Imbonga,,0,-0.114356,18.697792,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
 Hv-12840,1020,20,,,Ndindan,CMR,,,,,,,3.9141,11.504,Mbida Mindzie 2002; Garcin et al. 2018
-Hv-12845,2300,65,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,deMaret 1992
+Hv-12845,2300,65,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,de Maret 1992
 Hv-12845,1645,90,0,,Ndindan,CMR,,Pit,,,,,3.9141,11.504,Mbida Mindzie 2002
 Hv-12846,1615,90,0,,Ndindan,CMR,,,,,,,3.9141,11.504,Essomba 1989
 Hv-12847,2415,60,0,,Ndindan,CMR,,Pit,,,,,3.9141,11.504,Mbida Mindzie 2002
@@ -937,23 +949,23 @@ Hv-1698,3515,55,0,,Sakuzi,COD,,,,,,,-5.167222,14.0075,Zangato 2000
 Hv-4213,2960,40,0,,Kamoa,COD,,,,,,,,,van Noten 1982
 Hv-4214,665,50,0,,Kamoa,COD,,,,,,,,,van Noten 1982
 Hv-4215,4235,100,0,,Kamoa,COD,,,,,,,,,van Noten 1982
-Hv-5258,2145,45,0,,Ngovo,COD,,,,Ngovo,,,-5.308333,14.923611,deMaret 1986
-Hv-6247,695,85,0,,Nkondo,COD,,,,,,,-4.916667,12.966667,van Noten 1982
-Hv-6248,130,85,0,,Mbafu,COD,,,,,,,-5.43,14.26,van Noten 1982
-Hv-6249,265,50,0,,Mbafu,COD,,,,,,,-5.43,14.26,van Noten 1982
-Hv-6250,2155,60,0,,Ntadi Ntadi,COD,,,,Ngovo,,,-5.745826,14.579839,deMaret 1986
-Hv-6251,115,70,0,,Ntende,COD,,,,,,,-4.33,15.33,van Noten 1982
-Hv-6252,310,85,0,,Lovo,COD,,,,,,,-5.73303,14.45542,van Noten 1982
-Hv-6253,375,145,0,,Lovo,COD,,,,,,,-5.73303,14.45542,van Noten 1982
-Hv-6254,2990,95,,,Kwimba,DRC,,,,,,0,-5.7667,14.8,Schwartz 1990; Garcin et al 2018
+Hv-5258,2145,45,0,Charcoal,Ngovo,COD,,Layer,,Ngovo,,1,-5.308333,14.923611,"de Maret 1986; Clist 2018: 238 Tab. 18.2, 239 Tab. 18.3"
+Hv-6247,695,85,0,Charcoal,Nkondi,COD,,Layer,,,,,-4.916667,12.966667,van Noten 1982; Clist 2018: 238 Tab. 18.2
+Hv-6248,130,85,0,Charcoal,Mbafu,COD,,Layer,,,,,-5.43,14.26,van Noten 1982; Clist 2018: 238 Tab. 18.2
+Hv-6249,265,50,0,Charcoal,Mbafu,COD,,Layer,,,,,-5.43,14.26,van Noten 1982; Clist 2018: 238 Tab. 18.2
+Hv-6250,2155,60,0,Charcoal,Ntadi Ntadi,COD,,Layer,,Ngovo,,1,-5.745826,14.579839,"de Maret 1986; Clist 2018: 238 Tab. 18.2, 239 Tab. 18.3"
+Hv-6251,115,70,0,Charcoal,Ntende,COD,,Layer,,,,,-4.33,15.33,van Noten 1982; Clist 2018: 238 Tab. 18.2
+Hv-6252,310,85,0,Charcoal,Lovo,COD,,Layer,,,,,-5.7581,14.4705,van Noten 1982; Clist 2018: 238 Tab. 18.2
+Hv-6253,375,145,0,Charcoal,Lovo,COD,,Layer,,,,,-5.7581,14.4705,van Noten 1982; Clist 2018: 238 Tab. 18.2
+Hv-6254,2985,95,,Charcoal,Kwimba,DRC,,Layer,,,,0,-5.7667,14.8,Schwartz 1990; Garcin et al 2018; Clist 2018: 238 Tab. 18.2
 Hv-6255,20000,650,0,,Dimba,COD,,,,,,,-5.283333,14.866667,van Noten 1982
 Hv-6256,8120,460,0,,Dimba,COD,,,,,,,-5.283333,14.866667,van Noten 1982
-Hv-6257,2035,130,0,,Dimba,COD,,,,Ngovo,,,-5.283333,14.866667,deMaret 1986
-Hv-6258,2035,65,0,,Ngovo,COD,,,,Ngovo,,,-5.308333,14.923611,deMaret 1986
-Hv-6259,230,95,0,,Lovo,COD,,,,,,,-5.73303,14.45542,van Noten 1982
-Hv-6260,425,65,0,,Kamuna,COD,,,,,,,-4.33,15.33,van Noten 1982
-Hv-6261,2305,70,0,,Kinshasa-Kingabwa/Ngombela,COD,,,,,,0,-4.1331539,15.342473,van Noten 1982
-Hv-6262,305,80,0,,Kinshasa-Kingabwa/Ngombela,COD,,,,Groupe X,,,-4.1331539,15.342473,van Noten 1982; Clist 2018: 235
+Hv-6257,2035,130,0,Charcoal,Dimba,COD,,Layer,,Ngovo,,1,-5.283333,14.866667,"de Maret 1986; Clist 2018: 238 Tab. 18.2, 239 Tab. 18.3"
+Hv-6258,2035,65,0,Charcoal,Ngovo,COD,,Layer,,Ngovo,,1,-5.308333,14.923611,"de Maret 1986; Clist 2018: 238 Tab. 18.2, 239 Tab. 18.3"
+Hv-6259,230,95,0,Charcoal,Lovo,COD,,Layer,,,,,-5.7581,14.4705,van Noten 1982; Clist 2018: 238 Tab. 18.2
+Hv-6260,425,65,0,Charcoal,Kamuna,COD,,Layer,,,,,-4.33,15.33,van Noten 1982; Clist 2018: 238 Tab. 18.2
+Hv-6261,2305,70,0,Charcoal,Kinshasa-Kingabwa/Ngombela,COD,,Layer,,,,0,-4.1331539,15.342473,van Noten 1982; Clist 2018: 238 Tab. 18.2
+Hv-6262,305,80,0,Charcoal,Kinshasa-Kingabwa/Ngombela,COD,,Pit,,Groupe X,,1,-4.1331539,15.342473,"van Noten 1982; Clist 2018: 235, 239 Tab. 18.2"
 Hv-6608,805,115,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
 Hv-6609,1205,105,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
 Hv-6610,655,125,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
@@ -1182,10 +1194,10 @@ Lv-1393,1930,130,0,,Ndindan,CMR,,Pit,,,,,3.9141,11.504,Mbida Mindzie 2002
 Lv-1394,2120,70,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,Eggert 1993
 Lv-1395,2120,150,0,,Obobogo,CMR,,,,,,,3.816667,11.504167,Eggert 1993
 Lv-1432,2310,100,0,,Obobogo,CMR,,,,,,,3.816667,11.504167,Eggert 1993
-Lv-1468,1850,50,0,,Sakuzi,COD,,Pit,,Kay Ladio,,,-5.167222,14.0075,de Maret 1986
-Lv-1469,1780,50,0,,Sakuzi,COD,,Pit,,Kay Ladio,,,-5.167222,14.0075,de Maret 1986
-Lv-1470,1900,50,,,Sakuzi,COD,,,,Ngovo,,,-5.167222,14.0075,de Maret 1990; Garcin et al. 2018
-Lv-1471,2110,55,0,,Sakuzi,COD,,,,,,,-5.167222,14.0075,deMaret 1986
+Lv-1468,1850,50,0,Elaeis guineensis/Charcoal,Sakuzi,COD,,Pit,,Kay Ladio,,1,-5.167222,14.0075,"de Maret 1986; Clist 2018: 239 Tab. 18.2, Tab. 18.3"
+Lv-1469,1780,50,0,Elaeis guineensis/Charcoal,Sakuzi,COD,,Pit,,Kay Ladio,,1,-5.167222,14.0075,"de Maret 1986; Clist 2018: 239 Tab. 18.2, Tab. 18.3"
+Lv-1470,1900,50,0,Elaeis guineensis/Charcoal,Sakuzi,COD,,Pit,,Ngovo,,1,-5.167222,14.0075,"de Maret 1990; Garcin et al. 2018; Clist 2018: 239 Tab. 18.2, Tab. 18.3"
+Lv-1471,2110,55,0,Elaeis guineensis/Charcoal,Sakuzi,COD,,Pit,,,,1,-5.167222,14.0075,"de Maret 1986; Clist 2018: 239 Tab. 18.2, Tab. 18.3"
 Lv-1513,3560,75,0,,Okanda 1,GAB,,,,,,,-0.127778,11.588889,Oslisly 1992
 Lv-1514,2150,70,0,,Makokou,GAB,,,,,,,0.5738,12.8642,Eggert 1993
 Lv-1515,2370,55,0,,Ndjole Pk 5,GAB,,,,,,,-0.133333,10.716667,Oslisly 1992
@@ -1206,11 +1218,11 @@ Lv-163,26000,0,0,,Basoko 3,COD,,,,Sangoan/Lupembian,,,-4.35,15.2833,Gilot et al.
 Lv-164,9730,200,0,,Basoko 2,COD,,,,Tshitolian/Lower,,,-4.35,15.2833,Gilot et al. 1965: 121; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
 Lv-165,8920,160,0,,Cabu 4,COD,,Fireplace,,Tshitolian,,,-4.33333,15.31667,Gilot et al. 1965: 121; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
 Lv-166,15080,480,0,,Cabu 5,COD,,,,Lupembian/Upper,,,-4.33333,15.31667,Gilot et al. 1965: 121; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
-Lv-167,2220,90,0,,Funa (Île de la Funa),COD,,,,,,,-4.31915,15.34503,Gilot et al. 1965: 121; van Noten 1982
-Lv-168,1540,100,0,,Île des Mimosas,COD,,,,,,,-4.328826,15.227313,Gilot et al. 1965: 122; Eggert 1984; Pincon 1991
-Lv-1697,2290,50,,,Sakuzi,COD,,,,,,,-5.167222,14.0075,de Maret 1990; Garcin et al. 2018
-Lv-1698,3510,55,,,Sakuzi,COD,,,,,,,-5.167222,14.0075,de Maret 1990; Garcin et al. 2018
-Lv-1699,2120,65,,,Sakuzi,COD,,,,,,,-5.167222,14.0075,de Maret 1990; Garcin et al. 2018
+Lv-167,2220,90,0,Charcoal,Île de la Funa,COD,,Layer,,,,1,-4.31915,15.34503,"Gilot et al. 1965: 121; van Noten 1982; Clist 2018: 239 Tab. 18.2, Tab. 18.3"
+Lv-168,1540,100,0,Charcoal,Île des Mimosas,COD,,Layer,,,,1,-4.328826,15.227313,"Gilot et al. 1965: 122; Eggert 1984; Pincon 1991; Clist 2018: 239 Tab. 18.2, 239 Tab. 18.3"
+Lv-1697,2290,50,0,Elaeis guineensis/Charcoal,Sakuzi,COD,,Pit,,,,1,-5.167222,14.0075,"de Maret 1990; Garcin et al. 2018; Clist 2018: 239 Tab. 18.2, Tab. 18.3"
+Lv-1698,3510,55,0,Elaeis guineensis/Charcoal,Sakuzi,COD,,Pit,,,,,-5.167222,14.0075,de Maret 1990; Garcin et al. 2018; Clist 2018: 239 Tab. 18.2
+Lv-1699,2120,65,0,Elaeis guineensis/Charcoal,Sakuzi,COD,,Pit,,,,1,-5.167222,14.0075,"de Maret 1990; Garcin et al. 2018; Clist 2018: 239 Tab. 18.2, Tab. 18.3"
 Lv-17,7840,190,0,,Kinshasa-Lemba,COD,,,,,,,-4.396111,15.318889,van Noten 1982
 Lv-1872,880,70,0,,Té Ndongué,CAF,,,,,,,5.716667,18,Moga 2008
 Lv-1873,950,60,0,,Té Ndongué,CAF,,,,,,,5.716667,18,Moga 2008
@@ -1354,9 +1366,9 @@ OxA-7604,2160,35,0,Charcoal,Okanda 6,GAB,,,,,,,-0.1175,11.568611,Clist 2004/05
 OxA-7753,1830,35,0,Charcoal,Lindili 1,GAB,,,,,,,-0.158056,11.5025,Clist 2004/05
 OxA-930,7790,80,,,Shum Laka,CMR,,,,,,,5.858611,10.077778,de Maret 1992; Garcin et al. 2018
 OxTL-154a-4,1570,220,0,,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,"de Bayle des Hermens 1975, 233; Eggert 1987"
-OxTL-209a,1610,110,0,,Gombe-Point,COD,,Layer,,,Gombe,1,-4.300597,15.280791,Cahen 1981: 131; Pincon 1991; Clist 2018: 235
-OxTL-209c,1600,100,0,,Gombe-Point,COD,,Layer,,,Gombe,1,-4.300597,15.280791,Cahen 1981: 131; Pincon 1991; Clist 2018: 235
-OxTL-209d,1645,110,0,,Gombe-Point,COD,,Layer,,,Gombe,1,-4.300597,15.280791,Cahen 1981: 131; Pincon 1991; Clist 2018: 235
+OxTL-209a,1610,110,0,Pottery,Gombe-Point,COD,,Layer,,,Gombe,1,-4.300597,15.280791,"Cahen 1981: 131; Pincon 1991; Clist 2018: 235, 239 Tab. 18.2"
+OxTL-209c,1600,100,0,Pottery,Gombe-Point,COD,,Layer,,,Gombe,1,-4.300597,15.280791,"Cahen 1981: 131; Pincon 1991; Clist 2018: 235, 239 Tab. 18.2"
+OxTL-209d,1645,110,0,Pottery,Gombe-Point,COD,,Layer,,,Gombe,1,-4.300597,15.280791,"Cahen 1981: 131; Pincon 1991; Clist 2018: 235, 239 Tab. 18.2"
 Pa-1446,2670,40,0,,Gbabiri,CAF,,,,,,,,,Zangato/Holl 2010
 Pa-1451,2680,40,0,,Gbabiri,CAF,,,,,,,,,Zangato/Holl 2010
 Pa-1538,2640,40,0,,Gbabiri,CAF,,Furnace,,,,,,,Zangato/Holl 2010
@@ -1377,11 +1389,11 @@ Pa-2202,3995,40,0,,Oboui,CAF,,,,,,,6.05,15.33,Zangato/Holl 2010
 Pa-2203,3690,40,0,,Oboui,CAF,,,,,,,6.05,15.33,Zangato/Holl 2010
 Pa-2223,3645,35,0,,Oboui,CAF,,,,,,,6.05,15.33,Zangato/Holl 2010
 Pa-3835,3835,30,0,,Gbatoro,CAF,,,,,,,,,Zangato/Holl 2010
-Poz-33006,1060,30,0,,Lukula,COD,,Trench,,,,0,-5.435267,12.961583,Hubau/Van den Bulcke et al. 2014
+Poz-33006,1060,30,0,Charcoal,Lukula,COD,,Layer,,,,0,-5.435267,12.961583,"Hubau/Van den Bulcke et al. 2014; Clist 2018: 239 Tab. 18.2, 239 Tab. 18.3"
 Poz-33051,1750,30,,,CZI,DRC,,,,,,0,-5.9638,13.27,Hubau et al. 2013; Garcin et al. 2018
 Poz-33052,1800,30,,,CZI,DRC,,,,,,0,-5.9638,13.27,Hubau et al. 2013; Garcin et al. 2018
 Poz-33054,555,30,,,CZ2,DRC,,,,,,0,-5.956,13.2681,Hubau et al. 2013; Garcin et al. 2018
-Poz-33055,2050,30,,,UH48,DRC,,,,,,0,-5.992,13.19,Hubau et al. 2013; Garcin et al. 2018
+Poz-33055,2055,30,0,Charcoal,UH48,DRC,,Layer,,,,0,-5.992,13.19,"Hubau et al. 2013; Garcin et al. 2018; Clist 2018: 239 Tab. 18.2, Tab. 18.3"
 Poz-33058,1890,40,,,KS8,DRC,,,,,,0,-4.75,13.0089,Hubau et al. 2013; Garcin et al. 2018
 Poz-33059,1820,30,,,KS9,DRC,,,,,,0,-4.7625,13.0069,Hubau et al. 2013; Garcin et al. 2018
 Poz-33060,6950,50,,,KS9,DRC,,,,,,0,-4.76245,13.0069,Hubau et al. 2013; Garcin et al. 2018
@@ -1463,6 +1475,21 @@ Poz-57843,1860,30,,,GPS051,CMR,,,,,,,2.4956,12.0319,de Saulieu et al. 2015; Garc
 Poz-57845,1620,30,,,Meveme,CMR,,,,,,,2.4055,13.1146, Saulieu et al. 2015; Garcin et al. 2018
 Poz-57846,2270,30,,,Nya Zanga,CMR,,,,,,,2.5013,12.0249, Saulieu et al. 2015; Garcin et al. 2018
 Poz-57847,2270,30,,,Nya Zanga,CMR,,,,,,,2.5013,12.0249, Saulieu et al. 2015; Garcin et al. 2018
+Poz-59436,2955,35,0,Charcoal,Kinsala,COD,,Pit,,,,,-5.7296,15.1428,Clist 2018: 237 Tab. 18.1
+Poz-59437,130,30,0,Charcoal,Lemfu,COD,,Pit,,,,,-5.0618,15.0088,Clist 2018: 238 Tab. 18.1
+Poz-59445,320,30,0,Charcoal,Kindoki,COD,Tr33/Fosse 1,Pit,,,,,-5.07,15.01,Clist 2018: 237 Tab. 18.1
+Poz-59446,305,30,0,Charcoal,Kindoki,COD,Tr23/Fosse 5,Pit,,Kindoki,,1,-5.07,15.01,Clist 2018: 237 Tab. 18.1; Clist et al. 2018: 258 Tab. 19.3
+Poz-59447,90,30,0,Charcoal,Kindoki,COD,Tr5/Fosse 3,Pit,,,,,-5.07,15.01,Clist 2018: 237 Tab. 18.1
+Poz-59485,2815,30,0,Charcoal,Kinsala,COD,Tr15,Layer,,,,,-5.7296,15.1428,Clist 2018: 237 Tab. 18.1
+Poz-59486,680,30,0,Charcoal,Kindoki,COD,Tr28/Fosse 1,Pit,,,,1,-5.07,15.01,"Clist 2018: 237 Tab. 18.1, 239 Tab. 18.3"
+Poz-59632,320,30,0,Charcoal,Kindoki,COD,Tr58/Fosse 1,Pit,,,,,-5.07,15.01,Clist 2018: 237 Tab. 18.1
+Poz-60769,200,30,0,Charcoal,Kindoki,COD,5,Burial,,,,,-5.07,15.01,Clist 2018: 237 Tab. 18.1
+Poz-60770,9470,50,0,Charcoal,Ngongo Mbata,COD,Tr8,Layer,,,,,-5.7813,15.1166,Clist 2018: 238 Tab. 18.1
+Poz-60771,315,30,0,Charcoal,Ngongo Mbata,COD,Tr19/Fosse 3,Pit,,,,,-5.7813,15.1166,Clist 2018: 238 Tab. 18.1
+Poz-60772,310,30,0,Charcoal,Ngongo Mbata,COD,Tr1/Fosse 1,Pit,,,,,-5.7813,15.1166,Clist 2018: 238 Tab. 18.1
+Poz-60774,200,30,0,Charcoal,Ngongo Mbata,COD,Tr35/Fosse 1,Pit,,,,,-5.7813,15.1166,Clist 2018: 238 Tab. 18.1
+Poz-60775,175,30,0,Charcoal,Ngongo Mbata,COD,Tr60,Burial,,,,,-5.7813,15.1166,Clist 2018: 238 Tab. 18.1
+Poz-60776,280,30,0,Charcoal,Ngongo Mbata,COD,Tr7,Pit,,,,,-5.7813,15.1166,Clist 2018: 238 Tab. 18.1
 Poz-62102,580,30,,,Maluba,COD,MLB 85/1-4-3,Burial,,,,,2.806193,18.523706,Seidensticker 2017
 Poz-62103,810,80,,,Maluba,COD,MLB 85/1-4-3,Burial,,,,,2.806193,18.523706,Seidensticker 2017
 Poz-62625,1750,30,,,"Site 2 or Area 2, T4",CMR,,,,,,0,4.013,14.18,Vleminckx et al. 2014; Garcin et al. 2018
@@ -1499,6 +1526,16 @@ Poz-66603,130,30,,,Ndéba (Somié),CMR,,,,,,,6.2826,11.2638,Saulieu et al. 2015;
 Poz-66604,1770,30,,,Ndéba (Somié),CMR,,,,,,,6.2826,11.2638,Saulieu et al. 2015; Garcin et al. 2018
 Poz-66605,115,30,,,Ndéba (Somié),CMR,,,,,,,6.2826,11.2638,Saulieu et al. 2015; Garcin et al. 2018
 Poz-66606,115,30,,,Ndéba (Somié),CMR,,,,,,,6.2826,11.2638,Saulieu et al. 2015; Garcin et al. 2018
+Poz-69043,185,30,0,Charcoal,Ngongo Mbata,COD,Tr78,Pit,,,,,-5.7813,15.1166,Clist 2018: 238 Tab. 18.1
+Poz-69044,235,30,0,Charcoal,Ngongo Mbata,COD,Tr104/Fosse 1,Pit,,,,,-5.7813,15.1166,Clist 2018: 238 Tab. 18.1
+Poz-69045,210,30,0,Charcoal,Ngongo Mbata,COD,Tr83,Pit,,,,,-5.7813,15.1166,Clist 2018: 238 Tab. 18.1
+Poz-69046,180,30,0,Charcoal,Ngongo Mbata,COD,Tr70/Fosse 1,Pit,,,,,-5.7813,15.1166,Clist 2018: 238 Tab. 18.1
+Poz-69047,105,30,0,Charcoal,Kinkinzi,COD,,Pit,,,,,-5.7296,15.1428,Clist 2018: 237 Tab. 18.1
+Poz-69049,680,30,0,Charcoal,Misenga,COD,,Pit,,,,,-4.3661,14.3133,Clist 2018: 238 Tab. 18.1
+Poz-69050,535,30,0,Charcoal,Misenga,COD,,Layer,,,,,-4.3661,14.3133,Clist 2018: 238 Tab. 18.1
+Poz-69051,4080,35,0,Charcoal,Kinsala,COD,Tr20,Pit,,,,,-5.7296,15.1428,Clist 2018: 237 Tab. 18.1
+Poz-69053,1665,30,0,Charcoal,Kitala,COD,Tr3,Pit,,,,1,-5.5508,14.8677,"Clist 2018: 238 Tab. 18.1, 239 Tab. 18.3"
+Poz-69263,2230,30,0,Charcoal,Kitala,COD,Tr2,Pit,,,,,-5.5508,14.8677,Clist 2018: 238 Tab. 18.1
 Poz-74441,2470,30,0,,Dibamba,CMR,F. 121 (0-60 cm),,,,,,3.995833,9.8215,Saulieu et al. 2017
 Poz-74444,340,30,0,,Dibamba,CMR,F. 206 (0-70 cm),,,,,,3.995833,9.8215,Saulieu et al. 2017
 Poz-74504,2435,30,0,,Dibamba,CMR,F. 80 (0-60 cm),,,,,,3.995833,9.8215,Saulieu et al. 2017
@@ -1508,14 +1545,44 @@ Poz-74507,165,30,0,,Dibamba,CMR,F. 84B (20-60 cm),,,,,,3.995833,9.8215,Saulieu 
 Poz-74508,435,30,0,,Dibamba,CMR,F. 69 (0-50 cm),,,,,,3.995833,9.8215,Saulieu et al. 2017
 Poz-74509,420,30,0,,Dibamba,CMR,F. 67 (0-30 cm),,,,,,3.995833,9.8215,Saulieu et al. 2017
 Poz-74510,520,30,0,,Dibamba,CMR,F. 38B (30-67 cm),,,,,,3.995833,9.8215,Saulieu et al. 2017
+Poz-75419,1710,30,0,Charcoal,Kitala,COD,Tr2/Fosse 1,Pit,,,,1,-5.5508,14.8677,"Clist 2018: 238 Tab. 18.1, 239 Tab. 18.3"
+Poz-75420,1680,30,0,Charcoal,Kitala,COD,Tr6/Fosse 1,Pit,,,,1,-5.5508,14.8677,"Clist 2018: 238 Tab. 18.1, 239 Tab. 18.3"
+Poz-75421,190,30,0,Charcoal,Kindoki,COD,Tr79/Fosse 1,Pit,,,,,-5.07,15.01,Clist 2018: 237 Tab. 18.1
+Poz-75422,335,30,0,Charcoal,Kindoki,COD,Tr100/Fosse 1,Pit,,Kindoki,,1,-5.07,15.01,Clist 2018: 237 Tab. 18.1; Clist et al. 2018: 258 Tab. 19.3
+Poz-75423,565,30,0,Charcoal,Kindoki,COD,Tr100/Fosse 2,Pit,,,,,-5.07,15.01,Clist 2018: 237 Tab. 18.1
 Poz-75451,370,30,0,,Yangambi,COD,YAN/15/05,,,Ilambi,,1,0.76755,24.43973,Livingstone-Smith et al. 2017: 4 Tab. 1
 Poz-75452,1670,30,0,,Yangambi,COD,YAN/15/05,,,Middle Phase (cf. Ilambi Moke),,1,0.76755,24.43973,Livingstone-Smith et al. 2017: 4 Tab. 1
 Poz-75462,1230,30,0,,Yangambi,COD,YAS/15/02,,,Ilambi,,1,0.76755,24.43973,Livingstone-Smith et al. 2017: 4 Tab. 1
+Poz-76918,540,30,0,Charcoal,Kazu 6,COD,1,Pit,,,,,-5.5228,13.7311,Clist 2018: 237 Tab. 18.1
+Poz-76919,610,30,0,Charcoal,Kazu 6,COD,3,Pit,,,,,-5.5228,13.7311,Clist 2018: 237 Tab. 18.1
+Poz-76920,1750,30,0,Elaeis guineensis,Kindu,COD,,Layer,,,,1,-4.951,13.6132,"Clist 2018: 237 Tab. 18.1, 239 Tab. 18.3"
+Poz-76921,1810,30,0,Charcoal,Kindu,COD,,Pit,,,,1,-4.951,13.6132,"Clist 2018: 237 Tab. 18.1, 239 Tab. 18.3"
+Poz-80290,385,30,0,Charcoal,Kindoki,COD,Tr78/Fosse 2,Pit,,,,,-5.07,15.01,Clist 2018: 237 Tab. 18.1
+Poz-80291,645,30,0,Charcoal,Kazu 4,COD,,Layer,,,,,-5.5173,13.7324,Clist 2018: 237 Tab. 18.1
+Poz-80292,725,30,0,Charcoal,Kindu,COD,,Layer,,,,1,-4.951,13.6132,"Clist 2018: 237 Tab. 18.1, 239 Tab. 18.3"
+Poz-80293,1700,30,0,Elaeis guineensis,Bu 3,COD,,Layer,,,,1,-5.4489,13.7843,"Clist 2018: 237 Tab. 18.1, 239 Tab. 18.3"
+Poz-80294,310,30,0,Charcoal,Ngongo Mbata,COD,Tr19/Fosse 1,Pit,,,,,-5.7813,15.1166,Clist 2018: 238 Tab. 18.1
+Poz-80296,205,30,0,Charcoal,Ngongo Mbata,COD,Tr61,Pit,,,,,-5.7813,15.1166,Clist 2018: 238 Tab. 18.1
+Poz-80297,8910,50,0,Charcoal,Ngongo Mbata,COD,Tr44,Layer,,,,,-5.7813,15.1166,Clist 2018: 238 Tab. 18.1
 Pta-212,1810,50,0,,Benfica,AGO,,,,,,,-8.95796,13.190891,van Noten 1982
 Pta-238,7840,80,0,,Mungo,AGO,,,,,,,,,van Noten 1982
 Pta-239,9670,90,0,,Mungo,AGO,,,,,,,,,van Noten 1982
 Pta-240,10410,90,0,,Mungo,AGO,,,,,,,,,van Noten 1982
 Pta-9273,1940,35,,,Ndéba (Somié),CMR,,,,,,,6.2826,11.2638,Saulieu et al. 2015; Garcin et al. 2018
+SacA-17788,245,30,0,Charcoal,Tovo,DRC,,,,,,,-5.7581,14.4705,Heimlich et al. 2013: 1387 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-17789,225,30,0,Bone,Tovo,DRC,,,,,,,-5.7581,14.4705,Clist 2018: 239 Tab. 18.2
+SacA-17790,235,30,0,Bone,Tovo,DRC,,,,,,,-5.7581,14.4705,Clist 2018: 239 Tab. 18.2
+SacA-18832,350,30,0,Charcoal,Tovo,DRC,,,,,,,-5.7581,14.4705,Heimlich et al. 2013: 1387 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-21461,280,30,0,Charcoal,Tovo,DRC,,Rockart,,,,,-5.7581,14.4705,Heimlich et al. 2013: 1387 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-21462,355,30,0,Charcoal,Tovo,DRC,,Rockart,,,,,-5.7581,14.4705,Heimlich et al. 2013: 1387 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-21463,325,30,0,Charcoal,Tovo,DRC,,Rockart,,,,,-5.7581,14.4705,Heimlich et al. 2013: 1387 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-22300,270,30,0,Charcoal,Tovo,DRC,,Rockart,,,,,-5.7581,14.4705,Heimlich et al. 2013: 1387 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-22301,255,30,0,Charcoal,Tovo,DRC,,Rockart,,,,,-5.7581,14.4705,Heimlich et al. 2013: 1387 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-22302,250,30,0,Charcoal,Tovo,DRC,,Rockart,,,,,-5.7581,14.4705,Heimlich et al. 2013: 1387 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-22303,365,30,0,Charcoal,Tovo,DRC,,Rockart,,,,,-5.7581,14.4705,Heimlich et al. 2013: 1387 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-29124,450,30,0,Charcoal,Tovo 2,DRC,,,,,,,-5.7581,14.4705,Clist 2018: 239 Tab. 18.2
+SacA-29125,1335,45,0,Charcoal,Tovo,DRC,,Rockart,,,,,-5.7581,14.4705,"Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2, 239 Tab. 18.3"
+SacA-29137,540,90,0,Charcoal,Nkamba,DRC,,Rockart,,,,,-5.7489,14.4435,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
 SacA-31426,1880,70,,,Akom,CMR,,,,,,,2.4015,12.4215,Saulieu et al. 2015; Garcin et al. 2018
 SacA-31427,1950,30,,,Akom,CMR,,,,,,,2.4015,12.4215,Saulieu et al. 2015; Garcin et al. 2018
 SacA-31428,210,30,,,Avebe,CMR,,,,,,,2.4132,12.5444,Saulieu et al. 2015; Garcin et al. 2018
