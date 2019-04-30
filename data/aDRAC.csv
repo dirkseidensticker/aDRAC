@@ -64,17 +64,17 @@ Beta-12207,2100,90,0,Charcoal,Lac Bleu de Mouila,GAB,,,,,,,-1.916,11.0167,Eggert
 Beta-12208,1920,80,0,Charcoal,Lac Bleu de Mouila,GAB,,,,,,,-1.916,11.0167,Clist 2004/05
 Beta-12209,120,100,0,Charcoal,Komo,GAB,,,,,,,0.367,10.117,Clist 2004/05
 Beta-12858,1920,60,0,,Mfomakap/Nkometou,CMR,,,,,,,4.049917,11.55,Elouga 1998; Garcin et al. 2018
-Beta-143016,2340,70,0,,Bwambé-Sommet (Est),CMR,BWS 2,Pit,,,,,2.893551,9.903519,Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2
-Beta-143017,2520,70,0,,Bwambé-Sommet (Est),CMR,BWS 4,Pit,,,,,2.893551,9.903519,Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2
+Beta-143016,2340,70,0,,Bwambé-Sommet (Est),CMR,BWS 2,Pit,,Bwambé/Mpoengu,,1,2.893551,9.903519,Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2
+Beta-143017,2520,70,0,,Bwambé-Sommet (Est),CMR,BWS 4,Pit,,Bwambé/Mpoengu,,1,2.893551,9.903519,Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2
 Beta-143018,2000,40,0,,Campo,CMR,CAM 00,Trench,,,,1,2.377257,9.83092,Oslisly u.a. 2006; Eggert/Seidensticker 2016:65 Tab. 4.1
 Beta-14427,2350,140,0,Charcoal,Moanda,GAB,1,,,,,,-1.557111,13.228192,Eggert 1993
 Beta-14428,2330,90,0,,Moanda,GAB,2,,,,,,-1.557111,13.228192,Clist 1995; Garcin et al. 20018
 Beta-146654,1670,70,0,,Bandewouri 1,CMR,,,,,,,3.058142,10.181206,Oslisly 2001; Oslisly et al. 2013
-Beta-146655,2200,60,0,,Bwambé-Sommet (Est),CMR,BWS 1,Pit,,,,,2.893551,9.903519,Oslisly 2006: 131; Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
-Beta-146656,2030,80,0,,Bwambé-Sommet (Est),CMR,BWS 9,Pit,,,,,2.893551,9.903519,Oslisly 2006; Eggert/Seidensticker 2016:78 Tab. 4.2
-Beta-146657,2340,60,0,,Bwambé-Sommet (Est),CMR,BWS 11,Pit,,,,,2.893551,9.903519,Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2
+Beta-146655,2200,60,0,,Bwambé-Sommet (Est),CMR,BWS 1,Pit,,Bwambé/Mpoengu,,1,2.893551,9.903519,Oslisly 2006: 131; Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
+Beta-146656,2030,80,0,,Bwambé-Sommet (Est),CMR,BWS 9,Pit,,Bwambé/Mpoengu,,1,2.893551,9.903519,Oslisly 2006; Nlend Nlend 2013: 257 Tab. 44; Eggert/Seidensticker 2016:78 Tab. 4.2
+Beta-146657,2340,60,0,,Bwambé-Sommet (Est),CMR,BWS 11,Pit,,Bwambé/Mpoengu,,1,2.893551,9.903519,Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2
 Beta-146658,1760,70,0,,Bwambé-Sommet (Est),CMR,,Trench,,,,,2.893551,9.903519,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
-Beta-146659,1710,60,0,,Campo,CMR,CAM 00/1,Pit,,,,1,2.377257,9.83092,Oslisly u.a. 2006; Eggert/Seidensticker 2016:65 Tab. 4.1
+Beta-146659,1710,60,0,,Campo,CMR,CAM 00/1,Pit,,Campo,,1,2.377257,9.83092,Oslisly u.a. 2006; Eggert/Seidensticker 2016:65 Tab. 4.1
 Beta-146660,1940,70,0,,Campo,CMR,CAM Campo2/Pit 1,Pit,,,,1,2.377257,9.83092,Oslisly u.a. 2006; Eggert/Seidensticker 2016:64 Tab. 4.1
 Beta-146661,1820,80,0,,Kribi Hotel,CMR,,Trench,,,,1,2.933333,9.904167,Oslisly u.a. 2006: 130; Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:83 Tab. 4.2
 Beta-14825,2460,70,0,,Kango 5,GAB,,,Neol,,,,0.200833,10.0825,Clist 1989
@@ -102,15 +102,16 @@ Beta-15067,2260,120,0,,Otoumbi 5,GAB,,,,,,,-0.0625,11.124167,Oslisly 1992
 Beta-15068,1900,90,0,,Otoumbi 5,GAB,,Pit,,,,,-0.0625,11.124167,Oslisly 1992
 Beta-156376,1570,70,0,,Boussibilinga 1,CMR,BOS 1 1,Pit,,,,,2.7375,9.8778,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:83 Tab. 4.2
 Beta-156377,550,70,0,,Bwambe-Beach,CMR,BWB D1,Trench,,,,,2.898504,9.901455,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:83 Tab. 4.2
-Beta-156378,2240,70,0,,Bwambé-Sommet (Est),CMR,BWS 12,Pit,,Malongo,,,2.893551,9.903519,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
-Beta-156379,2360,70,0,,Bwambé-Sommet (Est),CMR,BWS 16,Pit,,,,,2.893551,9.903519,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
-Beta-156380,2550,90,0,,Bwambé-Sommet (Est),CMR,BWS 17,Pit,,,,,2.893551,9.903519,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
-Beta-156381,2240,90,0,,Bwambé-Sommet (Est),CMR,BWS 19,Pit,,,,,2.893551,9.903519,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
-Beta-156382,2410,60,0,,Bwambé-Sommet (Est),CMR,BWS 2,Pit,,,,,2.893551,9.903519,Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2
-Beta-156383,2460,70,0,,Bwambé-Sommet (Est),CMR,BWS 2,Pit,,,,,2.893551,9.903519,Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2
-Beta-156384,1830,70,0,,Campo,CMR,CAM 00/3,Burial,,,,1,2.377257,9.83092,Oslisly u.a. 2006; Eggert/Seidensticker 2016:64 Tab. 4.1
-Beta-156385,1780,60,0,,Campo,CMR,CAM 00/2,Pit,,,,1,2.377257,9.83092,Oslisly u.a. 2006; Eggert/Seidensticker 2016:65 Tab. 4.1
-Beta-156387,2340,60,0,,Malongo 1,CMR,,Pit,,,,,2.734167,9.866944,Oslisly u.a. 2006: 131; Nlend Nlend 2013/2014: 199; Eggert/Seidensticker 2016:79 Tab. 4.2
+Beta-156378,2240,70,0,,Bwambé-Sommet (Est),CMR,BWS 12,Pit,,Bissiang/Malongo,,1,2.893551,9.903519,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
+Beta-156379,2360,70,0,,Bwambé-Sommet (Est),CMR,BWS 16,Pit,,Bissiang/Malongo,,1,2.893551,9.903519,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
+Beta-156380,2550,90,0,,Bwambé-Sommet (Est),CMR,BWS 17,Pit,,Bissiang/Malongo,,1,2.893551,9.903519,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
+Beta-156381,2240,90,0,,Bwambé-Sommet (Est),CMR,BWS 19,Pit,,Bissiang/Malongo,,1,2.893551,9.903519,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
+Beta-156382,2410,60,0,,Bwambé-Sommet (Est),CMR,BWS 2,Pit,,Bwambé/Mpoengu,,1,2.893551,9.903519,Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2
+Beta-156383,2460,70,0,,Bwambé-Sommet (Est),CMR,BWS 2,Pit,,Bissiang/Malongo
+,,1,2.893551,9.903519,Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2
+Beta-156384,1830,70,0,,Campo,CMR,CAM 00/3,Burial,,Campo,,1,2.377257,9.83092,Oslisly u.a. 2006; Eggert/Seidensticker 2016:64 Tab. 4.1
+Beta-156385,1780,60,0,,Campo,CMR,CAM 00/2,Pit,,Campo,,1,2.377257,9.83092,Oslisly u.a. 2006; Eggert/Seidensticker 2016:65 Tab. 4.1
+Beta-156387,2340,60,0,,Malongo 1,CMR,2,Pit,,Bissiang/Malongo,,1,2.734167,9.866944,Oslisly u.a. 2006: 131; Nlend Nlend 2013/2014: 199; Eggert/Seidensticker 2016:79 Tab. 4.2
 Beta-156388,1900,50,0,,Nlendé Dibe 3,CMR,,Trench,,,,,2.760833,9.880556,Oslisly u.a. 2006; Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:81 Tab. 4.2
 Beta-15738,2050,100,0,Charcoal,Moanda,GAB,1,,,,,,-1.557111,13.228192,Clist 2004/05
 Beta-15739,530,60,0,Charcoal,Moanda,GAB,1,,,,,,-1.557111,13.228192,Clist 2004/05
@@ -158,18 +159,18 @@ Beta-182534,1980,70,0,,Djaoro Mbama,CMR,,,,,,,7.094325,14.744678,Lavachery et al
 Beta-182535,2010,60,0,,Djaoro Mbama,CMR,,Furnace,,,,,7.094325,14.744678,Lavachery et al. 2005
 Beta-182536,1770,80,0,,Djaoro Mbama,CMR,,Furnace,,,,,7.094325,14.744678,Lavachery et al. 2005
 Beta-182537,1880,60,0,,Djaoro Mbama,CMR,,Pit,,,,,7.094325,14.744678,Lavachery et al. 2005
-Beta-182538,700,60,0,,Ndtoua,CMR,,Trench,,,,,3.063129,10.218947,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:77 Tab. 4.2
-Beta-182539,5490,70,0,,Ndtoua,CMR,,Trench,,,,,3.063129,10.218947,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:77 Tab. 4.2
-Beta-182540,1920,70,0,,Ndtoua,CMR,,Trench,,,,,3.063129,10.218947,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:77 Tab. 4.2
-Beta-182541,1910,60,0,,Ndtoua,CMR,,Trench,,,,,3.063129,10.218947,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:77 Tab. 4.2
+Beta-182538,700,60,0,,Ndtoua,CMR,C6-IV,Stratigraphy,,,,1,3.063129,10.218947,"Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:68, 77 Tab. 4.2"
+Beta-182539,5490,70,0,,Ndtoua,CMR,C6-I,Stratigraphy,,LSA,,1,3.063129,10.218947,"Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:77 Tab. 4.2"
+Beta-182540,1920,70,0,,Ndtoua,CMR,C6-III,Stratigraphy,,,,1,3.063129,10.218947,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:77 Tab. 4.2
+Beta-182541,1910,60,0,,Ndtoua,CMR,C6-III,Stratigraphy,,,,1,3.063129,10.218947,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:77 Tab. 4.2
 Beta-182542,1690,70,0,,Koukony,CMR,,Trench,,,,,4.849055,13.063387,Lavachery et al. 2010
 Beta-182543,400,50,0,,Ewankang,CMR,,,,,,,4.804371,12.851953,Lavachery et al. 2010
 Beta-182544,2210,60,0,,Makoure,CMR,,Furnace,,,,,3.060819,10.1733,Lavachery et al. 2005: 175; Eggert/Seidensticker 2016:79 Tab. 4.2
 Beta-182545,240,60,0,,Yebi,CMR,,Trench,,,,,4.97257,13.319878,Lavachery et al. 2010
-Beta-182546,2540,60,0,,Dombè,CMR,,Pit,,,,,2.964143,9.949644,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:77 Tab. 4.2
-Beta-182547,2440,60,0,,Dombè,CMR,,Pit,,,,,2.964143,9.949644,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:77 Tab. 4.2
-Beta-182548,2550,60,0,,Bissiang,CMR,,Pit,,,,,2.997909,10.021249,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:77 Tab. 4.2
-Beta-182549,2770,70,0,,Bissiang,CMR,,Pit,,,,,2.997909,10.021249,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:77 Tab. 4.2
+Beta-182546,2540,60,0,,Dombè,CMR,,Pit,,Bissiang/Malongo,,1,2.964143,9.949644,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:77 Tab. 4.2
+Beta-182547,2440,60,0,,Dombè,CMR,,Pit,,Bissiang/Malongo,,1,2.964143,9.949644,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:77 Tab. 4.2
+Beta-182548,2550,60,0,,Bissiang,CMR,,Pit,,Bissiang/Malongo,,1,2.997909,10.021249,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:77 Tab. 4.2
+Beta-182549,2770,70,0,,Bissiang,CMR,,Pit,,Bissiang/Malongo,,1,2.997909,10.021249,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:77 Tab. 4.2
 Beta-182550,1530,70,0,,Bidou 2,CMR,,Pit,,,,,3.030839,10.082725,Lavachery et al. 2010: 175; Gouem Gouem 2010/2011; Eggert/Seidensticker 2016:83 Tab. 4.2
 Beta-182551,1580,80,0,,Bidjouka,CMR,,Pit,,,,,3.137308,10.50152,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:83 Tab. 4.2
 Beta-182552,1480,70,0,,Bidjouka,CMR,,Pit,,,,,3.137308,10.50152,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:83 Tab. 4.2
@@ -245,15 +246,15 @@ Beta-22081,5420,120,0,,Lac Noir de Ndende,GAB,,,LSA,,,,-2.233,11.333,Clist 1989
 Beta-22082,4990,120,0,,Lac Noir de Ndende,GAB,,,LSA,,,,-2.333,11.333,Clist 1989
 Beta-22493,2360,120,0,,Mfomakap/Nkometou,CMR,,,,,,,4.049917,11.55,Elouga 1998
 Beta-22495,2380,70,0,,Mfomakap/Nkometou,CMR,,,,,,,4.049917,11.55,Elouga 1998
-Beta-233400,1520,40,0,,Kribi-Mpoengu,CMR,,Burial,,,,,2.926944,9.912222,Gouem Gouem 2010/11: 627; Eggert/Seidensticker 2016:79 Tab. 4.2
+Beta-233400,1520,40,0,,Kribi-Mpoengu,CMR,,Burial,,Bidjouka,,1,2.926944,9.912222,Gouem Gouem 2010/11: 627; Eggert/Seidensticker 2016:79 Tab. 4.2
 Beta-233401,1510,50,0,,Kribi-Mpoengu,CMR,,Pit,,,,,2.926944,9.912222,Gouem Gouem 2010/2011: 279; Eggert/Seidensticker 2016:79 Tab. 4.2
-Beta-233402,2040,50,0,,Kribi-Talla,CMR,,,,,,,2.930278,9.909722,Gouem Gouem 2010/11: 220; Eggert/Seidensticker 2016:80 Tab. 4.2
+Beta-233402,2040,50,0,,Kribi-Talla,CMR,BK,Pit,,Bwambé/Mpoengu,,1,2.930278,9.909722,Gouem Gouem 2010/11: 220; Nlend Nlend 2013: 257 Tab. 44; Eggert/Seidensticker 2016:80 Tab. 4.2
 Beta-233555,200,40,,,Limbumba (LM),CAF,,,,,,,,,Lupo et al. 2018: 11 Tab. 3
 Beta-233556,2380,40,,,Limbumba (LM),CAF,,,,,,,,,Lupo et al. 2018: 11 Tab. 3
 Beta-233557,210,40,0,,Limbumba (LM)/Ndele (Pos A),CAF,,Trench,,,,,3.650128,16.870005,Kiahtipes/Lupo et al. 2011; Lupo et al. 2018: 11 Tab. 3
 Beta-234983,120,40,,,Limbumba (LM),CAF,,,,,,,,,Lupo et al. 2018: 11 Tab. 3
 Beta-234984,160,40,,,Limbumba (LM),CAF,,,,,,,,,Lupo et al. 2018: 11 Tab. 3
-Beta-242316,2190,50,0,,Kribi-Mpoengu,CMR,,Pit,,,,,2.926944,9.912222,Gouem Gouem 2010/11: 196; Eggert/Seidensticker 2016:79 Tab. 4.2
+Beta-242316,2190,50,0,,Kribi-Mpoengu,CMR,I-A,Pit,,Bwambé/Mpoengu,,1,2.926944,9.912222,Gouem Gouem 2010/11: 196; Eggert/Seidensticker 2016:79 Tab. 4.2
 Beta-242317,1470,40,0,,Kribi-Mpoengu,CMR,,Pit,,,,,2.926944,9.912222,Gouem Gouem 2010/2011: 303; Eggert/Seidensticker 2016:79 Tab. 4.2
 Beta-245103,220,40,0,,Dibamba,CMR,F. 08 (40-50 cm),,,,,,3.995833,9.8215,Saulieu et al. 2017
 Beta-245104,190,40,0,,Dibamba,CMR,F. 11 (30-50 cm),,,,,,3.995833,9.8215,Saulieu et al. 2017
@@ -288,15 +289,15 @@ Beta-25581,1370,60,0,,Carboneras,GNQ,,,,,,,3.75,8.75,Clist 1998
 Beta-25582,2450,70,0,Elaeis guineensis,Okala 1,GAB,,Pit,,,,,0.490556,9.4125,Clist 2004/05
 Beta-264858,1510,40,0,,Corisco,GNQ,,Pit,,,,,0.916667,9.316667,Gonzalez Ruibal 2012
 Beta-264859,1560,40,0,,Corisco,GNQ,,Trench,,,,,0.916667,9.316667,Gonzalez Ruibal 2012
-Beta-279278,900,40,0,,Kribi-Mpolongwe,CMR,,Pit,,,,,2.930278,9.912222,Nlend Nlend 2013/2014: 283
-Beta-279279,2390,50,0,,Kribi-Mpolongwe,CMR,,,,,,,2.930278,9.912222,Nlend Nlend 2013/2014
-Beta-279280,810,40,0,,Kribi-Mpolongwe,CMR,,Pit,,,,,2.930278,9.912222,Nlend Nlend 2013/2014: 283
-Beta-279281,2250,50,0,,Kribi-Mpolongwe,CMR,,Pit,,,,,2.930278,9.912222,Nlend Nlend 2013/2014
-Beta-279282,2280,40,0,,Kribi-Mpolongwe,CMR,,Pit,,,,,2.930278,9.912222,Nlend Nlend 2013/2014
-Beta-279283,2410,50,0,,Kribi-Mpolongwe,CMR,,Pit,,,,,2.930278,9.912222,Nlend Nlend 2013/2014
-Beta-279284,2610,50,0,,Kribi-Mpolongwe,CMR,,Pit,,,,,2.930278,9.912222,Nlend Nlend 2013/2014
-Beta-279285,1850,40,0,,Kribi-Mpolongwe,CMR,,Pit,,,,,2.930278,9.912222,Nlend Nlend 2013/2014: 283
-Beta-279286,2450,40,0,,Kribi-Mpolongwe,CMR,,Pit,,,,,2.930278,9.912222,Nlend Nlend 2013/2014: 283
+Beta-279278,900,40,0,,Kribi-Mpolongwe,CMR,,Pit,,,,,2.930278,9.912222,"Nlend Nlend 2013/2014: 257 Tab. 44, 283"
+Beta-279279,2390,50,0,,Kribi-Mpolongwe,CMR,8,Pit,,Bissiang/Malongo; Bwambé/Mpoengu,,1,2.930278,9.912222,Nlend Nlend 2013/2014
+Beta-279280,810,40,0,,Kribi-Mpolongwe,CMR,,Pit,,,,,2.930278,9.912222,"Nlend Nlend 2013/2014: 257 Tab. 44, 283"
+Beta-279281,2250,50,0,,Kribi-Mpolongwe,CMR,15,Pit,,Bissiang/Malongo,,1,2.930278,9.912222,Nlend Nlend 2013/2014
+Beta-279282,2280,40,0,,Kribi-Mpolongwe,CMR,22,Pit,,Bissiang/Malongo,,1,2.930278,9.912222,Nlend Nlend 2013/2014
+Beta-279283,2410,50,0,,Kribi-Mpolongwe,CMR,23,Pit,,Bissiang/Malongo; Bwambé/Mpoengu,,1,2.930278,9.912222,Nlend Nlend 2013/2014: 257 Tab. 44
+Beta-279284,2610,50,0,,Kribi-Mpolongwe,CMR,31,Pit,,Bissiang/Malongo,,1,2.930278,9.912222,Nlend Nlend 2013/2014
+Beta-279285,1850,40,0,,Kribi-Mpolongwe,CMR,,Pit,,,,,2.930278,9.912222,"Nlend Nlend 2013/2014: 257 Tab. 44, 283"
+Beta-279286,2450,40,0,,Kribi-Mpolongwe,CMR,36,Pit,,Bissiang/Malongo,,1,2.930278,9.912222,"Nlend Nlend 2013/2014: 257 Tab. 44, 283"
 Beta-282417,1240,40,0,,Bodingue,CAF,,Pollencore,,,,0,3.628716,16.836355,Kiahtipes/Lupo et al. 2011
 Beta-282418,480,40,0,,Bodingue,CAF,,Pollencore,,,,0,3.628716,16.836355,Kiahtipes/Lupo et al. 2011
 Beta-282419,270,40,0,,Bodingue,CAF,,Pollencore,,,,0,3.628716,16.836355,Kiahtipes/Lupo et al. 2011
@@ -513,12 +514,12 @@ Erl-12260,1896,38,-24.9,Elaeis guineensis,Nkpwala-Esse,CMR,,,,,,,2.969667,12.068
 Erl-12261,1905,39,-26.4,Charcoal,Nkpwala-Esse,CMR,,,,,,,2.969667,12.068833,Meyer et al. 2009
 Erl-12262,1953,38,-25.7,Charcoal,Nkpwala-Esse,CMR,,,,,,,2.969667,12.068833,Meyer et al. 2009
 Erl-12263,1933,39,-24.2,Charcoal,Nkpwala-Esse,CMR,,,,,,,2.969667,12.068833,Meyer et al. 2009
-Erl-12264,1960,39,-27.6,Charcoal,Mouanko-Lobethal,CMR,LBT 99/2,Burial,,,,,3.641726,9.781966,Meister 2010: 241; Eggert/Seidensticker 2016:81 Tab. 4.2
+Erl-12264,1960,39,-27.6,Charcoal,Mouanko-Lobethal,CMR,LBT 99/2,Burial,,Campo,,1,3.641726,9.781966,Meister 2010: 241; Eggert/Seidensticker 2016:81 Tab. 4.2
 Erl-14116,831,46,,Charcoal,Mouanko-Lobethal,CMR,LBT 98/9,Burial,,,,,3.641726,9.781966,Eggert/Seidensticker 2016:81 Tab. 4.2
 Erl-14118,2300,50,,,Mintyaminyoumin,CMR,MNT 08/1,,,,,,3.02,12.025,Kahlheber et al. 2014: 500 Tab. 4; Garcin et al. 2018
 Erl-17763,2201,52,"-9,2",Pennisetum glaucum,Boso-Njafo,COD,BSN 85/1,Pit,,Imbonga,,,1.130547,19.209599,Kahlheber et al. 2014: 500 Tab. 4
-Erl-9176,2326,86,0,Pennisetum glaucum,Bwambé-Sommet (Est),CMR,BWS 04/2 (F33),Pit,,,,,2.893551,9.903519,Eggert u.a. 2006: 283; Eggert/Seidensticker 2016:79 Tab. 4.2
-Erl-9177,2305,44,0,Elaeis guineensis,Bwambé-Sommet (Est),CMR,BWS 04/2 (F33),Pit,,,,,2.893551,9.903519,Eggert u.a. 2006: 283; Eggert/Seidensticker 2016:79 Tab. 4.2
+Erl-9176,2326,86,0,Pennisetum glaucum,Bwambé-Sommet (Est),CMR,BWS 04/2 (F33),Pit,,Bissiang/Malongo; Bwambé/Mpoengu,,1,2.893551,9.903519,Eggert u.a. 2006: 283; Eggert/Seidensticker 2016:79 Tab. 4.2
+Erl-9177,2305,44,0,Elaeis guineensis,Bwambé-Sommet (Est),CMR,BWS 04/2 (F33),Pit,,Bissiang/Malongo; Bwambé/Mpoengu,,1,2.893551,9.903519,Eggert u.a. 2006: 283; Eggert/Seidensticker 2016:79 Tab. 4.2
 Gif A-95561,10320,110,0,Charcoal,Lope 2,GAB,,,,,,,-0.218056,11.5875,Clist 2004/05
 Gif A-99340,2390,70,0,Charcoal,Lope 6,GAB,,,,,,,-0.2083,11.5944,Clist 2004/05
 Gif A-99396,2330,60,0,Charcoal,Riviere Denis,GAB,2,,,,,0,0.322222,9.347778,Clist 2004/05
@@ -786,12 +787,12 @@ Gif-A99397,7120,80,,,Riviere Denis,GAB,1,,,,,0,0.322222,9.347778,Assoko Ndong 20
 Gif-xxx,1280,80,,,Bankouop,CMR,,,,,,,5.6333,10.5833,Holl 1991; Garcin et al. 2018
 GrA-26175,1720,35,,,Ndéba (Somié),CMR,,,,,,,6.2826,11.2638,de Saulieu et al. 2015; Garcin et al. 2018
 GrN-13076,1450,45,0,Charcoal,Isaka-Elinga,COD,ISK 83/104,,,Lingonda,,1,-0.666969,20.202048,Eggert 1987; Wotzka 1995: 115
-GrN-13077,440,50,0,Charcoal,Bamanya,COD,BAM 81/1,,,,,0,0.00979,18.316297,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
-GrN-13078,660,80,0,Charcoal,Bolondo,COD,BLD 83/1,,,Bondongo/Wema,,1,-0.305801,21.253168,"Wotzka 1995: 138, 171-172; see Seidensticker 2017: Tab. 21"
+GrN-13077,440,50,0,Charcoal,Bamanya,COD,BAM 81/1,,,Bondongo,,0,0.00979,18.316297,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
+GrN-13078,660,80,0,Charcoal,Bolondo,COD,BLD 83/1,,,Bondongo; Wema,,1,-0.305801,21.253168,"Wotzka 1995: 138, 171-172; see Seidensticker 2017: Tab. 21"
 GrN-13583,2290,70,0,Charcoal,Bokele,COD,BKE 81/1,,,Imbonga,,1,-0.099389,18.59212,Eggert 1993; Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
 GrN-13584,1670,110,0,Charcoal,Maluba,COD,MLB 85/1-3-1,Pit,,Batalimo-Maluba,,1,2.806193,18.523706,Eggert 1993; Seidensticker 2017
 GrN-13585,1990,60,0,Charcoal,Maluba,COD,MLB 85/1-3-2,Pit,,Batalimo-Maluba,,1,2.806193,18.523706,Eggert 1993; Seidensticker 2017
-GrN-13586,500,90,0,Charcoal,Longa,COD,LON 81/1,,,,,0,-0.247706,18.881382,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
+GrN-13586,500,90,0,Charcoal,Longa,COD,LON 81/1,,,Imbonga,,0,-0.247706,18.881382,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
 GrN-14002,710,60,0,Charcoal,Baringa,COD,BAR 85/1,,,Bondongo,,1,0.729053,20.735732,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
 GrN-14003,2090,70,0,Charcoal,Bokuma,COD,BOK 83/2,,,Inganda,,1,-0.114356,18.697792,Wotzka 1995: 84; see Seidensticker 2017: Tab. 21
 GrN-14004,1670,70,0,Charcoal,Bokuma,COD,BOK 83/3,,,Bokuma/Lingonda,,1,-0.114356,18.697792,Wotzka 1995: 115; see Seidensticker 2017: Tab. 21
@@ -884,37 +885,37 @@ Hv-11147,1630,55,0,Charcoal,Kabuye,RWA,,,,,,,-2.6,29.833333,de Maret 1985
 Hv-11402,1555,65,0,Charcoal,"Naviundu, Lubumbashi",COD,,,,,,,,,de Maret 1985
 Hv-11403,1605,75,0,Charcoal,"Naviundu, Lubumbashi",COD,,,,,,,,,de Maret 1985
 Hv-11570,2245,195,0,Charcoal,Bamanya,COD,BAM 81/1,,,,,0,0.00979,18.316297,Wotzka 1995; see Seidensticker 2017: Tab. 21
-Hv-11571,730,75,0,Charcoal,Longa,COD,LON 81/1,,,,,0,-0.247706,18.881382,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
-Hv-11572,755,115,0,Charcoal,Bokele,COD,BKE 81/4,,,,,0,-0.099389,18.59212,"Wotzka 1995: 115, 127; see Seidensticker 2017: Tab. 21"
-Hv-11573,1850,120,0,Charcoal,Bokele,COD,BKE 81/1,,,,,0,-0.099389,18.59212,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
-Hv-11574,3775,105,0,Charcoal,Imbonga,COD,IMB 81/9,,,,,0,-0.821913,19.788493,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
-Hv-11575,2130,125,0,Charcoal,Imbonga,COD,IMB 81/1,,,,,0,-0.821913,19.788493,Wotzka 1995: 99; see Seidensticker 2017: Tab. 21
+Hv-11571,730,75,0,Charcoal,Longa,COD,LON 81/1,,,Imbonga,,0,-0.247706,18.881382,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
+Hv-11572,755,115,0,Charcoal,Bokele,COD,BKE 81/4,,,Lingonda/Longa/Bokele/Mbandaka,,0,-0.099389,18.59212,"Wotzka 1995: 115, 127; see Seidensticker 2017: Tab. 21"
+Hv-11573,1850,120,0,Charcoal,Bokele,COD,BKE 81/1,,,Imbonga,,0,-0.099389,18.59212,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
+Hv-11574,3775,105,0,Charcoal,Imbonga,COD,IMB 81/9,,,Imbonga,,0,-0.821913,19.788493,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
+Hv-11575,2130,125,0,Charcoal,Imbonga,COD,IMB 81/1,,,Monkoto,,0,-0.821913,19.788493,Wotzka 1995: 99; see Seidensticker 2017: Tab. 21
 Hv-11576,2900,285,0,Charcoal,Imbonga,COD,IMB 81/3,,,,,0,-0.821913,19.788493,Wotzka 1995; see Seidensticker 2017: Tab. 21
 Hv-11577,1785,125,0,Charcoal,Iyonda,COD,IYO 81/2,,,,,0,-0.037076,18.184492,Wotzka 1995; see Seidensticker 2017: Tab. 21
-Hv-11578,230,110,0,Charcoal,Mbandaka,COD,MBA 81/2,,,,,0,0.047734,18.256204,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
+Hv-11578,230,110,0,Charcoal,Mbandaka,COD,MBA 81/2,,,Bondongo; Mbandaka,,0,0.047734,18.256204,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
 Hv-12128,1960,115,0,Charcoal,Mubuga,BDI,,,,,,,-3.4,30.016667,de Maret 1985
 Hv-12130,2855,285,0,Charcoal,Rwiyange,BDI,,,,,,,-3.05,30.083333,de Maret 1985
 Hv-12203,65,50,0,Charcoal,Bamanya,COD,BAM 81/1,,,,,0,0.00979,18.316297,Wotzka 1995; see Seidensticker 2017: Tab. 21
 Hv-12204,8750,205,0,Charcoal,Iyonda,COD,IYO 81/2,,,,,0,-0.037076,18.184492,Wotzka 1995; see Seidensticker 2017: Tab. 21
 Hv-12205,1860,260,0,Charcoal,Bokele,COD,BKE 81/3,,,,,0,-0.099389,18.59212,Wotzka 1995; see Seidensticker 2017: Tab. 21
 Hv-12206,810,90,0,Charcoal,Mbandaka,COD,MBA 81/2,,,Bondongo,,1,0.047734,18.256204,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
-Hv-12207,2860,280,0,Charcoal,Imbonga,COD,IMB 81/1,,,,,0,-0.821913,19.788493,Wotzka 1995: 99; see Seidensticker 2017: Tab. 21
-Hv-12611,2695,160,0,Charcoal,Wafanya,COD,WAF 83/16,,,,,0,-1.354817,20.378778,"Wotzka 1995: 99, 127; see Seidensticker 2017: Tab. 21"
+Hv-12207,2860,280,0,Charcoal,Imbonga,COD,IMB 81/1,,,Monkoto,,0,-0.821913,19.788493,Wotzka 1995: 99; see Seidensticker 2017: Tab. 21
+Hv-12611,2695,160,0,Charcoal,Wafanya,COD,WAF 83/16,,,Monkoto/Longa,,0,-1.354817,20.378778,"Wotzka 1995: 99, 127; see Seidensticker 2017: Tab. 21"
 Hv-12612,3305,250,0,Charcoal,Wafanya,COD,WAF 83/16,,,,,0,-1.354817,20.378778,Wotzka 1995; see Seidensticker 2017: Tab. 21
 Hv-12613,1920,90,0,Charcoal,Wafanya,COD,WAF 83/16,,,Monkoto,,1,-1.354817,20.378778,Wotzka 1995: 99; see Seidensticker 2017: Tab. 21
-Hv-12614,2665,110,0,Charcoal,Imbonga,COD,IMB 83/1,,,,,0,-0.821913,19.788493,Wotzka 1995: 99; see Seidensticker 2017: Tab. 21
+Hv-12614,2665,110,0,Charcoal,Imbonga,COD,IMB 83/1,,,Monkoto/Longa,,0,-0.821913,19.788493,Wotzka 1995: 99; see Seidensticker 2017: Tab. 21
 Hv-12615,2210,180,0,Charcoal,Bamanya,COD,BAM 83/2,,,,,0,0.00979,18.316297,Wotzka 1995; see Seidensticker 2017: Tab. 21
 Hv-12616,5245,695,0,Charcoal,Bamanya,COD,BAM 83/2,,,,,0,0.00979,18.316297,Wotzka 1995; see Seidensticker 2017: Tab. 21
 Hv-12617,1955,115,0,Charcoal,Bamanya,COD,BAM 83/2,,,,,0,0.00979,18.316297,Wotzka 1995; see Seidensticker 2017: Tab. 21
-Hv-12618,1175,210,0,Charcoal,Bolondo,COD,BLD 83/2,,,,,0,-0.305801,21.253168,Wotzka 1995: 180-181; see Seidensticker 2017: Tab. 21
-Hv-12619,1195,70,0,Charcoal,Bolondo,COD,BLD 83/2,,,,,0,-0.305801,21.253168,"Wotzka 1995: 138, 171-172; see Seidensticker 2017: Tab. 21"
+Hv-12618,1175,210,0,Charcoal,Bolondo,COD,BLD 83/2,,,Bolondo,,0,-0.305801,21.253168,Wotzka 1995: 180-181; see Seidensticker 2017: Tab. 21
+Hv-12619,1195,70,0,Charcoal,Bolondo,COD,BLD 83/2,,,Bondongo/Wema,,0,-0.305801,21.253168,"Wotzka 1995: 138, 171-172; see Seidensticker 2017: Tab. 21"
 Hv-12620,945,75,0,Charcoal,Bamanya,COD,BAM 83/1,,,Bondongo,,1,0.00979,18.316297,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
 Hv-12621,1170,120,0,Charcoal,Bamanya,COD,BAM 83/1,,,,,0,0.00979,18.316297,Wotzka 1995; see Seidensticker 2017: Tab. 21
-Hv-12622,1245,90,0,Charcoal,Wafanya,COD,WAF 83/3,,,,,0,-1.354817,20.378778,Wotzka 1995; see Seidensticker 2017: Tab. 21
-Hv-12624,1725,95,0,Charcoal,Bolondo,COD,BLD 83/1,,,,,0,-0.305801,21.253168,"Wotzka 1995: 138, 171-172; see Seidensticker 2017: Tab. 21"
-Hv-12625,915,105,0,Charcoal,Bolondo,COD,BLD 83/1,,,,,0,-0.305801,21.253168,Wotzka 1995: 180-181; see Seidensticker 2017: Tab. 21
-Hv-12626,1895,65,0,Charcoal,Isaka-Elinga,COD,ISK 83/104,,,,,0,-0.666969,20.202048,Wotzka 1995: 115; see Seidensticker 2017: Tab. 21
-Hv-12627,3485,220,0,Charcoal,Bokuma,COD,BOK 83/1,,,,,0,-0.114356,18.697792,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
+Hv-12622,1245,90,0,Charcoal,Wafanya,COD,WAF 83/3,,,Wafanya,,0,-1.354817,20.378778,Wotzka 1995; see Seidensticker 2017: Tab. 21
+Hv-12624,1725,95,0,Charcoal,Bolondo,COD,BLD 83/1,,,Bondongo/Wema,,0,-0.305801,21.253168,"Wotzka 1995: 138, 171-172; see Seidensticker 2017: Tab. 21"
+Hv-12625,915,105,0,Charcoal,Bolondo,COD,BLD 83/1,,,Bolondo,,0,-0.305801,21.253168,Wotzka 1995: 180-181; see Seidensticker 2017: Tab. 21
+Hv-12626,1895,65,0,Charcoal,Isaka-Elinga,COD,ISK 83/104,,,Lingonda,,0,-0.666969,20.202048,Wotzka 1995: 115; see Seidensticker 2017: Tab. 21
+Hv-12627,3485,220,0,Charcoal,Bokuma,COD,BOK 83/1,,,Imbonga,,0,-0.114356,18.697792,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
 Hv-12840,1020,20,,,Ndindan,CMR,,,,,,,3.9141,11.504,Mbida Mindzie 2002; Garcin et al. 2018
 Hv-12845,2300,65,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,deMaret 1992
 Hv-12845,1645,90,0,,Ndindan,CMR,,Pit,,,,,3.9141,11.504,Mbida Mindzie 2002
@@ -967,7 +968,7 @@ Hv-6618,430,160,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
 Hv-6619,1110,55,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
 Hv-6620,0,0,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
 Hv-6621,250,80,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
-Hv-8916,625,50,0,Charcoal,Nkile,COD,NKI 1,,,Nkile/Bondongo,,1,-0.111339,18.677862,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
+Hv-8916,625,50,0,Charcoal,Nkile,COD,NKI 1,,,Nkile; Bondongo,,1,-0.111339,18.677862,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
 Hv-8963,6070,240,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,de Maret 1980
 Hv-8964,8705,275,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,de Maret 1980
 Hv-8965,6980,260,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,de Maret 1980
@@ -991,10 +992,10 @@ I-14190,2880,90,0,Charcoal,Bertoua,CMR,,,,,,0,4.485556,13.617778,Hori et al. 198
 I-14191,390,80,0,Charcoal,Ngamboula,CMR,,,,,,0,4.5625,13.833333,Hori et al. 1986
 I-1675,1850,120,0,Charcoal,Fougamou-Lambarene Pk 12,GAB,,,,,,,-1.1,10.6083,Clist 2004/05
 IRPA-106-II,760,40,0,,Kamoa,COD,,,,,,,,,van Noten 1982
-KI-2360,420,65,"-29,1",Charcoal,Bamanya,COD,BAM 83/1,,,,,0,0.00979,18.316297,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
+KI-2360,420,65,"-29,1",Charcoal,Bamanya,COD,BAM 83/1,,,Bondongo,,0,0.00979,18.316297,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
 KI-2361,640,70,"-25,3",Charcoal,Bamanya,COD,BAM 83/1,,,Bondongo,,1,0.00979,18.316297,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
 KI-2363,2260,60,"-26,4",Charcoal,Bokuma,COD,BOK 83/1,,,Imbonga,,1,-0.114356,18.697792,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
-KI-2364,740,55,-28,Charcoal,Mbandaka,COD,MBA 81/2,,,Bondongo,,1,0.047734,18.256204,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
+KI-2364,740,55,-28,Charcoal,Mbandaka,COD,MBA 81/2,,,Bondongo; Mbandaka,,1,0.047734,18.256204,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
 KI-2365.01,280,70,"-25,9",Charcoal,Wafanya,COD,WAF 83/16,,,,,0,-1.354817,20.378778,Wotzka 1995; see Seidensticker 2017: Tab. 21
 KI-2428,2160,90,"-27,5",Charcoal,Imbonga,COD,IMB 81/9,,,Imbonga,,1,-0.821913,19.788493,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
 KI-2430,650,65,"-26,6",Charcoal,Baringa,COD,BAR 85/1,,,Bondongo,,1,0.729053,20.735732,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
@@ -1005,7 +1006,7 @@ KI-2439,2270,70,0,Charcoal,Boso-Njafo,COD,BSN 85/3,Pit,,Imbonga,,1,1.130547,19.2
 KI-2444,1930,120,"-27,3",Charcoal,Maluba,COD,MLB 85/1-3-1,Pit,,Batalimo-Maluba,,1,2.806193,18.523706,Eggert 1993; Seidensticker 2017
 KI-2445,2140,200,"-27,3",Charcoal,Maluba,COD,MLB 85/1-3-2,Pit,,Batalimo-Maluba,,1,2.806193,18.523706,Eggert 1993; Seidensticker 2017
 KI-2876,1980,41,"-25,5",Charcoal,Munda,COG,MUN 87/2-1-3,Pit,,Pikunda-Munda,,1,1.162608,17.356948,Eggert 1993; Seidensticker 2017
-KI-2877,1980,100,"-26,9",Charcoal,Pikunda,COG,PIK 87/1,Pit,,Pikunda-Munda,,1,0.549344,16.635736,Wotzka 1995; Seidensticker 2017
+KI-2877,1980,100,"-26,9",Charcoal,Pikunda,COG,PIK 87/1,Pit,,Pikunda-Munda; Lusako,,1,0.549344,16.635736,Wotzka 1995; Seidensticker 2017
 KI-2881,1990,45,"-25,1",Elaeis guineensis,Munda,COG,MUN 87/2-1-1,Furnace,,Pikunda-Munda,,1,1.162608,17.356948,Eggert 1993; Seidensticker 2017
 KI-2882,1110,110,0,Charcoal,Munda,COG,MUN 87/1-0-1,Pit,,,Slag,,1.162608,17.356948,Seidensticker 2017
 KI-2883,870,180,0,Charcoal,Munda,COG,MUN 87/1-0-1,Pit,,,Slag,,1.162608,17.356948,Seidensticker 2017
@@ -1034,12 +1035,12 @@ KIA-12940,1799,27,0,Charcoal,Mouanko-Lobethal,CMR,LBT 99/3,,,,,,3.641726,9.78196
 KIA-12941,1227,36,0,Charcoal,Yatou,CMR,YAT 99/1,,,,,,3.627603,9.816666,Eggert 2002; Eggert/Seidensticker 2016:81 Tab. 4.2
 KIA-12942,1974,26,0,Charcoal,Yatou,CMR,YAT 99/1,,,,,,3.627603,9.816666,Eggert 2002; Eggert/Seidensticker 2016:81 Tab. 4.2
 KIA-12943,631,24,0,Charcoal,Mouanko-Lobethal,CMR,LBT 98/8,,,,,,3.641726,9.781966,Meister 2007: 46; Eggert/Seidensticker 2016:80 Tab. 4.2
-KIA-12944,1816,34,0,Charcoal,Mouanko-Lobethal,CMR,LBT 98/4,Burial,,,,,3.641726,9.781966,Eggert 2002; Eggert/Seidensticker 2016:80 Tab. 4.2
-KIA-12945,1800,27,0,Charcoal,Mouanko-Lobethal,CMR,LBT 98/4,Burial,,,,,3.641726,9.781966,Eggert 2002; Eggert/Seidensticker 2016:80 Tab. 4.2
+KIA-12944,1816,34,0,Charcoal,Mouanko-Lobethal,CMR,LBT 98/4,Burial,,Campo,,1,3.641726,9.781966,Eggert 2002; Eggert/Seidensticker 2016:80 Tab. 4.2
+KIA-12945,1800,27,0,Charcoal,Mouanko-Lobethal,CMR,LBT 98/4,Burial,,Campo,,1,3.641726,9.781966,Eggert 2002; Eggert/Seidensticker 2016:80 Tab. 4.2
 KIA-12946,8913,49,0,Charcoal,Mouanko-Lobethal,CMR,LBT 98/3,Burial,,,,,3.641726,9.781966,Eggert 2002; Eggert/Seidensticker 2016:80 Tab. 4.2
 KIA-12947,8616,50,0,,Mouanko-Lobethal,CMR,LBT 98/2,,,,,,3.641726,9.781966,Eggert 2002; Eggert/Seidensticker 2016:80 Tab. 4.2
 KIA-12948,155,30,,Charcoal,Lobethal,CMR,LBT 98/2,,,,,,3.6447,9.7869,Meister 2010; Eggert/Seidensticker 2016:80 Tab. 4.2; Garcin et al. 2018
-KIA-12949,1888,29,0,,Mouanko-Lobethal,CMR,LBT 98/9,Burial,,,,,3.641726,9.781966,Eggert 2002: 520; Eggert/Seidensticker 2016:81 Tab. 4.2
+KIA-12949,1888,29,0,,Mouanko-Lobethal,CMR,LBT 98/9,Burial,,Bidjouka,,1,3.641726,9.781966,Eggert 2002: 520; Eggert/Seidensticker 2016:81 Tab. 4.2
 KIA-24729,1770,27,0,Charcoal,Akonetye,CMR,AKO 04/2,,,,,,2.4755,11.174669,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
 KIA-24730,1685,25,0,Charcoal,Akonetye,CMR,AKO 04/2,,,,,,2.4755,11.174669,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
 KIA-24731,1610,26,0,Charcoal,Bwambe-Beach,CMR,BWB 04/1,,,,,,2.898504,9.901455,Meister 2007; Eggert/Seidensticker 2016:83 Tab. 4.2
@@ -1071,10 +1072,10 @@ KIA-27031/1,2429,30,0,,Akonetye,CMR,AKO 05/6,Burial,,,,,2.4755,11.174669,Eggert 
 KIA-27031/2,1982,50,0,Sediment,Akonetye,CMR,AKO 05/6,Burial,,,,,2.4755,11.174669,Meister/Eggert 2008; Eggert/Seidensticker 2016:83 Tab. 4.2
 KIA-27032,1771,30,0,Elaeis guineensis,Akonetye,CMR,AKO 05/6,Burial,,,,,2.4755,11.174669,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
 KIA-27033,1732,24,0,Elaeis guineensis,Akonetye,CMR,AKO 05/9,,,,,,2.4755,11.174669,Meister/Eggert 2008; Eggert/Seidensticker 2016:83 Tab. 4.2
-KIA-27034,2363,20,0,Charcoal,Bwambé-Sommet (Est),CMR,BWS 04/1,Pit,,,,,2.893551,9.903519,Eggert u.a. 2006: 283; Eggert/Seidensticker 2016:78 Tab. 4.2
-KIA-27035,2384,57,0,Charcoal,Bwambé-Sommet (Est),CMR,BWS 04/1,Pit,,,,,2.893551,9.903519,Eggert u.a. 2006: 283; Eggert/Seidensticker 2016:78 Tab. 4.2
-KIA-27036,2206,31,0,Charcoal,Bwambé-Sommet (Est),CMR,BWS 04/3,Pit,,,,,2.893551,9.903519,Eggert u.a. 2006: 283; Eggert/Seidensticker 2016:79 Tab. 4.2
-KIA-27037,2193,29,0,Charcoal,Bwambé-Sommet (Est),CMR,BWS 04/3,Pit,,,,,2.893551,9.903519,Eggert u.a. 2006: 283; Eggert/Seidensticker 2016:79 Tab. 4.2
+KIA-27034,2363,20,0,Charcoal,Bwambé-Sommet (Est),CMR,BWS 04/1,Pit,,Bissiang/Malongo; Bwambé/Mpoengu,,1,2.893551,9.903519,Eggert u.a. 2006: 283; Eggert/Seidensticker 2016:78 Tab. 4.2
+KIA-27035,2384,57,0,Charcoal,Bwambé-Sommet (Est),CMR,BWS 04/1,Pit,,Bissiang/Malongo; Bwambé/Mpoengu,,1,2.893551,9.903519,Eggert u.a. 2006: 283; Eggert/Seidensticker 2016:78 Tab. 4.2
+KIA-27036,2206,31,0,Charcoal,Bwambé-Sommet (Est),CMR,BWS 04/3 (F34),Pit,,Bissiang/Malongo; Bwambé/Mpoengu,,1,2.893551,9.903519,Eggert u.a. 2006: 283; Eggert/Seidensticker 2016:79 Tab. 4.2
+KIA-27037,2193,29,0,Charcoal,Bwambé-Sommet (Est),CMR,BWS 04/3,Pit,,Bissiang/Malongo; Bwambé/Mpoengu,,1,2.893551,9.903519,Eggert u.a. 2006: 283; Nlend Nlend 2013: 257 Tab. 44; Eggert/Seidensticker 2016:79 Tab. 4.2
 KIA-29598,2236,26,0,Elaeis guineensis,Abang Minko‘o,CMR,ABM 06/1,Pit,,,,,2.329389,11.422917,Eggert u.a. 2006: 283; Eggert/Seidensticker 2016:77 Tab. 4.2
 KIA-29599,2270,25,0,Elaeis guineensis,Abang Minko‘o,CMR,ABM 06/1,Pit,,,,,2.329389,11.422917,Eggert u.a. 2006: 283; Eggert/Seidensticker 2016:77 Tab. 4.2
 KIA-29600,2198,30,0,Elaeis guineensis,Abang Minko‘o,CMR,ABM 06/2,Pit,,,,,2.329389,11.422917,Eggert u.a. 2006: 283; Eggert/Seidensticker 2016:77 Tab. 4.2
@@ -1086,7 +1087,7 @@ KIA-29605,1871,35,0,Elaeis guineensis,Minyin,CMR,MIY 06/2,Pit,,,,,2.37658,11.331
 KIA-29606,1922,24,0,Elaeis guineensis,Minyin,CMR,MIY 06/2,Pit,,,,,2.37658,11.331313,Meister/Eggert 2008
 KIA-29607,1739,28,0,Charcoal,Minyin,CMR,MIY 06/3,Pit,,,,,2.37658,11.331313,Meister/Eggert 2008
 KIA-29608,1849,26,0,Elaeis guineensis,Minyin,CMR,MIY 06/3,Pit,,,,,2.37658,11.331313,Meister/Eggert 2008
-KIA-29697,2162,60,0,Pennisetum glaucum,Bwambé-Sommet (Est),CMR,BWS 04/2 (F33),Pit,,,,,2.893551,9.903519,Eggert u.a. 2006; Eggert/Seidensticker 2016:79 Tab. 4.2
+KIA-29697,2162,60,0,Pennisetum glaucum,Bwambé-Sommet (Est),CMR,BWS 04/2 (F33),Pit,,Bissiang/Malongo; Bwambé/Mpoengu,,1,2.893551,9.903519,Eggert u.a. 2006; Eggert/Seidensticker 2016:79 Tab. 4.2
 KIA-29698,2181,41,0,Pennisetum glaucum,Abang Minko‘o,CMR,ABM 06/2,Pit,,,,,2.329389,11.422917,Eggert u.a. 2006: 283; Eggert/Seidensticker 2016:77 Tab. 4.2
 KIA-31772,950,20,,,Bolo Bai 1C,CMR,,,,,,,2.15,15.7167,Meister unpubl; Garcin et al. 2018
 KIA-31773,1050,30,,,Ndangayé Bai,CMR,,,,,,,2.3833,15.8,Meister unpubl; Garcin et al. 2018
@@ -1094,9 +1095,9 @@ KIA-31776/1,2420,60,,,Bwambé-Sommet (Est),CMR,BWS 04/1,,,,,,2.893551,9.903519,K
 KIA-31776/2,2320,25,,,Bwambé-Sommet (Est),CMR,BWS 04/1,,,,,,2.893551,9.903519,Kahlheber et al. 2014: 500 Tab. 4; Eggert/Seidensticker 2016:79 Tab. 4.2; Garcin et al. 2018
 KIA-31777,2301,23,,,Bwambé-Sommet (Est),CMR,BWS 04/3,,,,,,2.893551,9.903519,Kahlheber et al. 2014: 500 Tab. 4; Eggert/Seidensticker 2016:79 Tab. 4.2; Garcin et al. 2018
 KIA-31778,1779,20,0,Charcoal,Akonetye,CMR,AKO 05/8,Ditch,,,,,2.4755,11.174669,Meister/Eggert 2008; Eggert/Seidensticker 2016:83 Tab. 4.2
-KIA-31779,1814,23,0,Elaeis guineensis,Akonetye,CMR,AKO 05/6,Burial,,,,,2.4755,11.174669,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
+KIA-31779,1814,23,0,Elaeis guineensis,Akonetye,CMR,AKO 05/6,Burial,,Bidjouka,,1,2.4755,11.174669,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
 KIA-31780,1801,24,0,Elaeis guineensis,Akonetye,CMR,AKO 05/6,Burial,,,,,2.4755,11.174669,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
-KIA-31781,1787,17,0,Charcoal,Akonetye,CMR,AKO 05/2,Burial,,,,,2.4755,11.174669,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
+KIA-31781,1787,17,0,Charcoal,Akonetye,CMR,AKO 05/2,Burial,,Bidjouka,,1,2.4755,11.174669,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
 KIA-31782,1769,24,0,Elaeis guineensis,Akonetye,CMR,AKO 05/2,Burial,,,,,2.4755,11.174669,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
 KIA-33061,1808,25,-28.24,Elaeis guineensis,Akonetye,CMR,AKO 07/1,,,,,,2.4755,11.174669,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
 KIA-33062,1924,26,-25.44,Elaeis guineensis,Akonetye,CMR,AKO 07/1,,,,,,2.4755,11.174669,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
@@ -1104,30 +1105,29 @@ KIA-33063,1885,25,-24.45,Elaeis guineensis,Akonetye,CMR,AKO 07/6,,,,,,2.4755,11.
 KIA-33064,1855,24,-26.58,Elaeis guineensis,Akonetye,CMR,AKO 07/6,,,,,,2.4755,11.174669,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
 KIA-33065,1934,26,-28.59,Charcoal,Akonetye,CMR,AKO 07/1,,,,,,2.4755,11.174669,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
 KIA-33068,1730,25,,,Campo,CMR,,,,,,0,2.377257,9.83092,Meister/Eggert 2008; Garcin et al. 2008
-KIA-33069,1713,25,-25.11,Charcoal,Campo,CMR,CAM 07/1,Burial,,,,1,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
-KIA-33070,1796,24,-27.77,Charcoal,Campo,CMR,CAM 07/1,Burial,,,,1,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
-KIA-33071,1742,26,-25.38,Charcoal,Campo,CMR,CAM 07/2,Burial,,,,1,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
-KIA-33072,1705,25,-25.01,Elaeis guineensis,Campo,CMR,CAM 07/2,Burial,,,,0,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
-KIA-33073,1729,26,-26.92,Elaeis guineensis,Campo,CMR,CAM 07/2,Burial,,,,1,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
-KIA-33074,1714,23,-25.17,Elaeis guineensis,Campo,CMR,CAM 07/3,Burial,,,,1,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
-KIA-33075,1901,24,-25.59,Elaeis guineensis,Campo,CMR,CAM 07/3,Burial,,,,1,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
-KIA-33076,1988,28,-25.83,Charcoal,Campo,CMR,CAM 07/3,Burial,,,,1,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
+KIA-33069,1713,25,-25.11,Charcoal,Campo,CMR,CAM 07/1,Burial,,Campo,,1,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
+KIA-33070,1796,24,-27.77,Charcoal,Campo,CMR,CAM 07/1,Burial,,Campo,,1,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
+KIA-33071,1742,26,-25.38,Charcoal,Campo,CMR,CAM 07/2,Burial,,Campo,,1,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
+KIA-33072,1705,25,-25.01,Elaeis guineensis,Campo,CMR,CAM 07/2,Burial,,Campo,,0,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
+KIA-33073,1729,26,-26.92,Elaeis guineensis,Campo,CMR,CAM 07/2,Burial,,Campo,,1,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
+KIA-33074,1714,23,-25.17,Elaeis guineensis,Campo,CMR,CAM 07/3,Burial,,Campo,,1,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
+KIA-33075,1901,24,-25.59,Elaeis guineensis,Campo,CMR,CAM 07/3,Burial,,Campo,,1,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
+KIA-33076,1988,28,-25.83,Charcoal,Campo,CMR,CAM 07/3,Burial,,Campo,,1,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
 KIA-33077,1184,22,-24.95,Charcoal,Campo,CMR,CAM 07/4,Burial,,,,1,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
-KIA-33078,1847,22,-23.74,Elaeis guineensis,Campo,CMR,CAM 07/4,Burial,,,,1,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
+KIA-33078,1847,22,-23.74,Elaeis guineensis,Campo,CMR,CAM 07/4,Burial,,Campo,,1,2.377257,9.83092,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
 KIA-34087,4002,42,,Charcoal,Campo,CMR,CAM 07/9,,,,,0,2.377257,9.83092,Eggert/Seidensticker 2016:65 Tab. 4.1
-KIA-34088,1920,25,,Elaeis guineensis,Campo,CMR,CAM 07/9,Burial,,,,1,2.377257,9.83092,Nlend Nlend 2013; Eggert/Seidensticker 2016:64 Tab. 4.1; Garcin et al. 2018
+KIA-34088,1920,25,,Elaeis guineensis,Campo,CMR,CAM 07/9,Burial,,Campo,,1,2.377257,9.83092,Nlend Nlend 2013; Eggert/Seidensticker 2016:64 Tab. 4.1; Garcin et al. 2018
 KIA-34089,5595,30,,Charcoal,Campo,CMR,CAM 07/7,,,,,0,2.377257,9.83092,Eggert/Seidensticker 2016:65 Tab. 4.1
 KIA-34090,11211,45,,Elaeis guineensis,Campo,CMR,CAM 07/7,,,,,0,2.377257,9.83092,Eggert/Seidensticker 2016:65 Tab. 4.1
 KIA-34091,895,25,,Charcoal,Campo,CMR,CAM 07/6,Burial,,,,0,2.377257,9.83092,Eggert/Seidensticker 2016:64 Tab. 4.1
 KIA-34092,1185,25,,Charcoal,Campo,CMR,CAM 07/6,Burial,,,,0,2.377257,9.83092,Eggert/Seidensticker 2016:64 Tab. 4.1
 KIA-34093,2305,30,,Elaeis guineensis,Campo,CMR,CAM 07/5,Burial,,,,0,2.377257,9.83092,Eggert/Seidensticker 2016:64 Tab. 4.1
-KIA-34094,1900,25,,,Campo,CMR,CAM 07/13,Pit,,,,1,2.377257,9.83092, Eggert/Seidensticker 2016:65 Tab. 4.1
-KIA-34095,1865,25,,,Campo,CMR,CAM 07/13,Pit,,,,1,2.377257,9.83092, Eggert/Seidensticker 2016:65 Tab. 4.1
-KIA-34096,1665,25,,Elaeis guineensis,Campo,CMR,CAM 07/12,Burial,,,,1,2.377257,9.83092,Nlend Nlend 2013; Eggert/Seidensticker 2016:64 Tab. 4.1; Garcin et al. 2018
-KIA-34097,1775,30,,Elaeis guineensis,Campo,CMR,CAM 07/12,Burial,,,,1,2.377257,9.83092,Nlend Nlend 2013; Eggert/Seidensticker 2016:64 Tab. 4.1; Garcin et al. 2018
-KIA-34098,2150,25,,,Campo,CMR,CAM 07/11,Pit,,,,1,2.377257,9.83092,Kahlheber et al. 2014: 501 Tab. 4; Eggert/Seidensticker 2016:65 Tab. 4.1; Garcin et al. 2018
-KIA-34099,2180,20,,,Campo,CMR,CAM 07/11,Pit,,,,1,2.377257,9.83092,Kahlheber et al. 2014: 501 Tab. 4; Eggert/Seidensticker 2016:65 Tab. 4.1; Garcin et al. 2018
-KIA-34100,1850,25,,Elaeis guineensis,Campo,CMR,CAM 07/10,Burial,,,,1,2.377257,9.83092,Nlend Nlend 2013; Eggert/Seidensticker 2016:64 Tab. 4.1; Garcin et al. 2018
+KIA-34094,1900,25,,,Campo,CMR,CAM 07/13,Pit,,Campo,,1,2.377257,9.83092, Eggert/Seidensticker 2016:65 Tab. 4.1
+KIA-34095,1865,25,,,Campo,CMR,CAM 07/13,Pit,,Campo,,1,2.377257,9.83092, Eggert/Seidensticker 2016:65 Tab. 4.1
+KIA-34096,1665,25,,Elaeis guineensis,Campo,CMR,CAM 07/12,Burial,,Campo,,1,2.377257,9.83092,Nlend Nlend 2013; Eggert/Seidensticker 2016:64 Tab. 4.1; Garcin et al. 2018
+KIA-34097,1775,30,,Elaeis guineensis,Campo,CMR,CAM 07/12,Burial,,Campo,,1,2.377257,9.83092,Nlend Nlend 2013; Eggert/Seidensticker 2016:64 Tab. 4.1; Garcin et al. 2018
+KIA-34099,2180,20,,,Campo,CMR,CAM 07/11,Pit,,Bissiang/Malongo,,1,2.377257,9.83092,Kahlheber et al. 2014: 501 Tab. 4; Eggert/Seidensticker 2016:65 Tab. 4.1; Garcin et al. 2018
+KIA-34100,1850,25,,Elaeis guineensis,Campo,CMR,CAM 07/10,Burial,,Campo,,1,2.377257,9.83092,Nlend Nlend 2013; Eggert/Seidensticker 2016:64 Tab. 4.1; Garcin et al. 2018
 KIA-34101,20400,120,,Elaeis guineensis,Campo,CMR,CAM 07/10,,,,,0,2.377257,9.83092,Eggert/Seidensticker 2016:65 Tab. 4.1
 KIA-34102,1540,25,,Elaeis guineensis,Campo,CMR,CAM 07/109,,,,,1,2.377257,9.83092,Eggert/Seidensticker 2016:64 Tab. 4.1
 KIA-34103,1505,25,,Elaeis guineensis,Campo,CMR,CAM 07/108,,,,,1,2.377257,9.83092,Eggert/Seidensticker 2016:64 Tab. 4.1
@@ -1135,8 +1135,8 @@ KIA-34104,1535,25,,Elaeis guineensis,Campo,CMR,CAM 07/107,,,,,1,2.377257,9.83092
 KIA-34105,1485,25,,Elaeis guineensis,Campo,CMR,CAM 07/106,,,,,1,2.377257,9.83092,Eggert/Seidensticker 2016:64 Tab. 4.1
 KIA-34106,1525,25,,Elaeis guineensis,Campo,CMR,CAM 07/95,Pit,,,,1,2.377257,9.83092,Eggert/Seidensticker 2016:64 Tab. 4.1
 KIA-34107,1400,25,,Elaeis guineensis,Campo,CMR,CAM 07/95,Pit,,,,1,2.377257,9.83092,Eggert/Seidensticker 2016:64 Tab. 4.1
-KIA-34108,1875,25,,Charcoal,Campo,CMR,CAM 07/5,Burial,,,,1,2.377257,9.83092,Eggert/Seidensticker 2016:64 Tab. 4.1
-KIA-34109,1845,25,,Elaeis guineensis,Campo,CMR,CAM 07/5,Burial,,,,1,2.377257,9.83092,Eggert/Seidensticker 2016:64 Tab. 4.1
+KIA-34108,1875,25,,Charcoal,Campo,CMR,CAM 07/5,Burial,,Campo,,1,2.377257,9.83092,Eggert/Seidensticker 2016:64 Tab. 4.1
+KIA-34109,1845,25,,Elaeis guineensis,Campo,CMR,CAM 07/5,Burial,,Campo,,1,2.377257,9.83092,Eggert/Seidensticker 2016:64 Tab. 4.1
 KIA-34141,1565,30,0,Elaeis guineensis,Pokola,COG,1,,,,,0,1.405,16.31833,Morin-Rivat 2014
 KIA-34142,620,25,0,Elaeis guineensis,Pokola,COG,2,,,,,0,1.405,16.31833,Morin-Rivat 2014
 KIA-34143,2170,30,0,,Ikelemba 1,,,,,,,0,1.227166,16.504824,Morin-Rivat 2014
@@ -1162,9 +1162,9 @@ KIA-45499,1980,25,0,Canarium s.,Messok,CMR,2,,,,,0,3.0847,14.06357,Morin-Rivat 2
 KIA-8456,2217,24,0,,Mfomakap/Nkometou,CMR,MFK 97/3,,,,,,4.049917,11.55,Eggert 2002
 KIA-8457,1783,33,0,,Mouanko-Epolo,CMR,MOU 97/1,Burial,,,,1,3.645092,9.799406,Eggert 2002; Eggert/Seidensticker 2016:81 Tab. 4.2
 KIA-8458,3860,29,,,Mouanko-Epolo,CMR,MOU 97/1,Burial,,,,0,3.6428,9.7994,Meister 2010; Eggert/Seidensticker 2016:81 Tab. 4.2; Garcin et al. 2018
-KN-4203,230,110,0,Charcoal,Bolondo,COD,BLD 83/2,,,Bondongo,,1,-0.305801,21.253168,Wotzka 1995: 180-181; see Seidensticker 2017: Tab. 21
+KN-4203,230,110,0,Charcoal,Bolondo,COD,BLD 83/2,,,Bolondo,,1,-0.305801,21.253168,Wotzka 1995: 180-181; see Seidensticker 2017: Tab. 21
 KN-4204,1870,70,0,Charcoal,Bokele,COD,BKE 81/2,Pit,,Bokele,,1,-0.099389,18.59212,Wotzka 1995: 115; see Seidensticker 2017: Tab. 21
-KN-4205,260,120,0,Charcoal,Longa,COD,LON 81/1,,,,,0,-0.247706,18.881382,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
+KN-4205,260,120,0,Charcoal,Longa,COD,LON 81/1,,,Imbonga,,0,-0.247706,18.881382,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
 KN-4206,1590,60,0,Charcoal,Isaka-Elinga,COD,ISK 83/104,,,Lingonda,,1,-0.666969,20.202048,Wotzka 1995: 115; see Seidensticker 2017: Tab. 21
 KSU-1250,0,40,0,Charcoal,Ebolowa,CMR,,,,,,0,2.9,11.244444,Hori et al. 1986
 KSU-444,0,0,0,Elaeis guineensis,Bidjoka,CMR,,,,,,,3.680278,10.612778,de Maret 1985; Hori et al. 1986
@@ -1397,10 +1397,10 @@ Poz-39110,2200,30,,,UH48,DRC,,,,,,0,-5.992,13.19,Hubau et al. 2013; Garcin et al
 Poz-39111,1930,30,,,KS9,DRC,,,,,,0,-4.7625,13.0069,Hubau et al. 2013; Garcin et al. 2018
 Poz-39112,265,30,,,KS9,DRC,,,,,,0,-4.7625,13.0069,Hubau et al. 2013; Garcin et al. 2018
 Poz-39113,1860,35,,,KS9,DRC,,,,,,0,-4.7625,13.0069,Hubau et al. 2013; Garcin et al. 2018
-Poz-39115,1685,30,0,,Yandjambi II,COD,MBI/10/II,Layer,,Early Phase (cf. Bomane Yangwa)/Middle Phase (cf. Ilambi Moke),,,0.72538,24.21833,Livingstone-Smith et al. 2017: 4 Tab. 1
-Poz-39116,1990,30,0,,Ilambi Moke,COD,MOK/10/II,Layer,,Early Phase (cf. Bomane Yangwa)/Middle Phase (cf. Ilambi Moke),,,0.64945,24.23044,Livingstone-Smith et al. 2017: 4 Tab. 1
-Poz-39117,2085,35,0,,Ilambi Moke,COD,MOK/10/II,Layer,,Early Phase (cf. Bomane Yangwa),,,0.64945,24.23044,Livingstone-Smith et al. 2017: 4 Tab. 1
-Poz-39121,1880,30,0,,Bomane-Yangwa,COD,YNG/10/II,Pit,,Middle Phase (cf. Ilambi Moke),,,1.3028,23.81738,Livingstone-Smith et al. 2017: 4 Tab. 1
+Poz-39115,1685,30,0,,Yandjambi II,COD,MBI/10/II,Layer,,Early Phase (cf. Bomane Yangwa)/Middle Phase (cf. Ilambi Moke),,1,0.72538,24.21833,Livingstone-Smith et al. 2017: 4 Tab. 1
+Poz-39116,1990,30,0,,Ilambi Moke,COD,MOK/10/II,Layer,,Early Phase (cf. Bomane Yangwa)/Middle Phase (cf. Ilambi Moke),,1,0.64945,24.23044,Livingstone-Smith et al. 2017: 4 Tab. 1
+Poz-39117,2085,35,0,,Ilambi Moke,COD,MOK/10/II,Layer,,Early Phase (cf. Bomane Yangwa),,1,0.64945,24.23044,Livingstone-Smith et al. 2017: 4 Tab. 1
+Poz-39121,1880,30,0,,Bomane-Yangwa,COD,YNG/10/II,Pit,,Middle Phase (cf. Ilambi Moke),,1,1.3028,23.81738,Livingstone-Smith et al. 2017: 4 Tab. 1
 Poz-39122,2110,35,0,,Bomane-Yangwa,COD,YNG/10/II,Pit,,Early Phase (cf. Bomane Yangwa),,,1.3028,23.81738,Livingstone-Smith et al. 2017: 4 Tab. 1
 Poz-41770,1580,30,0,Elaeis guineensis,Liouesso,COG,,,,,,0,1.05278,15.69167,Morin-Rivat 2014
 Poz-41771,2090,30,0,Elaeis guineensis,Pikounda 1,,,,,,,0,0.549344,16.635736,Morin-Rivat 2014
@@ -1457,8 +1457,8 @@ Poz-49343,2150,30,,,"Site 2 or Area 2, T6",CMR,,,,,,0,3.467,14.3105,Vleminckx et
 Poz-49344,2250,35,,,"Site 2 or Area 2, T6",CMR,,,,,,0,3.467,14.3105,Vleminckx et al. 2014; Garcin et al. 2018
 Poz-49345,2300,30,,,"Site 2 or Area 2, T6",CMR,,,,,,0,3.467,14.3105,Vleminckx et al. 2014; Garcin et al. 2018
 Poz-49398,2200,35,,,Area 1,CMR,,,,,,0,3.375,14.025,Vleminckx et al. 2014; Garcin et al. 2018
-Poz-57246,2085,30,0,,Baombi II,COD,BAO/13/I,Pit,,Early Phase (cf. Bomane Yangwa),,,0.656695,25.160636,Livingstone-Smith et al. 2017: 4 Tab. 1
-Poz-57248,2155,30,0,,Baombi II,COD,BAO/13/I,Pit,,Early Phase (cf. Bomane Yangwa),,,0.656695,25.160636,Livingstone-Smith et al. 2017: 4 Tab. 1
+Poz-57246,2085,30,0,,Baombi II,COD,BAO/13/I,Pit,,Early Phase (cf. Bomane Yangwa),,1,0.656695,25.160636,Livingstone-Smith et al. 2017: 4 Tab. 1
+Poz-57248,2155,30,0,,Baombi II,COD,BAO/13/I,Pit,,Early Phase (cf. Bomane Yangwa),,1,0.656695,25.160636,Livingstone-Smith et al. 2017: 4 Tab. 1
 Poz-57843,1860,30,,,GPS051,CMR,,,,,,,2.4956,12.0319,de Saulieu et al. 2015; Garcin et al. 2018
 Poz-57845,1620,30,,,Meveme,CMR,,,,,,,2.4055,13.1146, Saulieu et al. 2015; Garcin et al. 2018
 Poz-57846,2270,30,,,Nya Zanga,CMR,,,,,,,2.5013,12.0249, Saulieu et al. 2015; Garcin et al. 2018
@@ -1508,9 +1508,9 @@ Poz-74507,165,30,0,,Dibamba,CMR,F. 84B (20-60 cm),,,,,,3.995833,9.8215,Saulieu 
 Poz-74508,435,30,0,,Dibamba,CMR,F. 69 (0-50 cm),,,,,,3.995833,9.8215,Saulieu et al. 2017
 Poz-74509,420,30,0,,Dibamba,CMR,F. 67 (0-30 cm),,,,,,3.995833,9.8215,Saulieu et al. 2017
 Poz-74510,520,30,0,,Dibamba,CMR,F. 38B (30-67 cm),,,,,,3.995833,9.8215,Saulieu et al. 2017
-Poz-75451,370,30,0,,Yangambi,COD,YAN/15/05,,,Ilambi,,,0.76755,24.43973,Livingstone-Smith et al. 2017: 4 Tab. 1
-Poz-75452,1670,30,0,,Yangambi,COD,YAN/15/05,,,Middle Phase (cf. Ilambi Moke),,,0.76755,24.43973,Livingstone-Smith et al. 2017: 4 Tab. 1
-Poz-75462,1230,30,0,,Yangambi,COD,YAS/15/02,,,Ilambi,,,0.76755,24.43973,Livingstone-Smith et al. 2017: 4 Tab. 1
+Poz-75451,370,30,0,,Yangambi,COD,YAN/15/05,,,Ilambi,,1,0.76755,24.43973,Livingstone-Smith et al. 2017: 4 Tab. 1
+Poz-75452,1670,30,0,,Yangambi,COD,YAN/15/05,,,Middle Phase (cf. Ilambi Moke),,1,0.76755,24.43973,Livingstone-Smith et al. 2017: 4 Tab. 1
+Poz-75462,1230,30,0,,Yangambi,COD,YAS/15/02,,,Ilambi,,1,0.76755,24.43973,Livingstone-Smith et al. 2017: 4 Tab. 1
 Pta-212,1810,50,0,,Benfica,AGO,,,,,,,-8.95796,13.190891,van Noten 1982
 Pta-238,7840,80,0,,Mungo,AGO,,,,,,,,,van Noten 1982
 Pta-239,9670,90,0,,Mungo,AGO,,,,,,,,,van Noten 1982
@@ -1629,9 +1629,3 @@ Y-588,700,65,0,,Feti la Choya,AGO,,,,,,,,,van Noten 1982
 ,2327,50,0,,Ngoume PK 35,CMR,,,,,,,5.48333,11.4,Leka 2008
 ,2355,55,0,,Ngoume PK 35,CMR,,,,,,,5.48333,11.4,Leka 2008
 ,2500,40,0,,Ngoume PK 35,CMR,,,,,,,5.48333,11.4,Leka 2008
-,2250,50,0,,Kribi-Mpolongwe,CMR,,Pit,,,,,2.930278,9.912222,Nlend Nlend 2013/2014: 257
-,2280,40,0,,Kribi-Mpolongwe,CMR,,Pit,,,,,2.930278,9.912222,Nlend Nlend 2013/2014: 257
-,2390,50,0,,Kribi-Mpolongwe,CMR,,Pit,,,,,2.930278,9.912222,Nlend Nlend 2013/2014: 257
-,2410,50,0,,Kribi-Mpolongwe,CMR,,Pit,,,,,2.930278,9.912222,Nlend Nlend 2013/2014: 257
-,2450,40,0,,Kribi-Mpolongwe,CMR,,Pit,,,,,2.930278,9.912222,Nlend Nlend 2013/2014: 257
-,2610,50,0,,Kribi-Mpolongwe,CMR,,Pit,,,,,2.930278,9.912222,Nlend Nlend 2013/2014: 257
