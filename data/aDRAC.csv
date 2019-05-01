@@ -483,8 +483,8 @@ BM-2426,2770,120,0,,Mbi Crater,CMR,,,,,,0,6.050191,10.203466,Asombang 1998; Garc
 BM-2495,40,40,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,Lavachery/Cornelissen 2000
 BM-2496,6360,100,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,Asombang 1988
 Bon-599,1640,520,0,Peat,Bras mort Ogooue,GAB,,,,,,,,,Clist 2004/05
-C-580,11188,490,0,,Mufo,AGO,,,,Tshitolian/Lupembian,,,-7.516667,21.416667,Cahen/Moeyersons 1977: 813 Tab. 1; de Maret/van Noten/Cahen 1977
-C-581,14483,560,0,,Mufo,AGO,,,,Lupembian/Upper,,,-7.516667,21.416667,Cahen/Moeyersons 1977: 813 Tab. 1; de Maret/van Noten/Cahen 1977
+C-580,11188,490,0,,Mufo,AGO,,,Tshitolian/Lupembian,,,1,-7.516667,21.416667,Cahen/Moeyersons 1977: 813 Tab. 1; de Maret/van Noten/Cahen 1977
+C-581,14483,560,0,,Mufo,AGO,,,Lupembian/Upper,,,1,-7.516667,21.416667,Cahen/Moeyersons 1977: 813 Tab. 1; de Maret/van Noten/Cahen 1977
 Crg-862,570,50,0,,Tsabouka,COG,,,,,,,-4.26083,14.42806,Pincon 1991
 Crg-863,570,50,0,,Tsabouka,COG,,,,,,,-4.26083,14.42806,Dupre/Pincon 1997
 Crg-865,750,70,0,,Tsabouka,COG,,,,,,,-4.26083,14.42806,Pincon 1991
@@ -591,7 +591,7 @@ Gif-1887,2560,110,0,,Be Yole,CAF,,,,,,,,,van Noten 1982
 Gif-1888,2200,110,0,,Be Yole,CAF,,,,,,,,,van Noten 1982
 Gif-1889,2400,100,0,,Zupaya,CAF,,,,,,,,,van Noten 1982
 Gif-1890,6700,140,0,,Zupaya,CAF,,,,,,,,,van Noten 1982
-Gif-1914,6600,130,0,,Moussanda,COG,,,Tshitolien,,,0,-4.016667,13.933333,Kouyoumontzakis u.a. 1985
+Gif-1914,6600,130,0,,Moussanda,COG,,,Tshitolien,,,1,-4.016667,13.933333,Kouyoumontzakis u.a. 1985
 Gif-2202,8550,200,0,,Point-Noire,COG,,,,,,,-4.75,11.85,van Noten 1982
 Gif-2203,8920,200,0,,Point-Noire,COG,,,,,,,-4.75,11.85,van Noten 1982
 Gif-2204,7650,180,0,,Point-Noire,COG,,,,,,,-4.75,11.85,van Noten 1982
@@ -633,17 +633,17 @@ Gif-4223,1240,90,0,Charcoal,Point-Noire,COG,,,,,,,-4.75,11.85,"de Maret 1985, Ko
 Gif-4280,500,60,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985
 Gif-4313,6890,160,,,Ntadi Yomba,COD,,,,,,,-4.25,13.766667,Delibrias/Guilier 1988; Garcin et al. 2018
 Gif-4391,1990,90,0,,Ntadi-Yomba,COG,,,,,,0,-4.25,13.766667,Kouyoumontzakis u.a. 1985
-Gif-4392,7090,140,0,,Ntadi-Yomba,COG,,,Tshitolien,,,0,-4.25,13.766667,Kouyoumontzakis u.a. 1985
+Gif-4392,7090,140,0,,Ntadi-Yomba,COG,,,Tshitolien,,,1,-4.25,13.766667,Kouyoumontzakis u.a. 1985
 Gif-4504,630,80,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985
 Gif-4545,3660,100,0,,Mouambe,COG,,,,,,0,-2.916667,14.633333,Kouyoumontzakis u.a. 1985
 Gif-4546,0,0,0,Charcoal,Lombo,COG,,,,,,,-4.55,12.183333,de Maret 1985
 Gif-456,590,0,0,Shell (River/Ocean),Cap Lopez,GAB,,,,,,0,-0.772646,8.781164,Clist 2004/05
 Gif-4568,870,90,0,Charcoal,Salak,CMR,,,,,,,10.433333,14.25,de Maret 1985
 Gif-457,1540,0,0,Shell (River/Ocean),Cap Lopez,GAB,,,,,,0,-0.772646,8.781164,Clist 2004/05
-Gif-459,4030,200,0,,Bittori,COG,,,Tshitolien,,,0,-3.904596,14.502274,Kouyoumontzakis u.a. 1985
-Gif-460,3930,200,0,,Bittori,COG,,,Tshitolien,,,0,-3.904596,14.502274,Kouyoumontzakis u.a. 1985
+Gif-459,4030,200,0,,Bittori,COG,,,Tshitolien,,,1,-3.904596,14.502274,Kouyoumontzakis u.a. 1985
+Gif-460,3930,200,0,,Bittori,COG,,,Tshitolien,,,1,-3.904596,14.502274,Kouyoumontzakis u.a. 1985
 Gif-4614,670,200,0,Charcoal,Ntadi-Yomba,COG,,,,,,0,-4.25,13.766667,Kouyoumontzakis u.a. 1985
-Gif-4653,6890,160,0,Shell (Land),Ntadi-Yomba,COG,,,Tshitolien,,,0,-4.25,13.766667,Kouyoumontzakis u.a. 1985
+Gif-4653,6890,160,0,Shell (Land),Ntadi-Yomba,COG,,,Tshitolien,,,1,-4.25,13.766667,Kouyoumontzakis u.a. 1985
 Gif-4821,2340,100,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985
 Gif-4822,1340,100,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985
 Gif-4833,1340,90,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985
@@ -834,15 +834,15 @@ GrN-6947,75,65,0,,Hau,COD,,,,,,,3.5,19.3,van Noten 1982
 GrN-6948,0,0,0,,Hau,COD,,,,,,,3.5,19.3,van Noten 1982
 GrN-7041,0,0,0,,Hau,COD,,,,,,,3.5,19.3,van Noten 1982
 GrN-7218,220,30,0,,Gombe-Point,COD,,Layer,,Groupe X,,1,-4.300597,15.280791,"van Noten 1982; Clist 2018: 235, 238 Tab. 18.2"
-GrN-7219,3385,35,0,,Gombe-Point,COD,,T12,,Tshitolian/Upper,,1,-4.300597,15.280791,Cahen 1976: 592 Fig. 9; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
-GrN-7220,8095,50,0,,Gombe-Point,COD,,T12,,Lupemban/Tshitolian,,1,-4.300597,15.280791,Cahen 1976: 592 Fig. 9; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
-GrN-7221,27240,280,0,,Gombe-Point,COD,,,,Sangoan/Lupemban,,1,-4.300597,15.280791,Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+GrN-7219,3385,35,0,,Gombe-Point,COD,,T12,Tshitolian/Upper,,,1,-4.300597,15.280791,Cahen 1976: 592 Fig. 9; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+GrN-7220,8095,50,0,,Gombe-Point,COD,,T12,Lupemban/Tshitolian,,,1,-4.300597,15.280791,Cahen 1976: 592 Fig. 9; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+GrN-7221,27240,280,0,,Gombe-Point,COD,,,Sangoan/Lupemban,,,1,-4.300597,15.280791,Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
 GrN-7244,720,45,0,,Gbabiri,CAF,,,,,,,,,Van Noten 1977
 GrN-7245,2910,75,0,,Gbabiri,CAF,,,,,,,,,Van Noten 1977
 GrN-7246,40700,1500,0,,Gbabiri,CAF,,,,,,,,,Van Noten 1977
-GrN-7276,14840,80,0,,Gombe-Point,COD,,,,Lupemban/Tshitolian,,1,-4.300597,15.280791,Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
-GrN-7277,41850,0,0,,Gombe-Point,COD,,,,Sangoan,,1,-4.300597,15.280791,Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
-GrN-7278,5260,40,0,,Gombe-Point,COD,,,,Tshitolian/Upper,,0,-4.300597,15.280791,Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+GrN-7276,14840,80,0,,Gombe-Point,COD,,,Lupemban/Tshitolian,,,1,-4.300597,15.280791,Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+GrN-7277,41850,0,0,,Gombe-Point,COD,,,Sangoan,,,1,-4.300597,15.280791,Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+GrN-7278,5260,40,0,,Gombe-Point,COD,,,Tshitolian/Upper,,,1,-4.300597,15.280791,Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
 GrN-7279,3525,35,0,,Gombe-Point,COD,,,,,,0,-4.300597,15.280791,van Noten 1982
 GrN-7343,12050,250,0,,Gbabiri,CAF,,,,,,,,,Van Noten 1977
 GrN-7344,16740,150,0,,Gbabiri,CAF,,,,,,,,,Van Noten 1977
@@ -1213,11 +1213,11 @@ Lv-1533,860,50,0,,Moubiri,COG,,,,,,,-3.87278,13.74972,Pincon 1991
 Lv-1534,280,60,0,,Moubiri,COG,,,,,,,-3.87278,13.74972,Pincon 1991
 Lv-1603,8480,140,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,Lavachery 2001; Garcing et al. 2018
 Lv-1605,2320,70,,,Okolo,CMR,,,,,,,3.933333,11.516667,Atangana 1992; Garcin et al. 2018
-Lv-162,5750,110,0,,Mont Gafula,COD,,,,Tshitolian,,,-4.46667,15.21667,Gilot et al. 1965: 121; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
-Lv-163,26000,0,0,,Basoko 3,COD,,,,Sangoan/Lupembian,,,-4.35,15.2833,Gilot et al. 1965: 121; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
-Lv-164,9730,200,0,,Basoko 2,COD,,,,Tshitolian/Lower,,,-4.35,15.2833,Gilot et al. 1965: 121; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
-Lv-165,8920,160,0,,Cabu 4,COD,,Fireplace,,Tshitolian,,,-4.33333,15.31667,Gilot et al. 1965: 121; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
-Lv-166,15080,480,0,,Cabu 5,COD,,,,Lupembian/Upper,,,-4.33333,15.31667,Gilot et al. 1965: 121; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+Lv-162,5750,110,0,,Mont Gafula,COD,,,Tshitolian,,,1,-4.46667,15.21667,Gilot et al. 1965: 121; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+Lv-163,26000,0,0,,Basoko 3,COD,,,Sangoan/Lupembian,,,1,-4.35,15.2833,Gilot et al. 1965: 121; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+Lv-164,9730,200,0,,Basoko 2,COD,,,Tshitolian/Lower,,,1,-4.35,15.2833,Gilot et al. 1965: 121; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+Lv-165,8920,160,0,,Cabu 4,COD,,Fireplace,Tshitolian,,,1,-4.33333,15.31667,Gilot et al. 1965: 121; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+Lv-166,15080,480,0,,Cabu 5,COD,,,Lupembian/Upper,,,1,-4.33333,15.31667,Gilot et al. 1965: 121; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
 Lv-167,2220,90,0,Charcoal,Île de la Funa,COD,,Layer,,,,1,-4.31915,15.34503,"Gilot et al. 1965: 121; van Noten 1982; Clist 2018: 239 Tab. 18.2, Tab. 18.3"
 Lv-168,1540,100,0,Charcoal,Île des Mimosas,COD,,Layer,,,,1,-4.328826,15.227313,"Gilot et al. 1965: 122; Eggert 1984; Pincon 1991; Clist 2018: 239 Tab. 18.2, 239 Tab. 18.3"
 Lv-1697,2290,50,0,Elaeis guineensis/Charcoal,Sakuzi,COD,,Pit,,,,1,-5.167222,14.0075,"de Maret 1990; Garcin et al. 2018; Clist 2018: 239 Tab. 18.2, Tab. 18.3"
@@ -1239,11 +1239,11 @@ Lv-1943,2490,80,0,,Nkang,CMR,,Pit,,,,,4.266667,11.316667,Mbida Mindzie 1996
 Lv-1944,2490,100,0,,Nkang,CMR,,Pit,,,,,4.266667,11.316667,Mbida Mindzie 1996
 Lv-1945,2310,90,,,Nkang,CMR,,,,,,,4.266667,11.316667,Mbida Mindzie 2002; Garcin et al. 2018
 Lv-1946,2170,80,0,,Nkang,CMR,,Pit,,,,,4.266667,11.316667,Mbida Mindzie u.a. 2000
-Lv-287,12230,250,0,,Basoko,COD,,,,Lupembian/Upper,,,-4.35,15.2833,Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
-Lv-288,3870,90,0,,Kisuka,COD,,,,Tshitolian/Upper,,,-4.343889,15.212500,Gilot 1969: 108; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
-Lv-289,6280,130,0,,Kizenzu,COD,,,,Tshitolian,,,-4.414167,15.330833,Gilot 1969: 10; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
-Lv-44,30000,0,0,,Kinshasa-Lemba,COD,,,,Sangoan/Lupembian,,,-4.383333,15.333333,Dossin et al. 1962: 97; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
-Lv-45,5830,180,0,,Mont Gafula,COD,,,,Tshitolian,,,-4.46667,15.21667,Dossin et al. 1962: 97-98; Gilot et al. 1965: 121; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+Lv-287,12230,250,0,,Basoko,COD,,,Lupembian/Upper,,,1,-4.35,15.2833,Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+Lv-288,3870,90,0,,Kisuka,COD,,,Tshitolian/Upper,,,1,-4.343889,15.212500,Gilot 1969: 108; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+Lv-289,6280,130,0,,Kizenzu,COD,,,Tshitolian,,,1,-4.414167,15.330833,Gilot 1969: 10; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+Lv-44,30000,0,0,,Kinshasa-Lemba,COD,,,Sangoan/Lupembian,,,1,-4.383333,15.333333,Dossin et al. 1962: 97; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+Lv-45,5830,180,0,,Mont Gafula,COD,,,Tshitolian,,,1,-4.46667,15.21667,Dossin et al. 1962: 97-98; Gilot et al. 1965: 121; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
 Lv-46,2980,160,0,,Amba-Kinshasa,COD,,,,,,0,-4.433333,15.3,Dossin et al. 1962: 98; van Noten 1982
 Lv-47,30000,0,0,,Basoko,COD,,,,,,,-4.35,15.2833,Dossin et al. 1962: 98; van Noten 1982
 Lv-5947,220,50,0,,Ogrotoulou,CAF,,,,,,,,,Moga 2008
@@ -1655,17 +1655,17 @@ UCAL-172,12970,250,0,,Calunda,AGO,,,,,,0,-12.13008,23.46373,van Noten 1982
 UCLA-1468A,11840,100,0,,Camissombo,AGO,,,,,,0,-8.156123,20.657119,van Noten 1982
 UCLA-1468B,6225,80,0,,Calunda,AGO,,,,,,0,-12.13008,23.46373,van Noten 1982
 UCLA-1468D,2830,80,0,,Camissombo,AGO,,,,,,0,-8.156123,20.657119,van Noten 1982
-UCLA-167,6830,120,0,,Mufo,AGO,,,,Tshitolian/Upper,,,-7.516667,21.416667,Fergusson/Libby 1963: 17; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
-UCLA-168,38000,2500,0,,Mose,COD,,,,Sangoan/Lupembian,,,,,Fergusson/Libby 1963: 17; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
-UCLA-169,34000,0,0,,Mufo Mine,AGO,,,,Sangoan/Lupembian,,,-7.516667,21.416667,Fergusson/Libby 1963: 17; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+UCLA-167,6830,120,0,,Mufo,AGO,,,Tshitolian/Upper,,,1,-7.516667,21.416667,Fergusson/Libby 1963: 17; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+UCLA-168,38000,2500,0,,Mose,COD,,,Sangoan/Lupembian,,,1,,,Fergusson/Libby 1963: 17; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+UCLA-169,34000,0,0,,Mufo Mine,AGO,,,Sangoan/Lupembian,,,1,-7.516667,21.416667,Fergusson/Libby 1963: 17; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
 UCLA-170,1880,80,0,,Furi,AGO,,,,,,,-7.361821,21.197910,Fergusson/Libby 1963: 17; van Noten 1982
-UCLA-171,4700,100,0,,Calunda,AGO,,,,Tshitolian/Upper,,0,-12.13008,23.46373,Fergusson/Libby 1963: 17; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
-UCLA-172,12970,250,0,,Calunda,AGO,,,,Tshitolian/Lower,,0,-12.13008,23.46373,Fergusson/Libby 1963: 17
+UCLA-171,4700,100,0,,Calunda,AGO,,,Tshitolian/Upper,,,1,-12.13008,23.46373,Fergusson/Libby 1963: 17; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+UCLA-172,12970,250,0,,Calunda,AGO,,,Tshitolian/Lower,,,1,-12.13008,23.46373,Fergusson/Libby 1963: 17
 UCLA-686,2830,80,0,,Camissombo,AGO,,,,,,0,-8.15,20.6833,Berger et al. 1965: 357; van Noten 1982
 UCLA-708A,34000,0,0,,Leba,AGO,,,,,,,,,van Noten 1982
 UCLA-708C,29800,1650,0,,Leba,AGO,,,,,,,,,van Noten 1982
 UCLA-708D,34000,0,0,,Cangalonge,AGO,,,,,,,-15.270437,13.464792,van Noten 1982
-UCLA-709A/B,40000,0,0,,Mufo Mine,AGO,,,,Sangoan/Lupembian,,,-7.516667,21.416667,Berger et al. 1965: 356; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+UCLA-709A/B,40000,0,0,,Mufo Mine,AGO,,,Sangoan/Lupembian,,,1,-7.516667,21.416667,Berger et al. 1965: 356; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
 UCLA-710,2080,80,0,,Cangalonge/Chambuage Mine,AGO,,,,,,,-8.251667,20.75,Berger et al. 1965: 357; van Noten 1982
 UCLA-711,1330,80,0,,Mucuquesse 3 Mine,AGO,,,,,,,-7.63333,21.36667,Berger et al. 1965: 358; van Noten 1982
 UCLA-712,880,80,0,,Tchibaba,AGO,,,,,,,-8.391667,20.735,Berger et al. 1965: 358; van Noten 1982
