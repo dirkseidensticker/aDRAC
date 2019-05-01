@@ -867,7 +867,7 @@ GrN-13585,1990,60,0,Charcoal,Maluba,COD,MLB 85/1-3-2,Pit,,Batalimo-Maluba,,1,2.8
 GrN-13586,500,90,0,Charcoal,Longa,COD,LON 81/1,,,Imbonga,,0,-0.247706,18.881382,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
 GrN-14002,710,60,0,Charcoal,Baringa,COD,BAR 85/1,,,Bondongo,,1,0.729053,20.735732,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
 GrN-14003,2090,70,0,Charcoal,Bokuma,COD,BOK 83/2,,,Inganda,,1,-0.114356,18.697792,Wotzka 1995: 84; see Seidensticker 2017: Tab. 21
-GrN-14004,1670,70,0,Charcoal,Bokuma,COD,BOK 83/3,,,Bokuma/Lingonda,,1,-0.114356,18.697792,Wotzka 1995: 115; see Seidensticker 2017: Tab. 21
+GrN-14004,1670,70,0,Charcoal,Bokuma,COD,BOK 83/3,,,Bokuma; Lingonda,,1,-0.114356,18.697792,Wotzka 1995: 115; see Seidensticker 2017: Tab. 21
 GrN-14005,2440,150,0,Charcoal,Boso-Njafo,COD,BSN 85/1,Pit,,Imbonga,,1,1.130547,19.209599,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
 GrN-14006,2260,80,0,Charcoal,Boso-Njafo,COD,BSN 85/3,Pit,,Imbonga,,1,1.130547,19.209599,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
 Hv-1698,3515,55,0,,Sakuzi,COD,,,,,,,-5.167222,14.0075,Zangato 2000
@@ -1407,8 +1407,8 @@ Poz-39110,2200,30,,,UH48,DRC,,,,,,0,-5.992,13.19,Hubau et al. 2013; Garcin et al
 Poz-39111,1930,30,,,KS9,DRC,,,,,,0,-4.7625,13.0069,Hubau et al. 2013; Garcin et al. 2018
 Poz-39112,265,30,,,KS9,DRC,,,,,,0,-4.7625,13.0069,Hubau et al. 2013; Garcin et al. 2018
 Poz-39113,1860,35,,,KS9,DRC,,,,,,0,-4.7625,13.0069,Hubau et al. 2013; Garcin et al. 2018
-Poz-39115,1685,30,0,,Yandjambi II,COD,MBI/10/II,Layer,,Early Phase (cf. Bomane Yangwa)/Middle Phase (cf. Ilambi Moke),,1,0.72538,24.21833,Livingstone-Smith et al. 2017: 4 Tab. 1
-Poz-39116,1990,30,0,,Ilambi Moke,COD,MOK/10/II,Layer,,Early Phase (cf. Bomane Yangwa)/Middle Phase (cf. Ilambi Moke),,1,0.64945,24.23044,Livingstone-Smith et al. 2017: 4 Tab. 1
+Poz-39115,1685,30,0,,Yandjambi II,COD,MBI/10/II,Layer,,Early Phase (cf. Bomane Yangwa); Middle Phase (cf. Ilambi Moke),,1,0.72538,24.21833,Livingstone-Smith et al. 2017: 4 Tab. 1
+Poz-39116,1990,30,0,,Ilambi Moke,COD,MOK/10/II,Layer,,Early Phase (cf. Bomane Yangwa); Middle Phase (cf. Ilambi Moke),,1,0.64945,24.23044,Livingstone-Smith et al. 2017: 4 Tab. 1
 Poz-39117,2085,35,0,,Ilambi Moke,COD,MOK/10/II,Layer,,Early Phase (cf. Bomane Yangwa),,1,0.64945,24.23044,Livingstone-Smith et al. 2017: 4 Tab. 1
 Poz-39121,1880,30,0,,Bomane-Yangwa,COD,YNG/10/II,Pit,,Middle Phase (cf. Ilambi Moke),,1,1.3028,23.81738,Livingstone-Smith et al. 2017: 4 Tab. 1
 Poz-39122,2110,35,0,,Bomane-Yangwa,COD,YNG/10/II,Pit,,Early Phase (cf. Bomane Yangwa),,,1.3028,23.81738,Livingstone-Smith et al. 2017: 4 Tab. 1
