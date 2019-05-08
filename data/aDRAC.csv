@@ -32,8 +32,8 @@ Arc-341,2210,100,0,Charcoal,Kango 5,GAB,,,,,,,0.200833,10.0825,Clist 2004/05
 Arc-343,1900,50,0,,Oveng,GAB,,,,Oveng,,,0.478611,9.516667,Clist 2004/05
 Arc-373,2110,60,0,,Les Saras,COG,,,,,,,-4.183333,12.283333,Eggert 1993
 Arc-530,2390,65,0,,Otoumbi 13,GAB,,,,,,,-0.076389,11.096667,Oslisly 1992
-B-263,1240,120,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
-B-264,1070,200,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
+B-263,1240,120,0,,Sanga,COD,,,,,,,-8.1821,26.4902,de Maret 1977
+B-264,1070,200,0,,Sanga,COD,,,,,,,-8.1821,26.4902,de Maret 1977
 B-696,6780,150,0,,Mose,COD,,,,,,,,,de Maret/van Noten/Cahen 1977
 B-755,1700,100,0,Charcoal,Ndora,RWA,,,,,,,,,de Maret/van Noten/Cahen 1977
 B-758,1650,80,0,Charcoal,Cyamakuza,RWA,,,,,,,,,de Maret/van Noten/Cahen 1977
@@ -65,7 +65,7 @@ Beta-12858,1920,60,0,,Mfomakap/Nkometou,CMR,,,,,,,4.049917,11.55,Elouga 1998; Ga
 Beta-14427,2350,140,0,Charcoal,Moanda,GAB,1,,,,,,-1.557111,13.228192,Eggert 1993
 Beta-14428,2330,90,0,,Moanda,GAB,2,,,,,,-1.557111,13.228192,Clist 1995; Garcin et al. 20018
 Beta-14825,2460,70,0,,Kango 5,GAB,,,Neol,,,,0.200833,10.0825,Clist 1989
-Beta-14826,140,90,0,Charcoal,85/22,GAB,,,,,,,-5.821716,18.129999,Clist 2004/05
+Beta-14826,140,90,0,Charcoal,85/22,GAB,,,,,,,1.9194,11.5914,Clist 2004/05
 Beta-14827,360,60,0,Charcoal,85/26,GAB,,,,,,,2.034,11.5,Clist 2004/05
 Beta-14828,5950,70,0,,Sabiliere,GAB,,,LSA,,,0,0.5,9.383333,Clist 1989
 Beta-14829,4400,70,0,,Sabiliere,GAB,,,LSA,,,0,0.5,9.383333,Clist 1989
@@ -572,64 +572,64 @@ Gif-3450,2910,110,0,,Point-Noire,COG,,,,,,0,-4.75,11.85,Kouyoumontzakis u.a. 198
 Gif-3454,170,100,0,,Kafubu,COD,,,,,,,,,van Noten 1982
 Gif-3455,1140,90,0,,Kafubu,COD,,,,,,,,,van Noten 1982
 Gif-3456,2030,100,0,,Kafubu,COD,,,,,,,,,van Noten 1982
-Gif-3479,3400,100,0,Shell (River/Ocean),Baia Farta,AGO,,,,,,0,-12.683333,13.2,de Maret 1985
+Gif-3479,3400,100,0,Shell (River/Ocean),Baia Farta,AGO,,,,,,0,-12.683333,13.2,de Maret 1985a
 Gif-3662,640,60,0,,Toala,CAF,,,,,,,6.352778,15.998333,Moga 2008
-Gif-4148,0,0,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985
-Gif-4149,580,80,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985
-Gif-4150,150,80,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985
-Gif-4151,650,80,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985
-Gif-4152,520,80,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985
+Gif-4148,0,0,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985a
+Gif-4149,580,80,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985a
+Gif-4150,150,80,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985a
+Gif-4151,650,80,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985a
+Gif-4152,520,80,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985a
 Gif-4157,5040,150,0,,Owando,COG,,,LSA,,,,-0.5,15.916667,Clist 1989
 Gif-4158,2190,90,0,Charcoal,Nsele,,,Layer,,,,,-4.23444,15.55028,Pincon 1991; Clist 2018: 238 Tab. 18.2
 Gif-4219,370,80,0,,Ntadi-Yomba,COG,,,,,,0,-4.25,13.766667,Kouyoumontzakis u.a. 1985
 Gif-4220,270,80,0,,Ntadi-Yomba,COG,,,,,,0,-4.25,13.766667,Kouyoumontzakis u.a. 1985
 Gif-4221,300,80,0,,Ntadi-Yomba,COG,,,,,,0,-4.25,13.766667,Kouyoumontzakis u.a. 1985
-Gif-4223,1240,90,0,Charcoal,Point-Noire,COG,,,,,,,-4.75,11.85,"de Maret 1985, Kouyoumontzakis u.a. 1985"
-Gif-4280,500,60,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985
+Gif-4223,1240,90,0,Charcoal,Point-Noire,COG,,,,,,,-4.75,11.85,"de Maret 1985a, Kouyoumontzakis u.a. 1985"
+Gif-4280,500,60,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985a
 Gif-4313,6890,160,,,Ntadi Yomba,COD,,,,,,,-4.25,13.766667,Delibrias/Guilier 1988; Garcin et al. 2018
 Gif-4391,1990,90,0,,Ntadi-Yomba,COG,,,,,,0,-4.25,13.766667,Kouyoumontzakis u.a. 1985
 Gif-4392,7090,140,0,,Ntadi-Yomba,COG,,,Tshitolian,,,1,-4.25,13.766667,Kouyoumontzakis u.a. 1985
-Gif-4504,630,80,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985
+Gif-4504,630,80,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985a
 Gif-4545,3660,100,0,,Mouambe,COG,,,,,,0,-2.916667,14.633333,Kouyoumontzakis u.a. 1985
-Gif-4546,0,0,0,Charcoal,Lombo,COG,,,,,,,-4.55,12.183333,de Maret 1985
+Gif-4546,0,0,0,Charcoal,Lombo,COG,,,,,,,-4.55,12.183333,de Maret 1985a
 Gif-456,590,0,0,Shell (River/Ocean),Cap Lopez,GAB,,,,,,0,-0.772646,8.781164,Clist 2004/05
-Gif-4568,870,90,0,Charcoal,Salak,CMR,,,,,,,10.433333,14.25,de Maret 1985
+Gif-4568,870,90,0,Charcoal,Salak,CMR,,,,,,,10.433333,14.25,de Maret 1985a
 Gif-457,1540,0,0,Shell (River/Ocean),Cap Lopez,GAB,,,,,,0,-0.772646,8.781164,Clist 2004/05
 Gif-459,4030,200,0,,Bittori,COG,,,Tshitolian,,,1,-3.904596,14.502274,Kouyoumontzakis u.a. 1985
 Gif-460,3930,200,0,,Bittori,COG,,,Tshitolian,,,1,-3.904596,14.502274,Kouyoumontzakis u.a. 1985
 Gif-4614,670,200,0,Charcoal,Ntadi-Yomba,COG,,,,,,0,-4.25,13.766667,Kouyoumontzakis u.a. 1985
 Gif-4653,6890,160,0,Shell (Land),Ntadi-Yomba,COG,,,Tshitolian,,,1,-4.25,13.766667,Kouyoumontzakis u.a. 1985
-Gif-4821,2340,100,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985
-Gif-4822,1340,100,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985
-Gif-4833,1340,90,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985
-Gif-4932,850,90,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985
-Gif-4934,2800,110,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985
+Gif-4821,2340,100,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985a
+Gif-4822,1340,100,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985a
+Gif-4833,1340,90,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985a
+Gif-4932,850,90,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985a
+Gif-4934,2800,110,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985a
 Gif-4963,990,200,0,,Gankieli,COG,,,,,,0,-1.716667,15.916667,Kouyoumontzakis u.a. 1985
 Gif-4964,7200,140,0,,Imporo,COG,,,,,,0,-1.6,15.95,Kouyoumontzakis u.a. 1985
 Gif-4967,21600,580,0,,Olombo,COG,,,,,,0,-1.266667,15.9,Kouyoumontzakis u.a. 1985
-Gif-4990,0,0,0,Charcoal,Goray,CMR,,,,,,,10.5,14.5,de Maret 1985
-Gif-4993,0,0,0,Charcoal,Biou,CMR,,,,,,,9.866667,14.1,de Maret 1985
-Gif-4994,690,60,0,Charcoal,Bidzar,CMR,,,,,,,9.883333,14.1,de Maret 1985
+Gif-4990,0,0,0,Charcoal,Goray,CMR,,,,,,,10.5,14.5,de Maret 1985a
+Gif-4993,0,0,0,Charcoal,Biou,CMR,,,,,,,9.866667,14.1,de Maret 1985a
+Gif-4994,690,60,0,Charcoal,Bidzar,CMR,,,,,,,9.883333,14.1,de Maret 1985a
 Gif-5121,4080,110,0,,Bacongo,COG,,,,,,0,-4.291667,15.266667,Kouyoumontzakis u.a. 1985
-Gif-5209,0,0,0,Charcoal,Ko Bi Doe,CAF,,,,,,,6.3,15.9,de Maret 1985
-Gif-5210,350,80,0,Charcoal,Ko Bi Doe,CAF,,,,,,,6.3,15.9,de Maret 1985
-Gif-5211,220,80,0,,Toala,CAF,,,,,,,6.352778,15.998333,de Maret 1985
-Gif-5212,410,100,0,,Toala,CAF,,,,,,,6.352778,15.998333,de Maret 1985
+Gif-5209,0,0,0,Charcoal,Ko Bi Doe,CAF,,,,,,,6.3,15.9,de Maret 1985a
+Gif-5210,350,80,0,Charcoal,Ko Bi Doe,CAF,,,,,,,6.3,15.9,de Maret 1985a
+Gif-5211,220,80,0,,Toala,CAF,,,,,,,6.352778,15.998333,de Maret 1985a
+Gif-5212,410,100,0,,Toala,CAF,,,,,,,6.352778,15.998333,de Maret 1985a
 Gif-5218,33800,800,0,,Owando,COG,,,,,,0,-0.5,15.916667,Kouyoumontzakis u.a. 1985
 Gif-5220,2960,100,0,,Abala,COG,,,,,,0,-1.333333,15.533333,Kouyoumontzakis u.a. 1985
 Gif-5221,3540,100,0,,Gamboma,COG,,,,,,0,-1.833333,15.833333,Kouyoumontzakis u.a. 1985
-Gif-5250,920,80,0,Charcoal,Goray,CMR,,,,,,,10.5,14.5,de Maret 1985
-Gif-5251,1030,80,0,Charcoal,Goray,CMR,,,,,,,10.5,14.5,de Maret 1985
-Gif-5252,720,80,0,Charcoal,Hago,RWA,,,,,,,-1.683333,30.683333,de Maret 1985
+Gif-5250,920,80,0,Charcoal,Goray,CMR,,,,,,,10.5,14.5,de Maret 1985a
+Gif-5251,1030,80,0,Charcoal,Goray,CMR,,,,,,,10.5,14.5,de Maret 1985a
+Gif-5252,720,80,0,Charcoal,Hago,RWA,,,,,,,-1.683333,30.683333,de Maret 1985a
 Gif-5434,4580,110,0,Charcoal,Bacongo,COG,,,,,,0,-4.291667,15.266667,Kouyoumontzakis u.a. 1985
 Gif-5435,6890,160,0,Charcoal,Bacongo,COG,,,,,,0,-4.291667,15.266667,Kouyoumontzakis u.a. 1985
 Gif-5436,21600,800,0,,Hinda,COG,,,,,,0,4.7,11.95,Kouyoumontzakis u.a. 1985
 Gif-5437,19900,700,0,Charcoal,Hinda,COG,,,,,,0,4.7,11.95,Kouyoumontzakis u.a. 1985
-Gif-5463,1180,120,0,Charcoal,Goray,CMR,,,,,,,10.5,14.5,de Maret 1985
-Gif-5666,650,60,0,,Toala,CAF,,,,,,,6.352778,15.998333,de Maret 1985
-Gif-5667,1200,60,0,,Toala,CAF,,,,,,,6.352778,15.998333,de Maret 1985
-Gif-5668,390,70,0,,Toala,CAF,,,,,,,6.352778,15.998333,de Maret 1985
-Gif-5669,1560,80,0,,Toala,CAF,,Trench,,,,,6.352778,15.998333,de Maret 1985
+Gif-5463,1180,120,0,Charcoal,Goray,CMR,,,,,,,10.5,14.5,de Maret 1985a
+Gif-5666,650,60,0,,Toala,CAF,,,,,,,6.352778,15.998333,de Maret 1985a
+Gif-5667,1200,60,0,,Toala,CAF,,,,,,,6.352778,15.998333,de Maret 1985a
+Gif-5668,390,70,0,,Toala,CAF,,,,,,,6.352778,15.998333,de Maret 1985a
+Gif-5669,1560,80,0,,Toala,CAF,,Trench,,,,,6.352778,15.998333,de Maret 1985a
 Gif-5696,3190,100,0,,Gamboma,COG,,,,,,0,-1.833333,15.833333,Kouyoumontzakis u.a. 1985
 Gif-5697,1950,90,0,,Okoyo,COG,,,,,,0,-1.35,15.2,Kouyoumontzakis u.a. 1985
 Gif-5698,2660,100,0,,Boundji,COG,,,,,,0,-1.027618,15.358715,Kouyoumontzakis u.a. 1985
@@ -638,17 +638,17 @@ Gif-5700,9410,170,0,,Oyo,COG,,,,,,0,-1.116667,15.95,Kouyoumontzakis u.a. 1985
 Gif-5701,31000,2200,0,,Oyo,COG,,,,,,0,-1.116667,15.95,Kouyoumontzakis u.a. 1985
 Gif-5796,1460,90,0,Charcoal,Nzabi,COG,,,,,,0,-2.383333,14.45,Kouyoumontzakis u.a. 1985
 Gif-5821,4920,110,0,,Bacongo,COG,,,,,,0,-4.291667,15.266667,Kouyoumontzakis u.a. 1985
-Gif-5894,1590,90,0,Charcoal,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,de Maret 1985; Eggert 1993
-Gif-5972,590,60,0,Charcoal,Bugarama,RWA,,,,,,,-2.610004,29.02,de Maret 1985
-Gif-5986,660,80,0,Charcoal,Mpassa,COG,,,,,,,-4.3,14.266667,de Maret 1985
+Gif-5894,1590,90,0,Charcoal,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,de Maret 1985a; Eggert 1993
+Gif-5972,590,60,0,Charcoal,Bugarama,RWA,,,,,,,-2.610004,29.02,de Maret 1985a
+Gif-5986,660,80,0,Charcoal,Mpassa,COG,,,,,,,-4.3,14.266667,de Maret 1985a
 Gif-5987,4870,90,0,Charcoal,Sabiliere,GAB,,,LSA,,,0,0.5,9.383333,Clist 1989
-Gif-6011,720,60,0,Honey,Kitala II,AGO,,,,,,,-9.033333,13.083333,de Maret 1985
-Gif-6053,2370,80,,,Gangalingolo,COG,,,,,,0,-4.2167,14.15,de Maret 1985; Garcin et al. 2018
+Gif-6011,720,60,0,Honey,Kitala II,AGO,,,,,,,-9.033333,13.083333,de Maret 1985a
+Gif-6053,2370,80,,,Gangalingolo,COG,,,,,,0,-4.2167,14.15,de Maret 1985a; Garcin et al. 2018
 Gif-6121,1230,70,0,Charcoal,Mikouloungou 4,GAB,,,,,,,-1.6319,13.3472,Clist 2004/05
 Gif-6175,7500,90,0,Charcoal,Sabiliere,GAB,,,LSA,,,0,0.5,9.383333,Clist 1989
 Gif-6176,32000,1000,0,Charcoal,Sabiliere,GAB,,,,,,0,0.5,9.383333,Clist 2004/05
-Gif-6182,1120,60,0,Charcoal,Kamabanga I,AGO,,,,,,,-9.05,13.083333,de Maret 1985
-Gif-6311,7400,110,,,ORSTOM,COG,,,,,,,-4.2667,15.2333,de Maret 1985; Garcin et al. 2018
+Gif-6182,1120,60,0,Charcoal,Kamabanga I,AGO,,,,,,,-9.05,13.083333,de Maret 1985a
+Gif-6311,7400,110,,,ORSTOM,COG,,,,,,,-4.2667,15.2333,de Maret 1985a; Garcin et al. 2018
 Gif-6417,3250,80,0,Charcoal,Makokou,GAB,,,,,,,0.5738,12.8642,Clist 2004/05
 Gif-6423,1970,70,0,Charcoal,Otoumbi 2,GAB,,,,,,0,-0.0675,11.091667,Clist 2004/05
 Gif-6424,1650,70,0,Shell (River/Ocean),Oveng,GAB,,,,Oveng,,0,0.478611,9.516667,Clist 2004/05
@@ -844,20 +844,20 @@ GrN-7670,2550,90,,Charcoal,Gombe-Point,COD,T22,Layer,EIA,,,0,-4.300597,15.280791
 GrN-7671,1075,95,0,,Akameru,RWA,,,,,,,,,van Noten 1982
 GrN-7672,845,75,0,,Akameru,RWA,,,,,,,,,van Noten 1982
 GrN-7673,1595,30,0,,Kabuye,RWA,,,,,,,-2.6,29.833333,van Noten 1982
-GrN-8044,5450,30,0,,Gombe-Point,COD,T22,,Tshitolian,,,0,-4.300597,15.280791,Cahen et al. 1983: 444 Tab. 1A; de Maret 1985
-GrN-8045,8345,45,0,,Gombe-Point,COD,T22,,Tshitolian,,,0,-4.300597,15.280791,Cahen et al. 1983: 444 Tab. 1A; de Maret 1985
-GrN-8046,9675,40,0,,Gombe-Point,COD,T22,,Lupemban/Tshitolian,,,0,-4.300597,15.280791,Cahen et al. 1983: 444 Tab. 1A; de Maret 1985
-GrN-8047,8495,40,0,,Gombe-Point,COD,T22,,Lupemban/Tshitolian,,,0,-4.300597,15.280791,Cahen et al. 1983: 444 Tab. 1A; de Maret 1985
-GrN-8048,7830,50,0,,Gombe-Point,COD,T22,,Upper Lupemban,,,0,-4.300597,15.280791,Cahen et al. 1983: 444 Tab. 1A; de Maret 1985
-GrN-8049,8350,120,0,,Gombe-Point,COD,T22,,Upper Lupemban,,,0,-4.300597,15.280791,Cahen et al. 1983: 444 Tab. 1A; de Maret 1985
-GrN-8050,11880,120,0,,Gombe-Point,COD,T22,,Upper Lupemban,,,1,-4.300597,15.280791,"Cahen et al. 1983: 444 Tab. 1A, 447 Tab. 2; de Maret 1985"
-GrN-8051,11450,60,0,,Gombe-Point,COD,T22,,Upper Lupemban,,,1,-4.300597,15.280791,"Cahen et al. 1983: 444 Tab. 1A, 447 Tab. 2; de Maret 1985"
-GrN-8052,10410,90,0,,Gombe-Point,COD,T22,,Upper Lupemban,,,1,-4.300597,15.280791,"Cahen et al. 1983: 444 Tab. 1A, 447 Tab. 2; de Maret 1985"
+GrN-8044,5450,30,0,,Gombe-Point,COD,T22,,Tshitolian,,,0,-4.300597,15.280791,Cahen et al. 1983: 444 Tab. 1A; de Maret 1985a
+GrN-8045,8345,45,0,,Gombe-Point,COD,T22,,Tshitolian,,,0,-4.300597,15.280791,Cahen et al. 1983: 444 Tab. 1A; de Maret 1985a
+GrN-8046,9675,40,0,,Gombe-Point,COD,T22,,Lupemban/Tshitolian,,,0,-4.300597,15.280791,Cahen et al. 1983: 444 Tab. 1A; de Maret 1985a
+GrN-8047,8495,40,0,,Gombe-Point,COD,T22,,Lupemban/Tshitolian,,,0,-4.300597,15.280791,Cahen et al. 1983: 444 Tab. 1A; de Maret 1985a
+GrN-8048,7830,50,0,,Gombe-Point,COD,T22,,Upper Lupemban,,,0,-4.300597,15.280791,Cahen et al. 1983: 444 Tab. 1A; de Maret 1985a
+GrN-8049,8350,120,0,,Gombe-Point,COD,T22,,Upper Lupemban,,,0,-4.300597,15.280791,Cahen et al. 1983: 444 Tab. 1A; de Maret 1985a
+GrN-8050,11880,120,0,,Gombe-Point,COD,T22,,Upper Lupemban,,,1,-4.300597,15.280791,"Cahen et al. 1983: 444 Tab. 1A, 447 Tab. 2; de Maret 1985a"
+GrN-8051,11450,60,0,,Gombe-Point,COD,T22,,Upper Lupemban,,,1,-4.300597,15.280791,"Cahen et al. 1983: 444 Tab. 1A, 447 Tab. 2; de Maret 1985a"
+GrN-8052,10410,90,0,,Gombe-Point,COD,T22,,Upper Lupemban,,,1,-4.300597,15.280791,"Cahen et al. 1983: 444 Tab. 1A, 447 Tab. 2; de Maret 1985a"
 GrN-8053,10165,50,0,,Gombe-Point,COD,T22,,Upper Lupemban,,,0,-4.300597,15.280791,Cahen et al. 1983: 444 Tab. 1A; de Maret 1985
-GrN-8054,14430,120,0,,Gombe-Point,COD,T22,,Upper Lupemban,,,1,-4.300597,15.280791,"Cahen et al. 1983: 444 Tab. 1A, 447 Tab. 2; de Maret 1985"
+GrN-8054,14430,120,0,,Gombe-Point,COD,T22,,Upper Lupemban,,,1,-4.300597,15.280791,"Cahen et al. 1983: 444 Tab. 1A, 447 Tab. 2; de Maret 1985a"
 GrN-8055,36400,580,0,,Gombe-Point,COD,T22,,Lower Lupemban,,,0,-4.300597,15.280791,Cahen et al. 1983: 444 Tab. 1A; de Maret 1985
-GrN-8056,37450,650,0,,Gombe-Point,COD,T22,,Lower Lupemban,,,1,-4.300597,15.280791,"Cahen et al. 1983: 444 Tab. 1A, 447 Tab. 2; de Maret 1985"
-GrN-8057,46500,1500,0,,Gombe-Point,COD,T22,,Lower Lupemban,,,1,-4.300597,15.280791,"Cahen et al. 1983: 444 Tab. 1A, 447 Tab. 2; de Maret 1985"
+GrN-8056,37450,650,0,,Gombe-Point,COD,T22,,Lower Lupemban,,,1,-4.300597,15.280791,"Cahen et al. 1983: 444 Tab. 1A, 447 Tab. 2; de Maret 1985a"
+GrN-8057,46500,1500,0,,Gombe-Point,COD,T22,,Lower Lupemban,,,1,-4.300597,15.280791,"Cahen et al. 1983: 444 Tab. 1A, 447 Tab. 2; de Maret 1985a"
 GrN-13076,1450,45,0,Charcoal,Isaka-Elinga,COD,ISK 83/104,,,Lingonda,,1,-0.666969,20.202048,Eggert 1987; Wotzka 1995: 115
 GrN-13077,440,50,0,Charcoal,Bamanya,COD,BAM 81/1,,,Bondongo,,0,0.00979,18.316297,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
 GrN-13078,660,80,0,Charcoal,Bolondo,COD,BLD 83/1,,,Bondongo; Wema,,1,-0.305801,21.253168,"Wotzka 1995: 138, 171-172; see Seidensticker 2017: Tab. 21"
@@ -891,50 +891,86 @@ Hv-6259,230,95,0,Charcoal,Lovo,COD,,Layer,,,,,-5.7581,14.4705,van Noten 1982; Cl
 Hv-6260,425,65,0,Charcoal,Kamuna,COD,,Layer,,,,,-4.33,15.33,van Noten 1982; Clist 2018: 238 Tab. 18.2
 Hv-6261,2305,70,0,Charcoal,Kinshasa-Kingabwa/Ngombela,COD,,Layer,,,,0,-4.1331539,15.342473,van Noten 1982; Clist 2018: 238 Tab. 18.2
 Hv-6262,305,80,0,Charcoal,Kinshasa-Kingabwa/Ngombela,COD,,Pit,,Groupe X,,1,-4.1331539,15.342473,"van Noten 1982; Clist 2018: 235, 239 Tab. 18.2"
-Hv-6608,805,115,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
-Hv-6609,1205,105,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
-Hv-6610,655,125,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
-Hv-6611,995,40,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
-Hv-6612,875,75,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
-Hv-6613,770,95,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
-Hv-6614,855,90,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
-Hv-6615,495,105,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
-Hv-6616,660,190,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
-Hv-6617,190,65,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
-Hv-6618,430,160,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
-Hv-6619,1110,55,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
-Hv-6620,0,0,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
-Hv-6621,250,80,0,,Sanga,COD,,,,,,,-8.18107,26.48988,de Maret 1977
+Hv-6608,805,115,0,Charcoal,Sanga,COD,T147,Burial,,Kabambian A,,,-8.1821,26.4902,de Maret 1977; de Maret 1985b: 256
+Hv-6609,1205,105,0,Bone,Sanga,COD,T149,Burial,,Classical Kisalian,,,-8.1821,26.4902,de Maret 1977; de Maret 1985b: 256
+Hv-6610,655,125,0,Charcoal,Sanga,COD,T153,Burial,,Classical Kisalian,,,-8.1821,26.4902,de Maret 1977; de Maret 1985b: 256
+Hv-6611,995,40,0,Bone,Sanga,COD,T155,Burial,,Early Kisalian,,,-8.1821,26.4902,de Maret 1977; de Maret 1985b: 256
+Hv-6612,875,75,0,Bone,Sanga,COD,T160,Burial,,Classical Kisalian,,,-8.1821,26.4902,de Maret 1977; de Maret 1985b: 256
+Hv-6613,770,95,0,Bone,Sanga,COD,T172,Burial,,Classical Kisalian,,,-8.1821,26.4902,de Maret 1977; de Maret 1985b: 256
+Hv-6614,855,90,0,Bone,Sanga,COD,T175,Burial,,Classical Kisalian,,,-8.1821,26.4902,de Maret 1977; de Maret 1985b: 256
+Hv-6615,495,105,0,Bone,Sanga,COD,T176,Burial,,Kabambian A,,,-8.1821,26.4902,de Maret 1977; de Maret 1985b: 257
+Hv-6616,660,190,0,Bone,Katongo,COD,T2,Burial,,Classical Kisalian,,,-8.2123,26.4095,de Maret 1977; de Maret 1985b: 257
+Hv-6617,190,65,0,Bone,Katongo,COD,T6,Burial,,,,,-8.2123,26.4095,de Maret 1977; de Maret 1985b: 257
+Hv-6618,430,160,0,Bone,Katongo,COD,T4,Burial,,Kabambian B,,,-8.2123,26.4095,de Maret 1977; de Maret 1985b: 257
+Hv-6619,1110,55,0,Charcoal,Katongo,COD,IIW1,Layer,,Early Kisalian,,,-8.2123,26.4095,de Maret 1977; de Maret 1985b: 257
+Hv-6620,0,0,0,Bone,Katongo,COD,T7,Burial,,Classical Kisalian,,,-8.2123,26.4095,de Maret 1977; de Maret 1985b: 257
+Hv-6621,250,80,0,Bone,Katongo,COD,T8,Burial,,Kabambian B,,,-8.2123,26.4095,de Maret 1977; de Maret 1985b: 257
+Hv-7494,1240,140,0,Charcoal,Kamilamba,COD,F2,Layer,,Kamilambian,,,-7.8128,27.0336,de Maret 1992b: 200
+Hv-7495,520,50,0,Bone,Malemba-Nkulu,COD,T26,Burial,,Kabambian A,,,-8.0570,26.7977,de Maret 1992b: 202
+Hv-7496,0,0,0,Charcoal,Kamilamba,COD,F2,Layer,,,,,-7.8128,27.0336,de Maret 1992b: 199
+Hv-7497,1235,360,0,Charcoal,Kamilamba,COD,T13,Burial,,Kamilambian,,,-7.8128,27.0336,de Maret 1992b: 200
+Hv-7498,1105,150,0,Bone,Kamilamba,COD,T7,Burial,,Early Kisalian; Classical Kisalian,,,-7.8128,27.0336,de Maret 1992b: 200
+Hv-7499,1005,65,0,Bone,Malemba-Nkulu,COD,T37,Burial,,Early Kisalian; Classical Kisalian,,,-8.0570,26.7977,de Maret 1992b: 201
+Hv-7500,820,95,0,Bone,Malemba-Nkulu,COD,T30,Burial,,Early Kisalian; Classical Kisalian,,,-8.0570,26.7977,de Maret 1992b: 201
+Hv-7501,470,120,0,Bone,Kamilamba,COD,T5,Burial,,Classical Kisalian; Kabambian A,,,-7.8128,27.0336,de Maret 1992b: 200
+Hv-7502,620,150,0,Bone,Kikulu,COD,T16,Burial,,Early Kisalian; Classical Kisalian,,,-7.8434,26.979,de Maret 1992b: 201
+Hv-7503,765,60,0,Bone,Kikulu,COD,T13,Burial,,Classical Kisalian; Kabambian A,,,-7.8434,26.979,de Maret 1992b: 200
+Hv-7504,0,0,0,Bone,Kamilamba,COD,T8,Burial,,Kabambian A,,,-7.8128,27.0336,de Maret 1992b: 200
+Hv-7505,795,65,0,Bone,Kikulu,COD,T20,Burial,,Kabambian A,,,-7.8434,26.979,de Maret 1992b: 200
+Hv-7506,420,55,0,Bone,Malemba-Nkulu,COD,T2,Burial,,Kabambian A,,,-8.0570,26.7977,de Maret 1992b: 202
+Hv-7507,0,0,0,Bone,Kikulu,COD,T1,Burial,,Luba,,,-7.8434,26.979,de Maret 1992b: 201
+Hv-7509,1115,75,0,Charcoal,Malemba-Nkulu,COD,A2-3,Layer,,Early Kisalian; Classical Kisalian,,,-8.0570,26.7977,de Maret 1992b: 201
+Hv-7510,1025,160,0,Charcoal,Malemba-Nkulu,COD,A2-3,Layer,,Classical Kisalian; Kabambian A,,,-8.0570,26.7977,de Maret 1992b: 201
+Hv-7511,0,0,0,Charcoal,Kamilamba,COD,F2,Layer,,,,,-7.8128,27.0336,de Maret 1992b: 200
+Hv-7512,1430,115,0,Charcoal,Kamilamba,COD,F3,Layer,,Kamilambian,,,-7.8128,27.0336,de Maret 1992b: 199
+Hv-7513,785,210,0,Bone,Malemba-Nkulu,COD,T10,Burial,,Early Kisalian; Classical Kisalian,,,-8.0570,26.7977,de Maret 1992b: 201
+Hv-7514,765,50,0,Bone,Kikulu,COD,T8,Burial,,Early Kisalian; Classical Kisalian,,,-7.8434,26.979,de Maret 1992b: 200
+Hv-7515,920,50,0,Bone,Kikulu,COD,T19,Burial,,Kabambian A,,,-7.8434,26.979,de Maret 1992b: 200
+Hv-7516,495,55,0,Bone,Malemba-Nkulu,COD,T3,Burial,,Kabambian A,,,-8.0570,26.7977,de Maret 1992b: 202
+Hv-7517,685,50,0,Bone,Kikulu,COD,T2,Burial,,Kabambian A,,,-7.8434,26.979,de Maret 1992b: 200
+Hv-7519,1110,60,0,Bone,Malemba-Nkulu,COD,A2-3,Layer,,Early Kisalian; Classical Kisalian,,,-8.0570,26.7977,de Maret 1992b: 201
+Hv-7520,1190,105,0,Charcoal,Malemba-Nkulu,COD,A2-3,Layer,,Early Kisalian; Classical Kisalian,,,-8.0570,26.7977,de Maret 1992b: 201
+Hv-8269,530,50,0,Bone,Kikulu,COD,T20,Burial,,Kabambian A,,,-7.8434,26.979,de Maret 1992b: 201
+Hv-8490,1110,70,0,Bone,Sanga,COD,T173,Burial,,Classical Kisalian,,,-8.1821,26.4902,de Maret 1985b: 256
+Hv-8491,155,130,0,Bone,Kamilamba,COD,T2,Burial,,Kabambian A,,,-7.8128,27.0336,de Maret 1992b: 200
+Hv-8492,1645,160,0,Bone,Kamilamba,COD,T10,Burial,,Early Kisalian,,,-7.8128,27.0336,de Maret 1992b: 199
+Hv-8493,2340,145,0,Charcoal,Kamilamba,COD,F2,Layer,,,,,-7.8128,27.0336,de Maret 1992b: 199
+Hv-8404,1295,45,0,Bone,Kikulu,COD,T14,Burial,,Early Kisalian,,,-7.8434,26.979,de Maret 1992b: 200
+Hv-8495,375,40,0,Bone,Malemba-Nkulu,COD,T13,Burial,,Kabambian B,,,-8.0570,26.7977,de Maret 1992b: 202
+Hv-8496,0,0,0,,Malemba-Nkulu,COD,T19,Burial,,Kabambian B,,,-8.0570,26.7977,de Maret 1992b: 202
+Hv-8497,860,55,0,Bone,Malemba-Nkulu,COD,T35,Burial,,Kabambian B,,,-8.0570,26.7977,de Maret 1992b: 201
+Hv-8498,770,115,0,Charcoal,Malemba-Nkulu,COD,A2-3,Layer,,Kabambian A,,,-8.0570,26.7977,de Maret 1992b: 201
 Hv-8916,625,50,0,Charcoal,Nkile,COD,NKI 1,,,Nkile; Bondongo,,1,-0.111339,18.677862,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
 Hv-8963,6070,240,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,de Maret 1980
 Hv-8964,8705,275,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,de Maret 1980
 Hv-8965,6980,260,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,de Maret 1980
+Hv-9037,1360,60,0,Charcoal,Malemba-Nkulu,COD,T37,Burial,,Early Kisalian; Classical Kisalian,,,-8.0570,26.7977,de Maret 1992b: 201
 Hv-9561,145,55,0,Charcoal,Nkile,COD,NKI 2,,,Botendo,,1,-0.111339,18.677862,Wotzka 1995: 158; see Seidensticker 2017: Tab. 21
 Hv-9562,0,0,0,Charcoal,Nkile,COD,,,,Botendo,,1,-0.111339,18.677862,Wotzka 1995: 158; see Seidensticker 2017: Tab. 21
-Hv-10580,2055,70,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,de Maret 1992
-Hv-10581,6020,505,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,de Maret 1992
-Hv-10582,2900,110,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,de Maret 1992
+Hv-10580,2055,70,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,de Maret 1992a
+Hv-10581,6020,505,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,de Maret 1992a
+Hv-10582,2900,110,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,de Maret 1992a
 Hv-10583,3070,95,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,Eggert 1993
 Hv-10586,5565,120,0,,Abeke,CMR,,,,,,,5.925278,10.158333,de Maret 1982
 Hv-10587,885,55,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,Lavachery/Cornelissen 2000
-Hv-10588,1690,55,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,de Maret 1992
+Hv-10588,1690,55,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,de Maret 1992a
 Hv-10832,1990,95,0,,Obobogo,CMR,,,,,,,3.816667,11.504167,Eggert 1993
 Hv-10833,2955,110,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,Eggert 1993
-Hv-10834,1870,105,0,Charcoal,Boma,COD,,Layer,,,,1,-5.85,13.066667,"de Maret 1985; Clist 2018: 238 Tab. 18.2, 239 Tab. 18.3"
+Hv-10834,1870,105,0,Charcoal,Boma,COD,,Layer,,,,1,-5.85,13.066667,"de Maret 1985a; Clist 2018: 238 Tab. 18.2, 239 Tab. 18.3"
 Hv-10852,2900,110,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,de Maret 1986
-Hv-10874,1790,120,0,Charcoal,Mirama,BDI,,,,,,,-3.383333,29.983333,de Maret 1985
-Hv-10875,570,110,0,Charcoal,Mirama,BDI,,,,,,,-3.383333,29.983333,de Maret 1985
-Hv-10876,1665,75,0,Charcoal,Ngoma III,RWA,,,,,,,-2.6,29.716667,de Maret 1985
+Hv-10874,1790,120,0,Charcoal,Mirama,BDI,,,,,,,-3.383333,29.983333,de Maret 1985a
+Hv-10875,570,110,0,Charcoal,Mirama,BDI,,,,,,,-3.383333,29.983333,de Maret 1985a
+Hv-10876,1665,75,0,Charcoal,Ngoma III,RWA,,,,,,,-2.6,29.716667,de Maret 1985a
 Hv-11045,2635,100,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,Eggert 1993
 Hv-11046,3625,165,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,Eggert 1993
-Hv-11140,1710,55,0,Charcoal,Mubuga,BDI,,,,,,,-3.4,30.016667,de Maret 1985
-Hv-11141,3160,145,0,Charcoal,Mubuga,BDI,,,,,,,-3.4,30.016667,de Maret 1985
-Hv-11142,2480,85,0,Charcoal,Mirama,BDI,,,,,,,-3.383333,29.983333,de Maret 1985
-Hv-11143,2635,95,0,Charcoal,Gasiza I,RWA,,,,,,,-2.483333,29.65,de Maret 1985
-Hv-11144,3180,145,0,Charcoal,Rwiyange,BDI,,,,,,,-3.05,30.083333,de Maret 1985
-Hv-11147,1630,55,0,Charcoal,Kabuye,RWA,,,,,,,-2.6,29.833333,de Maret 1985
-Hv-11402,1555,65,0,Charcoal,"Naviundu, Lubumbashi",COD,,,,,,,,,de Maret 1985
-Hv-11403,1605,75,0,Charcoal,"Naviundu, Lubumbashi",COD,,,,,,,,,de Maret 1985
+Hv-11140,1710,55,0,Charcoal,Mubuga,BDI,,,,,,,-3.4,30.016667,de Maret 1985a
+Hv-11141,3160,145,0,Charcoal,Mubuga,BDI,,,,,,,-3.4,30.016667,de Maret 1985a
+Hv-11142,2480,85,0,Charcoal,Mirama,BDI,,,,,,,-3.383333,29.983333,de Maret 1985a
+Hv-11143,2635,95,0,Charcoal,Gasiza I,RWA,,,,,,,-2.483333,29.65,de Maret 1985a
+Hv-11144,3180,145,0,Charcoal,Rwiyange,BDI,,,,,,,-3.05,30.083333,de Maret 1985a
+Hv-11147,1630,55,0,Charcoal,Kabuye,RWA,,,,,,,-2.6,29.833333,de Maret 1985a
+Hv-11402,1555,65,0,Charcoal,"Naviundu, Lubumbashi",COD,,,,,,,,,de Maret 1985a
+Hv-11403,1605,75,0,Charcoal,"Naviundu, Lubumbashi",COD,,,,,,,,,de Maret 1985a
 Hv-11570,2245,195,0,Charcoal,Bamanya,COD,BAM 81/1,,,,,0,0.00979,18.316297,Wotzka 1995; see Seidensticker 2017: Tab. 21
 Hv-11571,730,75,0,Charcoal,Longa,COD,LON 81/1,,,Imbonga,,0,-0.247706,18.881382,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
 Hv-11572,755,115,0,Charcoal,Bokele,COD,BKE 81/4,,,Lingonda/Longa/Bokele/Mbandaka,,0,-0.099389,18.59212,"Wotzka 1995: 115, 127; see Seidensticker 2017: Tab. 21"
@@ -944,8 +980,8 @@ Hv-11575,2130,125,0,Charcoal,Imbonga,COD,IMB 81/1,,,Monkoto,,0,-0.821913,19.7884
 Hv-11576,2900,285,0,Charcoal,Imbonga,COD,IMB 81/3,,,,,0,-0.821913,19.788493,Wotzka 1995; see Seidensticker 2017: Tab. 21
 Hv-11577,1785,125,0,Charcoal,Iyonda,COD,IYO 81/2,,,,,0,-0.037076,18.184492,Wotzka 1995; see Seidensticker 2017: Tab. 21
 Hv-11578,230,110,0,Charcoal,Mbandaka,COD,MBA 81/2,,,Bondongo; Mbandaka,,0,0.047734,18.256204,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
-Hv-12128,1960,115,0,Charcoal,Mubuga,BDI,,,,,,,-3.4,30.016667,de Maret 1985
-Hv-12130,2855,285,0,Charcoal,Rwiyange,BDI,,,,,,,-3.05,30.083333,de Maret 1985
+Hv-12128,1960,115,0,Charcoal,Mubuga,BDI,,,,,,,-3.4,30.016667,de Maret 1985a
+Hv-12130,2855,285,0,Charcoal,Rwiyange,BDI,,,,,,,-3.05,30.083333,de Maret 1985a
 Hv-12203,65,50,0,Charcoal,Bamanya,COD,BAM 81/1,,,,,0,0.00979,18.316297,Wotzka 1995; see Seidensticker 2017: Tab. 21
 Hv-12204,8750,205,0,Charcoal,Iyonda,COD,IYO 81/2,,,,,0,-0.037076,18.184492,Wotzka 1995; see Seidensticker 2017: Tab. 21
 Hv-12205,1860,260,0,Charcoal,Bokele,COD,BKE 81/3,,,,,0,-0.099389,18.59212,Wotzka 1995; see Seidensticker 2017: Tab. 21
@@ -968,7 +1004,7 @@ Hv-12625,915,105,0,Charcoal,Bolondo,COD,BLD 83/1,,,Bolondo,,0,-0.305801,21.25316
 Hv-12626,1895,65,0,Charcoal,Isaka-Elinga,COD,ISK 83/104,,,Lingonda,,0,-0.666969,20.202048,Wotzka 1995: 115; see Seidensticker 2017: Tab. 21
 Hv-12627,3485,220,0,Charcoal,Bokuma,COD,BOK 83/1,,,Imbonga,,0,-0.114356,18.697792,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
 Hv-12840,1020,20,,,Ndindan,CMR,,,,,,,3.9141,11.504,Mbida Mindzie 2002; Garcin et al. 2018
-Hv-12845,2300,65,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,de Maret 1992
+Hv-12845,2300,65,0,Charcoal,Obobogo,CMR,,,,,,,3.816667,11.504167,de Maret 1992a
 Hv-12845,1645,90,0,,Ndindan,CMR,,Pit,,,,,3.9141,11.504,Mbida Mindzie 2002
 Hv-12846,1615,90,0,,Ndindan,CMR,,,,,,,3.9141,11.504,Essomba 1989
 Hv-12847,2415,60,0,,Ndindan,CMR,,Pit,,,,,3.9141,11.504,Mbida Mindzie 2002
@@ -1177,9 +1213,9 @@ KN-4204,1870,70,0,Charcoal,Bokele,COD,BKE 81/2,Pit,,Bokele,,1,-0.099389,18.59212
 KN-4205,260,120,0,Charcoal,Longa,COD,LON 81/1,,,Imbonga,,0,-0.247706,18.881382,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
 KN-4206,1590,60,0,Charcoal,Isaka-Elinga,COD,ISK 83/104,,,Lingonda,,1,-0.666969,20.202048,Wotzka 1995: 115; see Seidensticker 2017: Tab. 21
 KSU-1250,0,40,0,Charcoal,Ebolowa,CMR,,,,,,0,2.9,11.244444,Hori et al. 1986
-KSU-444,0,0,0,Elaeis guineensis,Bidjoka,CMR,,,,,,,3.680278,10.612778,de Maret 1985; Hori et al. 1986
+KSU-444,0,0,0,Elaeis guineensis,Bidjoka,CMR,,,,,,,3.680278,10.612778,de Maret 1985a; Hori et al. 1986
 KSU-460,8470,70,0,Peat,Lobe,CMR,,,,,,0,2.866258,9.902146,Hori et al. 1986
-KSU-461,1010,25,,,Locality 88 (Mbengue),CMR,,,,,,,3.7997,10.1606,de Maret 1992; Garcin et al. 2018
+KSU-461,1010,25,,,Locality 88 (Mbengue),CMR,,,,,,,3.7997,10.1606,de Maret 1992a; Garcin et al. 2018
 KSU-468,8560,100,0,Charcoal,Lobe,CMR,,,,,,0,2.866258,9.902146,Hori et al. 1986
 KSU-501,960,50,0,Charcoal,Campo Beach,CMR,,Trench,,,,0,2.350556,9.826389,Hori et al. 1986; Oslisly et al. 2006; Eggert/Seidensticker 2016:64 Tab. 4.1
 KSU-503,0,0,0,Animal Bone,Sangmelima,CMR,,,,,,0,2.939444,11.985556,Hori et al. 1986
@@ -1251,30 +1287,30 @@ Ly-957,2335,55,0,,Ngoume PK 36,CMR,,Pit,,,,0,5.4833,11.4,Delneuf et al. 2003
 Ly-958,3730,55,0,,Kong,CMR,,Trench,,,,,5.69,12,Delneuf et al. 2003
 Ly-1604,2510,50,,,Fiye Nkwi,CMR,,,,,,0,5.1,10.1,Asombang 1998; Garcin et al. 2018
 Ly-1605,2320,70,,,Okolo,CMR,,,,,,,3.933333,11.516667,Asombang 1998; Garcin et al. 2018
-Ly-2002,500,130,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985
-Ly-2003,2310,150,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985
-Ly-2004,2280,170,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985
-Ly-2005,2530,120,0,,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985
-Ly-2280,2570,240,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985
-Ly-2281,2740,210,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985
-Ly-2282,3200,250,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985
-Ly-2283,2430,250,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985
-Ly-2284,3280,360,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985
-Ly-2377,360,200,0,Charcoal,Kandalo,RWA,,,,,,,-1.533333,30.65,de Maret 1985
-Ly-2378,860,20,0,Charcoal,Kandalo,RWA,,,,,,,-1.533333,30.65,de Maret 1985
-Ly-2379,1920,180,0,Charcoal,Kandalo,RWA,,,,,,,-1.533333,30.65,de Maret 1985
-Ly-2380,4280,180,0,Charcoal,Kandalo,RWA,,,,,,,-1.533333,30.65,de Maret 1985
-Ly-2382,1970,190,0,Charcoal,Muhororo,RWA,,,,,,,-1.5,30.616667,de Maret 1985
-Ly-2383,2040,180,0,Charcoal,Mucucu,RWA,II,,,,,,-1.533333,30.566667,de Maret 1985
-Ly-2384,2020,200,0,Charcoal,Mucucu,RWA,II,,,,,,-1.533333,30.566667,de Maret 1985
-Ly-2385,1210,160,0,Charcoal,Mucucu,RWA,II,,,,,,-1.533333,30.566667,de Maret 1985
-Ly-2387,2620,320,0,Charcoal,Mucucu,RWA,II,,,,,,-1.533333,30.566667,de Maret 1985
-Ly-2449,1220,220,0,Charcoal,Mucucu,RWA,II,,,,,,-1.533333,30.566667,de Maret 1985
-Ly-2450,350,200,0,Charcoal,Muhororo,RWA,,,,,,,-1.5,30.616667,de Maret 1985
-Ly-2451,5650,290,0,Charcoal,Kandalo,RWA,,,,,,,-1.533333,30.65,de Maret 1985
-Ly-3065,1390,230,0,Charcoal,Fundong,CMR,,,,,,,6.383333,10.283333,de Maret 1985
-Ly-3066,430,140,0,Charcoal,Fundong,CMR,,,,,,,6.383333,10.283333,de Maret 1985
-Ly-3067,1070,240,0,Charcoal,Fundong,CMR,,,,,,,6.383333,10.283333,de Maret 1985
+Ly-2002,500,130,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,de Maret 1985a
+Ly-2003,2310,150,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985a
+Ly-2004,2280,170,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985a
+Ly-2005,2530,120,0,,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985a
+Ly-2280,2570,240,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985a
+Ly-2281,2740,210,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985a
+Ly-2282,3200,250,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985a
+Ly-2283,2430,250,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985a
+Ly-2284,3280,360,0,Charcoal,Sou Blame Radjil,CMR,,,,,,,12.2,14.683333,de Maret 1985a
+Ly-2377,360,200,0,Charcoal,Kandalo,RWA,,,,,,,-1.533333,30.65,de Maret 1985a
+Ly-2378,860,20,0,Charcoal,Kandalo,RWA,,,,,,,-1.533333,30.65,de Maret 1985a
+Ly-2379,1920,180,0,Charcoal,Kandalo,RWA,,,,,,,-1.533333,30.65,de Maret 1985a
+Ly-2380,4280,180,0,Charcoal,Kandalo,RWA,,,,,,,-1.533333,30.65,de Maret 1985a
+Ly-2382,1970,190,0,Charcoal,Muhororo,RWA,,,,,,,-1.5,30.616667,de Maret 1985a
+Ly-2383,2040,180,0,Charcoal,Mucucu,RWA,II,,,,,,-1.533333,30.566667,de Maret 1985a
+Ly-2384,2020,200,0,Charcoal,Mucucu,RWA,II,,,,,,-1.533333,30.566667,de Maret 1985a
+Ly-2385,1210,160,0,Charcoal,Mucucu,RWA,II,,,,,,-1.533333,30.566667,de Maret 1985a
+Ly-2387,2620,320,0,Charcoal,Mucucu,RWA,II,,,,,,-1.533333,30.566667,de Maret 1985a
+Ly-2449,1220,220,0,Charcoal,Mucucu,RWA,II,,,,,,-1.533333,30.566667,de Maret 1985a
+Ly-2450,350,200,0,Charcoal,Muhororo,RWA,,,,,,,-1.5,30.616667,de Maret 1985a
+Ly-2451,5650,290,0,Charcoal,Kandalo,RWA,,,,,,,-1.533333,30.65,de Maret 1985a
+Ly-3065,1390,230,0,Charcoal,Fundong,CMR,,,,,,,6.383333,10.283333,de Maret 1985a
+Ly-3066,430,140,0,Charcoal,Fundong,CMR,,,,,,,6.383333,10.283333,de Maret 1985a
+Ly-3067,1070,240,0,Charcoal,Fundong,CMR,,,,,,,6.383333,10.283333,de Maret 1985a
 Ly-3766,1730,30,,,Ndéba (Somié),CMR,,,,,,,6.2826,11.2638,de Saulieu et al. 2015; Garcin et al. 2018
 Ly-3767,1670,30,,,Ndéba (Somié),CMR,,,,,,,6.2826,11.2638,de Saulieu et al. 2015; Garcin et al. 2018
 Ly-3768,1790,30,,,Ndéba (Somié),CMR,,,,,,,6.2826,11.2638,de Saulieu et al. 2015; Garcin et al. 2018
@@ -1326,9 +1362,9 @@ Ly-12149,1620,45,0,,Pendèrè-Senguè/Gobongo 1,CAF,,,,,,,4.42655,18.5529,Ndanga
 Ly-70122,1810,35,,,Pk 2-4 225 Wantamo,CMR,,,,,,,5.0083,14.0239,Delneuf 2001; Garcin et al. 2018
 Ly-70723,1800,35,,,Pk 2-4 225 Wantamo,CMR,,,,,,,5.0083,14.0239,Delneuf 2001; Garcin et al. 2018
 MC-2377,6430,130,0,Shell (River/Ocean),Port a Bois,GAB,,,,,,0,,,Clist 2004/05
-MC-2517,500,80,0,Charcoal,Mucucu,RWA,I,,,,,,-1.533333,30.566667,de Maret 1985
-MC-2518,1951,80,0,Charcoal,Mucucu,RWA,I,,,,,,-1.533333,30.566667,de Maret 1985
-MC-2519,2350,80,0,Charcoal,Mucucu,RWA,I,,,,,,-1.533333,30.566667,de Maret 1985
+MC-2517,500,80,0,Charcoal,Mucucu,RWA,I,,,,,,-1.533333,30.566667,de Maret 1985a
+MC-2518,1951,80,0,Charcoal,Mucucu,RWA,I,,,,,,-1.533333,30.566667,de Maret 1985a
+MC-2519,2350,80,0,Charcoal,Mucucu,RWA,I,,,,,,-1.533333,30.566667,de Maret 1985a
 OBDY-1107,280,60,0,Charcoal,Lac Ossa,CMR,,,,,,,3.784036,10.014764,Wirrmann/Elouga 1992
 OBDY-1111,3530,40,0,,Balimbe,CAF,,,,,,,,,Zangato/Holl 2010
 OBDY-1112,4350,30,0,,Betume,CAF,,,,,,,,,Zangato/Holl 2010
@@ -1342,7 +1378,7 @@ OBDY-1515,2630,40,0,,Gbabiri,CAF,,,,,,,,,Zangato/Holl 2010
 OBDY-1671,2500,40,0,,Ngoume PK 35,CMR,,,,,,,5.48333,11.4,Delneuf et al. 2003
 OBDY-1673,120,30,0,,Ndtam Moauée,CMR,,Surface,,,,,5.3667,11.2333,Delneuf et al. 2003
 OBDY-1680,2420,40,0,,Ngoume PK 35,CMR,,,,,,,5.48333,11.4,Delneuf et al. 2003
-OxA-930,7790,80,,,Shum Laka,CMR,,,,,,,5.858611,10.077778,de Maret 1992; Garcin et al. 2018
+OxA-930,7790,80,,,Shum Laka,CMR,,,,,,,5.858611,10.077778,de Maret 1992a; Garcin et al. 2018
 OxA-1139,9050,100,,,Mbi Crater,CMR,,,,,,,6.050191,10.203466,Asomband 1998; Garcin et al. 2018
 OxA-1362,7040,80,,,Shum Laka,CMR,,,,,,,5.858611,10.077778,Lavachery 2001; Garcin et al. 2018
 OxA-4538,3810,60,0,,Shum Laka,CMR,,,,,,,5.858611,10.077778,Lavachery/Cornelissen 2000
@@ -1364,6 +1400,9 @@ OxA-19517,1610,26,"-23,09",Charcoal,Kabusanze,RWA,,Pit,,Urewe,,,,,Giblin et al. 
 OxA-19518,1630,26,"-26,88",Charcoal,Kabusanze,RWA,,Burial,,Urewe,,,,,Giblin et al. 2010
 OxA-19583,1694,37,"-24,16",Charcoal,Kabusanze,RWA,,Pit,,Urewe,,,,,Giblin et al. 2010
 OxTL-154a-4,1570,220,0,,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,"de Bayle des Hermens 1975, 233; Eggert 1987"
+OxTL-202a,630,34,,Pottery,Sanga,COD,EAI11,Layer,,Classical Kisalian,,,-8.1821,26.4902,de Maret 1985b: 259
+OxTL-202b,350,24,,Pottery,Sanga,COD,T176,Burial,,Kabambian A,,,-8.1821,26.4902,de Maret 1985b: 260
+OxTL-202c,960,67,,Pottery,Katongo,COD,T11,Burial,,Early Kisalian,,,-8.2123,26.4095,de Maret 1985b: 259
 OxTL-209a,1610,110,0,Pottery,Gombe-Point,COD,T20,Layer,EIA,,Gombe,1,-4.300597,15.280791,"Cahen 1981: 131; Cahen et al. 1983: 444 Tab. 1C; Pincon 1991; Clist 2018: 235, 239 Tab. 18.2"
 OxTL-209c,1600,100,0,Pottery,Gombe-Point,COD,T22,Layer,EIA,,Gombe,1,-4.300597,15.280791,"Cahen 1981: 131; Cahen et al. 1983: 444 Tab. 1C; Pincon 1991; Clist 2018: 235, 239 Tab. 18.2"
 OxTL-209d,1645,110,0,Pottery,Gombe-Point,COD,T22,Layer,EIA,,Gombe,1,-4.300597,15.280791,"Cahen 1981: 131; Cahen et al. 1983: 444 Tab. 1C; Pincon 1991; Clist 2018: 235, 239 Tab. 18.2"
