@@ -34,11 +34,11 @@ Arc-373,2110,60,0,,Les Saras,COG,,,,,,,-4.183333,12.283333,,Eggert 1993
 Arc-530,2390,65,0,,Otoumbi 13,GAB,,,,,,,-0.076389,11.096667,,Oslisly 1992
 B-263,1240,120,0,,Sanga,COD,,,,,,,-8.1821,26.4902,,de Maret 1977
 B-264,1070,200,0,,Sanga,COD,,,,,,,-8.1821,26.4902,,de Maret 1977
-B-696,6780,150,0,,Mose,COD,,,,,,,,,,de Maret/van Noten/Cahen 1977
-B-755,1700,100,0,Charcoal,Ndora,RWA,,,,,,,,,,de Maret/van Noten/Cahen 1977
-B-758,1650,80,0,Charcoal,Cyamakuza,RWA,,,,,,,,,,de Maret/van Noten/Cahen 1977
-B-759,80,80,0,,Mikweti,COD,,,,,,,,,,de Maret/van Noten/Cahen 1977
-B-760,760,160,0,,Katoto,COD,,,,,,,,,,de Maret/van Noten/Cahen 1977
+B-696,6780,150,0,,Mose,COD,,,,,,,-11.12454,27.14097,,de Maret/van Noten/Cahen 1977
+B-755,1700,100,0,Charcoal,Ndora,RWA,,,,,,,-2.5852,29.8229,,de Maret/van Noten/Cahen 1977
+B-758,1650,80,0,Charcoal,Cyamakuza,RWA,,,,,,,-2.5852,29.8229,,de Maret/van Noten/Cahen 1977
+B-759,80,80,0,,Mikweti,COD,,,,,,,-1.40608,28.5942,,de Maret/van Noten/Cahen 1977
+B-760,760,160,0,,Katoto,COD,,,,,,,-9.18667,25.88481,,de Maret/van Noten/Cahen 1977
 Bdy-253,140,240,0,,Mondongué,CAF,,,,,,,3.65,18.56,,Kote 1992; Moga 2008
 Bdy-255,430,180,0,,Lingbadongo,CAF,,,,,,,3.816667,18.533333,,Moga 2008; Lupo et al. 2018: 14 Tab. 3
 Bdy-301,1890,130,0,,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,,Kote 1992: 118 Tab. 10; Lupo et al. 2018: 14 Tab. 3
@@ -56,7 +56,7 @@ Bdy-579,1020,115,0,,Eyo,CAF,,,,,,,3.66,18.48,,Kote 1992: 118 Tab. 10; Moga 2008;
 Bdy-581,1798,101,0,,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,,Kote 1992: 118 Tab. 10; Lupo et al. 2018: 14 Tab. 3
 Bdy-582,559,77,0,,Lingbangbo,CAF,,,,,,,3.633333,18.4,,Kote 1992: 118 Tab. 10; Moga 2008; Lupo et al. 2018: 14 Tab. 3
 Bdy-583,1200,100,0,,Bobélé 2,CAF,,,,,,,4.03,18.38,,Kote 1992: 118 Tab. 10; Moga 2008; Lupo et al. 2018: 14 Tab. 3
-Beta-?,2050,70,0,,Issemeyo 4,GAB,,Pit,,,,,0.300172,11.3891,,Oslisly/Assoko Ndong 2001
+Beta-?,2050,70,0,,Issemeyo 4,GAB,,Pit,,,,,0.300172,11.3891,,Oslisly/Assoko Ndong 2006
 Beta-10301,1670,50,0,Charcoal,Lac Bleu de Mouila,GAB,,,,,,,-1.916,11.0167,,Clist 2004/05
 Beta-12207,2100,90,0,Charcoal,Lac Bleu de Mouila,GAB,,,,,,,-1.916,11.0167,,Eggert 1993
 Beta-12208,1920,80,0,Charcoal,Lac Bleu de Mouila,GAB,,,,,,,-1.916,11.0167,,Clist 2004/05
@@ -303,18 +303,18 @@ Beta-156384,1830,70,0,,Campo,CMR,CAM 00/3,Burial,,Campo,,1,2.377257,9.83092,,Osl
 Beta-156385,1780,60,0,,Campo,CMR,CAM 00/2,Pit,,Campo,,1,2.377257,9.83092,,Oslisly u.a. 2006; Eggert/Seidensticker 2016:65 Tab. 4.1
 Beta-156387,2340,60,0,,Malongo 1,CMR,2,Pit,,Bissiang/Malongo,,1,2.734167,9.866944,,Oslisly u.a. 2006: 131; Nlend Nlend 2013/2014: 199; Eggert/Seidensticker 2016:79 Tab. 4.2
 Beta-156388,1900,50,0,,Nlendé Dibe 3,CMR,,Trench,,,,,2.760833,9.880556,,Oslisly u.a. 2006; Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:81 Tab. 4.2
-Beta-163966,3160,70,0,,Mban 1,TCD,,,,,,,,,0.4,Lavachery et al. 2010; Clist 2012
+Beta-163966,3160,70,0,,Mban 1,TCD,,,,,,,8.10503,16.23683,0.4,Lavachery et al. 2010; Clist 2012
 Beta-165709,1480,60,0,,Bwambe-Beach,CMR,BWB N1,Trench,,,,,2.898504,9.901455,,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:83 Tab. 4.2
 Beta-165710,1350,50,0,,Bwambe-Beach,CMR,BWB N2,Trench,,,,,2.898504,9.901455,,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:83 Tab. 4.2
 Beta-165711,1360,60,0,,Bwambe-Beach,CMR,BWB D2,Trench,,,,,2.898504,9.901455,0.5,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:83 Tab. 4.2
 Beta-165712,1280,70,,,Eboundja 3,CMR,,,,,,,2.7889,9.8894,,
 Beta-165713,1740,50,0,,Eboundja 3,CMR,,Pit,,,,,2.788889,9.889444,,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:83 Tab. 4.2
 Beta-165714,1280,70,0,,Eboundja 3,CMR,,Trench,,,,,2.788889,9.889444,,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:83 Tab. 4.2
-Beta-169033,1020,50,0,,Mban 1,TCD,,,,,,,,,ß.65,Lavachery et al 2010; Clist 2012
+Beta-169033,1020,50,0,,Mban 1,TCD,,,,,,,8.10503,16.23683,0.65,Lavachery et al 2010; Clist 2012
 Beta-169185,410,50,0,,Akok Benyat 2,CMR,,,,,,,2.395945,10.070991,,Oslisly et al 2013; Nlend Nlend 2013/2014: 48; Eggert/Seidensticker 2016:77 Tab. 4.2
 Beta-169186,1070,60,0,,Akok Benyat 2,CMR,,,,,,,2.395945,10.070991,,Oslisly et al 2013; Nlend Nlend 2013/2014: 48; Eggert/Seidensticker 2016:77 Tab. 4.2
 Beta-169187,3650,70,0,,Akok Benyat 2,CMR,,,,,,,2.395945,10.070991,,Oslisly et al 2013; Nlend Nlend 2013/2014: 48; Eggert/Seidensticker 2016:77 Tab. 4.2
-Beta-175346,920,40,0,,Mban 1,TCD,,,,,,,,,0.6,Lavachery et al 2010; Clist 2012
+Beta-175346,920,40,0,,Mban 1,TCD,,,,,,,8.10503,16.23683,0.6,Lavachery et al 2010; Clist 2012
 Beta-182529,0,0,0,,Bemboyo,CMR,,Trench,,,,,7.314782,15.176851,0.25,Lavachery et al. 2010
 Beta-182530,90,70,0,,Bemboyo,CMR,,Trench,,,,,7.314782,15.176851,0.45,Lavachery et al. 2010
 Beta-182531,830,40,0,,Sokorta Manga,CMR,,Trench,,,,,7.133633,14.83176,0.3,Lavachery et al. 2010
@@ -371,18 +371,18 @@ Beta-182581,2190,60,0,,Nanga Eboko,CMR,,,,,,,4.648814,12.394414,0.4,Lavachery et
 Beta-182582,2040,80,0,,Nanga Eboko,CMR,,,,,,,4.648814,12.394414,0.4,Lavachery et al. 2010
 Beta-182583,2360,60,0,,Meyang,CMR,,,,,,,4.776613,12.686669,1.1,Lavachery et al. 2005
 Beta-182584,2110,60,0,,Meyang,CMR,,,,,,,4.776613,12.686669,0.7,Lavachery et al. 2005
-Beta-202219,2310,60,0,,Ebel Alembe 1,GAB,,Pit,,,,,0.133592,11.112578,,Oslisly/Assoko Ndong 2001
-Beta-202220,2060,80,0,,Ebel Alembe 1,GAB,,Pit,,,,,0.133592,11.112578,,Oslisly/Assoko Ndong 2001
-Beta-202221,2320,60,0,,Ebel Alembe 1,GAB,,Pit,,,,,0.133592,11.112578,,Oslisly/Assoko Ndong 2001
-Beta-202222,2170,60,0,,Ebel Alembe 2,GAB,,Pit,,,,,0.133592,11.116125,,Oslisly/Assoko Ndong 2001
-Beta-202225,2450,50,0,,Issemeyo 7,GAB,,Pit,,,,,0.303883,11.398403,,Oslisly/Assoko Ndong 2001
-Beta-202226,2190,70,0,,Benguie 7,GAB,,Pit,,,,,0.28824,11.384366,,Oslisly/Assoko Ndong 2001
-Beta-202227,2340,70,0,,Viafée 5,GAB,,Pit,,,,,0.330672,11.414437,,Oslisly/Assoko Ndong 2001
-Beta-202228,1960,60,0,,Viafe 3,GAB,,,,,,,0.2,11.38,,Oslisly/Assoko Ndong 2001
-Beta-202229,2060,70,0,,Issemeyo 4,GAB,,Pit,,,,,0.300172,11.3891,,Oslisly/Assoko Ndong 2001
+Beta-202219,2310,60,0,,Ebel Alembe 1,GAB,,Pit,,,,,0.133592,11.112578,,Oslisly/Assoko Ndong 2006
+Beta-202220,2060,80,0,,Ebel Alembe 1,GAB,,Pit,,,,,0.133592,11.112578,,Oslisly/Assoko Ndong 2006
+Beta-202221,2320,60,0,,Ebel Alembe 1,GAB,,Pit,,,,,0.133592,11.112578,,Oslisly/Assoko Ndong 2006
+Beta-202222,2170,60,0,,Ebel Alembe 2,GAB,,Pit,,,,,0.133592,11.116125,,Oslisly/Assoko Ndong 2006
+Beta-202225,2450,50,0,,Issemeyo 7,GAB,,Pit,,,,,0.303883,11.398403,,Oslisly/Assoko Ndong 2006
+Beta-202226,2190,70,0,,Benguie 7,GAB,,Pit,,,,,0.28824,11.384366,,Oslisly/Assoko Ndong 2006
+Beta-202227,2340,70,0,,Viafée 5,GAB,,Pit,,,,,0.330672,11.414437,,Oslisly/Assoko Ndong 2006
+Beta-202228,1960,60,0,,Viafe 3,GAB,,,,,,,0.2,11.38,,Oslisly/Assoko Ndong 2006
+Beta-202229,2060,70,0,,Issemeyo 4,GAB,,Pit,,,,,0.300172,11.3891,,Oslisly/Assoko Ndong 2006
 Beta-202230,2050,70,,,Issemeyo 4,GAB,,,,,,,0.300172,11.3891,,Oslisly/Assoko Ndong 2006; Garcin et al. 2018
-Beta-202231,1430,60,0,,Lalara 1,GAB,,Pit,,,,,0.349261,11.436242,,Oslisly/Assoko Ndong 2001
-Beta-202232,1990,60,0,,Lalara 1,GAB,,Pit,,,,,0.349261,11.436242,,Oslisly/Assoko Ndong 2001
+Beta-202231,1430,60,0,,Lalara 1,GAB,,Pit,,,,,0.349261,11.436242,,Oslisly/Assoko Ndong 2006
+Beta-202232,1990,60,0,,Lalara 1,GAB,,Pit,,,,,0.349261,11.436242,,Oslisly/Assoko Ndong 2006
 Beta-233400,1520,40,0,,Kribi-Mpoengu,CMR,,Burial,,Bidjouka,,1,2.926944,9.912222,,Gouem Gouem 2010/11: 627; Eggert/Seidensticker 2016:79 Tab. 4.2
 Beta-233401,1510,50,0,,Kribi-Mpoengu,CMR,,Pit,,,,,2.926944,9.912222,,Gouem Gouem 2010/2011: 279; Eggert/Seidensticker 2016:79 Tab. 4.2
 Beta-233402,2040,50,0,,Kribi-Talla,CMR,BK,Pit,,Bwambé/Mpoengu,,1,2.930278,9.909722,,Gouem Gouem 2010/11: 220; Nlend Nlend 2013: 257 Tab. 44; Eggert/Seidensticker 2016:80 Tab. 4.2
@@ -481,7 +481,7 @@ BM-2425,4180,160,0,,Mbi Crater,CMR,,,,,,,6.050191,10.203466,,Asombang 1998; Garc
 BM-2426,2770,120,0,,Mbi Crater,CMR,,,,,,0,6.050191,10.203466,,Asombang 1998; Garcin et al. 2018
 BM-2495,40,40,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,0.05,Lavachery/Cornelissen 2000
 BM-2496,6360,100,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,0.6,Asombang 1988
-Bon-599,1640,520,0,Peat,Bras mort Ogooue,GAB,,,,,,,,,,Clist 2004/05
+Bon-599,1640,520,0,Peat,Bras mort Ogooue,GAB,,,,,,,0.66667,12.83333,,Clist 2004/05
 C-580,11188,490,0,,Mufo,AGO,,,Tshitolian/Lupemban,,,1,-7.516667,21.416667,,Cahen/Moeyersons 1977: 813 Tab. 1; de Maret/van Noten/Cahen 1977; Cahen et al. 1983: 447 Tab. 2
 C-581,14483,560,0,,Mufo,AGO,,,Upper Lupemban,,,1,-7.516667,21.416667,,Cahen/Moeyersons 1977: 813 Tab. 1; de Maret/van Noten/Cahen 1977; Cahen et al. 1983: 447 Tab. 2
 Crg-862,570,50,0,,Tsabouka,COG,,,,,,,-4.26083,14.42806,,Pincon 1991
@@ -538,14 +538,14 @@ Gif A-99397,7120,80,0,Charcoal,Riviere Denis,GAB,1,,,,,0,0.322222,9.347778,,Asso
 Gif A-99524,1960,60,0,Charcoal,Maboue 1,GAB,,,,,,,-0.143611,11.526111,,Clist 2004/05
 Gif-?,2205,45,0,Charcoal,Lope 2,GAB,,,,,,,-0.218056,11.5875,,Clist 2004/05
 Gif-?,1280,80,,,Bankouop,CMR,,,,,,,5.6333,10.5833,,Holl 1991; Garcin et al. 2018
-Gif-1636,7440,170,0,,Beforo,CAF,,,,,,,,,,van Noten 1982
-Gif-1637,1920,100,0,,Tia 1,CAF,,,,,,,,,,van Noten 1982
+Gif-1636,7440,170,0,,Beforo,CAF,,,,,,,5.57,15.35,,de Bayle des Hermens 1975; van Noten 1982
+Gif-1637,1920,100,0,,Tia 1,CAF,,,,,,,5.85,15.5,,de Bayle des Hermens 1975: van Noten 1982
 Gif-1642,7670,80,,,Lope 2,GAB,,,,,,,-0.218056,11.5875,,Assoko Ndong 2001; Garcin et al. 2018
 Gif-1688,1310,100,0,,Biala,COG,,,,,,0,-3.866667,13.25,,Kouyoumontzakis u.a. 1985
-Gif-1887,2560,110,0,,Be Yole,CAF,,,,,,,,,,van Noten 1982
-Gif-1888,2200,110,0,,Be Yole,CAF,,,,,,,,,,van Noten 1982
-Gif-1889,2400,100,0,,Zupaya,CAF,,,,,,,,,,van Noten 1982
-Gif-1890,6700,140,0,,Zupaya,CAF,,,,,,,,,,van Noten 1982
+Gif-1887,2560,110,0,,Be Yole,CAF,,,,,,,5.9,15.6,,de Bayle des Hermens 1975; van Noten 1982
+Gif-1888,2200,110,0,,Be Yole,CAF,,,,,,,5.9,15.6,,de Bayle des Hermens 1975; van Noten 1982
+Gif-1889,2400,100,0,,Zupaya,CAF,,,,,,,5.58,15.34,,de Bayle des Hermens 1975; van Noten 1982
+Gif-1890,6700,140,0,,Zupaya,CAF,,,,,,,5.58,15.34,,de Bayle des Hermens 1975; van Noten 1982
 Gif-1914,6600,130,0,,Moussanda,COG,,,Tshitolian,,,1,-4.016667,13.933333,,Kouyoumontzakis u.a. 1985
 Gif-2202,8550,200,0,,Point-Noire,COG,,,,,,,-4.75,11.85,,van Noten 1982
 Gif-2203,8920,200,0,,Point-Noire,COG,,,,,,,-4.75,11.85,,van Noten 1982
@@ -558,20 +558,20 @@ Gif-2209,4920,140,0,,Point-Noire,COG,,,,,,,-4.75,11.85,,van Noten 1982
 Gif-2210,0,0,0,,Point-Noire,COG,,,,,,,-4.75,11.85,,van Noten 1982
 Gif-2211,800,90,0,,Côte Sauvage,COG,,,,,,0,-4.916667,11.948611,,Kouyoumontzakis u.a. 1985
 Gif-2212,0,0,0,,Point-Noire,COG,,,,,,,-4.75,11.85,,van Noten 1982
-Gif-2223,1850,100,0,,Kamoa,COD,,,,,,,,,,van Noten 1982
-Gif-2224,1850,100,0,,Kamoa,COD,,,,,,,,,,van Noten 1982
-Gif-2225,3750,110,0,,Kamoa,COD,,,,,,,,,,van Noten 1982
-Gif-2228,1850,100,0,,Kamoa,COD,,,,,,,,,,van Noten 1982
+Gif-2223,1850,100,0,,Kamoa,COD,,,,,,,-10.35,25.15,,van Noten 1982
+Gif-2224,1850,100,0,,Kamoa,COD,,,,,,,-10.35,25.15,,van Noten 1982
+Gif-2225,3750,110,0,,Kamoa,COD,,,,,,,-10.35,25.15,,van Noten 1982
+Gif-2228,1850,100,0,,Kamoa,COD,,,,,,,-10.35,25.15,,van Noten 1982
 Gif-2294,0,0,0,,Ruzizi,RWA,,,,,,,-2.494502,28.892014,,van Noten 1982
 Gif-2295,250,90,0,,Gaseke,RWA,,,,,,,-1.767514,29.550644,,van Noten 1982
-Gif-2673,190,90,0,,Betume,CAF,,,,,,,,,,van Noten 1982
+Gif-2673,190,90,0,,Betume,CAF,,,,,,,6.2,15.2,,van Noten 1982
 Gif-2914,1230,90,0,Shell (River/Ocean),Cap Lopez,GAB,,,,,,0,-0.772646,8.781164,,Clist 2004/05
 Gif-2948,1890,90,0,,Point-Noire,COG,,,,,,0,-4.75,11.85,,Kouyoumontzakis u.a. 1985
 Gif-3449,520,80,0,,Loango,COG,,,,,,0,-4.65,11.790278,,Kouyoumontzakis u.a. 1985
 Gif-3450,2910,110,0,,Point-Noire,COG,,,,,,0,-4.75,11.85,,Kouyoumontzakis u.a. 1985
-Gif-3454,170,100,0,,Kafubu,COD,,,,,,,,,,van Noten 1982
-Gif-3455,1140,90,0,,Kafubu,COD,,,,,,,,,,van Noten 1982
-Gif-3456,2030,100,0,,Kafubu,COD,,,,,,,,,,van Noten 1982
+Gif-3454,170,100,0,,Kafubu,COD,,,,,,,-11.72111,27.49618,,van Noten 1982
+Gif-3455,1140,90,0,,Kafubu,COD,,,,,,,-11.72111,27.49618,,van Noten 1982
+Gif-3456,2030,100,0,,Kafubu,COD,,,,,,,-11.72111,27.49618,,van Noten 1982
 Gif-3479,3400,100,0,Shell (River/Ocean),Baia Farta,AGO,,,,,,0,-12.683333,13.2,,de Maret 1985a
 Gif-3662,640,60,0,,Toala,CAF,,,,,,,6.352778,15.998333,,Moga 2008
 Gif-4148,0,0,0,Charcoal,Sou,CMR,,,,,,,12.2,14.7,,de Maret 1985a
@@ -652,7 +652,7 @@ Gif-6311,7400,110,,,ORSTOM,COG,,,,,,,-4.2667,15.2333,,de Maret 1985a; Garcin et 
 Gif-6417,3250,80,0,Charcoal,Makokou,GAB,,,,,,,0.5738,12.8642,,Clist 2004/05
 Gif-6423,1970,70,0,Charcoal,Otoumbi 2,GAB,,,,,,0,-0.0675,11.091667,,Clist 2004/05
 Gif-6424,1650,70,0,Shell (River/Ocean),Oveng,GAB,,,,Oveng,,0,0.478611,9.516667,,Clist 2004/05
-Gif-6425,0,0,0,Charcoal,Obaka 4,GAB,,,,,,,,,,Clist 2004/05
+Gif-6425,0,0,0,Charcoal,Obaka 4,GAB,,,,,,,-1.5,11.5,,Clist 2004/05
 Gif-6426,1150,60,0,Charcoal,Sabiliere,GAB,,,,Groupe II,,0,0.5,9.383333,,Clist 2004/05
 Gif-6427,3250,80,0,Charcoal,Plateau de Mpassa,GAB,,,,,,,-1.7,13.63,,Clist 2004/05
 Gif-6502,200,100,0,,Konga,COG,,,,,,,-2.329465,12.792931,,Pincon 1991
@@ -684,8 +684,8 @@ Gif-7438,430,50,0,,Ngidi,COG,,,,,,,-4.06667,15.08333,,Pincon 1991
 Gif-7439,440,50,0,,Bime (Kibouende),COG,,,,,,,-4.15556,15.18083,,Pincon 1991
 Gif-7524,1910,40,0,,Lindili,GAB,,Pit,,,,,-0.148611,11.502778,,Oslisly 1992
 Gif-7525,2280,80,0,Charcoal,Lope 12,GAB,,,,,,,-0.208333,11.594444,,Clist 2004/05
-Gif-7526,0,0,0,Charcoal,Otoumbi 10,GAB,,,,,,,,,,Clist 2004/05
-Gif-7602,1970,60,0,,Lokoku,COD,,,,,,,,,,de Bayle des Hermens 1990
+Gif-7526,0,0,0,Charcoal,Otoumbi 10,GAB,,,,,,,-0.0667,11.1167,,Clist 2004/05
+Gif-7602,1970,60,0,,Lokoku,COD,,,,,,,2.2,21.4,,de Bayle des Hermens 1990
 Gif-7774,2310,70,0,,Lope 10,GAB,,,,,,,-0.177778,11.604167,,Oslisly 1992
 Gif-7775,1730,60,0,,Mingoue,GAB,5,,,,,,-0.18,11.36,,Clist 2004/05
 Gif-7776,2110,70,0,,Okanda 2,GAB,,,,,,,-0.119444,11.575,,Oslisly 1992
@@ -720,7 +720,7 @@ Gif-8609,1910,50,,,Loukoko 1,COG,,,,,,,-4.5167,14.6,,Dupre/Pincon 1997; Garcin e
 Gif-8610,760,40,0,,Akom,GNQ,,,,,,,1.8667,9.9,,Clist 1998
 Gif-8611,2210,80,0,Charcoal,Okala 1,GAB,,Pit,,,,,0.490556,9.4125,,Clist 2004/05
 Gif-8612,2170,50,0,,Okala 1,GAB,,Pit,,,,,0.490556,9.4125,,Clist 2004/05
-Gif-8613,0,0,0,Charcoal,Elarmitang,GAB,,,,,,,,,,Clist 2004/05
+Gif-8613,0,0,0,Charcoal,Elarmitang,GAB,,,,,,,2.15833,12.1367,,Clist 2004/05
 Gif-8614,5580,60,0,Charcoal,Okala 1,GAB,,,,,,,0.490556,9.4125,,Clist 2004/05
 Gif-8740,1600,60,0,,Anzem 1,GAB,,,,,,,0.6,10.5,,Clist 2004/05
 Gif-8741,2130,60,0,,Epona,GAB,,,,,,,-0.090278,11.140278,,Oslisly 1992
@@ -731,7 +731,7 @@ Gif-8968,2220,40,0,,Okala 1,GAB,,Pit,,,,,0.490556,9.4125,,Clist 2004/05
 Gif-8969,1650,40,,,Lékana,COG,,,,,,,-2.3333,14.583,,Dupre/Pincon 1997; Garcin et al. 2018
 Gif-8970,870,40,,,Kankouara 1,COG,,,,,,,-2.3167,14.5333,,Dupre/Pincon 1997; Garcin et al. 2018
 Gif-9377,2290,50,0,,Cap Esterias,GAB,,,,,,,0.577778,9.340556,,Clist 2004/05
-Gif-9378,40000,0,0,Charcoal,h 1,GAB,,,,,,,,,,Clist 2004/05
+Gif-9378,40000,0,0,Charcoal,Okala 1,GAB,,,,,,,0.490556,9.4125,Clist 2004/05
 Gif-9379,290,50,0,Shell (River/Ocean),Riviere Denis,GAB,1,,,,,0,0.322222,9.347778,,Clist 2004/05
 Gif-9391,3900,70,0,Charcoal,Grotte Paouan,GAB,,,,,,,-0.484,12.4515,,Clist 2004/05
 Gif-9392,5570,30,0,Charcoal,Grotte Paouan,GAB,,,,,,,-0.484,12.4515,, Clist 2004/05
@@ -753,12 +753,12 @@ Gif-9967,80,60,0,,HVL 1,GAB,,,,,,,-0.2361,11.425,,Assoko Ndong 2001; Clist 2004/
 Gif-10102,1790,50,0,,Okanda 1,GAB,,,,,,,-0.127778,11.588889,,Assoko Ndong 2001; Garcin et al. 2018
 Gif-10103,1950,40,0,Charcoal,Okanda 6,GAB,,,,,,,-0.1175,11.568611,,Clist 2004/05
 Gif-10104,700,50,0,,Leledi 1,GAB,,,,,,,-0.3402,11.5083,,Clist 2004/05
-Gif-10105,705,50,0,,Oumondo 2,GAB,,,,,,,,,,Clist 2004/05
+Gif-10105,705,50,0,,Oumondo 2,GAB,,,,,,,-0.5947,11.5425,,Clist 2004/05
 Gif-10176,5720,110,0,,Leledi 10,GAB,,,,,,,-0.133,16.166,,Assoko Ndong 2001; Garcin et al. 2018
 Gif-10203,2200,40,,,Oumoundo 4,GAB,,,,,,,-0.5866,11.5333,,Assoko Ndong 2001; Garcin et al. 2018
 Gif-10205,705,50,0,,Oumoundo 2,GAB,,,,,,,0,11.5,,Oslisly et al 2013
 Gif-10278,860,40,0,,HVL 4,GAB,,,,,,,-0.5777,11.5658,,Clist 2004/05
-Gif-10279,0,0,0,,Mitendi,GAB,,,,,,,,,,Clist 2004/05
+Gif-10279,0,0,0,,Mitendi,GAB,,,,,,,-0.64847,11.6924,,Clist 2004/05
 Gif-10325,200,50,0,,HVL 3,GAB,,,,,,,-0.5658,11.6016,,Clist 2004/05
 Gif-10327,820,60,,,Lope 15,GAB,,,,,,,-0.2083,11.5944,,Assoko Ndong 2001; Garcin et al. 2018
 Gif-10436,1890,50,0,Charcoal,Lindili 1,GAB,,,,,,,-0.158056,11.5025,,Clist 2004/05
@@ -776,7 +776,7 @@ Gif-11051,310,50,0,,Ewani 6,CMR,,,,,,,5.193889,9.429167,,Oslisly 2000
 Gif-11052,580,40,0,,Ewani 7,CMR,,,,,,,5.196389,9.408333,,Oslisly 2000
 Gif-11053,760,15,0,,Ewani 9,CMR,,,,,,,5.220833,9.450833,,Oslisly 2000
 Gif-11118,500,20,0,,Kokobuma 1,CMR,,,,,,,5.419722,9.655,,Oslisly 2000
-Gif-11152,40010,850,0,Charcoal,Maboue 5,GAB,,,,,,,,,,Clist 2004/05
+Gif-11152,40010,850,0,Charcoal,Maboue 5,GAB,,,,,,,-0.143611,11.526111,,Clist 2004/05
 Gif-11155,2210,45,0,Charcoal,Toube 1,GAB,1,Pit,,,,,-0.0375,11.585,,Assoko Ndong 2001: 235; Clist 2004/05
 Gif-11156,1350,60,0,Charcoal,Maboue 1,GAB,,,,,,,-0.143611,11.526111,,Clist 2004/05
 Gif-11157,1950,60,0,Charcoal,Toube 1,GAB,,Trench,,,,,-0.0375,11.585,,Assoko Ndong 2001: 235; Clist 2004/05
@@ -796,22 +796,22 @@ Gif-12476,585,35,0,,Djembe,,,Geologic Profile,,,,,2.183333,16.066667,,Oslisly et
 Gif-12477,280,35,,,PS3,CMR,,,,,,,2.06,15.48,,Bremond et al. 2017; Garcin et al. 2018
 Gif-12478,1830,35,0,,Djembe,,,Geologic Profile,,,,,2.183333,16.066667,,Oslisly et al 2013
 GrA-26175,1720,35,,,Ndéba (Somié),CMR,,,,,,,6.2826,11.2638,,de Saulieu et al. 2015; Garcin et al. 2018
-GrN-5752,2180,50,0,,Rurembo,RWA,,,,,,,,,,van Noten 1982
-GrN-5753,1655,60,0,,Rurembo,RWA,,,,,,,,,,van Noten 1982
-GrN-6019,5270,40,0,,Masango,BDI,,,,,,,,,,van Noten 1982
-GrN-6020,4400,40,0,,Masango,BDI,,,,,,,,,,van Noten 1982
+GrN-5752,2180,50,0,,Rurembo,RWA,,,,,,,-1.7,29.25,,van Noten 1982
+GrN-5753,1655,60,0,,Rurembo,RWA,,,,,,,-1.7,29.25,,van Noten 1982
+GrN-6019,5270,40,0,,Masango,BDI,,,,,,,-4.0695,29.6568,,van Noten 1982
+GrN-6020,4400,40,0,,Masango,BDI,,,,,,,-4.0695,29.6568,,van Noten 1982
 GrN-6108,100,45,0,,Ruzizi,BDI,,,,,,,-3.084618,29.258773,,van Noten 1982
 GrN-6109,190,45,0,,Ruzizi,BDI,,,,,,,-3.084618,29.258773,,van Noten 1982
 GrN-6110,1200,35,0,,Liavela,AGO,,,,,,,-14.966667,15.366667,,van Noten 1982
 GrN-6111,370,35,0,,Gaseke,RWA,,,,,,,-1.767514,29.550644,,van Noten 1982
-GrN-6112,1840,35,0,,Kamoa,COD,,,,,,,,,,van Noten 1982
-GrN-6113,2705,35,0,,Kamoa,COD,,,,,,,,,,van Noten 1982
-GrN-6282,3615,35,0,,Kamoa,COD,,,,,,,,,,van Noten 1982
-GrN-6283,430,45,0,,Kamoa,COD,,,,,,,,,,van Noten 1982
-GrN-6284,295,30,0,,Kamoa,COD,,,,,,,,,,van Noten 1982
-GrN-6285,1180,30,0,,Kamoa,COD,,,,,,,,,,van Noten 1982
-GrN-6286,4170,55,0,,Kamoa,COD,,,,,,,,,,van Noten 1982
-GrN-6287,6025,70,0,,Kamoa,COD,,,,,,,,,,van Noten 1982
+GrN-6112,1840,35,0,,Kamoa,COD,,,,,,,-10.35,25.15,,van Noten 1982
+GrN-6113,2705,35,0,,Kamoa,COD,,,,,,,-10.35,25.15,,van Noten 1982
+GrN-6282,3615,35,0,,Kamoa,COD,,,,,,,-10.35,25.15,,van Noten 1982
+GrN-6283,430,45,0,,Kamoa,COD,,,,,,,-10.35,25.15,,van Noten 1982
+GrN-6284,295,30,0,,Kamoa,COD,,,,,,,-10.35,25.15,,van Noten 1982
+GrN-6285,1180,30,0,,Kamoa,COD,,,,,,,-10.35,25.15,,van Noten 1982
+GrN-6286,4170,55,0,,Kamoa,COD,,,,,,,-10.35,25.15,,van Noten 1982
+GrN-6287,6025,70,0,,Kamoa,COD,,,,,,,-10.35,25.15,,van Noten 1982
 GrN-6917,14230,220,0,,Matupi,COD,,,,,,,1.193327,30.008462,0.4,Van Noten 1977: 39
 GrN-6918,21210,400,0,,Matupi,COD,,,,,,,1.193327,30.008462,1.15,Van Noten 1977: 39
 GrN-6919C,310,75,0,,Buru,COD,,,,Uele,,,3.738526,26.904011,,van Noten 1982
@@ -835,14 +835,14 @@ GrN-7344,16740,150,0,,Matupi,COD,,,,,,,1.193327,30.008462,1,Van Noten 1977: 39
 GrN-7347,21630,410,0,,Matupi,COD,,,,,,,1.193327,30.008462,1.5,Van Noten 1977: 39
 GrN-7348,22100,240,0,,Matupi,COD,,,,,,,1.193327,30.008462,1.6,Van Noten 1977: 39
 GrN-7349,33000,1900,0,,Matupi,COD,,,,,,,1.193327,30.008462,1.9,Van Noten 1977: 39
-GrN-7585,45,45,0,,Rya Murari,RWA,,,,,,,,,,van Noten 1982
-GrN-7588,155,45,0,,Rya Murari,RWA,,,,,,,,,,van Noten 1982
-GrN-7589,185,45,0,,Rya Murari,RWA,,,,,,,,,,van Noten 1982
+GrN-7585,45,45,0,,Rya Murari,RWA,,,,,,,-1.4,30.3,,van Noten 1982
+GrN-7588,155,45,0,,Rya Murari,RWA,,,,,,,-1.4,30.3,,van Noten 1982
+GrN-7589,185,45,0,,Rya Murari,RWA,,,,,,,-1.4,30.3,,van Noten 1982
 GrN-7668,2225,50,0,Charcoal,Gombe-Point,COD,T21,Layer,EIA,,,0,-4.300597,15.280791,,Cahen et al. 1983: 444 Tab. 1B; de Maret/Stainier 1999; Clist 2018: 238 Tab. 18.2
 GrN-7669,915,20,0,Charcoal,Gombe-Point,COD,T22,Layer,EIA,,,0,-4.300597,15.280791,0.925,Cahen et al. 1983: 444 Tab. 1A; Pincon 1991; Clist 2018: 238 Tab. 18.2
 GrN-7670,2550,90,,Charcoal,Gombe-Point,COD,T22,Layer,EIA,,,0,-4.300597,15.280791,1.025,de Maret 1982; Cahen et al. 1983: 444 Tab. 1A; Garcin et al. 2018; Clist 2018: 238 Tab. 18.2
-GrN-7671,1075,95,0,,Akameru,RWA,,,,,,,,,,van Noten 1982
-GrN-7672,845,75,0,,Akameru,RWA,,,,,,,,,,van Noten 1982
+GrN-7671,1075,95,0,,Akameru,RWA,,,,,,,-1.7,30,,van Noten 1982
+GrN-7672,845,75,0,,Akameru,RWA,,,,,,,-1.7,30,,van Noten 1982
 GrN-7673,1595,30,0,,Kabuye,RWA,,,,,,,-2.6,29.833333,,van Noten 1982
 GrN-8044,5450,30,0,,Gombe-Point,COD,T22,,Tshitolian,,,0,-4.300597,15.280791,1.225,Cahen et al. 1983: 444 Tab. 1A; de Maret 1985a
 GrN-8045,8345,45,0,,Gombe-Point,COD,T22,,Tshitolian,,,0,-4.300597,15.280791,1.525,Cahen et al. 1983: 444 Tab. 1A; de Maret 1985a
@@ -871,9 +871,9 @@ GrN-14004,1670,70,0,Charcoal,Bokuma,COD,BOK 83/3,,,Bokuma; Lingonda,,1,-0.114356
 GrN-14005,2440,150,0,Charcoal,Boso-Njafo,COD,BSN 85/1,Pit,,Imbonga,,1,1.130547,19.209599,,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
 GrN-14006,2260,80,0,Charcoal,Boso-Njafo,COD,BSN 85/3,Pit,,Imbonga,,1,1.130547,19.209599,,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
 Hv-1698,3515,55,0,,Sakuzi,COD,,,,,,,-5.167222,14.0075,,Zangato 2000
-Hv-4213,2960,40,0,,Kamoa,COD,,,,,,,,,,van Noten 1982
-Hv-4214,665,50,0,,Kamoa,COD,,,,,,,,,,van Noten 1982
-Hv-4215,4235,100,0,,Kamoa,COD,,,,,,,,,,van Noten 1982
+Hv-4213,2960,40,0,,Kamoa,COD,,,,,,,-10.35,25.15,,van Noten 1982
+Hv-4214,665,50,0,,Kamoa,COD,,,,,,,-10.35,25.15,,van Noten 1982
+Hv-4215,4235,100,0,,Kamoa,COD,,,,,,,-10.35,25.15,,van Noten 1982
 Hv-5258,2145,45,0,Charcoal,Ngovo,COD,,Layer,,Ngovo,,1,-5.308333,14.923611,,"de Maret 1986; Clist 2018: 238 Tab. 18.2, 239 Tab. 18.3"
 Hv-6247,695,85,0,Charcoal,Nkondi,COD,,Layer,,,,,-4.916667,12.966667,,van Noten 1982; Clist 2018: 238 Tab. 18.2
 Hv-6248,130,85,0,Charcoal,Mbafu,COD,,Layer,,,,,-5.43,14.26,,van Noten 1982; Clist 2018: 238 Tab. 18.2
@@ -1037,7 +1037,7 @@ I-14182,1130,80,0,Charcoal,Omong,CMR,,,,,,0,3.88372,10.897893,,Hori et al. 1986
 I-14183,2990,90,0,Charcoal,Bertoua,CMR,,,,,,0,4.485556,13.617778,,Hori et al. 1986
 I-14190,2880,90,0,Charcoal,Bertoua,CMR,,,,,,0,4.485556,13.617778,,Hori et al. 1986
 I-14191,390,80,0,Charcoal,Ngamboula,CMR,,,,,,0,4.5625,13.833333,,Hori et al. 1986
-IRPA-106-II,760,40,0,,Kamoa,COD,,,,,,,,,,van Noten 1982
+IRPA-106-II,760,40,0,,Kamoa,COD,,,,,,,-10.35,25.15,,van Noten 1982
 KI-2360,420,65,"-29,1",Charcoal,Bamanya,COD,BAM 83/1,,,Bondongo,,0,0.00979,18.316297,0.49,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
 KI-2361,640,70,"-25,3",Charcoal,Bamanya,COD,BAM 83/1,,,Bondongo,,1,0.00979,18.316297,0.515,Wotzka 1995: 138; see Seidensticker 2017: Tab. 21
 KI-2363,2260,60,"-26,4",Charcoal,Bokuma,COD,BOK 83/1,,,Imbonga,,1,-0.114356,18.697792,,Wotzka 1995: 66-67; see Seidensticker 2017: Tab. 21
@@ -1221,9 +1221,9 @@ KSU-501,960,50,0,Charcoal,Campo Beach,CMR,,Trench,,,,0,2.350556,9.826389,,Hori e
 KSU-503,0,0,0,Animal Bone,Sangmelima,CMR,,,,,,0,2.939444,11.985556,,Hori et al. 1986
 L-1605,2320,70,0,,Okolo,CMR,,Pit,,,,,3.933333,11.516667,,Atangana 1992
 L-349A,12450,350,0,,Gisenyi,RWA,,,,,,,-1.695498,29.257472,,van Noten 1982
-L-349B,14000,600,0,,Kirotshe,COD,,,,,,,,,,van Noten 1982
-Loean-132,3707,29,0,,Gbatoro,CAF,,,,,,,,,,Zangato/Holl 2010
-Loean-135,3598,30,0,,Bouboun,CAF,,,,,,,,,,Zangato/Holl 2010
+L-349B,14000,600,0,,Kirotshe,COD,,,,,,,-1.60131,29.02817,,van Noten 1982
+Loean-132,3707,29,0,,Gbatoro,CAF,,,,,,,6.49504,14.4154,,Zangato/Holl 2010
+Loean-135,3598,30,0,,Bouboun,CAF,,,,,,,6.13333,15.3333,,Zangato/Holl 2010
 Lv-17,7840,190,0,,Kinshasa-Lemba,COD,,,,,,,-4.396111,15.318889,,van Noten 1982
 Lv-44,30000,0,0,,Kinshasa-Lemba,COD,,,Sangoan/Lupemban,,,1,-4.383333,15.333333,,Dossin et al. 1962: 97; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982; Cahen et al. 1983: 447 Tab. 2
 Lv-45,5830,180,0,,Mont Gafula,COD,,,Tshitolian,,,1,-4.46667,15.21667,2,Dossin et al. 1962: 97-98; Gilot et al. 1965: 121; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
@@ -1268,10 +1268,10 @@ Lv-1699,2120,65,0,Elaeis guineensis/Charcoal,Sakuzi,COD,,Pit,,,,1,-5.167222,14.0
 Lv-1872,880,70,0,,Té Ndongué,CAF,,,,,,,5.716667,18,,Moga 2008
 Lv-1873,950,60,0,,Té Ndongué,CAF,,,,,,,5.716667,18,,Moga 2008
 Lv-1874,1370,70,0,,Té Ndongué,CAF,,,,,,,5.716667,18,,Moga 2008
-Lv-1878,380,70,0,,Ogrotoulou,CAF,,,,,,,,,,Moga 2008
-Lv-1879,2360,60,0,,Ogrotoulou,CAF,,,,,,,,,0.2,Moga 2008; Clist 2012
-Lv-1880,3390,100,0,,Ogrotoulou,CAF,,,,,,,,,0.2,Clist 2012
-Lv-1880,3390,100,0,,Ndele,,,,,,,0,,,,Zangato 2000
+Lv-1878,380,70,0,,Ogrotoulou,CAF,,,,,,,8.38333,22.7167,,Moga 2008
+Lv-1879,2360,60,0,,Ogrotoulou,CAF,,,,,,,8.38333,22.7167,0.2,Moga 2008; Clist 2012
+Lv-1880,3390,100,0,,Ogrotoulou,CAF,,,,,,,8.38333,22.7167,0.2,Clist 2012
+Lv-1880,3390,100,0,,Ndele,,,,,,,0,3.650128,16.870005,,Zangato 2000
 Lv-1939,2420,70,0,,Nkang,CMR,,Pit,,,,,4.266667,11.316667,,Mbida Mindzie 1996
 Lv-1940,2580,70,0,,Nkang,CMR,,Pit,,,,,4.266667,11.316667,,Mbida Mindzie 1996
 Lv-1941,2340,70,0,,Nkang,CMR,,Pit,,,,,4.266667,11.316667,,Mbida Mindzie 1996
@@ -1280,9 +1280,9 @@ Lv-1943,2490,80,0,,Nkang,CMR,,Pit,,,,,4.266667,11.316667,,Mbida Mindzie 1996
 Lv-1944,2490,100,0,,Nkang,CMR,,Pit,,,,,4.266667,11.316667,,Mbida Mindzie 1996
 Lv-1945,2310,90,,,Nkang,CMR,,,,,,,4.266667,11.316667,,Mbida Mindzie 2002; Garcin et al. 2018
 Lv-1946,2170,80,0,,Nkang,CMR,,Pit,,,,,4.266667,11.316667,,Mbida Mindzie u.a. 2000
-Lv-5947,220,50,0,,Ogrotoulou,CAF,,,,,,,,,,Moga 2008
-Lv-5948,2350,50,0,,Ogrotoulou,CAF,,,,,,,,,0.2,Moga 2008; Clist 2012
-Lv-5949,2655,30,0,,Ogrotoulou,CAF,,,,,,,,,,Moga 2008
+Lv-5947,220,50,0,,Ogrotoulou,CAF,,,,,,,8.38333,22.7167,,Moga 2008
+Lv-5948,2350,50,0,,Ogrotoulou,CAF,,,,,,,8.38333,22.7167,0.2,Moga 2008; Clist 2012
+Lv-5949,2655,30,0,,Ogrotoulou,CAF,,,,,,,8.38333,22.7167,,Moga 2008
 Ly-957,2335,55,0,,Ngoume PK 36,CMR,,Pit,,,,0,5.4833,11.4,,Delneuf et al. 2003
 Ly-958,3730,55,0,,Kong,CMR,,Trench,,,,,5.69,12,,Delneuf et al. 2003
 Ly-1604,2510,50,,,Fiye Nkwi,CMR,,,,,,0,5.1,10.1,,Asombang 1998; Garcin et al. 2018
@@ -1361,19 +1361,19 @@ Ly-12148,1580,40,,,Gobongo 1,CAR,,,,,,,4.4167,18.55,,Ndanga 2008; Garcin et al. 
 Ly-12149,1620,45,0,,Pendèrè-Senguè/Gobongo 1,CAF,,,,,,,4.42655,18.5529,,Ndanga 2008
 Ly-70122,1810,35,,,Pk 2-4 225 Wantamo,CMR,,,,,,,5.0083,14.0239,,Delneuf 2001; Garcin et al. 2018
 Ly-70723,1800,35,,,Pk 2-4 225 Wantamo,CMR,,,,,,,5.0083,14.0239,,Delneuf 2001; Garcin et al. 2018
-MC-2377,6430,130,0,Shell (River/Ocean),Port a Bois,GAB,,,,,,0,,,,Clist 2004/05
+MC-2377,6430,130,0,Shell (River/Ocean),Port a Bois,GAB,,,,,,0,0.283333,9.51667,,Clist 2004/05
 MC-2517,500,80,0,Charcoal,Mucucu,RWA,I,,,,,,-1.533333,30.566667,,de Maret 1985a
 MC-2518,1951,80,0,Charcoal,Mucucu,RWA,I,,,,,,-1.533333,30.566667,,de Maret 1985a
 MC-2519,2350,80,0,Charcoal,Mucucu,RWA,I,,,,,,-1.533333,30.566667,,de Maret 1985a
 OBDY-1107,280,60,0,Charcoal,Lac Ossa,CMR,,,,,,,3.784036,10.014764,,Wirrmann/Elouga 1992
-OBDY-1111,3530,40,0,,Balimbe,CAF,,,,,,,,,,Zangato/Holl 2010
-OBDY-1112,4350,30,0,,Betume,CAF,,,,,,,,,,Zangato/Holl 2010
+OBDY-1111,3530,40,0,,Balimbe,CAF,,,,,,,6.13333,15.3333,,Zangato/Holl 2010
+OBDY-1112,4350,30,0,,Betume,CAF,,,,,,,6.2,15.2,,Zangato/Holl 2010
 OBDY-1443,700,50,0,Charcoal,Lac Ossa,CMR,,,,,,,3.784036,10.014764,,Wirrmann/Elouga 1992
 OBDY-1444,580,40,0,Charcoal,Lac Ossa,CMR,,,,,,,3.784036,10.014764,,Wirrmann/Elouga 1992
 OBDY-1446,440,60,0,Charcoal,Lac Ossa,CMR,,,,,,,3.784036,10.014764,,Wirrmann/Elouga 1992
 OBDY-1487,510,50,0,Charcoal,Safa CAM Site,CMR,,,,,,,3.7917,10.0194,,Wirrmann/Elouga 1992
 OBDY-1488,420,50,0,Charcoal,Safa CAM Site,CMR,,,,,,,3.7917,10.0194,,Wirrmann/Elouga 1992
-OBDY-1508,2980,40,0,,Balimbe,CAF,,,,,,,,,,Zangato/Holl 2010
+OBDY-1508,2980,40,0,,Balimbe,CAF,,,,,,,6.13333,15.3333,,Zangato/Holl 2010
 OBDY-1515,2630,40,0,,Gbabiri,CAF,,,,,,,7.074,15.0867,,Zangato/Holl 2010
 OBDY-1671,2500,40,0,,Ngoume PK 35,CMR,,,,,,,5.48333,11.4,,Delneuf et al. 2003
 OBDY-1673,120,30,0,,Ndtam Moauée,CMR,,Surface,,,,,5.3667,11.2333,,Delneuf et al. 2003
@@ -1396,9 +1396,9 @@ OxA-7602,1905,35,0,Charcoal,Lindili 1,GAB,,,,,,,-0.158056,11.5025,,Assoko Ndong 
 OxA-7603,1980,35,,,Okanda 5,GAB,,,,,,,-0.1278,11.5889,,Assoko Ndong 2001; Garcin et al. 2018
 OxA-7604,2160,35,0,Charcoal,Okanda 6,GAB,,,,,,,-0.1175,11.568611,,Clist 2004/05
 OxA-7753,1830,35,0,Charcoal,Lindili 1,GAB,,,,,,,-0.158056,11.5025,,Clist 2004/05
-OxA-19517,1610,26,"-23,09",Charcoal,Kabusanze,RWA,,Pit,,Urewe,,,,,,Giblin et al. 2010
-OxA-19518,1630,26,"-26,88",Charcoal,Kabusanze,RWA,,Burial,,Urewe,,,,,,Giblin et al. 2010
-OxA-19583,1694,37,"-24,16",Charcoal,Kabusanze,RWA,,Pit,,Urewe,,,,,,Giblin et al. 2010
+OxA-19517,1610,26,"-23,09",Charcoal,Kabusanze,RWA,,Pit,,Urewe,,,-2.5,29.7,,Giblin et al. 2010
+OxA-19518,1630,26,"-26,88",Charcoal,Kabusanze,RWA,,Burial,,Urewe,,,-2.5,29.7,,Giblin et al. 2010
+OxA-19583,1694,37,"-24,16",Charcoal,Kabusanze,RWA,,Pit,,Urewe,,,-2.5,29.7,,Giblin et al. 2010
 OxTL-154a-4,1570,220,0,Pottery,Batalimo,CAF,,Trench,,,,,3.675942,18.455022,,"de Bayle des Hermens 1975, 233; Eggert 1987"
 OxTL-202a,630,34,,Pottery,Sanga,COD,EAI11,Layer,,Classical Kisalian,,,-8.1821,26.4902,,de Maret 1985b: 259
 OxTL-202b,350,24,,Pottery,Sanga,COD,T176,Burial,,Kabambian A,,,-8.1821,26.4902,,de Maret 1985b: 260
@@ -1425,7 +1425,7 @@ Pa-2196,3790,35,0,,Oboui,CAF,,,,,,,6.05,15.33,,Zangato/Holl 2010
 Pa-2202,3995,40,0,,Oboui,CAF,,,,,,,6.05,15.33,,Zangato/Holl 2010
 Pa-2203,3690,40,0,,Oboui,CAF,,,,,,,6.05,15.33,,Zangato/Holl 2010
 Pa-2223,3645,35,0,,Oboui,CAF,,,,,,,6.05,15.33,,Zangato/Holl 2010
-Pa-3835,3835,30,0,,Gbatoro,CAF,,,,,,,,,,Zangato/Holl 2010
+Pa-3835,3835,30,0,,Gbatoro,CAF,,,,,,,6.49504,14.4154,,Zangato/Holl 2010
 Poz-33006,1060,30,0,Charcoal,Lukula,COD,,Layer,,,,0,-5.435267,12.961583,0.95,"Hubau/Van den Bulcke et al. 2014; Clist 2018: 239 Tab. 18.2, 239 Tab. 18.3"
 Poz-33051,1750,30,,,CZI,DRC,,,,,,0,-5.9638,13.27,,Hubau et al. 2013; Garcin et al. 2018
 Poz-33052,1800,30,,,CZI,DRC,,,,,,0,-5.9638,13.27,,Hubau et al. 2013; Garcin et al. 2018
@@ -1605,9 +1605,9 @@ Poz-80294,310,30,0,Charcoal,Ngongo Mbata,COD,Tr19/Fosse 1,Pit,,,,,-5.7813,15.116
 Poz-80296,205,30,0,Charcoal,Ngongo Mbata,COD,Tr61,Pit,,,,,-5.7813,15.1166,,Clist 2018: 238 Tab. 18.1
 Poz-80297,8910,50,0,Charcoal,Ngongo Mbata,COD,Tr44,Layer,,,,,-5.7813,15.1166,,Clist 2018: 238 Tab. 18.1
 Pta-212,1810,50,0,,Benfica,AGO,,,,,,,-8.95796,13.190891,,van Noten 1982
-Pta-238,7840,80,0,,Mungo,AGO,,,,,,,,,,van Noten 1982
-Pta-239,9670,90,0,,Mungo,AGO,,,,,,,,,,van Noten 1982
-Pta-240,10410,90,0,,Mungo,AGO,,,,,,,,,,van Noten 1982
+Pta-238,7840,80,0,,Mungo,AGO,,,,,,,-11.83268,16.23613,,van Noten 1982
+Pta-239,9670,90,0,,Mungo,AGO,,,,,,,-11.83268,16.23613,,van Noten 1982
+Pta-240,10410,90,0,,Mungo,AGO,,,,,,,-11.83268,16.23613,,van Noten 1982
 Pta-9273,1940,35,,,Ndéba (Somié),CMR,,,,,,,6.2826,11.2638,,Saulieu et al. 2015; Garcin et al. 2018
 SacA-17788,245,30,0,Charcoal,Tovo,DRC,,,,,,,-5.7581,14.4705,,Heimlich et al. 2013: 1387 Tab. 1; Clist 2018: 239 Tab. 18.2
 SacA-17789,225,30,0,Bone,Tovo,DRC,,,,,,,-5.7581,14.4705,,Clist 2018: 239 Tab. 18.2
@@ -1693,14 +1693,14 @@ Ua-42373,949,30,0,,Corisco,GNQ,,Burial,,,,,0.916667,9.316667,,Gonzalez Ruibal 20
 Ua-42374,1808,30,0,,Corisco,GNQ,,Burial,,,,,0.916667,9.316667,,Gonzalez Ruibal 2012
 UCAL-172,12970,250,0,,Calunda,AGO,,,,,,0,-12.13008,23.46373,,van Noten 1982
 UCLA-167,6830,120,0,,Mufo,AGO,,,Tshitolian/Upper,,,1,-7.516667,21.416667,1.52,Fergusson/Libby 1963: 17; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
-UCLA-168,38000,2500,0,,Mose,COD,,,Sangoan/Lupemban,,,1,,,,Fergusson/Libby 1963: 17; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982; Cahen et al. 1983: 447 Tab. 2
+UCLA-168,38000,2500,0,,Mose,COD,,,Sangoan/Lupemban,,,1,-11.12454,27.14097,,Fergusson/Libby 1963: 17; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982; Cahen et al. 1983: 447 Tab. 2
 UCLA-169,34000,0,0,,Mufo Mine,AGO,,,Sangoan/Lupemban,,,1,-7.516667,21.416667,,Fergusson/Libby 1963: 17; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982; Cahen et al. 1983: 447 Tab. 2
 UCLA-170,1880,80,0,,Furi,AGO,,,,,,,-7.361821,21.19791,,Fergusson/Libby 1963: 17; van Noten 1982
 UCLA-171,4700,100,0,,Calunda,AGO,,,Tshitolian/Upper,,,1,-12.13008,23.46373,,Fergusson/Libby 1963: 17; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
 UCLA-172,12970,250,0,,Calunda,AGO,,,Tshitolian/Lower,,,1,-12.13008,23.46373,,Fergusson/Libby 1963: 17; Cahen et al. 1983: 447 Tab. 2
 UCLA-686,2830,80,0,,Camissombo,AGO,,,,,,0,-8.15,20.6833,,Berger et al. 1965: 357; van Noten 1982
-UCLA-708A,34000,0,0,,Leba,AGO,,,,,,,,,,van Noten 1982
-UCLA-708C,29800,1650,0,,Leba,AGO,,,,,,,,,,van Noten 1982
+UCLA-708A,34000,0,0,,Leba,AGO,,,,,,,-15.08,13.25,,van Noten 1982
+UCLA-708C,29800,1650,0,,Leba,AGO,,,,,,,-15.08,13.25,,van Noten 1982
 UCLA-708D,34000,0,0,,Cangalonge,AGO,,,,,,,-15.270437,13.464792,,van Noten 1982
 UCLA-709A/B,40000,0,0,,Mufo Mine,AGO,,,Sangoan/Lupemban,,,1,-7.516667,21.416667,,Berger et al. 1965: 356; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982; Cahen et al. 1983: 447 Tab. 2
 UCLA-710,2080,80,0,,Cangalonge/Chambuage Mine,AGO,,,,,,,-8.251667,20.75,,Berger et al. 1965: 357; van Noten 1982
@@ -1722,10 +1722,10 @@ UTC-8026,7140,50,,,Shum Laka,CMR,,,,,,,5.858611,10.077778,,Lavachery 2001; Garci
 UTC-8027,8550,60,,,Shum Laka,CMR,,,,,,,5.858611,10.077778,,Lavachery 2001; Garcin et al. 2018
 UTC-8028,8560,60,,,Shum Laka,CMR,,,,,,,5.858611,10.077778,,Lavachery 2001; Garcin et al. 2018
 UTC-8029,8920,90,,,Shum Laka,CMR,,,,,,,5.858611,10.077778,,Lavachery 2001; Garcin et al. 2018
-W-283,21000,500,0,,Ishango,COD,,,,,,,,,,van Noten 1982
-W-284,3000,200,0,,Ishango,COD,,,,,,,,,,van Noten 1982
-Y-587,1240,100,0,,Feti la Choya,AGO,,,,,,,,,,van Noten 1982
-Y-588,700,65,0,,Feti la Choya,AGO,,,,,,,,,,van Noten 1982
+W-283,21000,500,0,,Ishango,COD,,,,,,,-0.13841,29.60584,,van Noten 1982
+W-284,3000,200,0,,Ishango,COD,,,,,,,-0.13841,29.60584,,van Noten 1982
+Y-587,1240,100,0,,Feti la Choya,AGO,,,,,,,-14.51,15.28,,de Maret et al. 1977: 505; van Noten 1982
+Y-588,700,65,0,,Feti la Choya,AGO,,,,,,,-14.51,15.28,,de Maret et al. 1977: 505; van Noten 1982
 ,380,150,0,,Lingbangbo,CAF,,Pollencore,,,,,3.633333,18.4,,Buchet 1992
 ,2237,45,0,,Gba,CMR,,Pit,,,,,5.650273,11.459002,,Leka 2008
 ,2233,25,0,,Nditam,CMR,,,,,,,5.336083,11.330139,,Leka 2008
