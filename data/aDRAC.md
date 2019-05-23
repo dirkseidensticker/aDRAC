@@ -16,6 +16,7 @@
 | REL | Reliability of the context of a date and if it should be used for archaeological questions (e.g. settlement history); 0 not to be relied on; 1 reliable |
 | LAT | Latitude as decimal degrees <sup>1</sup> |
 | LONG | Longitude as decimal degrees <sup>1</sup> |
+| DEPTH | Depth below surface in meters. In case that the original source only gave a range, then the mean depth has been recorded. |
 | SOURCE | Source |
 
 ---
