@@ -19,11 +19,6 @@ The [radiocarbon5-Web-App](https://nevrome.shinyapps.io/radiocarbon5/) of [Cleme
 | /R | Examples of R-Code  |
 
 
-## Roadmap and ToDo's
-
-* Refine the [Shiny-Web-App](https://dirkseidensticker.shinyapps.io/webapp/) (Code inside /aDRACweb) which delivers a first easy-to-use interface
-* Deploy R-Code which covers the same steps as the Python-Code
-
 ## License
 
 The aDRAC-dataset (inside /data) is made available under the [Open Database License]( http://opendatacommons.org/licenses/odbl/1.0/). Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/). All source code is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).

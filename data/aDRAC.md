@@ -11,8 +11,12 @@
 | COUNTRY | [ISO 3166-1 alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1) three-letter country code |
 | FEATURE | Designation of the Feature |
 | FEATURE_DESC | Category of the Feature |
+| PHASE | Basic chronological association |
+| POTTERY | Associated pottery styles; see [List of style groups](https://github.com/dirkseidensticker/nwCongo/blob/master/bib/StilGrChrono.csv) |
+| REL | Reliability of the context of a date and if it should be used for archaeological questions (e.g. settlement history); 0 not to be relied on; 1 reliable |
 | LAT | Latitude as decimal degrees <sup>1</sup> |
 | LONG | Longitude as decimal degrees <sup>1</sup> |
+| DEPTH | Depth below surface in meters. In case that the original source only gave a range, then the mean depth has been recorded. |
 | SOURCE | Source |
 
 ---
