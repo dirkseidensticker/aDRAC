@@ -1113,10 +1113,10 @@ KIA-24749,1985,26,0,Charcoal,Yatou,CMR,YAT 99/4,,,,,,3.627603,9.816666,,Meister 
 KIA-24750/1,1964,28,0,,Yatou,CMR,YAT 99/4,,,,,,3.627603,9.816666,,Meister 2007: 47; Eggert/Seidensticker 2016:81 Tab. 4.2
 KIA-24751,1974,26,0,Charcoal,Yatou,CMR,YAT 99/4,,,,,,3.627603,9.816666,,Meister 2007; Eggert/Seidensticker 2016:81 Tab. 4.2
 KIA-27026,1692,29,0,Charcoal,Akonetye,CMR,AKO 05/2,Burial,,,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
-KIA-27027,1747,32,0,Elaeis guineensis,Akonetye,CMR,AKO 05/3,,,,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
+KIA-27027,1747,32,0,Elaeis guineensis,Akonetye,CMR,AKO 05/3,,,Akonetye South,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
 KIA-27028,1718,32,0,Elaeis guineensis,Akonetye,CMR,AKO 05/4,,,,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
 KIA-27029,1719,30,0,Elaeis guineensis,Akonetye,CMR,AKO 05/4,,,,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
-KIA-27030,1815,21,0,Sediment,Akonetye,CMR,AKO 05/5,,,,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
+KIA-27030,1815,21,0,Sediment,Akonetye,CMR,AKO 05/5,,,Akonetye South,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
 KIA-27031/1,2429,30,0,,Akonetye,CMR,AKO 05/6,Burial,,,,,2.4755,11.174669,,Eggert et al. 2006; Eggert/Seidensticker 2016:82 Tab. 4.2
 KIA-27031/2,1982,50,0,Sediment,Akonetye,CMR,AKO 05/6,Burial,,,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:83 Tab. 4.2
 KIA-27032,1771,30,0,Elaeis guineensis,Akonetye,CMR,AKO 05/6,Burial,,,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
@@ -1132,8 +1132,8 @@ KIA-29601,2286,30,0,Charcoal,Abang Minko‘o,CMR,ABM 06/2,Pit,,,,,2.329389,11.42
 KIA-29602,2249,28,0,Charcoal,Abang Minko‘o,CMR,ABM 06/2,Pit,,,,,2.329389,11.422917,,Eggert u.a. 2006: 283; Eggert/Seidensticker 2016:77 Tab. 4.2
 KIA-29603,1845,25,0,Charcoal,Minyin,CMR,MIY 06/1,Pit,,,,,2.37658,11.331313,,Meister/Eggert 2008
 KIA-29604,2001,27,0,Charcoal,Minyin,CMR,MIY 06/1,Pit,,,,,2.37658,11.331313,,Meister/Eggert 2008
-KIA-29605,1871,35,0,Elaeis guineensis,Minyin,CMR,MIY 06/2,Pit,,,,,2.37658,11.331313,,Meister/Eggert 2008
-KIA-29606,1922,24,0,Elaeis guineensis,Minyin,CMR,MIY 06/2,Pit,,,,,2.37658,11.331313,,Meister/Eggert 2008
+KIA-29605,1871,35,0,Elaeis guineensis,Minyin,CMR,MIY 06/2,Pit,,Akonetye North,,,2.37658,11.331313,,Meister/Eggert 2008
+KIA-29606,1922,24,0,Elaeis guineensis,Minyin,CMR,MIY 06/2,Pit,,Akonetye North,,,2.37658,11.331313,,Meister/Eggert 2008
 KIA-29607,1739,28,0,Charcoal,Minyin,CMR,MIY 06/3,Pit,,,,,2.37658,11.331313,,Meister/Eggert 2008
 KIA-29608,1849,26,0,Elaeis guineensis,Minyin,CMR,MIY 06/3,Pit,,,,,2.37658,11.331313,,Meister/Eggert 2008
 KIA-29697,2162,60,0,Pennisetum glaucum,Bwambé-Sommet (Est),CMR,BWS 04/2 (F33),Pit,,Bissiang/Malongo; Bwambé/Mpoengu,,1,2.893551,9.903519,,Eggert u.a. 2006; Eggert/Seidensticker 2016:79 Tab. 4.2
@@ -1148,11 +1148,11 @@ KIA-31779,1814,23,0,Elaeis guineensis,Akonetye,CMR,AKO 05/6,Burial,,Bidjouka,,1,
 KIA-31780,1801,24,0,Elaeis guineensis,Akonetye,CMR,AKO 05/6,Burial,,,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
 KIA-31781,1787,17,0,Charcoal,Akonetye,CMR,AKO 05/2,Burial,,Bidjouka,,1,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
 KIA-31782,1769,24,0,Elaeis guineensis,Akonetye,CMR,AKO 05/2,Burial,,,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
-KIA-33061,1808,25,"-28,24",Elaeis guineensis,Akonetye,CMR,AKO 07/1,,,,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
-KIA-33062,1924,26,"-25,44",Elaeis guineensis,Akonetye,CMR,AKO 07/1,,,,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
-KIA-33063,1885,25,"-24,45",Elaeis guineensis,Akonetye,CMR,AKO 07/6,,,,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
-KIA-33064,1855,24,"-26,58",Elaeis guineensis,Akonetye,CMR,AKO 07/6,,,,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
-KIA-33065,1934,26,"-28,59",Charcoal,Akonetye,CMR,AKO 07/1,,,,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
+KIA-33061,1808,25,"-28,24",Elaeis guineensis,Akonetye,CMR,AKO 07/1,,,Akonetye North,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
+KIA-33062,1924,26,"-25,44",Elaeis guineensis,Akonetye,CMR,AKO 07/1,,,Akonetye North,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
+KIA-33063,1885,25,"-24,45",Elaeis guineensis,Akonetye,CMR,AKO 07/6,,,Akonetye North,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
+KIA-33064,1855,24,"-26,58",Elaeis guineensis,Akonetye,CMR,AKO 07/6,,,Akonetye North,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
+KIA-33065,1934,26,"-28,59",Charcoal,Akonetye,CMR,AKO 07/1,,,Akonetye North,,,2.4755,11.174669,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
 KIA-33068,1730,25,,,Campo,CMR,,,,,,0,2.377257,9.83092,,Meister/Eggert 2008; Garcin et al. 2008
 KIA-33069,1713,25,"-25,11",Charcoal,Campo,CMR,CAM 07/1,Burial,,Campo,,1,2.377257,9.83092,,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
 KIA-33070,1796,24,"-27,77",Charcoal,Campo,CMR,CAM 07/1,Burial,,Campo,,1,2.377257,9.83092,,Meister/Eggert 2008; Eggert/Seidensticker 2016:64 Tab. 4.1
