@@ -477,6 +477,10 @@ Beta-379379,330,30,0,Charcoal,Ngongo Mbata,COD,Tr65,Pit,,,,,-5.7813,15.1166,,Cli
 Beta-382528,370,30,0,Charcoal,Kindoki,COD,Tr23/Fosse 7,Pit,,Kindoki,,1,-5.07,15.01,,Clist 2018: 237 Tab. 18.1; Clist et al. 2018: 258 Tab. 19.3
 Beta-451398,320,30,0,Charcoal,Ngongo Mbata,COD,Tr7,Pit,,,,,-5.7813,15.1166,,Clist 2018: 238 Tab. 18.1
 Beta-451399,160,30,0,Charcoal,Ngongo Mbata,COD,Tr83,Pit,,,,,-5.7813,15.1166,,Clist 2018: 238 Tab. 18.1
+Beta-471016,370,30,0,,Kingoyi,COG,MKU3b 14/15,,,Moubiri,,1,-4.295335,14.328974,,Nikis 2018/2: 47
+Beta-471017,820,30,0,,Mamfulu b,COG,MAFb-14/15,,,Mindouli,,1,-4.298095,14.326289,,Nikis 2018/2: 141
+Beta-471018,1010,30,0,,Kilodia,COG,KDI-15/1,Furnace,,,,1,-4.292464,14.360535,,Nikis 2018/2: 35
+Beta-471019,1110,30,0,,Kilodia,COG,KDI-15/2,Furnace,,,,1,-4.292464,14.360535,,Nikis 2018/2: 35
 BM-2425,4180,160,0,,Mbi Crater,CMR,,,,,,,6.050191,10.203466,,Asombang 1998; Garcin et al. 2018
 BM-2426,2770,120,0,,Mbi Crater,CMR,,,,,,0,6.050191,10.203466,,Asombang 1998; Garcin et al. 2018
 BM-2495,40,40,0,,Shum Laka,CMR,,Trench,,,,,5.858611,10.077778,0.05,Lavachery/Cornelissen 2000
@@ -1512,13 +1516,13 @@ Poz-57843,1860,30,,,GPS051,CMR,,,,,,,2.4956,12.0319,,de Saulieu et al. 2015; Gar
 Poz-57845,1620,30,,,Meveme,CMR,,,,,,,2.4055,13.1146,, Saulieu et al. 2015; Garcin et al. 2018
 Poz-57846,2270,30,,,Nya Zanga,CMR,,,,,,,2.5013,12.0249,, Saulieu et al. 2015; Garcin et al. 2018
 Poz-57847,2270,30,,,Nya Zanga,CMR,,,,,,,2.5013,12.0249,, Saulieu et al. 2015; Garcin et al. 2018
-Poz-59435,610,30,,,Nkabi,,,,,Kongo,,,-4.2523,14.3963,,"Clist 2018: 254 Tab. 19.2"
+Poz-59435,610,30,,,Nkabi,COG,NKB-13,,,Kongo; Misenga,,1,-4.252767,14.39665,0.2,Nikis 2018/2: 173; Clist 2018: 254 Tab. 19.2
 Poz-59436,2955,35,0,Charcoal,Kinsala,COD,,Pit,,,,,-5.7296,15.1428,,Clist 2018: 237 Tab. 18.1
 Poz-59437,130,30,0,Charcoal,Lemfu,COD,,Pit,,,,,-5.0618,15.0088,,Clist 2018: 238 Tab. 18.1
 Poz-59445,320,30,0,Charcoal,Kindoki,COD,Tr33/Fosse 1,Pit,,,,,-5.07,15.01,,Clist 2018: 237 Tab. 18.1
 Poz-59446,305,30,0,Charcoal,Kindoki,COD,Tr23/Fosse 5,Pit,,Kindoki,,1,-5.07,15.01,,Clist 2018: 237 Tab. 18.1; Clist et al. 2018: 258 Tab. 19.3
 Poz-59447,90,30,0,Charcoal,Kindoki,COD,Tr5/Fosse 3,Pit,,,,,-5.07,15.01,,Clist 2018: 237 Tab. 18.1
-Poz-59484,605,30,,,Makuti 1,,,,,Kongo,,,-4.2942,14.3316,,"Clist 2018: 254 Tab. 19.2"
+Poz-59484,605,30,,,Makuti 1,COFG,MKU-13,Layer,,Kongo; Misenga,,1,-4.2942,14.330167,,Nikis 2018/2: 105; Clist 2018: 254 Tab. 19.2
 Poz-59485,2815,30,0,Charcoal,Kinsala,COD,Tr15,Layer,,,,,-5.7296,15.1428,,Clist 2018: 237 Tab. 18.1
 Poz-59486,680,30,0,Charcoal,Kindoki,COD,Tr28/Fosse 1,Pit,,Kongo,,1,-5.07,15.01,,"Clist 2018: 237 Tab. 18.1, 239 Tab. 18.3, 254 Tab. 19.2"
 Poz-59632,320,30,0,Charcoal,Kindoki,COD,Tr58/Fosse 1,Pit,,,,,-5.07,15.01,,Clist 2018: 237 Tab. 18.1
@@ -1575,7 +1579,9 @@ Poz-69050,535,30,0,Charcoal,Misenga,COD,,Layer,,Kongo,,,-4.3661,14.3133,,"Clist 
 Poz-69051,4080,35,0,Charcoal,Kinsala,COD,Tr20,Pit,,,,,-5.7296,15.1428,,Clist 2018: 237 Tab. 18.1
 Poz-69053,1665,30,0,Charcoal,Kitala,COD,Tr3,Pit,,,,1,-5.5508,14.8677,,"Clist 2018: 238 Tab. 18.1, 239 Tab. 18.3"
 Poz-69263,2230,30,0,Charcoal,Kitala,COD,Tr2,Pit,,,,,-5.5508,14.8677,,Clist 2018: 238 Tab. 18.1
-Poz-70551,645,30,,,Makuti 3,,,,,Kongo,,,-4.2942,14.3316,,"Clist 2018: 254 Tab. 19.2"
+Poz-70550,395,30,0,,Kindangakanzi,COG,KNA 14,,,Kindangakanzi,,1,-4.430356,13.633447,,Nikis 2018/2: 239
+Poz-70551,645,30,0,,Makuti 3,COG,MKU3-14,,,Kongo; Misenga,,1,-4.294492,14.328631,0.2,Nikis 2018/2: 105; Clist 2018: 254 Tab. 19.2
+Poz-70552,70,30,0,,Kitchounga,COG,KTG-14,Furnace,,Moubiri,,1,-4.299754,14.324276,,Nikis 2018/2: 81
 Poz-74441,2470,30,0,,Dibamba,CMR,F. 121 (0-60 cm),,,,,,3.995833,9.8215,,Saulieu et al. 2017
 Poz-74444,340,30,0,,Dibamba,CMR,F. 206 (0-70 cm),,,,,,3.995833,9.8215,,Saulieu et al. 2017
 Poz-74504,2435,30,0,,Dibamba,CMR,F. 80 (0-60 cm),,,,,,3.995833,9.8215,,Saulieu et al. 2017
@@ -1604,6 +1610,9 @@ Poz-80293,1700,30,0,Elaeis guineensis,Bu 3,COD,,Layer,,,,1,-5.4489,13.7843,,"Cli
 Poz-80294,310,30,0,Charcoal,Ngongo Mbata,COD,Tr19/Fosse 1,Pit,,,,,-5.7813,15.1166,,Clist 2018: 238 Tab. 18.1
 Poz-80296,205,30,0,Charcoal,Ngongo Mbata,COD,Tr61,Pit,,,,,-5.7813,15.1166,,Clist 2018: 238 Tab. 18.1
 Poz-80297,8910,50,0,Charcoal,Ngongo Mbata,COD,Tr44,Layer,,,,,-5.7813,15.1166,,Clist 2018: 238 Tab. 18.1
+Poz-84660,960,30,0,,Kilodia,COG,KDI-15/1,Furnace,,,,1,-4.292464,14.360535,,Nikis 2018/2: 35
+Poz-84661,385,30,0,,Ntominsié,COG,NTM-15,,,Moubiri,,1,-4.294666,14.334963,,Nikis 2018/2: 183
+Poz-84662,195,30,0,,Travers-Blanc,COG,TRB-15,Furnace,,,,1,-4.280599,14.344688,,Nikis 2018/2: 215
 Pta-212,1810,50,0,,Benfica,AGO,,,,,,,-8.95796,13.190891,,van Noten 1982
 Pta-238,7840,80,0,,Mungo,AGO,,,,,,,-11.83268,16.23613,,van Noten 1982
 Pta-239,9670,90,0,,Mungo,AGO,,,,,,,-11.83268,16.23613,,van Noten 1982
