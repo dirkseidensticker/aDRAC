@@ -1,0 +1,129 @@
+---
+output: github_document
+---
+# aDRAC (*Archives des datations radiocarbone d'Afrique centrale*)
+[![DOI](https://zenodo.org/badge/20329/dirkseidensticker/aDRAC.svg)](https://zenodo.org/badge/latestdoi/20329/dirkseidensticker/aDRAC)
+
+*[Dirk Seidensticker M.A. (Ghent University)](https://research.flw.ugent.be/en/dirk.seidensticker)*
+
+```{r setup, include=FALSE}
+library("tidyverse")
+library("sf")
+library("raster")
+library("rnaturalearth")
+library("rgdal")
+
+# aDRAC dataset
+a <- read.csv("data/aDRAC.csv", 
+              encoding = "UTF-8") %>%
+  st_as_sf(crs = 4326, 
+           coords = c("LONG", 
+                      "LAT"), 
+           remove = FALSE)
+
+# naturalearth geodata
+rivers10 <- ne_download(scale = 10, type = 'rivers_lake_centerlines', category = 'physical', returnclass = "sf")
+lakes10 <- ne_download(scale = 10, type = 'lakes', category = 'physical', returnclass = "sf")
+coast10 <- ne_download(scale = 10, type = 'coastline', category = 'physical', returnclass = "sf")
+land10 <- ne_download(scale = 10, type = 'land', category = 'physical', returnclass = "sf")
+boundary_lines_land10 <- ne_download(scale = 10, type = 'boundary_lines_land', category = 'cultural', returnclass = "sf")
+
+# landcover data from "Global Land Cover 2000 Project (GLC 2000)" https://ec.europa.eu/jrc/en/scientific-tool/global-land-cover
+
+temp <- tempfile()
+download.file("https://forobs.jrc.ec.europa.eu/data/products/glc2000/Africa_v5_Grid.zip",temp)
+unzip(temp)
+unlink(temp)
+dpath <- "Grid/africa_v5/hdr.adf"
+x <- new("GDALReadOnlyDataset", dpath)
+getDriver(x)
+getDriverLongName(getDriver(x))
+
+hdr <- asSGDF_GROD(x)
+hdr <- raster(hdr)
+
+# extent: xmin,xmax,ymin,ymax
+e  <- extent(5, 33, -17, 13) 
+rfs <- crop(hdr, e) 
+rfs.p <- rasterToPoints(rfs)
+
+# Make the points a dataframe for ggplot & subset rainforest bands 1-7
+rfs.bd1.7 <- data.frame(rfs.p)
+rfs.bd1.7 <- subset(rfs.bd1.7, band1 >= 1 & band1 <= 7)
+
+# Swamp forest
+rfs.bd5 <- data.frame(rfs.p)
+rfs.bd5 <- subset(rfs.bd5, band1 == 5)
+
+# swamp buchland and grassland
+rfs.bd17 <- data.frame(rfs.p)
+rfs.bd17 <- subset(rfs.bd17, band1 == 17)
+
+# water
+rfs.bd26 <- data.frame(rfs.p)
+rfs.bd26 <- subset(rfs.bd26, band1 == 26)
+```
+
+The *archive for radiocarbon datings from Central Africa* (aDRAC) provides a catalogue of available radiocarbon datings from Central Africa. The dataset covers published radiocarbon dates and the most essential metadata for each date as well as available citations.
+
+```{r map, echo=FALSE, fig.align='center', dpi=300, out.width='100%'}
+ggplot() + 
+  geom_sf(data = land10, fill = "#ffebbe", color = NA) + 
+  geom_raster(data = rfs.bd1.7, aes(y = y, x = x), fill = '#00734d') + 
+  geom_raster(data = rfs.bd5, aes(y = y, x = x), fill = '#2b916a') + 
+  geom_raster(data = subset(rfs.bd17, x < 20), aes(y = y, x = x), fill = '#54eeb7') + 
+  geom_raster(data = rfs.bd26, aes(y = y, x = x), fill = '#44afe3') + 
+  geom_sf(data = coast10, size = .5, color = '#44afe3') + 
+  geom_sf(data = rivers10, size = .5, color = '#44afe3') + 
+  geom_sf(data = lakes10, fill = '#44afe3', color = NA) + 
+  geom_sf(data = boundary_lines_land10, size = .1, color = 'black') + 
+  geom_sf(data = a, fill = "white", shape = 21) + 
+  coord_sf(xlim = c(6, 32), 
+           ylim = c(-16, 12)) + 
+  theme_bw() + 
+  theme(legend.position = "none",
+        axis.title.x = element_blank(),
+        axis.title.y = element_blank(),
+        panel.background = element_rect(fill = "#dff1f9"),
+        plot.background = element_rect(color = NA, 
+                                       fill = NA)) +  
+  NULL
+```
+
+The [aDRAC-Webapp](https://dirkseidensticker.shinyapps.io/webapp/) will help you to explore the dataset.
+
+The [radiocarbon5-Web-App](https://nevrome.shinyapps.io/radiocarbon5/) of [Clemens Schmid](https://github.com/nevrome) provides another overview. The data are compiled through an [custom module](https://github.com/nevrome/neolithicR/blob/master/modules/aDRAC/data_processor.R).
+
+
+## Structure of the Repository
+
+| Folder | Description |
+|-----------|-----------------------------------------------|
+| /aDRACweb | Files for a Shiny-Webapp which helps to explore the dataset | 
+| /data | Contains the dataset itself as well as a description (.md file) |
+| /Python | Examples of Python-Code |
+| /R | Examples of R-Code  |
+
+## Main Dataset __adrac.csv__
+
+The main dataset is to be found within `/data/adrac.csv` The csv-file is encoded in 'UTF-8'. Geocoordinates are storred as longitude (`LONG`) and latitude (`LAT`).
+
+The literature used to compile the dataset is to be found within the `data/SOURCES.md` file.
+
+### Coordinates
+
+If published the coordinates were converted into WGS84 (EPSG:4326). If no coordinates were published of the site, coordinates were retrieved from [GeoNames](http://www.geonames.org/). 
+
+## c14bazAAR
+
+The aDRAC dataset can be accessed and analyzed using the [c14bazAAR R-Package](https://github.com/ISAAKiel/c14bazAAR). c14bazAAR enables basic data cleaning and calibration.
+
+The c14bazAAR-parser for aDRAC can be found [here](https://github.com/ISAAKiel/c14bazAAR/blob/master/R/get_adrac.R)
+
+## License
+
+The aDRAC-dataset (inside /data) is made available under the [Open Database License]( http://opendatacommons.org/licenses/odbl/1.0/). Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/). All source code is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
+
+## Citation
+
+Seidensticker, D. (2016), ‘aDRAC. Archives des datations radiocarbone d'Afrique centrale’, Version 0.1 <https://github.com/dirkseidensticker/aDRAC>.
