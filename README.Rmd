@@ -114,6 +114,8 @@ The literature used to compile the dataset is to be found within the `data/SOURC
 
 If published the coordinates were converted into WGS84 (EPSG:4326). If no coordinates were published of the site, coordinates were retrieved from [GeoNames](http://www.geonames.org/). 
 
+Coordinates are rounded to three degrees, giving a rough precision of about 100m.
+
 ## c14bazAAR
 
 The aDRAC dataset can be accessed and analyzed using the [c14bazAAR R-Package](https://github.com/ISAAKiel/c14bazAAR). c14bazAAR enables basic data cleaning and calibration.

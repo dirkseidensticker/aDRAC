@@ -14,16 +14,6 @@ The [aDRAC-Webapp](https://dirkseidensticker.shinyapps.io/webapp/) will help you
 
 The [radiocarbon5-Web-App](https://nevrome.shinyapps.io/radiocarbon5/) of [Clemens Schmid](https://github.com/nevrome) provides another overview. The data are compiled through an [custom module](https://github.com/nevrome/neolithicR/blob/master/modules/aDRAC/data_processor.R).
 
-Structure of the Repository
----------------------------
-
-| Folder    | Description                                                     |
-|-----------|-----------------------------------------------------------------|
-| /aDRACweb | Files for a Shiny-Webapp which helps to explore the dataset     |
-| /data     | Contains the dataset itself as well as a description (.md file) |
-| /Python   | Examples of Python-Code                                         |
-| /R        | Examples of R-Code                                              |
-
 Main Dataset **adrac.csv**
 --------------------------
 
