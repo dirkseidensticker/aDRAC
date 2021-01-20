@@ -21,24 +21,28 @@ The main dataset is to be found within `/data/adrac.csv` The csv-file is
 encoded in ‘UTF-8’. Geocoordinates are storred as longitude (`LONG`) and
 latitude (`LAT`).
 
-| Datafield     | Description                                                                                                                                             |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| LABNR         | Laboratory number; all spaces where changed/unified to dashes                                                                                           |
-| C14AGE        | Carbon-14 Age                                                                                                                                           |
-| C14STD        | Standard deviation                                                                                                                                      |
-| C13           | Carbon-13 amount                                                                                                                                        |
-| MATERIAL      | Dated Material                                                                                                                                          |
-| SITE          | Name of the Site                                                                                                                                        |
-| COUNTRY       | [ISO 3166-1 alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1) three-letter country code                                                                |
-| FEATURE       | Designation of the Feature                                                                                                                              |
-| FEATURE\_DESC | Category of the Feature                                                                                                                                 |
-| PHASE         | Basic chronological association                                                                                                                         |
-| POTTERY       | Associated pottery styles; see [List of style groups](https://github.com/dirkseidensticker/nwCongo/blob/master/bib/StilGrChrono.csv)                    |
-| REL           | Reliability of the context of a date and if it should be used for archaeological questions (e.g. settlement history); 0 not to be relied on; 1 reliable |
-| LAT           | Latitude as decimal degrees                                                                                                                             |
-| LONG          | Longitude as decimal degrees                                                                                                                            |
-| DEPTH         | Depth below surface in meters. In case that the original source only gave a range, then the mean depth has been recorded.                               |
-| SOURCE        | Source                                                                                                                                                  |
+| Datafield                | Description                                                                                                                                                                               |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| LABNR                    | Laboratory number; all spaces where changed/unified to dashes                                                                                                                             |
+| C14AGE                   | Carbon-14 Age                                                                                                                                                                             |
+| C14STD                   | Standard deviation                                                                                                                                                                        |
+| C13                      | Carbon-13 amount                                                                                                                                                                          |
+| METHOD                   | Dating method (convention, bulk, AMS)                                                                                                                                                     |
+| MATERIAL                 | Dated Material                                                                                                                                                                            |
+| COUNTRY                  | [ISO 3166-1 alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1) three-letter country code                                                                                                  |
+| SITE                     | Name of the Site                                                                                                                                                                          |
+| FEATURE                  | Designation of the Feature                                                                                                                                                                |
+| FEATURE\_DESC            | Category of the Feature                                                                                                                                                                   |
+| DEPTH                    | Depth below surface in meters. In case that the original source only gave a range, then the mean depth has been recorded.                                                                 |
+| LAT                      | Latitude as decimal degrees                                                                                                                                                               |
+| LONG                     | Longitude as decimal degrees                                                                                                                                                              |
+| LITHICS                  | Associated lithic finds                                                                                                                                                                   |
+| POTTERY                  | Associated pottery styles. Multiple style groups associated with the same date are seperated by semicolon, synonym styles are separated by dash with the more specific/recent name first. |
+| IRON                     | Associated iron finds                                                                                                                                                                     |
+| FRUIT                    | Associated remains of fruit remains                                                                                                                                                       |
+| CLASS\_DS.WH\_etal\_2021 | Classification of reliability following Seidensticker et al. 2021                                                                                                                         |
+| REMARK                   | Additional remarks                                                                                                                                                                        |
+| SOURCES                  | Source                                                                                                                                                                                    |
 
 The literature used to compile the dataset is to be found within the
 `SOURCES.md` file.

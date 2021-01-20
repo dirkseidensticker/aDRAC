@@ -116,8 +116,8 @@ The main dataset is to be found within `/data/adrac.csv` The csv-file is encoded
 | POTTERY      | Associated pottery styles. Multiple style groups associated with the same date are seperated by semicolon, synonym styles are separated by dash with the more specific/recent name first.  |
 | IRON         | Associated iron finds                                        |
 | FRUIT        | Associated remains of fruit remains                          |
-| CLASS_DS.WH_etal_2021 | Classificaiton of reliability following Seidensticker et al. 2021 |
-| REMARK       | Additonal remarks                                            |
+| CLASS_DS.WH_etal_2021 | Classification of reliability following Seidensticker et al. 2021 |
+| REMARK       | Additional remarks                                            |
 | SOURCES     | Source                                                        |
 
 The literature used to compile the dataset is to be found within the `SOURCES.md` file.
