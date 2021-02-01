@@ -7,11 +7,13 @@ output: github_document
 **Dirk Seidensticker** & **Wannes Hubau**
 
 ```{r setup, include=FALSE}
+library("ggrepel")
 library("tidyverse")
 library("sf")
 library("raster")
 library("rnaturalearth")
 library("rgdal")
+library("scales")
 
 # aDRAC dataset
 a <- read.csv("aDRAC.csv", 
@@ -67,7 +69,9 @@ rfs.bd26 <- subset(rfs.bd26, band1 == 26)
 
 The *archive for radiocarbon datings from Central Africa* (aDRAC) provides a catalogue of available radiocarbon dates from Central Africa. The data cover published radiocarbon dates and the most essential metadata for each date as well as available references.
 
-```{r map, warning=FALSE, echo=FALSE, fig.align='center', dpi=300, out.width='100%'}
+The data cover `r nrow(a)` radiocarbon dates from `r length(unique(a$SITE))` sites.
+
+```{r map, warning = FALSE, echo = FALSE, fig.align = 'center', dpi = 300, out.width = '100%'}
 ggplot() + 
   geom_sf(data = land10, fill = "#ffebbe", color = NA) + 
   geom_raster(data = rfs.bd1.7, aes(y = y, x = x), fill = '#00734d') + 
@@ -89,6 +93,58 @@ ggplot() +
         plot.background = element_rect(color = NA, 
                                        fill = NA)) +  
   NULL
+```
+
+```{r include = FALSE}
+library("rcarbon")
+
+a.cal <- a %>% 
+  dplyr::filter(C14AGE > 0 &
+                C14STD > 0) 
+
+cal <- rcarbon::calibrate(x = a.cal$C14AGE,
+                          errors = a.cal$C14STD,
+                          calCurves = 'intcal20') #running calibration over 3 cores
+
+spd <- rcarbon::spd(cal, timeRange = c(12000,0), runm = 100) 
+```
+
+Dates are available for the past up to 40.000 years, but the bulk of dates fall into the last three millennia.
+
+```{r echo = FALSE, fig.align = 'center'}
+plot(spd, calendar = 'BCAD')
+```
+
+Radiocarbon dates are reported since the 1960s and the record has increased steadily since then.  
+
+```{r Historgram, fig.height = 3, fig.width = 6, fig.align = "center", echo=FALSE}
+publ <- gsub("([0-9]+).*$", "\\1", a$SOURCE) # initial publication, crop after first set of numbers
+publ <- as.numeric(substr(publ, nchar(publ)-3, nchar(publ))) # get last four characters and convert to numeric
+publ <- data.frame(YEAR = publ)
+
+ggplot(publ, aes(x = YEAR)) + 
+  geom_histogram(binwidth = 2, color= "white") + 
+  scale_x_continuous("", breaks = c(seq(1958, 2020, 4)),
+                     expand = c(0, 0)) + 
+  scale_y_continuous("", expand = c(0, 0)) + 
+  theme_classic()
+```
+
+While the bulk of availabe dates have been produced before the advent of AMS dating. Be aware, the archive contains also a small quantity of TL dates.
+
+```{r fig.height = 3, fig.width = 3, fig.align = "center", echo=FALSE}
+method <- as.data.frame(table(a$METHOD))
+levels(method$Var1)[1] <- "?"
+method$Pct <- method$Freq / sum(method$Freq)
+
+ggplot(method, aes(x = "", y = Freq, fill = Var1)) + 
+  geom_bar(stat="identity", width = 1, color = "black") + 
+  scale_fill_brewer(palette = "Pastel2") + 
+  coord_polar("y", start = 0) + 
+  geom_label_repel(aes(y = Freq/3, 
+            label = paste0(Var1, " (", percent(Pct), ")")), size = 5) +
+  theme_void() + 
+  theme(legend.position = "none")
 ```
 
 The [aDRAC-Webapp](https://dirkseidensticker.shinyapps.io/webapp/) will help you to explore the dataset.

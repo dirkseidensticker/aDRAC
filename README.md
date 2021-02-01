@@ -10,7 +10,25 @@ provides a catalogue of available radiocarbon dates from Central Africa.
 The data cover published radiocarbon dates and the most essential
 metadata for each date as well as available references.
 
+The data cover 1798 radiocarbon dates from 581 sites.
+
 <img src="README_files/figure-gfm/map-1.png" width="100%" style="display: block; margin: auto;" />
+
+Dates are available for the past up to 40.000 years, but the bulk of
+dates fall into the last three millennia.
+
+<img src="README_files/figure-gfm/unnamed-chunk-2-1.png" style="display: block; margin: auto;" />
+
+Radiocarbon dates are reported since the 1960s and the record has
+increased steadily since then.
+
+<img src="README_files/figure-gfm/Historgram-1.png" style="display: block; margin: auto;" />
+
+While the bulk of availabe dates have been produced before the advent of
+AMS dating. Be aware, the archive contains also a small quantity of TL
+dates.
+
+<img src="README_files/figure-gfm/unnamed-chunk-3-1.png" style="display: block; margin: auto;" />
 
 The [aDRAC-Webapp](https://dirkseidensticker.shinyapps.io/webapp/) will
 help you to explore the dataset.
