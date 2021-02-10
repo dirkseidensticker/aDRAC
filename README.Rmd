@@ -1,7 +1,7 @@
 ---
 output: github_document
 ---
-# aDRAC (*Archives des datations radiocarbone d'Afrique centrale*)
+# aDRAC (*Archive des datations radiocarbones d’Afrique centrale*)
 [![DOI](https://zenodo.org/badge/20329/dirkseidensticker/aDRAC.svg)](https://zenodo.org/badge/latestdoi/20329/dirkseidensticker/aDRAC)
 
 **Dirk Seidensticker** & **Wannes Hubau**
@@ -67,9 +67,9 @@ rfs.bd26 <- data.frame(rfs.p)
 rfs.bd26 <- subset(rfs.bd26, band1 == 26)
 ```
 
-The *archive for radiocarbon datings from Central Africa* (aDRAC) provides a catalogue of available radiocarbon dates from Central Africa. The data cover published radiocarbon dates and the most essential metadata for each date as well as available references.
+The *archive for radiocarbon datings from Central Africa* (aDRAC) provides a catalogue of available radiocarbon dates from Central Africa. The data cover published radiocarbon dates and essential metadata for each date as well as available references.
 
-The data cover `r nrow(a)` radiocarbon dates from `r length(unique(a$SITE))` sites.
+The data cover `r nrow(a)` radiocarbon dates from `r length(unique(a$SITE))` sites:
 
 ```{r map, warning = FALSE, echo = FALSE, fig.align = 'center', dpi = 300, out.width = '100%'}
 ggplot() + 
@@ -109,13 +109,13 @@ cal <- rcarbon::calibrate(x = a.cal$C14AGE,
 spd <- rcarbon::spd(cal, timeRange = c(12000,0), runm = 100) 
 ```
 
-Dates are available for the past up to 40.000 years, but the bulk of dates fall into the last three millennia.
+Dates are available for the past up to 40.000 years, but the bulk of dates fall into the last three millennia:
 
 ```{r echo = FALSE, fig.align = 'center'}
 plot(spd, calendar = 'BCAD')
 ```
 
-Radiocarbon dates are reported since the 1960s and the record has increased steadily since then.  
+Radiocarbon dates are reported since the 1960s and the record has increased steadily since then:
 
 ```{r Historgram, fig.height = 3, fig.width = 6, fig.align = "center", echo=FALSE}
 publ <- gsub("([0-9]+).*$", "\\1", a$SOURCE) # initial publication, crop after first set of numbers
@@ -130,7 +130,7 @@ ggplot(publ, aes(x = YEAR)) +
   theme_classic()
 ```
 
-While the bulk of availabe dates have been produced before the advent of AMS dating. Be aware, the archive contains also a small quantity of TL dates.
+The bulk of availabe dates have been produced before the advent of AMS dating. Be aware, the archive contains also a small quantity of TL dates:
 
 ```{r fig.height = 3, fig.width = 3, fig.align = "center", echo=FALSE}
 method <- as.data.frame(table(a$METHOD))
@@ -192,4 +192,11 @@ The aDRAC-dataset is made available under the [Open Database License]( http://op
 
 ## How to cite
 
-Seidensticker, D. & W. Hubau (2021), ‘aDRAC. Archives des datations radiocarbone d'Afrique centrale’, Version 2.0 <https://github.com/dirkseidensticker/aDRAC>.
+Seidensticker, D. & W. Hubau (2021), ‘aDRAC. Archive des datations radiocarbones d’Afrique centrale’, Version 2.0 <https://github.com/dirkseidensticker/aDRAC>.
+
+## Case Studies using aDRAC
+
+- Seidensticker, D., W. Hubau, D. Verschuren, C. Fortes-Lima, P. de Maret, C.M. Schlebusch & K. Bostoen. 2021. Population Collapse in Congo Rainforest from AD 400 Urges Reassessment of the Bantu Expansion. Science Advances.
+
+- Power, R.C., T. Güldemann, A. Crowther & N. Boivin. 2019. Asian Crop Dispersal in Africa and Late Holocene Human Adaptation to Tropical Environments. Journal of World Prehistory. http://link.springer.com/10.1007/s10963-019-09136-x. https://doi.org/10.1007/s10963-019-09136-x.
+
