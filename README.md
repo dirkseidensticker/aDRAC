@@ -1,7 +1,7 @@
 
 # aDRAC (*Archive des datations radiocarbones d’Afrique centrale*)
 
-[![DOI](https://zenodo.org/badge/20329/dirkseidensticker/aDRAC.svg)](https://zenodo.org/badge/latestdoi/20329/dirkseidensticker/aDRAC)
+[![DOI](https://zenodo.org/badge/56459302.svg)](https://zenodo.org/badge/latestdoi/56459302)
 
 **Dirk Seidensticker** & **Wannes Hubau**
 
