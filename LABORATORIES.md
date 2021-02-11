@@ -12,5 +12,6 @@
 | KIA  | AMS 14C Laboratory                       | Kiel (Germany)                 |
 | Lv   | Laboratoire de Carbone 14                | Louvain la Neuve (Belgium)     |
 | SR   | Salisbury (Harare)                       | Rhodesia (now Zimbabwe)        |
+| SUERC | Scottish Universities Environmental Research Centre (SUERC) | University of Glasgow |
 | Ua   | Ángstrom Laboratory                      | University of Upsalla (Sweden) |
 | Tx   | Radiocarbon Laboratory, University of Texas at Austin | Austin (Texas, US) |
