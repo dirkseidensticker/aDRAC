@@ -10,7 +10,7 @@ provides a catalogue of available radiocarbon dates from Central Africa.
 The data cover published radiocarbon dates and essential metadata for
 each date as well as available references.
 
-The data cover 1798 radiocarbon dates from 581 sites:
+The data cover 1804 radiocarbon dates from 581 sites:
 
 <img src="README_files/figure-gfm/map-1.png" width="100%" style="display: block; margin: auto;" />
 
@@ -30,8 +30,10 @@ dates:
 
 <img src="README_files/figure-gfm/unnamed-chunk-3-1.png" style="display: block; margin: auto;" />
 
-The [aDRAC-Webapp](https://dirkseidensticker.shinyapps.io/webapp/) will
-help you to explore the dataset.
+The [aDRAC-Webapp](https://dirkseidensticker.shinyapps.io/aDRACweb/)
+will help you to explore the dataset.
+
+[![aDRACweb](https://raw.githubusercontent.com/dirkseidensticker/aDRACweb/main/screenshot.png)](https://dirkseidensticker.shinyapps.io/aDRACweb/)
 
 ## Main Dataset **adrac.csv**
 

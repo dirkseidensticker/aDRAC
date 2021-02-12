@@ -8,13 +8,14 @@ output: github_document
 **Dirk Seidensticker** & **Wannes Hubau**
 
 ```{r setup, include=FALSE}
-library("ggrepel")
-library("tidyverse")
-library("sf")
-library("raster")
-library("rnaturalearth")
-library("rgdal")
-library("scales")
+library(ggplot2)
+library(ggrepel)
+library(tidyverse)
+library(sf)
+library(raster)
+library(rnaturalearth)
+library(rgdal)
+library(scales)
 
 # aDRAC dataset
 a <- read.csv("aDRAC.csv", 
@@ -148,7 +149,9 @@ ggplot(method, aes(x = "", y = Freq, fill = Var1)) +
   theme(legend.position = "none")
 ```
 
-The [aDRAC-Webapp](https://dirkseidensticker.shinyapps.io/webapp/) will help you to explore the dataset.
+The [aDRAC-Webapp](https://dirkseidensticker.shinyapps.io/aDRACweb/) will help you to explore the dataset.
+
+[![aDRACweb](https://raw.githubusercontent.com/dirkseidensticker/aDRACweb/main/screenshot.png)](https://dirkseidensticker.shinyapps.io/aDRACweb/)
 
 ## Main Dataset __adrac.csv__
 
