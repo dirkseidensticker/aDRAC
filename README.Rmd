@@ -119,20 +119,27 @@ plot(spd, calendar = 'BCAD')
 
 Radiocarbon dates are reported since the 1960s and the record has increased steadily since then:
 
-```{r Historgram, fig.height = 3, fig.width = 6, fig.align = "center", echo=FALSE}
+```{r Historgram, fig.height = 3, fig.width = 6, fig.align = "center", echo=FALSE, message=FALSE}
 publ <- gsub("([0-9]+).*$", "\\1", a$SOURCE) # initial publication, crop after first set of numbers
 publ <- as.numeric(substr(publ, nchar(publ)-3, nchar(publ))) # get last four characters and convert to numeric
 publ <- data.frame(YEAR = publ)
-
-ggplot(publ, aes(x = YEAR)) + 
-  geom_histogram(binwidth = 2, color= "white") + 
-  scale_x_continuous("", breaks = c(seq(1958, 2020, 4)),
+publ <- publ %>%
+  dplyr::group_by(YEAR) %>% 
+  dplyr::summarise(n = length(YEAR))
+  
+ggplot(publ, aes(x = YEAR, y = n)) + 
+  geom_bar(stat = "identity", color = "white") + 
+  geom_smooth(method = "lm") + 
+  scale_x_continuous("", breaks = c(seq(min(publ$YEAR), 
+                                        as.integer(format(Sys.Date(), "%Y")), 
+                                        4)),
                      expand = c(0, 0)) + 
   scale_y_continuous("", expand = c(0, 0)) + 
+  coord_cartesian(ylim = c(0, 1.1*max(publ$n))) + 
   theme_classic()
 ```
 
-The bulk of availabe dates have been produced before the advent of AMS dating. Be aware, the archive contains also a small quantity of TL dates:
+The bulk of available dates have been produced before the advent of AMS dating. Be aware, the archive contains also a small quantity of TL dates:
 
 ```{r fig.height = 3, fig.width = 3, fig.align = "center", echo=FALSE}
 method <- as.data.frame(table(a$METHOD))
@@ -176,7 +183,7 @@ The main dataset is to be found within `/data/adrac.csv` The csv-file is encoded
 | POTTERY      | Associated pottery with name of the styl. Multiple style groups associated with the same date are separated by semicolon, synonym styles are separated by dash with the more specific/recent name first. Styles in parantheses (e.g. *(Imbonga)*) mean that pottery of that style was found in association with this date, but that based on the discussion in the literature, the date is not representing the age of this pottery. *indet* mean up to now not sufficiently described pottery was found in association with this date |
 | IRON         | Associated iron finds                                        |
 | FRUIT        | Associated remains of fruit remains                          |
-| CLASS_DS.WH_etal_2021 | Classification of reliability following Seidensticker et al. 2021 |
+| CLASS | Classification of reliability following [Seidensticker et al. 2021 (table S1)](https://advances.sciencemag.org/content/7/7/eabd8352) |
 | REMARK       | Additional remarks                                            |
 | SOURCES     | Source                                                        |
 
