@@ -549,9 +549,9 @@ CSIC-101,1480,50,,,,GNQ,Carboneras,,,,3.75,8.75,,,Carboneras,,,,,"Sánchez-Elipe
 "D-AMS-27781",326,23,"","","Charcoal_wood","CAF","Lebe","LE5","slag mound","-",3.764,17.515,"LIA","-","indet","slag, tuyère","-","Ib","","Schmitt et al. 2019: 63 Tab. 1"
 "D-AMS-27782",325,23,"","","Charcoal_wood","CAF","Lebe","LE2","slag mound","0,26",3.763,17.516,"LIA","-","indet","slag, tuyère","-","Ib","","Schmitt et al. 2019: 63 Tab. 1"
 D-AMS-32079,488,38,,AMS,,CAF,Nangara-Komba,141,,,4.975,15.7,,,,,,,,Lupo et al. 2021: 10 Tab. 1
-D-AMS-32080,276,20,,AMS,Charcoal_wood,CAF,Nangara-Komba,West block 144 III (4),,0.35,4.975,15.7,,,,,,,,Lupo et al. 2021: 10 Tab. 1
-D-AMS-32081,157,26,,AMS,Charcoal_wood,CAF,Nangara-Komba,Main block 121-1 III (5),,0.27,4.975,15.7,,,,,,,,Lupo et al. 2021: 10 Tab. 1
-D-AMS-32082,6072,34,,AMS,Charcoal_wood,CAF,Nangara-Komba,Main block 123 I (5),,0.6,4.975,15.7,,,,,,,,Lupo et al. 2021: 10 Tab. 1
+D-AMS-32080,276,20,,AMS,Charcoal_wood,CAF,Nangara-Komba,West block 144 III (4),,0.35,4.975,15.7,,indet,indet,,,Ib,,Lupo et al. 2021: 10 Tab. 1
+D-AMS-32081,157,26,,AMS,Charcoal_wood,CAF,Nangara-Komba,Main block 121-1 III (5),,0.27,4.975,15.7,,indet,indet,,,Ib,,Lupo et al. 2021: 10 Tab. 1
+D-AMS-32082,6072,34,,AMS,Charcoal_wood,CAF,Nangara-Komba,Main block 123 I (5),,0.6,4.975,15.7,,indet,,,,Ib,,Lupo et al. 2021: 10 Tab. 1
 D-AMS-32083,811,25,,AMS,Charcoal_endocarp_canarium,CAF,Nangara-Komba,West block 143 IV (4),,0.19,4.975,15.7,,indet,indet,,,Ib,,Lupo et al. 2021: 10 Tab. 1
 D-AMS-32084,2991,31,,AMS,Charcoal_endocarp_canarium,CAF,Nangara-Komba,West block 145 II (4),,0.54,4.975,15.7,,indet,indet,,,Ib,,Lupo et al. 2021: 10 Tab. 1
 D-AMS-32085,5019,38,,AMS,Charcoal_endocarp_canarium,CAF,Nangara-Komba,West block 94-1 I (4),,0.75,4.975,15.7,,indet,,,,Ib,,Lupo et al. 2021: 10 Tab. 1
@@ -560,10 +560,10 @@ D-AMS-32087,112,24,,AMS,Charcoal_endocarp_canarium,CAF,Nangara-Komba,Main block 
 D-AMS-32088,3082,37,,AMS,Charcoal_endocarp_canarium,CAF,Nangara-Komba,Main block 125-1 II (5),,0.44,4.975,15.7,,indet,indet,,,Ib,,Lupo et al. 2021: 10 Tab. 1
 D-AMS-32089,2484,33,,AMS,Charcoal_endocarp_canarium,CAF,Nangara-Komba,Main block 127-1 I-II (5)c,,0.465,4.975,15.7,,indet,indet,,,Ib,,Lupo et al. 2021: 10 Tab. 1
 D-AMS-32090,6099,34,,AMS,Charcoal_endocarp_canarium,CAF,Nangara-Komba,Main block 137-1 I (5),,0.75,4.975,15.7,,indet,,,,Ib,,Lupo et al. 2021: 10 Tab. 1
-D-AMS-32718,3049,41,,AMS,Charcoal_wood,CAF,Nangara-Komba,Main block 150 I-II (2)c,,0.52,4.975,15.7,,,,,,,,Lupo et al. 2021: 10 Tab. 1
+D-AMS-32718,3049,41,,AMS,Charcoal_wood,CAF,Nangara-Komba,Main block 150 I-II (2)c,,0.52,4.975,15.7,,indet,indet,,,Ib,,Lupo et al. 2021: 10 Tab. 1
 D-AMS-37357,1736,24,,AMS,Charcoal_endocarp_canarium,CAF,Nangara-Komba,5 (N-K II),,0.25,4.975,15.7,,,,slag; tuyère,,Ib,,Lupo et al. 2021: 10 Tab. 1
 D-AMS-37358,2409,28,,AMS,Charcoal_wood,CAF,Nangara-Komba,Main block 191 Fea. 1 (8),,0.52,4.975,15.7,,indet,indet,,Cs,Ib,,Lupo et al. 2021: 10 Tab. 1
-D-AMS-37359,2830,26,,AMS,Charcoal_endocarp_canarium,CAF,Nangara-Komba,Main block 269 Fea. 2 (8),,0.32,4.975,15.7,,indet,indet,Cs,,Ib,,Lupo et al. 2021: 10 Tab. 1
+D-AMS-37359,2830,26,,AMS,Charcoal_endocarp_canarium,CAF,Nangara-Komba,Main block 269 Fea. 2 (8),,0.32,4.975,15.7,,indet,indet,,Cs,Ib,,Lupo et al. 2021: 10 Tab. 1
 D-AMS-37361,2351,28,,AMS,Charcoal_wood,CAF,Nangara-Komba,Main block 241 Fea. 1 (8),,0.6,4.975,15.7,,indet,indet,,Cs,Ib,,Lupo et al. 2021: 10 Tab. 1
 D-AMS-37362,6084,31,,AMS,Charcoal_wood,CAF,Nangara-Komba,Main block 189 I (7),,0.63,4.975,15.7,,indet,,,,Ib,,Lupo et al. 2021: 10 Tab. 1
 D-AMS-37363,1508,23,,AMS,Charcoal_wood,CAF,Nangara-Komba,Main block 188 II/III (7),,0.38,4.975,15.7,,indet,indet,,,Ib,,Lupo et al. 2021: 10 Tab. 1
