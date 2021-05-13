@@ -1,4 +1,6 @@
 "LABNR","C14AGE","C14STD","C13","METHOD","MATERIAL","COUNTRY","SITE","FEATURE","FEATURE_DESC","DEPTH","LAT","LONG","PHASE","LITHICS","POTTERY","IRON","FRUIT","CLASS","REMARK","SOURCE"
+AA-33225,10015,55,,,Charcoal_endocarp_canarium,COD,Isak Baite SW,,Layer,,2.17,28.6,,,,,,,,Mercader 2003: 101 Tab. 3-1
+AA-33226,6025,70,,,Charcoal,COD,Wataka Gitatu E,,Layer,,2.17,28.6,,,,,,,,Mercader 2003: 101 Tab. 3-1
 "AA-78447",2362,39,"","","Sediment_wet","CAF","Mbaere","-","Pollencore","0,72",3.989,16.924,"EIA","-","-","-","-","IIIc","","Kiahtipes et al. 2011"
 "AA-78448",2171,37,"","","Sediment_wet","CAF","Mbaere","-","Pollencore","0,42",3.989,16.924,"","-","-","-","-","IIIc","","Kiahtipes et al. 2011"
 "AA-78449",834,35,"","","Sediment_wet","CAF","Mbaere","-","Pollencore","0,12",3.989,16.924,"LIA","-","-","-","-","IIIc","","Kiahtipes et al. 2011"
@@ -69,6 +71,8 @@
 "Beta-12208",1920,80,"","","Charcoal_wood","GAB","Lac Bleu de Mouila","-","Pit","-",-1.916,11.017,"EIA","-","-","-","-","Ic","interpretation Clist: Archéologie, Age du Fer Ancien,","Clist 2004/2005: Annex 2"
 "Beta-12209",120,100,"","","Charcoal","GAB","Komo","-","-","-",0.367,10.117,"LIA","-","-","-","-","Ic","interpretation Clist: Archéologie, Age du Fer Récent,","Clist 2004/2005: Annex 2"
 "Beta-12858",1920,60,"","","-","CMR","Mfomakap/Nkometou","-","Pit","-",4.05,11.55,"EIA","-","-","-","-","(disputed)","according to Garcin et al. 2018 from Elouga 1998; but not to be found there","Garcin et al. 2018"
+Beta-127078,850,70,,,Charcoal_endocarp_elaeis,COD,Lengbe,,Layer,,1.55,28.23,,,,,,,,Mercader 2003: 101 Tab. 3-1
+Beta-127079,2970,70,,,Charcoal_endocarp_canarium,COD,Lengbe,,Layer,,1.55,28.23,,,,,,,,Mercader 2003: 101 Tab. 3-1
 "Beta-143016",2340,70,"","","-","CMR","Bwambé-Sommet (Est)","2","Pit","0,3",2.894,9.904,"EIA","-","Bwambé/Mpoengu","-","-","Ia","","Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2"
 "Beta-143017",2520,70,"","","-","CMR","Bwambé-Sommet (Est)","4","Pit","",2.894,9.904,"LSA","-","Bwambé/Mpoengu","-","-","Ia","","Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2"
 "Beta-143018",2000,40,"","","-","CMR","Campo","CAM 00","Trench","",2.377,9.831,"","-","indet","-","-","Ib","","Oslisly et al. 2006; Eggert/Seidensticker 2016:65 Tab. 4.1"
@@ -1463,6 +1467,10 @@ D-AMS-37366,3645,30,,AMS,Charcoal_endocarp_canarium,CAF,Nangara-Komba,250 (PU1),
 "Orstom-1212",1330,40,"","","Charcoal_wood","COD","Ituri","Edoro4","Pedoanthracological trench","-",1.55,28.54,"(MIA)","-","-","-","-","IIc","double date within spit; feature ID's not sure, own numerotation","Hart et al. 1996 bookchapter"
 "Orstom-1271",240,40,"","","Charcoal_wood","COD","Ituri","Edoro8","Pedoanthracological trench","-",1.55,28.54,"LIA","-","-","-","-","IIc","feature ID's not sure, own numerotation","Hart et al. 1996 bookchapter"
 "Orstom-1273",860,40,"","","Charcoal_wood","COD","Ituri","Edoro11","Pedoanthracological trench","-",1.55,28.54,"LIA","-","-","-","-","IIc","feature ID's not sure, own numerotation","Hart et al. 1996 bookchapter"
+Os-21235,825,30,-26.5,,Charcoal_endocarp_canarium,COD,Matangai Turu Northwest,,Burial,,2.17,28.6,,,,,Cs,Ic,,Mercader et al. 2001: 27 Tab. 1
+Os-21250,18000,100,,,Charcoal,COD,Makubasi SE,,Layer,,1.76,28.83,,,,,,,,Mercader 2003: 101 Tab. 3-1
+Os-21251,715,45,-28.14,,Charcoal,COD,Matangai Turu Northwest,,Layer,,2.17,28.6,,,,,Cs,Ic,,Mercader et al. 2001: 27 Tab. 1
+Os-22251,1010,60,,,Charcoal,COD,Makubasi NW,,Layer,,1.76,28.83,,,,,,,,Mercader 2003: 101 Tab. 3-1
 "OxA-1139",9050,100,"","","-","CMR","Mbi Crater","-","-","",6.05,10.203,"LSA","-","-","-","-","(too old, outside region)","","Asombang 1998; Garcin et al. 2018"
 "OxA-1362",7040,80,"","","Charcoal","CMR","Shum Laka","Upper Horizon of the Ochre Ash Layer:","-","",5.859,10.078,"LSA","shum laka upper lithics horizon","-","-","Cs
 ","(too old)","","Lavachery 2001; Garcin et al. 2018"
@@ -1831,6 +1839,10 @@ D-AMS-37366,3645,30,,AMS,Charcoal_endocarp_canarium,CAF,Nangara-Komba,250 (PU1),
 "UCLA-718",465,80,"","","-","AGO","Museque","-","-","",-10.833,19.167,"LIA","-","-","-","-","(outside region)","","Berger et al. 1965: 359; van Noten 1982"
 "Uga-5688",2270,400,"","","-","COG","Tchissanga","-","-","-",-4.539,11.798,"-","indet","indet","-","-","IIb","","de Maret 1990: 450 Tab. 1"
 "Uga-5720",2525,85,"","","-","COG","Tchissanga","West","Pit","-",-4.539,11.798,"LSA","indet","Ceramic Later Stone Age 1","-","-","Ia","","Denbow 1990; de Maret 1990: 450 Tab. 1"
+UTC-5074,813,35,-12.5,,Bone,COD,Matangai Turu Northwest,,Burial,,2.17,28.6,,,,,Cs,Ib,,Mercader et al. 2001: 27 Tab. 1
+UTC-5075,10530,50,-25.3,,Charcoal,COD,Matangai Turu Northwest,,Layer,,2.17,28.6,,,,,,,,Mercader et al. 2001: 27 Tab. 1
+UtC-5076,1080,41,,,Charcoal,COD,Makubasi NW,,Layer,,1.76,28.83,,,,,,,,Mercader 2003: 101 Tab. 3-1
+UtC-5077,971,33,,,Charcoal,COD,Makubasi NW,,Layer,,1.76,28.83,,,,,,,,Mercader 2003: 101 Tab. 3-1
 "UTC-13254",1786,33,"","","Charcoal_endocarp_elaeis","GAB","Mimongo","1_b","Pit","-",-0.917,10.454,"EIA","-","indet","-","-","Ib","","Livingstone-Smith et al. 2007"
 "UTC-13255",1784,42,"","","Charcoal_endocarp_elaeis","GAB","Mimongo","3_u","Pit","-",-0.917,10.454,"EIA","-","indet","-","-","Ib","","Livingstone-Smith et al. 2007"
 "UTC-13256",1738,48,"","","Charcoal_endocarp_elaeis","GAB","Mimongo","3_b","Pit","-",-0.917,10.454,"EIA","-","indet","-","-","Ib","","Livingstone-Smith et al. 2007"
