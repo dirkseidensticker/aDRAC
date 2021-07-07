@@ -125,7 +125,8 @@ publ <- as.numeric(substr(publ, nchar(publ)-3, nchar(publ))) # get last four cha
 publ <- data.frame(YEAR = publ)
 publ <- publ %>%
   dplyr::group_by(YEAR) %>% 
-  dplyr::summarise(n = length(YEAR))
+  dplyr::summarise(n = length(YEAR)) %>%
+  dplyr::filter(!is.na(YEAR))
   
 ggplot(publ, aes(x = YEAR, y = n)) + 
   geom_bar(stat = "identity", color = "white") + 
@@ -179,10 +180,12 @@ The main dataset is to be found within `/data/adrac.csv` The csv-file is encoded
 | DEPTH        | Depth below surface in meters. In case that the original source only gave a range, then the mean depth has been recorded. |
 | LAT          | Latitude as decimal degrees                                  |
 | LONG         | Longitude as decimal degrees                                 |
+| PHASE        | General chronological phase (**Attention** gives no allocation to associated finds or representativeness)                                 |
 | LITHICS      | Associated lithic finds                                      |
 | POTTERY      | Associated pottery with name of the styl. Multiple style groups associated with the same date are separated by semicolon, synonym styles are separated by dash with the more specific/recent name first. Styles in parantheses (e.g. *(Imbonga)*) mean that pottery of that style was found in association with this date, but that based on the discussion in the literature, the date is not representing the age of this pottery. *indet* mean up to now not sufficiently described pottery was found in association with this date |
 | IRON         | Associated iron finds                                        |
-| FRUIT        | Associated remains of fruit remains                          |
+| FRUIT        | Associated fruit remains                          |
+| ZOO        | Associated archaeozoological remains                          |
 | CLASS | Classification of reliability following [Seidensticker et al. 2021 (table S1)](https://advances.sciencemag.org/content/7/7/eabd8352) |
 | REMARK       | Additional remarks                                            |
 | SOURCES     | Source                                                        |
