@@ -61,8 +61,8 @@ Bdy-463,70,120,,,-,CAF,Lingbangbo,sd,-,-,3.633,18.4,LIA,-,indet,-,-,,Ib,,Kote 19
 Bdy-464,110,80,,,-,CAF,Lingbangbo,sd,-,-,3.633,18.4,LIA,-,-,slag,-,,Ib,,Kote 1992: 118 Tab. 10; Gotilogué 2000: 256; Moga 2008: 4; Lupo et al. 2018: 14 Tab. 3
 Bdy-465,1270,125,,,-,CAF,Batalimo,Z VI,Pit,-,3.676,18.455,,-,indet,-,-,,Ib,,Kote 1992: 118 Tab. 10; Gotilogué 2000: 256; Lupo et al. 2018: 14 Tab. 3
 Bdy-579,1020,115,,,-,CAF,Eyo,-,-,-,3.66,18.48,,-,indet,slag,-,,Ib,,"Kote 1992: 43, 118 Tab. 10; Gotilogué 2000: 256; Moga 2008; Lupo et al. 2018: 14 Tab. 3"
-Bdy-581,1798,101,,,-,CAF,Batalimo,Z VI,Pit,-,3.676,18.455,,-,indet,-,-,,Ib,,Kote 1992: 118 Tab. 10; Gotilogué 2000: 256; Lupo et al. 2018: 14 Tab. 3,
-Bdy-582,559,77,,,-,CAF,Lingbangbo,sd,-,-,3.633,18.4,LIA,-,-,slag,-,,Ib,,Kote 1992: 118 Tab. 10; Gotilogué 2000: 256; Moga 2008: 4; Lupo et al. 2018: 14 Tab. 3,
+Bdy-581,1798,101,,,-,CAF,Batalimo,Z VI,Pit,-,3.676,18.455,,-,indet,-,-,,Ib,,Kote 1992: 118 Tab. 10; Gotilogué 2000: 256; Lupo et al. 2018: 14 Tab. 3
+Bdy-582,559,77,,,-,CAF,Lingbangbo,sd,-,-,3.633,18.4,LIA,-,-,slag,-,,Ib,,Kote 1992: 118 Tab. 10; Gotilogué 2000: 256; Moga 2008: 4; Lupo et al. 2018: 14 Tab. 3
 Bdy-583,1200,100,,,-,CAF,Bobélé 2,-,Furnace,-,4.03,18.38,,-,-,slag,-,,Ib,,"Kote 1992: 44, 118 Tab. 10; Gotilogué 2000: 256; Moga 2008; Lupo et al. 2018: 14 Tab. 3"
 Beta-10301,1670,50,,,Charcoal_wood,GAB,Lac Bleu de Mouila,-,Pit,-,-1.916,11.017,EIA,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
 Beta-103857,410,60,,,-,CAF,Vafio,-,-,,7.407,18.409,LIA,-,-,-,-,,,,Moga 2008
@@ -70,12 +70,12 @@ Beta-104810,1730,70,,,-,CAF,Bouri,-,-,,7.128,18.277,,-,-,-,-,,,,Moga 2008
 Beta-12207,2150,90,,,Charcoal_wood,GAB,Lac Bleu de Mouila,-,Surface,-,-1.916,11.017,EIA,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Eggert 1993; Clist 2004/2005: Annex 2
 Beta-12208,1920,80,,,Charcoal_wood,GAB,Lac Bleu de Mouila,-,Pit,-,-1.916,11.017,EIA,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
 Beta-12209,120,100,,,Charcoal,GAB,Komo,-,-,-,0.367,10.117,LIA,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Récent",Clist 2004/2005: Annex 2
-Beta-12858,1920,60,,,-,CMR,Mfomakap/Nkometou,-,Pit,-,4.05,11.55,EIA,-,-,-,-,,(disputed),according to Garcin et al. 2018 from Elouga 1998; but not to be found there,Garcin et al. 2018,
+Beta-12858,1920,60,,,-,CMR,Mfomakap/Nkometou,-,Pit,-,4.05,11.55,EIA,-,-,-,-,,(disputed),according to Garcin et al. 2018 from Elouga 1998; but not to be found there,Garcin et al. 2018
 Beta-127078,850,70,,,Charcoal_endocarp_elaeis,COD,Lengbe,,Layer,,1.55,28.23,,,,,,,,,Mercader 2003: 101 Tab. 3-1
 Beta-127079,2970,70,,,Charcoal_endocarp_canarium,COD,Lengbe,,Layer,,1.55,28.23,,,,,,,,,Mercader 2003: 101 Tab. 3-1
 Beta-143016,2340,70,,,-,CMR,Bwambé-Sommet (Est),2,Pit,0.3,2.894,9.904,EIA,-,Bwambé/Mpoengu,-,,-,Ia,,Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2
-Beta-143017,2520,70,,,-,CMR,Bwambé-Sommet (Est),4,Pit,,2.894,9.904,LSA,-,Bwambé/Mpoengu,-,-,,Ia,,Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2,
-Beta-143018,2000,40,,,-,CMR,Campo,CAM 00,Trench,,2.377,9.831,,-,indet,-,-,,Ib,,Oslisly et al. 2006; Eggert/Seidensticker 2016:65 Tab. 4.1,
+Beta-143017,2520,70,,,-,CMR,Bwambé-Sommet (Est),4,Pit,,2.894,9.904,LSA,-,Bwambé/Mpoengu,-,-,,Ia,,Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2
+Beta-143018,2000,40,,,-,CMR,Campo,CAM 00,Trench,,2.377,9.831,,-,indet,-,-,,Ib,,Oslisly et al. 2006; Eggert/Seidensticker 2016:65 Tab. 4.1
 Beta-14427,2350,140,,,Charcoal_wood,GAB,Moanda 1,-,-,-,-1.557,13.228,EIA,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Eggert 1993; Clist 2004/2005: Annex 2
 Beta-14428,2330,90,,,Charcoal_wood,GAB,Moanda 2,-,Pit,-,-1.557,13.228,EIA,-,-,slag,-,,Ib,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 1995; Clist 2004/2005: Annex 2; Garcin et al. 2018
 Beta-146654,1670,70,,,-,CMR,Bandewouri 1,-,Layer,-,3.058,10.181,,-,indet,-,-,,Ib,,Oslisly et al. 2000; Garcin et al. 2018
