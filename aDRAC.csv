@@ -170,7 +170,7 @@ Beta-182538,700,60,,,-,CMR,Ndtoua,C6-IV,Stratigraphy,0.25,3.063,10.219,LIA,indet
 Beta-182539,5490,70,,,-,CMR,Ndtoua,C6-I,Stratigraphy,1.75,3.063,10.219,LSA,indet,-,-,,-,,,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:77 Tab. 4.2
 Beta-182540,1920,70,,,-,CMR,Ndtoua,C6-III,Stratigraphy,0.85,3.063,10.219,EIA,indet,indet,-,,-,Ib,,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:77 Tab. 4.2
 Beta-182541,1910,60,,,-,CMR,Ndtoua,C6-III,Stratigraphy,0.45,3.063,10.219,EIA,indet,indet,-,,-,Ib,,Lavachery et al. 2010: 175; Eggert/Seidensticker 2016:77 Tab. 4.2
-Beta-182542,1690,70,,,-,CMR,Koukony,-,Trench,1,4.849,13.063,,-,indet,slag,-,,Ib,,Lavachery et al. 2010,
+Beta-182542,1690,70,,,-,CMR,Koukony,-,Trench,1,4.849,13.063,,-,indet,slag,-,,Ib,,Lavachery et al. 2010
 Beta-182543,400,50,,,-,CMR,Ewankang,-,-,0.25,4.804,12.852,LIA,indet,indet,slag,,-,Ib,,Lavachery et al. 2010
 Beta-182544,2210,60,,,-,CMR,Makoure,I,Furnace,0.5,3.061,10.173,EIA,-,-,"slag,tuyères,furnace walls",-,,Ib,,Lavachery et al. 2005: 175; Eggert et al. 2006: 277 Tab. 2; Gouem Gouem 2010/2011: 544; Eggert/Seidensticker 2016:79 Tab. 4.2
 Beta-182545,240,60,,,-,CMR,Yebi,-,Trench,0.3,4.973,13.32,LIA,-,indet,slag,,-,Ib,,Lavachery et al. 2010
@@ -499,7 +499,7 @@ Beta-75851,1860,90,,,Charcoal_endocarp_elaeis,CAF,Kenie Branch,2,Surface streamb
 Beta-75852,2090,90,,,Charcoal_endocarp_elaeis,CAF,Kenie Branch,3,Surface streambed,0,2.37,16.14,,-,-,-,Eg,,Id,,Fay 1997; Garcin et al. 2018
 Beta-75853,1640,110,,,Charcoal_endocarp_elaeis,CAF,Kenie Branch,4,Surface streambed,0,2.37,16.14,,-,-,-,Eg,,Id,,Fay 1997; Garcin et al. 2018
 Beta-75854,1890,100,,,Charcoal_endocarp_elaeis,CAF,Kenie Branch,5,Surface streambed,0,2.37,16.14,,-,-,-,Eg,,Id,,Fay 1997; Garcin et al. 2018
-Beta-88067,1870,70,,,Charcoal,CAF,Bécaré II,-,Furnace,-,3.526,16.041,,-,-,slag,-,,Ib,,Lanfranchi/Ndanga/Zana 1998; Lupo et al. 2018: 14 Tab. 4,
+Beta-88067,1870,70,,,Charcoal,CAF,Bécaré II,-,Furnace,-,3.526,16.041,,-,-,slag,-,,Ib,,Lanfranchi/Ndanga/Zana 1998; Lupo et al. 2018: 14 Tab. 4
 Beta-9076,1600,50,,,Charcoal_wood,GAB,Massango,-,Pit,-,-1.632,13.142,EIA,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
 Beta-9077,1680,100,,,Charcoal_wood,GAB,Mboma,-,Surface,-,-1.708,13.347,EIA,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
 Beta-9078,400,50,,,Charcoal_wood,GAB,Lebombi,A2,Pit,-,-1.5,13.373,LIA,-,indet,-,-,,Ib,"interpretation Clist: Archéologie, Age du Fer Récent",Clist 2004/2005: Annex 2
@@ -595,7 +595,7 @@ Gif A-99397,7120,80,,,Charcoal_wood,GAB,Riviere Denis 1,-,Layer,0.925,0.322,9.34
 Gif A-99524,1960,60,,,Charcoal_wood,GAB,Maboue 1,1,Pit,1.1,-0.144,11.526,EIA,-,-,-,,-,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
 Gif-????,1280,80,,,Charcoal,CMR,Bankouop,-,-,-,5.633,10.583,EIA,-,-,-,-,,(disputed),no context,Holl 1991: 194f. Tab. 1; Garcin et al. 2018
 Gif-?2,2205,45,,,Charcoal_wood,GAB,Lope 2,1,Pit,0.5,-0.218,11.588,EIA,-,-,-,,-,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
-Gif-10102,1790,50,,,-,GAB,Okanda 1/Mont Brazza,-,-,,-0.128,11.589,,-,Okanda,-,-,,Ia,,Assoko Ndong 2001; Clist 2004/2005: 622 Fig. 7-63,
+Gif-10102,1790,50,,,-,GAB,Okanda 1/Mont Brazza,-,-,,-0.128,11.589,,-,Okanda,-,-,,Ia,,Assoko Ndong 2001; Clist 2004/2005: 622 Fig. 7-63
 Gif-10103,1950,40,,,Charcoal_wood,GAB,Okanda 6,1,Pit,0.7,-0.117,11.569,EIA,-,-,-,,Eg,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
 Gif-10104,700,50,,,-,GAB,Leledi 2,-,Furnace,-,-0.34,11.508,LIA,-,indet,slag,-,,Ib,"interpretation Clist: Archéologie, Age du Fer Récent",Clist 2004/2005: Annex 2
 Gif-10176,5720,110,,,-,GAB,Leledi 10,-,-,,-0.133,16.166,LSA,-,-,-,-,,,,Assoko Ndong 2001; Garcin et al. 2018
@@ -604,8 +604,8 @@ Gif-10205,705,50,,,-,GAB,Oumondo 2,-,Furnace,-,-0.595,11.543,LIA,-,-,slag,-,,Ib,
 Gif-10278,860,40,,,-,GAB,HVL 4,-,Furnace,-,-0.566,11.602,LIA,-,-,slag,-,,Ib,"interpretation Clist: Archéologie, Age du Fer Récent",Clist 2004/2005: Annex 2
 Gif-10279,0,0,,,-,GAB,Mitendi 1,-,Furnace,-,-0.648,11.692,LIA,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Récent",Clist 2004/2005: Annex 2
 Gif-10325,200,50,,,-,GAB,HVL 4,-,Furnace,-,-0.566,11.602,LIA,-,-,slag,-,,Ib,"interpretation Clist: Archéologie, Age du Fer Récent",Clist 2004/2005: Annex 2
-Gif-10327,820,60,,,-,GAB,Lope 15,-,-,-,-0.208,11.594,LIA,-,Lope,-,-,,Ia,,Assoko Ndong 2001: 474 Tab. 64; Garcin et al. 2018,
-Gif-10436,1890,50,,,Charcoal_wood,GAB,Lindili 1,6,Pit,0.42,-0.158,11.502,EIA,-,Okanda,-,,-,Ia,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: 622 Fig. 7-63,
+Gif-10327,820,60,,,-,GAB,Lope 15,-,-,-,-0.208,11.594,LIA,-,Lope,-,-,,Ia,,Assoko Ndong 2001: 474 Tab. 64; Garcin et al. 2018
+Gif-10436,1890,50,,,Charcoal_wood,GAB,Lindili 1,6,Pit,0.42,-0.158,11.502,EIA,-,Okanda,-,,-,Ia,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: 622 Fig. 7-63
 Gif-10437,1950,40,,,Charcoal_wood,GAB,Okanda 5,1,Pit,1,-0.108,11.553,EIA,-,Okanda,-,-,,Ia,"interpretation Clist: Archéologie, Age du Fer Ancien","Assoko Ndong 2001; Clist 2004/2005: 622 Fig. 7-63, Annex 2"
 Gif-10438,4500,50,,,Charcoal_wood,GAB,Okanda 5,2,Pit,0.15,-0.108,11.553,EIA,-,-,-,,-,,"interpretation Clist: Archéologie maisaberrante, Age du Fer Ancien",Assoko Ndong 2001; Clist 2004/2005: Annex 2; Garcin et al. 2018
 Gif-10672,480,60,,,-,GAB,Oumondo 1,-,Furnace,-,-0.595,11.543,LIA,-,-,slag,-,,Ib,"interpretation Clist: Archéologie, Age du Fer Récent",Clist 2004/2005: Annex 2
@@ -622,7 +622,7 @@ Gif-11053,760,15,-27,,Charcoal,CMR,Ewani 9,-,-,-,5.221,9.451,LIA,(indet),indet,-
 Gif-11118,500,20,-26.3,,Charcoal_endocarp_elaeis,CMR,Kokobuma 1,-,Layer,0.3,5.42,9.655,LIA,-,-,-,Eg,,Ic,,Oslisly et al. 2000: 351 Tab. 1
 Gif-11152,40010,850,,,Charcoal_wood,GAB,Maboue 5,-,Layer,2,-0.144,11.526,MSA,indet,-,-,-,,,"interpretation Clist: Archéologie, Age Récent de la Pierre ?",Clist 2004/2005: Annex 2
 Gif-11155,2210,45,,,Charcoal_wood,GAB,Toube 1,1,Pit,0.85,-0.038,11.585,EIA,-,Okala/Epona/Yindo,-,Eg,Capra/Ovis,Ia,"interpretation Clist: Archéologie, Age du Fer Ancien","Assoko Ndong 2001: 235; Clist 2004/2005:509 Tab. 6-56, Annex 2"
-Gif-11156,1350,60,,,Charcoal_wood,GAB,Maboue 1,2,Pit,1.65,-0.144,11.526,EIA,-,-,-,,-,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2,
+Gif-11156,1350,60,,,Charcoal_wood,GAB,Maboue 1,2,Pit,1.65,-0.144,11.526,EIA,-,-,-,,-,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
 Gif-11157,1950,60,,,Charcoal_wood,GAB,Toube 1,-,Layer,0.25,-0.038,11.585,EIA,-,-,-,,Eg,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Assoko Ndong 2001: 235; Clist 2004/2005: Annex 2
 Gif-11340,6090,65,,,Charcoal_wood,GAB,Riviere Denis 1,-,Layer,0.8,0.322,9.348,N,indet,-,-,,-,,"interpretation Clist: Archéologie, Néolithique ancien","Clist 2004/2005: 708 Tab. 8-1, Annex 2"
 Gif-11341,1785,50,,,Charcoal_wood,GAB,Riviere Denis 1,-,Layer,0.5,0.322,9.348,N,indet,(indet),-,,-,IIIa,"interpretation Clist: Archéologie, Néolithique ancien","Clist 2004/2005: 439, Annex 2"
@@ -1250,7 +1250,7 @@ KIA-37684,1590,25,,AMS,Charcoal_endocarp_elaeis,COG,Ikelemba,,Layer,0.5,1.227,16
 KIA-37685,215,25,,AMS,Charcoal_endocarp_nauclea,COG,Mokobo,,Layer,0.3,1.871,16.618,LIA,-,-,-,,-,IIc,,Morin-Rivat et al. 2014: 213 Tab. 1
 KIA-37686,1515,30,,AMS,Charcoal_endocarp_elaeis,COG,Ilamba,,Layer,0.4,1.208,16.767,EIA,-,-,-,Eg,,IIc,,Morin-Rivat et al. 2014: 213 Tab. 1
 KIA-37687,1800,30,,AMS,Charcoal_endocarp_elaeis,COG,Kabo,,Layer,0.3,2.031,16.082,EIA,-,-,-,Eg,,IIc,,Morin-Rivat et al. 2014: 212 Tab. 1
-KIA-38066,1625,25,,AMS,Charcoal_endocarp_elaeis,COG,Baï Bomassa,,Layer,0,2.203,16.185,EIA,-,-,-,Eg,,IIc,,Morin-Rivat et al. 2014: 212 Tab. 1,
+KIA-38066,1625,25,,AMS,Charcoal_endocarp_elaeis,COG,Baï Bomassa,,Layer,0,2.203,16.185,EIA,-,-,-,Eg,,IIc,,Morin-Rivat et al. 2014: 212 Tab. 1
 KIA-38067,12620,55,,AMS,Charcoal_wood,COG,Mokobo,,Layer,1.2,1.871,16.618,LSA,-,-,-,,-,,,Morin-Rivat et al. 2014: 212 Tab. 1
 KIA-38070,1535,25,,AMS,Charcoal_wood,COG,Mokobo,,Layer,0.75,1.871,16.618,EIA,-,-,-,,-,IIc,,Morin-Rivat et al. 2014: 213 Tab. 1
 KIA-38933,1795,40,,AMS,Charcoal_endocarp_elaeis,CMR,Makalaya,Makalaya,Layer,0.5,3.269,14.043,EIA,-,-,-,Eg,,IIc,,Morin-Rivat et al. 2014: 212 Tab. 1
@@ -1291,12 +1291,12 @@ LOCEAN-154,2740,76,,,-,CMR,Ngoume,5,Pit,1.92,5.483,11.4,,-,indet,slag,Cs,,Ib,,Le
 LOCEAN-155,2504,82,,,-,CMR,Ngoume,5,Pit,2.4,5.483,11.4,,-,indet,slag,Cs,,Ib,,Leka 2013: Annex 4
 LOCEAN-156,2723,60,,,-,CMR,Ngoume,3,Pit,1.3,5.483,11.4,,-,indet,slag,,-,Ib,,Leka 2013: Annex 4
 LOCEAN-157,2637,46,,,-,CMR,Ngoume,I1'-J1',Layer,0.4,5.483,11.4,,-,-,-,,-,Ic,,Leka 2013: Annex 4
-LOCEAN-158,2581,40,,,-,CMR,Ngoume,2,Pit,2,5.483,11.4,,-,indet,slag,-,,Ib,,Leka 2013: Annex 4,
+LOCEAN-158,2581,40,,,-,CMR,Ngoume,2,Pit,2,5.483,11.4,,-,indet,slag,-,,Ib,,Leka 2013: Annex 4
 LOCEAN-159,2642,42,,,-,CMR,Ngoume,H3'-H4',Layer,0.7,5.483,11.4,,indet,indet,-,Cs; Eg,,Ib,,Leka 2013: Annex 4
 LOCEAN-160,2508,32,,,-,CMR,Ngoume,3,Pit,2.3,5.483,11.4,,-,indet,slag,,-,Ib,,Leka 2013: Annex 4
 LOCEAN-161,2286,25,,,-,CMR,Ngoume,2,Pit,1.45,5.483,11.4,EIA,-,indet,slag,,-,Ib,,Leka 2013: Annex 4
-Loean-132,3707,29,,,-,CAF,Gbatoro,-,-,,6.495,14.415,LSA,-,-,-,-,,,,Zangato/Holl 2010,
-Loean-135,3598,30,,,-,CAF,Bouboun,-,-,,6.133,15.333,LSA,-,-,-,-,,,,Zangato/Holl 2010,
+Loean-132,3707,29,,,-,CAF,Gbatoro,-,-,,6.495,14.415,LSA,-,-,-,-,,,,Zangato/Holl 2010
+Loean-135,3598,30,,,-,CAF,Bouboun,-,-,,6.133,15.333,LSA,-,-,-,-,,,,Zangato/Holl 2010
 Lv-1393,1930,130,,,Charcoal_wood,CMR,Ndindan,7,Pit,?,3.914,11.504,EIA,-,indet,slag,"Eg, Cs",,Ib,,Mbida Mindzie 2002; Leka 2013: Annex 4
 Lv-1394,2120,70,,,Charcoal,CMR,Obobogo,VII,Pit,0.6,3.817,11.504,,-,Obobogo,slag?,,-,Ia,,de Maret 1992a: 262; Eggert 1993; Clist 2004/2005: 724 Tab. 8-3; Leka 2013: Annex 4
 Lv-1395,2120,150,,,-,CMR,Obobogo,VII,Pit,2.75,3.817,11.504,,-,Obobogo,slag?,Eg,,Ia,,de Maret 1992a: 262; Eggert 1993; Clist 2004/2005: 724 Tab. 8-3; Leka 2013: Annex 4
@@ -1765,7 +1765,7 @@ Tx-6690,2310,70,,,-,COG,Kayes,0/10W,-,0.55,-4.42,11.7,,indet,,-,-,-,IIa,,Denbow 
 Tx-6691,1720,70,,,-,COG,Kayes,19S/0,-,0.35,-4.42,11.7,,-,Herringbone,-,,-,Ia,,Denbow 2012: 387 Tab. 1
 Tx-6692,1440,60,,,-,COG,Kayes,9N/0,-,0.75,-4.42,11.7,,-,Herringbone,-,,-,Ia,,Denbow 2012: 387 Tab. 1
 Tx-6751,1420,80,,,Shell,COG,Lac Tchitembo,-,-,0.075,-4.178,11.385,,-,-,-,,-,IIIb,,Denbow 2012: 387 Tab. 1
-Tx-7014,1820,60,,,-,COG,BP 113,1; 5N,-,,-4.357,11.59,,-,Herringbone,-,-,,Ia,,Denbow 2012: 387 Tab. 1,
+Tx-7014,1820,60,,,-,COG,BP 113,1; 5N,-,,-4.357,11.59,,-,Herringbone,-,-,,Ia,,Denbow 2012: 387 Tab. 1
 Tx-7015,2220,80,,,-,COG,Lamba,1A,Pit,1.25,-4.373,11.609,,-,Ceramic Later Stone Age 2,slag,,-,Ia,,Denbow 2012: 387 Tab. 1
 Tx-7016,2060,60,,,-,COG,BP 113,70-80E/3-4S,-,0.45,-4.357,11.59,,-,Herringbone,-,,-,Ia,,Denbow 2012: 387 Tab. 1
 Tx-7017,420,50,,,-,COG,Loubanzi,0/10S,-,0.25,-4.502,11.873,LIA,-,Woven I; (Woven II),slag,,-,Ia,,Denbow 2012: 387 Tab. 1; Cranshof et al. 2018: 188
@@ -1773,7 +1773,7 @@ Tx-7018,2250,60,,,-,COG,Gray Sands,1,-,0.75,-4.393,11.657,,-,Herringbone,slag,,-
 Tx-7019,810,70,,,-,COG,Conda,2,-,0.15,-4.502,11.936,LIA,-,Woven I,-,,-,Ia,,Denbow 2012: 387 Tab. 1
 Tx-7020,2790,70,,,-,COG,Lamba,1,Pit,0.85,-4.373,11.609,LSA,-,Ceramic Later Stone Age 1,-,,-,Ia,,Denbow 2012: 387 Tab. 1
 Tx-7021,2950,80,,,-,COG,Gray Sands,2,-,0.9,-4.393,11.657,LSA,indet,-,-,,-,IIa,,Denbow 2012: 387 Tab. 1
-Tx-7320,2190,70,,,-,COG,Mvindou,-,-,,-4.472,11.952,,-,indet,-,-,,Ib,,Denbow 2012; Garcin et al. 2018,
+Tx-7320,2190,70,,,-,COG,Mvindou,-,-,,-4.472,11.952,,-,indet,-,-,,Ib,,Denbow 2012; Garcin et al. 2018
 Tx-7359,2270,60,,,-,COG,Mvindou,1,Pit,0.3,-4.472,11.952,,-,Ceramic Later Stone Age 2,slag,,-,Ia,,Denbow 2012: 387 Tab. 1
 Tx-7360,2190,70,,,-,COG,Mvindou,3,-,0.45,-4.472,11.952,,-,Ceramic Later Stone Age 2,-,,-,Ia,,Denbow 2012: 387 Tab. 1
 Tx-7361,2250,60,,,-,COG,Mvindou,2,Pit,1.15,-4.472,11.952,,-,Ceramic Later Stone Age 2,-,,-,Ia,,Denbow 2012: 387 Tab. 1
@@ -1782,7 +1782,7 @@ Tx-7363,1790,70,,,-,COG,Fignou 4,-,Pit,0.8,-4.524,11.976,,-,indet,-,,-,Ib,,Denbo
 Tx-7364,1410,100,,,-,COG,Fignou 1,-,Pit,0.1,-4.524,11.976,,-,indet,-,,-,Ib,,Denbow 2012: 387 Tab. 1
 Tx-7365,2220,60,,,-,COG,Mvindou,1,Pit,0.6,-4.472,11.952,,-,Ceramic Later Stone Age 2,slag,,-,Ia,,Denbow 2012: 387 Tab. 1
 Tx-7366,2200,70,,,-,COG,Mvindou,2,Pit,1.15,-4.472,11.952,,-,Ceramic Later Stone Age 2,-,,-,Ia,,Denbow 2012: 387 Tab. 1
-Tx-76689,1550,80,,,-,COG,Kayes,-,-,,-4.42,11.7,,-,indet,-,-,,Ib,,Denbow 2012; Garcin et al. 2018,
+Tx-76689,1550,80,,,-,COG,Kayes,-,-,,-4.42,11.7,,-,indet,-,-,,Ib,,Denbow 2012; Garcin et al. 2018
 Tx-7727,1640,70,,,-,COG,BP 113,48.49E/21N,-,0.45,-4.357,11.59,,-,Carinated Broadly Grooved,-,,-,Ia,,Denbow 2012: 387 Tab. 1
 Tx-7728,1940,50,,,-,COG,BP 113,49.5E/21N,-,0.55,-4.357,11.59,,-,Herringbone,-,,-,Ia,,Denbow 2012: 387 Tab. 1
 Tx-7729,1930,50,,,-,COG,BP 113,1; 78-79E/14S,Pit,,-4.357,11.59,,-,Herringbone,-,-,,Ia,,Denbow 2012: 387 Tab. 1
