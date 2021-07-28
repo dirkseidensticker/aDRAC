@@ -1,5 +1,7 @@
 # List of laboratories
 
+http://radiocarbon.webhost.uits.arizona.edu/sites/default/files/Labs-2021_Jul-20.pdf
+
 | Code | Laboratory                               | Location                       |
 | ---- | ---------------------------------------- | ------------------------------ |
 | Arc  | ARC Seibersdorf Research GmbH            | Wien (Austria)                 |
