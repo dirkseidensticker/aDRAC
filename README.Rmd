@@ -5,7 +5,7 @@ output: github_document
 
 [![DOI](https://zenodo.org/badge/56459302.svg)](https://zenodo.org/badge/latestdoi/56459302)
 
-**Dirk Seidensticker** & **Wannes Hubau**
+**Dirk Seidensticker**, **Wannes Hubau** & **Katharina V. M. Jungnickel**
 
 ```{r setup, include=FALSE}
 library(ggplot2)
@@ -186,11 +186,30 @@ The main dataset is to be found within `/data/adrac.csv` The csv-file is encoded
 | IRON         | Associated iron finds                                        |
 | FRUIT        | Associated fruit remains (Eg: Elaeis guineensis; Cs: Canarium schweinfurthii; Ce: Coula edulis) |
 | ZOO        | Associated archaeozoological remains                          |
-| CLASS | Classification of reliability following [Seidensticker et al. 2021 (table S1)](https://advances.sciencemag.org/content/7/7/eabd8352) |
+| CLASS* | Classification of reliability following [Seidensticker et al. 2021 (table S1)](https://www.science.org/doi/10.1126/sciadv.abd8352) |
 | REMARK       | Additional remarks                                            |
 | SOURCES     | Source                                                        |
 
 The literature used to compile the dataset is to be found within the `SOURCES.md` file.
+
+### Classification of 14C dates based on quality screening and archeological association (cf. Seidensticker et al. 2021)
+
+| CLASS | Archeological association |
+| ----- | ------------------------- |
+| *I: Relevant dates* |             | 
+| Ia | strong archeological context |
+| Ib | moderately strong archeological context |
+| Ic | weak archeological context   |
+| Id | proxy for human activity but no artefacts |
+| *II: Irrelevant dates* |          |
+| IIa | reference to lithic artefacts only |
+| IIb | compromised archeological link (e.g. post-depositional mixing) |
+| IIc | lacking archeological context |
+| *III: Unreliable dates* |         |
+| IIIa | presumed lab error         |
+| IIIb | based on lacustrine carbonates (potential old-carbon effect) |
+| IIIc | based on sedimentary bulk organic matter (potential old-carbon effect) |
+
 
 ### Coordinates
 
