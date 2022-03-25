@@ -508,6 +508,15 @@ Beta-9080,980,70,,,Charcoal_wood,GAB,Lebombi,A21,Pit,-,-1.5,13.373,,-,indet,-,-,
 Beta-9081,710,60,,,Charcoal_wood,GAB,Lebombi,-,Pit,-,-1.5,13.373,,-,indet,-,-,,Ib,"interpretation Clist: Archéologie, Age du Fer Récent",Clist 2004/2005: Annex 2
 Beta-9082,1850,70,,,Charcoal_wood,GAB,Moanda 1,-,Pit,-,-1.557,13.228,,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
 Beta-97224,290,50,,,-,CAF,Ouassi,-,-,,7.134,18.282,,-,-,-,-,,,,Moga 2008
+Beta-428090,230,30,-29.5,AMS,Uapaca,COD,Iyonda,IYO 15/48/1-13,Furnace,0.72,-0.035,18.186,LIA,-,Botendo,slag,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Beta-428091,120,30,-28.1,AMS,Uapaca,COD,Iyonda,IYO 15/48/2-4,Furnace,1.08,-0.035,18.186,LIA,-,Botendo,slag,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Beta-441457,2040,30,-25.4,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/2/4-57,Pit,0.65,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Beta-441458,2110,30,-24.0,AMS,Lophira,COD,Iyonda,IYO 15/2/4-197,Pit,0.71,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Beta-447441,410,30,-25.6,AMS,Charcoal_endocarp_elaeis,COD,Bolondo,BLD 16/5-72,Layer,0.1125,-0.306,21.253,LIA,-,Wema; Bolondo,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Beta-447442,520,30,-24.5,AMS,Charcoal_endocarp_elaeis,COD,Bolondo,BLD 16/5-76,Layer,0.139,-0.306,21.253,LIA,-,Wema,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Beta-469857,420,30,-9.4,AMS,Cenchrus americanus,COD,Bolondo,BLD 16/1-38,Layer,0.515,-0.306,21.253,LIA,-,Bolondo,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Beta-469858,480,30,-9.1,AMS,Cenchrus americanus,COD,Bolondo,BLD 16/1-39,Layer,0.59,-0.306,21.253,LIA,-,Bolondo,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Beta-529832,950,30,-33.3,AMS,caryopsis_indet,COD,Iyonda,IYO 17/1-20,Colluvium,0.285,-0.035,18.186,LIA,-,mixed,-,-,-,IIB,,Neumann et al. 2022 Tab. 1
 BM-2425,4180,160,,,-,CMR,Mbi Crater,-,-,,6.083,10.344,,-,-,-,-,,,,Asombang 1998; Garcin et al. 2018
 BM-2426,2770,120,,,-,CMR,Mbi Crater,-,-,,6.083,10.344,,-,-,-,-,,,,Asombang 1998; Garcin et al. 2018
 BM-2495,40,40,,,Charcoal,CMR,Shum Laka,"Upper Horizon of the Gray Ash Layer, sector1",-,0.05,5.859,10.078,,(indet),indet,-,Cs; Eg,,Ib,,Lavachery/Cornelissen 2000
@@ -1561,6 +1570,14 @@ Poz-42827,375,25,,,-,CMR,Oku,-,-,,6.145,10.301,,-,-,-,-,,,,Oslisly et al. 2015; 
 Poz-45692,145,30,,,-,COG,Ngoko Island,-,-,-,1.946,15.597,,-,-,-,-,,(unpublished),Osilisly unpublished,Oslisly et al. 2013
 Poz-45693,1845,30,,,-,CMR,Bolo Bai,-,-,-,2.167,15.717,,-,-,-,-,,(unpublished),Osilisly unpublished,Oslisly et al. 2013
 Poz-45694,1160,30,,,-,CMR,Bolo Bai,-,-,-,2.167,15.717,,-,-,-,-,,(unpublished),Osilisly unpublished,Oslisly et al. 2013
+Poz-48986,1660,35,-,AMS,Charcoal_endocarp_elaeis,COD,Mbandaka,MBA 11/1-10,Colluvium,0.15,0.06,18.256,EIA,-,mixed,-,-,-,IIb,,Neumann et al. 2022 Tab. 1
+Poz-48988,2160,30,-,AMS,Charcoal,COD,Mbandaka,MBA 11/1/1,Pit,0.5,0.06,18.256,EIA,-,Bokele,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-48989,1785,30,-,AMS,Charcoal,COD,Mbandaka,MBA 11/1/1,Pit,0.5,0.06,18.256,EIA,-,Bokele,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-48991,1810,30,-,AMS,Charcoal_endocarp_elaeis,COD,Mbandaka,MBA 11/1/1-37,Pit,0.5,0.06,18.256,EIA,-,Bokele,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-48992,605,30,-,AMS,Charcoal_endocarp_elaeis,COD,Mbandaka,MBA 11/1-22,Colluvium,0.185,0.06,18.256,LIA,-,mixed,-,-,-,IIb,,Neumann et al. 2022 Tab. 1
+Poz-48993,1745,35,-,AMS,Charcoal_endocarp_elaeis,COD,Mbandaka,MBA 11/1/1-31,Pit,0.21,0.06,18.256,EIA,-,Bokele,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-48995,1835,35,-,AMS,Charcoal_endocarp_elaeis,COD,Mbandaka,MBA 11/1/1-35,Pit,0.36,0.06,18.256,EIA,-,Bokele,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-48996,470,30,-,AMS,Charcoal_endocarp_elaeis,COD,Mbandaka,MBA 11/1-47,Colluvium,0.125,0.06,18.256,LIA,-,mixed,-,-,-,IIb,,Neumann et al. 2022 Tab. 1
 Poz-49301,1950,35,,,-,CMR,PS12,-,-,,3.248,15.393,,-,-,-,-,,IIc,"incomplete, should be 53 dates",Bremond et al. 2017; Garcin et al. 2018
 Poz-49302,1800,30,,,-,CMR,PS12,-,-,,3.248,15.393,,-,-,-,-,,IIc,"incomplete, should be 53 dates",Bremond et al. 2017; Garcin et al. 2018
 Poz-49314,205,35,,,-,CMR,Pallisco logging concession (Area1),3,Pedoanthracological trench,0.05,3.375,14.025,,-,-,-,,-,IIc,"no mention of pottery or endocarp, so assume absent, check with Jason or Julie",Vleminckx et al. 2014; Garcin et al. 2018
@@ -1593,6 +1610,10 @@ Poz-49344,2250,35,,,-,CMR,SFID logging concession (Area2 T6),2,Pedoanthracologic
 Poz-49345,2300,30,,,-,CMR,SFID logging concession (Area2 T6),2,Pedoanthracological trench,1.45,3.467,14.31,,-,-,-,,-,IIc,"no mention of pottery or endocarp, so assume absent, check with Jason or Julie",Vleminckx et al. 2014; Garcin et al. 2018
 Poz-49398,2200,35,,,-,CMR,Pallisco logging concession (Area1),3,Pedoanthracological trench,0.65,3.375,14.025,,-,-,-,,-,IIc,"no mention of pottery or endocarp, so assume absent, check with Jason or Julie",Vleminckx et al. 2014; Garcin et al. 2018
 Poz-49399,0,0,,,-,CMR,Pallisco logging concession (Area1),1,Pedoanthracological trench,0.05,3.375,14.025,modern,-,-,-,,-,IIc,"modern (113.33 +- 0.35), no mention of pottery or endocarp, so assume absent, check with Jason or Julie",Vleminckx et al. 2014; Garcin et al. 2018
+Poz-55342,2175,30,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 12/1/1-37,Pit,0.995,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-55343,2185,30,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 12/1/1-37,Pit,0.995,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-55344,2105,30,-,AMS,Charcoal_endocarp_canarium,COD,Iyonda,IYO 12/1/1-37,Pit,0.995,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-55345,2135,30,-,AMS,Charcoal_endocarp_canarium,COD,Iyonda,IYO 12/1/1-37,Pit,0.995,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
 Poz-57246,2085,30,,,-,COD,Baombi II,BAO/13/I,-,,0.657,25.161,,-,Early Pottery Phase,-,-,,Ia,,"Livingstone-Smith et al. 2017: 98 Tab. 1, 111 Fig. 23"
 Poz-57248,2155,30,,,-,COD,Baombi II,BAO/13/I,-,,0.657,25.161,,-,Early Pottery Phase,-,-,,Ia,,"Livingstone-Smith et al. 2017: 98 Tab. 1, 111 Fig. 23"
 Poz-57843,1860,30,,,Charcoal_endocarp_elaeis,CMR,GPS051,F3,Pit,-,2.496,12.032,,-,indet,slag,-,,Ib,,"de Saulieu et al. 2015: 405 Tab. 1, 411, 412; Garcin et al. 2018"
@@ -1667,6 +1688,8 @@ Poz-69263,2230,30,,,Charcoal_wood,COD,Kitala,T02 A1,Layer,0.33,-5.551,14.868,,(i
 Poz-70550,395,30,,,-,COG,Kindangakanzi,KNA 14,-,,-4.43,13.633,,-,Kindangakanzi,-,-,,Ia,,Nikis 2018: II 35
 Poz-70551,645,30,,,-,COG,Makuti 3,MKU3-14,-,0.2,-4.294,14.329,,-,Misenga/Mbafu/Group II,-,,-,Ia,,Nikis 2018: I 166 Abb. 5.12; Nikis 2018: II 105; Clist 2018: 254 Tab. 19.2; Cranshof et al. 2018: 184
 Poz-70552,70,30,,,-,COG,Kitchounga,KTG-14,-,,-4.3,14.324,,-,Mindouli; Moubiri,-,-,,Ia,,Nikis 2018: II 35
+Poz-72477,660,30,-,AMS,Cenchrus americanus,COD,Mbandaka,MBA 11/1/2-42,Pit,0.315,0.06,18.256,LIA,-,Bondongo; Nkile,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-72477,630,30,-,AMS,Cenchrus americanus,COD,Mbandaka,MBA 11/1/2-42,Pit,0.315,0.06,18.256,LIA,-,Bondongo; Nkile,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
 Poz-74441,2470,30,,,-,CMR,Dibamba,F. 121 (0-60 cm),Pit,0.3,3.996,9.822,,-,Dibamba E,-,,-,Ia,,de Saulieu et al. 2017: 25 Tab. 1
 Poz-74444,340,30,,,-,CMR,Dibamba,F. 206 (0-70 cm),Pit,0.35,3.996,9.822,,-,Dibamba B,-,,-,Ia,,de Saulieu et al. 2017: 25 Tab. 1
 Poz-74504,2435,30,,,-,CMR,Dibamba,F. 80 (0-60 cm),Pit,0.3,3.996,9.822,,-,Dibamba E,-,,-,Ia,,de Saulieu et al. 2017: 25 Tab. 1
@@ -1684,10 +1707,49 @@ Poz-75423,565,30,,,Charcoal_wood,COD,Kindoki,T100 B'1,Pit,1.35,-5.07,15.01,,-,Ki
 Poz-75451,370,30,,,charcoal_wood,COD,Yangambi,YAN-05,Pedoanthracological trench,0.45,0.768,24.44,,-,Ilambi,-,Eg,,Ia,,"Livingstone-Smith et al. 2017: 98 Tab. 1, 111 Fig. 23"
 Poz-75452,1670,30,,,charcoal_wood,COD,Yangambi,YAN-05,Pedoanthracological trench,0.65,0.768,24.44,,-,Middle Pottery Phase,-,Eg,,Ia,double date within spit,"Livingstone-Smith et al. 2017: 98 Tab. 1, 111 Fig. 23"
 Poz-75462,1230,30,,,charcoal_wood,COD,Yangambi,YAS-02,Pedoanthracological trench,0.55,0.768,24.44,(MIA),-,Ilambi,-,Eg,,Ia,double date within spit,"Livingstone-Smith et al. 2017: 98 Tab. 1, 111 Fig. 23"
+Poz-74815,2040,60,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 12/1/1-25,Pit,0.635,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74816,2180,50,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 12/1/1-27,Pit,0.755,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74817,1960,40,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/1/6-64,Pit,0.735,-0.035,18.186,EIA,-,(Imbonga); (Bokuma),-,-,-,Ic,,Neumann et al. 2022 Tab. 1
+Poz-74880,115,30,-,AMS,Charcoal,COD,Iyonda,IYO 15/1/3-9,Pit,0.33,-0.035,18.186,LIA,-,Botendo,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74881,2155,30,-,AMS,Charcoal_endocarp_canarium,COD,Iyonda,IYO 15/1/4-35,Pit,0.465,-0.035,18.186,EIA,-,Imbonga; (Bokuma),-,-,-,Ic,,Neumann et al. 2022 Tab. 1
+Poz-74883,1445,30,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/1/4-35,Pit,0.465,-0.035,18.186,EIA,-,(Imbonga); Bokuma,-,-,-,Ic,,Neumann et al. 2022 Tab. 1
+Poz-74884,2275,30,-,AMS,Charcoal,COD,Iyonda,IYO 15/1/6-59,Pit,0.62,-0.035,18.186,EIA,-,Imbonga; (Bokuma),-,-,-,Ic,,Neumann et al. 2022 Tab. 1
+Poz-74885,2290,30,-,AMS,Charcoal_seed_vigna,COD,Iyonda,IYO 15/1/7-18,Pit,0.7,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74886,2195,30,-,AMS,Charcoal_seed_vigna,COD,Iyonda,IYO 15/1/7-26,Pit,0.685,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74887,2230,30,-,AMS,Charcoal,COD,Iyonda,IYO 15/1/8-25,Pit,1.195,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74888,2170,30,-,AMS,Charcoal,COD,Iyonda,IYO 15/1/8-25,Pit,1.195,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74889,2140,30,-,AMS,Charcoal_endocarp_canarium,COD,Iyonda,IYO 15/1/9-38,Pit,0.89,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74890,2120,30,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/1/9-38,Pit,0.89,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74893,1475,30,-,AMS,Charcoal,COD,Iyonda,IYO 15/1/13-25,Pit,0.975,-0.035,18.186,EIA,-,Bokuma,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74894,1395,30,-,AMS,Charcoal,COD,Iyonda,IYO 15/1/13-25,Pit,0.975,-0.035,18.186,EIA,-,Bokuma,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74895,2080,30,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/1/14-5,Pit,0.69,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74896,2100,30,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/1/14-5,Pit,0.69,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74897,2220,30,-,AMS,Charcoal,COD,Iyonda,IYO 15/1/15-9,Pit,1.0,-0.035,18.186,EIA,-,Imbonga; (indet),-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74898,2235,30,-,AMS,Charcoal_uapaca,COD,Iyonda,IYO 15/1/15-9,Pit,1.0,-0.035,18.186,EIA,-,Imbonga; (indet),-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74899,2200,30,-,AMS,Charcoal_endocarp,COD,Iyonda,IYO 15/2/4-125,Pit,1.18,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74918,2180,30,-,AMS,Charcoal_endocarp,COD,Iyonda,IYO 15/2/4-184,Pit,2.035,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74919,2185,30,-,AMS,Charcoal,COD,Iyonda,IYO 15/2/4-269,Pit,2.83,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74979,2210,30,-,AMS,Charcoal_endocarp,COD,Iyonda,IYO 15/2/4-245,Pit,2.565,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-74979,2210,30,-,AMS,Charcoal_endocarp,COD,Iyonda,IYO 15/2/4-245,Pit,2.565,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-75080,40,30,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/1/3-9,Pit,0.33,-0.035,18.186,LIA,-,Botendo,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
 Poz-76918,540,30,,,Charcoal_wood,COD,Kazu 6,T01 S,Furnace,0.35,-5.523,13.731,,-,indet,slag,,-,Ib,Po: indet Kongo style,"Clist 2018: 237 Tab. 18.1, 254 Tab. 19.2"
 Poz-76919,610,30,,,Charcoal_wood,COD,Kazu 6,T03 S,Furnace,0.5,-5.523,13.731,,-,indet,slag,,-,Ib,Po: indet Kongo style,"Clist 2018: 237 Tab. 18.1, 254 Tab. 19.2"
 Poz-76920,1750,30,,,Charcoal_endocarp_canarium,COD,Kindu,T09 C4,Layer,0.25,-4.951,13.613,,-,Kay Ladio,tuyère; slag; object,Cs,,Ia,,"Clist 2018: 237 Tab. 18.1, 239 Tab. 18.3; Clist et al. 2019: 15"
 Poz-76921,1810,30,,,Charcoal_endocarp_canarium,COD,Kindu,T09 C4,Pit,0.55,-4.951,13.613,,-,Kay Ladio,tuyère; slag; object,Cs; Eg,,Ia,,"Clist 2018: 237 Tab. 18.1, 239 Tab. 18.3; Clist et al. 2019: 15"
+Poz-79288,645,30,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/19/1-24,Pit,0.45,-0.035,18.186,LIA,-,-,-,-,-,Id,,Neumann et al. 2022 Tab. 1
+Poz-79289,150,30,-,AMS,Charcoal,COD,Iyonda,IYO 15/19/6-46,Pit,0.425,-0.035,18.186,LIA,-,Ikenge,-,-,-,Id,,Neumann et al. 2022 Tab. 1
+Poz-79290,120,30,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/19-43,Layer,0.12,-0.035,18.186,LIA,-,mixed,-,-,-,IIb,,Neumann et al. 2022 Tab. 1
+Poz-79291,2165,30,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/42/4-27,Pit,0.63,-0.035,18.186,EIA,-,(Bokuma); (Imbonga),-,-,-,IIb,,Neumann et al. 2022 Tab. 1
+Poz-79295,490,30,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/63/3-32,Pit,0.5,-0.035,18.186,LIA,-,Nkile,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-79296,495,30,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/63/3-64,Pit,0.375,-0.035,18.186,LIA,-,Nkile,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-79297,545,30,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/63/4-47,Pit,0.435,-0.035,18.186,LIA,-,Bondongo; Nkile,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-79298,535,30,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/63/5-67,Pit,0.31,-0.035,18.186,LIA,-,(Imbonga),-,-,-,IIb,,Neumann et al. 2022 Tab. 1
+Poz-79299,535,30,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/64/2-3,Pit,0.25,-0.035,18.186,LIA,-,Nkile,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-79300,500,30,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/64/2-7,Pit,0.225,-0.035,18.186,LIA,-,Nkile,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-79301,115,30,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/65-3,Pit,0.195,-0.035,18.186,LIA,-,Botendo,-,-,-,Ia,Pit?,Neumann et al. 2022 Tab. 1
+Poz-79304,2325,35,-,AMS,Charcoal_seed_Pennisetum,COD,Iyonda,IYO 15/1/6-73,Pit,0.995,-0.035,18.186,EIA,-,Imbonga; (Bokuma),-,-,-,Ia,Pit?,Neumann et al. 2022 Tab. 1
+Poz-79306,290,30,-,AMS,indet,COD,Mbandaka,MBA 11/1-46,Colluvium,0.05,0.06,18.256,LIA,-,indet,-,-,-,IIb,,Neumann et al. 2022 Tab. 1
+Poz-79307,2100,30,-,AMS,indet,COD,Iyonda,MBA 11/1-46,Pit,0.635,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
 Poz-80290,385,30,,,Charcoal_wood,COD,Kindoki,T78 A'2,Pit,0.87,-5.07,15.01,,-,Kongo C/Group III,-,,-,Ia,,Clist 2018: 237 Tab. 18.1; Clist et al. 2018: 261
 Poz-80291,645,30,,,Charcoal_wood,COD,Kazu 4,T04 A1,Layer,0.15,-5.517,13.732,,-,indet,-,,-,Ib,Po: indet Kongo style,"Clist 2018: 237 Tab. 18.1, 254 Tab. 19.2"
 Poz-80292,725,30,,,Charcoal_wood,COD,Kindu,T08 A1,Layer,0.25,-4.951,13.613,,-,(Kay Ladio),tuyère; slag; object,,-,Ib,Po: indet Kongo style,"Clist 2018: 237 Tab. 18.1, 239 Tab. 18.3, 254 Tab. 19.2; Clist et al. 2019: 11"
@@ -1698,6 +1760,10 @@ Poz-80297,8910,50,,,Charcoal_wood,COD,Ngongo Mbata,T44 A'1,Layer,1.35,-5.781,15.
 Poz-84660,960,30,,,-,COG,Kilodia,KDI-15/1,Furnace,,-4.292,14.361,,-,indet,-,-,,Ib,,Nikis 2018: II 35
 Poz-84661,385,30,,,-,COG,Ntominsié,NTM-15,-,,-4.295,14.335,,-,Moubiri,-,-,,Ia,,Nikis 2018: II 35
 Poz-84662,195,30,,,-,COG,Travers-Blanc,TRB-15,Furnace,,-4.281,14.345,,-,indet,-,-,,Ib,,Nikis 2018: II 35
+Poz-93614,565,30,-,AMS,charcoal,COD,Bolondo,BLD 1.02,Pollencore,0.96,-0.306,21.253,LIA,-,-,-,-,-,IIc,,Neumann et al. 2022 Tab. 1
+Poz-98058,334,30,-,AMS,Charcoal_seed_Pennisetum,COD,Bolondo,BLD 16/5-61,Layer,0.885,-0.306,21.253,LIA,-,Bolondo,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-98264,460,30,-,AMS,Bone_animal,COD,Bolondo,BLD 16/5-35,Layer,1.165,-0.306,21.253,LIA,-,Bolondo; Wema,-,-,Capra hircus,Ia,,Neumann et al. 2022 Tab. 1
+Poz-98311,365,30,-,AMS,Charcoal_seed_Pennisetum,COD,Bolondo,BLD 16/5-59,Layer,0.805,-0.306,21.253,LIA,-,Bolondo,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
 Poz-116967,700,30,,,Bone,COG,Iroungou,Level 0,Layer,,-2.043,11.199,,,,,,,,,Vilotte et al. 2021: 4 Fig. 3
 Poz-116991,450,30,,,Bone,COG,Iroungou,Level 0,Layer,,-2.043,11.199,,,,,,,,,Vilotte et al. 2021: 4 Fig. 3
 Poz-116992,590,30,,,Bone,COG,Iroungou,Level 0,Layer,,-2.043,11.199,,,,,,,,,Vilotte et al. 2021: 4 Fig. 3
