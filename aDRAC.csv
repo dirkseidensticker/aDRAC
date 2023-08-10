@@ -940,7 +940,7 @@ Hv-10580,2055,70,,,Charcoal,CMR,Obobogo,Sondage A,Layer,0.45,3.817,11.504,-,-,-,
 Hv-10581,6020,505,,,Charcoal,CMR,Obobogo,Sondage A,Layer,0.95,3.817,11.504,,indet,-,-,,-,,,de Maret 1992a: 252; Leka 2013: Annex 4
 Hv-10582,2900,110,,,Charcoal,CMR,Obobogo,I,Pit,1.35,3.817,11.504,,-,Obobogo,-,Eg,,Ia,,de Maret 1992a: 255; Clist 2004/2005: 724 Tab. 8-3; Leka 2013: Annex 4
 Hv-10583,3070,95,,,Charcoal,CMR,Obobogo,II,Pit,0.45,3.817,11.504,,-,Obobogo,-,Eg; Cs,,Ia,,"de Maret 1992a: 255; Eggert 1993; Clist 2004/2005: 724 Tab. 8-3, 735, Tab. 10, Tab. 11; Leka 2013: Annex 4"
-Hv-10586,5565,120,,,-,CMR,Abeke,-,-,,5.925,10.158,,-,-,-,-,,,,de Maret 1982
+Hv-10586,5565,120,,,Charcoal,CMR,Abeke,-,-,,5.925,10.158,,-,-,-,-,,,,de Maret 1982
 Hv-10587,885,55,,,Charcoal,CMR,Shum Laka,"Mddle Horizon of the Gray Ash Layer, sector2",-,0.07,5.859,10.078,,(indet),indet,object,Cs,,Ib,,Lavachery/Cornelissen 2000
 Hv-10588,1690,55,,,Charcoal,CMR,Shum Laka,"Middle Horizon of the Gray Ash Layer, sector2",-,0.17,5.859,10.078,,(indet),indet,object,Cs,,Ib,,de Maret 1992a
 Hv-10832,1990,95,,,-,CMR,Obobogo,II,Pit,1.55,3.817,11.504,,-,Obobogo,-,Eg; Cs,-,Ib,,de Maret 1992a: 255; Eggert 1993; Clist 2004/2005: 735; Leka 2013: Annex 4
@@ -1761,6 +1761,8 @@ Poz-80293,1700,30,,,Charcoal_endocarp_elaeis,COD,Bu 3,T01 B1,Layer,0.15,-5.449,1
 Poz-80294,310,30,,,Charcoal_wood,COD,Ngongo Mbata,T19 A1,Pit,0.9,-5.781,15.117,,-,Kongo B/Group V; Kongo C/Group III,-,,-,Ia,,Clist 2018: 238 Tab. 18.1; Clist et al. 2018: 261
 Poz-80296,205,30,,,Charcoal_wood,COD,Ngongo Mbata,T62 B1,Pit,0.9,-5.781,15.117,,-,indet,-,,-,Ib,,Clist 2018: 238 Tab. 18.1
 Poz-80297,8910,50,,,Charcoal_wood,COD,Ngongo Mbata,T44 A'1,Layer,1.35,-5.781,15.117,,indet,-,-,,-,,,Clist 2018: 238 Tab. 18.1
+Poz-84609,1680,30,,,Charcoal_endocarp_elaeis,COD,Mateba Island,,,,-5.897,12.85,,-,,-,-,,Ic,,Clist et al. 2023: Tab. 1
+Poz-84657,1540,30,,,Charcoal_endocarp_elaeis,COD,Mateba Island,,,,-5.897,12.85,,-,,-,-,,Ic,,Clist et al. 2023: Tab. 1
 Poz-84660,960,30,,,-,COG,Kilodia,KDI-15/1,Furnace,,-4.292,14.361,,-,indet,-,-,,Ib,,Nikis 2018: II 35
 Poz-84661,385,30,,,-,COG,Ntominsié,NTM-15,-,,-4.295,14.335,,-,Moubiri,-,-,,Ia,,Nikis 2018: II 35
 Poz-84662,195,30,,,-,COG,Travers-Blanc,TRB-15,Furnace,,-4.281,14.345,,-,indet,-,-,,Ib,,Nikis 2018: II 35
@@ -1783,6 +1785,9 @@ Pta-238,7840,80,,,-,AGO,Mungo,-,-,,-11.833,16.236,,-,-,-,-,,,,van Noten 1982
 Pta-239,9670,90,,,-,AGO,Mungo,-,-,,-11.833,16.236,,-,-,-,-,,,,van Noten 1982
 Pta-240,10410,90,,,-,AGO,Mungo,-,-,,-11.833,16.236,,-,-,-,-,,,,van Noten 1982
 Pta-9273,1940,35,,,-,CMR,Ndéba (Somié),-,-,,6.283,11.264,,-,-,-,-,,,,de Saulieu et al. 2015; Garcin et al. 2018
+RICH-26741,1525,26,-21.8,,Charcoal_endocarp_elaeis,COD,Muanda 6,-,-,,-5.889,12.298,,-,Muanda,-,-,,,,Clist et al. 2023: Tab. 1
+RICH-26746,1605,26,-19.9,,Charcoal_endocarp_elaeis,COD,Muanda 6,-,-,,-5.889,12.298,,-,Muanda,-,-,,,,Clist et al. 2023: Tab. 1
+RICH-26752,1262,25,-25.9,,Charcoal,COD,Muanda 13,-,-,,-5.969,12.445,,-,Muanda,-,-,,,,Clist et al. 2023: Tab. 1
 SacA-17788,245,30,,,Charcoal,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich et al. 2013: 1387 Tab. 1; Clist 2018: 239 Tab. 18.2
 SacA-17789,225,30,,,Wood,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2014; Clist 2018: 239 Tab. 18.2
 SacA-17790,235,30,,,Wood,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2014; Clist 2018: 239 Tab. 18.2
