@@ -101,6 +101,8 @@ ggplot() +
 library("rcarbon")
 
 a.cal <- a %>% 
+  dplyr::mutate(C14AGE = as.numeric(C14AGE), 
+                C14STD = as.numeric(C14STD)) %>% 
   dplyr::filter(C14AGE > 0 &
                 C14STD > 0) 
 
@@ -210,6 +212,16 @@ The literature used to compile the dataset is to be found within the `SOURCES.md
 | IIIb | based on lacustrine carbonates (potential old-carbon effect) |
 | IIIc | based on sedimentary bulk organic matter (potential old-carbon effect) |
 
+
+```{r Classes, fig.height = 3, fig.width = 6, fig.align = "center", echo=FALSE, message=FALSE}
+table(a$CLASS) %>% 
+  as.data.frame() %>%
+  ggplot(aes(x = Freq, y = Var1)) + 
+  geom_bar(stat = "identity") +
+  scale_x_continuous("Frequency", expand = c(0, 0)) +
+  scale_y_discrete("CLASS", limits = rev) +
+  theme_classic()
+```
 
 ### Coordinates
 

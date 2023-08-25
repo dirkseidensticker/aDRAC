@@ -11,7 +11,7 @@ provides a catalogue of available radiocarbon dates from Central Africa.
 The data cover published radiocarbon dates and essential metadata for
 each date as well as available references.
 
-The data cover 1916 radiocarbon dates from 589 sites:
+The data cover 2122 radiocarbon dates from 652 sites:
 
 <img src="README_files/figure-gfm/map-1.png" width="100%" style="display: block; margin: auto;" />
 
@@ -88,6 +88,8 @@ The literature used to compile the dataset is to be found within the
 | IIIb                    | based on lacustrine carbonates (potential old-carbon effect)           |
 | IIIc                    | based on sedimentary bulk organic matter (potential old-carbon effect) |
 
+<img src="README_files/figure-gfm/Classes-1.png" style="display: block; margin: auto;" />
+
 ### Coordinates
 
 All geo-coordinates included within **aDRAC** are either obtained from
@@ -119,13 +121,13 @@ radiocarbones d’Afrique centrale’, Version 2.0
 
 ## Case Studies using aDRAC
 
--   Seidensticker, D., W. Hubau, D. Verschuren, C. Fortes-Lima, P. de
-    Maret, C.M. Schlebusch & K. Bostoen. 2021. Population Collapse in
-    Congo Rainforest from AD 400 Urges Reassessment of the Bantu
-    Expansion. Science Advances.
+- Seidensticker, D., W. Hubau, D. Verschuren, C. Fortes-Lima, P. de
+  Maret, C.M. Schlebusch & K. Bostoen. 2021. Population Collapse in
+  Congo Rainforest from AD 400 Urges Reassessment of the Bantu
+  Expansion. Science Advances.
 
--   Power, R.C., T. Güldemann, A. Crowther & N. Boivin. 2019. Asian Crop
-    Dispersal in Africa and Late Holocene Human Adaptation to Tropical
-    Environments. Journal of World Prehistory.
-    <http://link.springer.com/10.1007/s10963-019-09136-x>.
-    <https://doi.org/10.1007/s10963-019-09136-x>.
+- Power, R.C., T. Güldemann, A. Crowther & N. Boivin. 2019. Asian Crop
+  Dispersal in Africa and Late Holocene Human Adaptation to Tropical
+  Environments. Journal of World Prehistory.
+  <http://link.springer.com/10.1007/s10963-019-09136-x>.
+  <https://doi.org/10.1007/s10963-019-09136-x>.
