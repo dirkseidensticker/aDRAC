@@ -119,7 +119,7 @@ Dates are available for the past up to 40.000 years, but the bulk of dates fall 
 plot(spd, calendar = 'BCAD')
 ```
 
-Radiocarbon dates are reported since the 1960s and the record has increased steadily since then:
+Radiocarbon dates are reported since the 1960s and the record has increased steadily since then (newly added dates in red):
 
 ```{r Historgram, fig.height = 3, fig.width = 6, fig.align = "center", echo=FALSE, message=FALSE}
 publ <- gsub("([0-9]+).*$", "\\1", a$SOURCE) # initial publication, crop after first set of numbers
@@ -127,19 +127,29 @@ publ <- as.numeric(substr(publ, nchar(publ)-3, nchar(publ))) # get last four cha
 publ <- data.frame(YEAR = publ)
 publ <- publ %>%
   dplyr::group_by(YEAR) %>% 
-  dplyr::summarise(n = length(YEAR)) %>%
+  dplyr::summarise(new = length(YEAR)) %>%
   dplyr::filter(!is.na(YEAR))
   
-ggplot(publ, aes(x = YEAR, y = n)) + 
-  geom_bar(stat = "identity", color = "white") + 
-  geom_smooth(method = "lm") + 
-  scale_x_continuous("", breaks = c(seq(min(publ$YEAR), 
+# set start:
+publ[1,"n"] <- publ[1,"new"]
+for (i in 2:nrow(publ)) {
+  publ[i,"n"] <- publ[i-1,"n"] + publ[i-1,"new"]
+  
+}
+
+publ %>% 
+  reshape2::melt(id = "YEAR") %>%
+  ggplot(aes(x = YEAR, y = value, fill = variable)) + 
+  #geom_bar(stat = "identity")
+  geom_area() + 
+  scale_fill_manual(values = c("#f8766d", "grey")) + 
+  scale_x_continuous("", 
+                     breaks = c(seq(min(publ$YEAR), 
                                         as.integer(format(Sys.Date(), "%Y")), 
-                                        4)),
-                     expand = c(0, 0)) + 
-  scale_y_continuous("", expand = c(0, 0)) + 
-  coord_cartesian(ylim = c(0, 1.1*max(publ$n))) + 
-  theme_classic()
+                                        5))) + 
+  scale_y_continuous("published radiocarbon dates", expand = c(0, 0)) + 
+  theme_classic() + 
+  theme(legend.position = "none")
 ```
 
 The bulk of available dates have been produced before the advent of AMS dating. Be aware, the archive contains also a small quantity of TL dates:
@@ -199,14 +209,13 @@ The literature used to compile the dataset is to be found within the `SOURCES.md
 | CLASS | Archeological association |
 | ----- | ------------------------- |
 | *I: Relevant dates* |             | 
-| Ia | strong archeological context |
-| Ib | moderately strong archeological context |
-| Ic | weak archeological context   |
+| Ia | strong archaeological context |
+| Ib | moderately strong archaeological context |
+| Ic | weak archaeological context   |
 | Id | proxy for human activity but no artefacts |
 | *II: Irrelevant dates* |          |
-| IIa | reference to lithic artefacts only |
-| IIb | compromised archeological link (e.g. post-depositional mixing) |
-| IIc | lacking archeological context |
+| IIa | compromised archaeological link (e.g. post-depositional mixing) |
+| IIb | lacking archaeological context |
 | *III: Unreliable dates* |         |
 | IIIa | presumed lab error         |
 | IIIb | based on lacustrine carbonates (potential old-carbon effect) |

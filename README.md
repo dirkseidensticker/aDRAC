@@ -11,7 +11,7 @@ provides a catalogue of available radiocarbon dates from Central Africa.
 The data cover published radiocarbon dates and essential metadata for
 each date as well as available references.
 
-The data cover 2122 radiocarbon dates from 652 sites:
+The data cover 2121 radiocarbon dates from 652 sites:
 
 <img src="README_files/figure-gfm/map-1.png" width="100%" style="display: block; margin: auto;" />
 
@@ -21,7 +21,7 @@ dates fall into the last three millennia:
 <img src="README_files/figure-gfm/unnamed-chunk-2-1.png" style="display: block; margin: auto;" />
 
 Radiocarbon dates are reported since the 1960s and the record has
-increased steadily since then:
+increased steadily since then (newly added dates in red):
 
 <img src="README_files/figure-gfm/Historgram-1.png" style="display: block; margin: auto;" />
 
@@ -75,14 +75,13 @@ The literature used to compile the dataset is to be found within the
 | CLASS                   | Archeological association                                              |
 |-------------------------|------------------------------------------------------------------------|
 | *I: Relevant dates*     |                                                                        |
-| Ia                      | strong archeological context                                           |
-| Ib                      | moderately strong archeological context                                |
-| Ic                      | weak archeological context                                             |
+| Ia                      | strong archaeological context                                          |
+| Ib                      | moderately strong archaeological context                               |
+| Ic                      | weak archaeological context                                            |
 | Id                      | proxy for human activity but no artefacts                              |
 | *II: Irrelevant dates*  |                                                                        |
-| IIa                     | reference to lithic artefacts only                                     |
-| IIb                     | compromised archeological link (e.g. post-depositional mixing)         |
-| IIc                     | lacking archeological context                                          |
+| IIa                     | compromised archaeological link (e.g. post-depositional mixing)        |
+| IIb                     | lacking archaeological context                                         |
 | *III: Unreliable dates* |                                                                        |
 | IIIa                    | presumed lab error                                                     |
 | IIIb                    | based on lacustrine carbonates (potential old-carbon effect)           |
