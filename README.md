@@ -11,7 +11,7 @@ provides a catalogue of available radiocarbon dates from Central Africa.
 The data cover published radiocarbon dates and essential metadata for
 each date as well as available references.
 
-The data cover 2121 radiocarbon dates from 652 sites:
+The data cover 2131 radiocarbon dates from 653 sites:
 
 <img src="README_files/figure-gfm/map-1.png" width="100%" style="display: block; margin: auto;" />
 
