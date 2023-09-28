@@ -13,6 +13,7 @@ http://radiocarbon.webhost.uits.arizona.edu/sites/default/files/Labs-2021_Jul-20
 | Hv   | Niedersächsisches Landesamt              | Hanover (Germany)              |
 | KIA  | AMS 14C Laboratory                       | Kiel (Germany)                 |
 | Lv   | Laboratoire de Carbone 14                | Louvain la Neuve (Belgium)     |
+| SacA | UMS-ARTEMIS AMS facilities               | Saclay (France)                |
 | SR   | Salisbury (Harare)                       | Rhodesia (now Zimbabwe)        |
 | SUERC | Scottish Universities Environmental Research Centre (SUERC) | University of Glasgow |
 | Ua   | Ángstrom Laboratory                      | University of Upsalla (Sweden) |

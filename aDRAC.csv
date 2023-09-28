@@ -573,8 +573,8 @@ Beta-498049,200,30,,,-,CMR,Lom Pangar,CCA 538,-,,5.38,13.5,,,,,,,Ic,,Clist et al
 Beta-498050,145,30,,,-,CMR,Lom Pangar,CCA 555,-,,5.38,13.5,,,,,,,Ic,,Clist et al. 2023
 Beta-498051,165,30,,,-,CMR,Lom Pangar,CRA 77,-,,5.38,13.5,,,,,,,Ic,,Clist et al. 2023
 Beta-529832,950,30,-33.3,AMS,caryopsis_indet,COD,Iyonda,IYO 17/1-20,Colluvium,0.285,-0.035,18.186,LIA,-,mixed,-,-,-,IIa,,Neumann et al. 2022 Tab. 1
-BM-2425,4180,160,,,-,CMR,Mbi Crater,7C,-,0.2,6.083,10.344,,-,-,-,-,,Ib,,Asombang 1998: 210
-BM-2426,2770,120,,,-,CMR,Mbi Crater,7C,-,0.5,6.083,10.344,,-,-,-,-,,Ib,,Asombang 1998: 210
+BM-2425,4180,160,,,-,CMR,Mbi Crater,7C,-,0.2,6.089,10.349,,-,-,-,-,,Ib,,Asombang 1998: 210
+BM-2426,2770,120,,,-,CMR,Mbi Crater,7C,-,0.5,6.089,10.349,,-,-,-,-,,Ib,,Asombang 1998: 210
 BM-2495,40,40,,,Charcoal,CMR,Shum Laka,"Upper Horizon of the Gray Ash Layer, sector1",-,0.05,5.859,10.078,,(indet),indet,-,Cs; Eg,,Ia,,Lavachery/Cornelissen 2000
 BM-2496,6360,100,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer:,-,0.6,5.859,10.078,,shum laka upper lithics horizon,-,-,Cs,,Ia,,Asombang 1988
 Bon-599,1640,520,,,Sediment_wet,GAB,Bras mort Ogooue,-,Layer,5,0.667,12.833,-,-,-,-,-,,IIIc,"interpretation Clist: Environnement",Clist 2004/2005: Annex 2
@@ -1419,8 +1419,8 @@ Lv-1533,860,50,,,-,COG,Moubiri,-,Furnace,-,-3.873,13.75,,-,indet,slag,-,,Ib,,Pin
 Lv-1534,280,60,,,-,COG,Moubiri,-,Furnace,-,-3.873,13.75,,-,-,"slag, copper",,-,Ib,copper metallurgy,Pincon 1991a: 249 Tab. 1
 Lv-1535,3840,75,,,Shell_Anadara,AGO,Cachama I,,,0.625,-12.62,13.18,,indet,,,,-,Ib,,Pais Pinto 1988: 10
 Lv-1536,2680,60,,,Shell_Anadara,AGO,Cachama I,,,0.625,-12.62,13.18,,indet,,,,-,Ib,,Pais Pinto 1988: 10
-Lv-1601d,18180,820,,,-,CMR,Mbi Crater,7C,-,-1.0,6.083,10.344,,-,-,-,-,,Ib,,Asombang 1998: 210
-Lv-1602d,18730,690,,,-,CMR,Mbi Crater,7C,-,-1.1,6.083,10.344,,-,-,-,-,,Ib,,Asombang 1998: 210
+Lv-1601d,18180,820,,,-,CMR,Mbi Crater,7C,-,-1.0,6.089,10.349,,-,-,-,-,,Ib,,Asombang 1998: 210
+Lv-1602d,18730,690,,,-,CMR,Mbi Crater,7C,-,-1.1,6.089,10.349,,-,-,-,-,,Ib,,Asombang 1998: 210
 Lv-1603,8480,140,,,Charcoal,CMR,Shum Laka,Lower Horizon of the Ochre Ash Layer,-,0.6,5.859,10.078,,shum laka lower lithics horizon,-,-,,-,Ia,,Lavachery 2001; Garcin et al. 2018
 Lv-1605,2320,70,,,-,CMR,Okolo,17,Pit,2.1,3.933,11.517,,indet,Obobogo,slag,Eg; Cs,,Ia,,"Atangana 1988: 67 Tab. 5, 260, 262; Atangana 1992; Asombang 1998; Clist 2004/2005: 724 Tab. 8-3, Tab. 10, Tab. 11; Leka 2013: Annex 4; Garcin et al. 2018"
 Lv-1697,2290,50,,,Charcoal_endocarp_elaeis,COD,Sakuzi,-,Pit,-,-5.167,14.008,-,-,indet,-,Eg,,Ib,Clist does not accept this date; polished axe on surface,"Gosselain 1988; de Maret 1990: 450 Tab. 1; Clist 2018: 239 Tab. 18.2, Tab. 18.3, Tab. 10; Garcin et al. 2018"
@@ -1531,6 +1531,14 @@ MC-2377,6430,130,,,Shell_Schizoculina fissipara,GAB,Port a Bois,-,Layer,7.5,0.28
 MC-2517,500,80,,,Charcoal,RWA,Mucucu,I,-,,-1.533,30.567,,-,-,-,-,,Ic,,de Maret 1985a
 MC-2518,1951,80,,,Charcoal,RWA,Mucucu,I,-,,-1.533,30.567,,-,-,-,-,,Ic,,de Maret 1985a
 MC-2519,2350,80,,,Charcoal,RWA,Mucucu,I,-,,-1.533,30.567,,-,-,-,-,,Ic,,de Maret 1985a
+OBDY-58,24080,3500,,,,CMR,Lake Barombi Mbo,BM-6,Pollencore,21.05,4.661,9.402,,,,,,,IIb,,Lebamba et al. 2012: 62 Tab. 1
+OBDY-59,20420,1500,,,,CMR,Lake Barombi Mbo,BM-6,Pollencore,18.75,4.661,9.402,,,,,,,IIb,,Lebamba et al. 2012: 62 Tab. 1
+OBDY-61,13120,965,,,,CMR,Lake Barombi Mbo,BM-6,Pollencore,13.45,4.661,9.402,,,,,,,IIb,,Lebamba et al. 2012: 62 Tab. 1
+OBDY-96,3690,315,,,,CMR,Lake Barombi Mbo,BM-6,Pollencore,3.55,4.661,9.402,,,,,,,IIb,,Lebamba et al. 2012: 62 Tab. 1
+OBDY-138,8690,475,,,,CMR,Lake Barombi Mbo,BM-6,Pollencore,9.9,4.661,9.402,,,,,,,IIb,,Lebamba et al. 2012: 62 Tab. 1
+OBDY-146,2200,285,,,,CMR,Lake Barombi Mbo,BM-6,Pollencore,2.05,4.661,9.402,,,,,,,IIb,,Lebamba et al. 2012: 62 Tab. 1
+OBDY-263,6520,645,,,,CMR,Lake Barombi Mbo,BM-6,Pollencore,6.75,4.661,9.402,,,,,,,IIb,,Lebamba et al. 2012: 62 Tab. 1
+OBDY-266,17080,885,,,,CMR,Lake Barombi Mbo,BM-6,Pollencore,16.65,4.661,9.402,,,,,,,IIb,,Lebamba et al. 2012: 62 Tab. 1
 OBDY-314,700,80,,,-,CAF,Nana-Modé,2,-,,6.317,15.1,,-,-,-,-,,Ic,,Zangato 1991: 229; Zangato 2000: 25 Tab. 8
 OBDY-315,2490,230,,,-,CAF,B-Kpogbèrè site 57,T3 C5,-,,6.1,15.3,,-,-,-,-,,Ic,,Zangato 1991; Zangato 2000: 25 Tab. 8
 OBDY-347,1210,110,,,-,CAF,Bézongo site 50,,-,,6.1,15.3,,-,-,indet,-,,Ic,,Zangato 2000: 27 Tab. 10
@@ -1546,7 +1554,11 @@ OBDY-594,400,160,,,-,CAF,Dokoko site 22,,,,6.1,15.3,,,,,,,Ic,,Zangato 1991: 197;
 OBDY-597,3010,220,,,-,CAF,Dokoko site 22,C5,,,6.1,15.3,,,,,,,Ic,,Zangato 1991: 197; Zangato 2000: 25 Tab. 8
 OBDY-598,570,130,,,-,CAF,Bouboun site 58,C1,-,,6.133,15.333,,-,-,-,-,,Ic,,Zangato 1991; Zangato 2000: 25 Tab. 8
 OBDY-601,1760,180,,,-,CAF,Mbili 2 site 64,,-,,6.1,15.3,,-,-,indet,-,,Ic,,Zangato 2000: 27 Tab. 10
+OBDY-660,770,100,,,,CMR,Lake Barombi Mbo,BM-6,Pollencore,0.25,4.661,9.402,,,,,,,IIb,,Lebamba et al. 2012: 62 Tab. 1
 OBDY-662,300,40,,,charcoal_wood,COG,Ganda-Kimpese,,-,,-4.411,12.384,,-,indet,indet,-,,Ib,,Schwartz et al. 1991: 
+OBDY-751,9900,2500,,,,CMR,Lake Barombi Mbo,BM-6,Pollencore,10.8,4.661,9.402,,,,,,,IIb,,Lebamba et al. 2012: 62 Tab. 1
+OBDY-757,13480,240,,,,CMR,Lake Barombi Mbo,BM-6,Pollencore,13.75,4.661,9.402,,,,,,,IIb,,Lebamba et al. 2012: 62 Tab. 1
+OBDY-811,15470,100,,,,CMR,Lake Barombi Mbo,BM-6,Pollencore,15.1,4.661,9.402,,,,,,,IIb,,Lebamba et al. 2012: 62 Tab. 1
 OBDY-1105,1870,40,,,charcoal,CAF,Kpogbèrè 1 site 31,,-,,6.1,15.3,,-,-,-,,,Ic,,Zangato 2000: 27 Tab. 9
 OBDY-1107,280,60,,,Charcoal,CMR,Lac Ossa,A8,Layer,0.2,3.784,10.015,,-,indet,-,,-,Ib,,Wirrmann/Elouga 1998: 18 Tab. 1-2
 OBDY-1111,3530,100,,,-,CAF,Balimbe site 68,C5,-,,6.133,15.333,,-,-,-,Eg; Cs,,Ic,,Zangato 1999; Zangato 2000: 25 Tab. 8; Clist 2004/2005: 743; Zangato/Holl 2010
@@ -1609,7 +1621,7 @@ Os-22250,2750,40,,,,GNQ,Mosumu,,,,1.727,10.078,,,,,,,Ib,,Martí 2003; Clist et a
 Os-22251,1010,60,,,Charcoal,COD,Makubasi NW,,Layer,,1.76,28.83,,,,,,,Ib,,Mercader 2003: 101 Tab. 3-1
 Os-22477,2900,50,,,,GNQ,Mosumu,,,,1.727,10.078,,,,,,,Ib,,Martí 2003; Clist et al. 2023
 OxA-930,7790,80,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka upper lithics horizon,-,-,Cs,,Ia,,de Maret 1992a; Garcin et al. 2018
-OxA-1139,9050,100,,,-,CMR,Mbi Crater,7C,-,0.9,6.083,10.344,LSA,indet,-,-,-,,Ib,,"Asombang 1992; Asombang 1998: 210; Mercader/Martí 2003: 82 Tab. 2.3"
+OxA-1139,9050,100,,,-,CMR,Mbi Crater,7C,-,0.9,6.089,10.349,LSA,indet,-,-,-,,Ib,,"Asombang 1992; Asombang 1998: 210; Mercader/Martí 2003: 82 Tab. 2.3"
 OxA-1362,7040,80,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer:,-,,5.859,10.078,,shum laka upper lithics horizon,-,-,Cs,,Ia,,Lavachery 2001; Garcin et al. 2018
 OxA-4538,3810,60,,,Charcoal,CMR,Shum Laka,"Lower Horizon of the Gray Ash Layer, sector1",Pit,0.4,5.859,10.078,,indet,indet,,-Cs,,Ia,,Lavachery/Cornelissen 2000
 OxA-4539,6870,80,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer,,,5.859,10.078,,shum laka upper lithics horizon,-,-,Cs,,Ia,,Lavachery 2001; Garcin et al. 2018
@@ -1969,40 +1981,57 @@ Pta-9273,1940,35,,,-,CMR,Ndéba (Somié),-,-,,6.283,11.264,,-,-,-,-,,Ic,,de Saul
 RICH-26741,1525,26,-21.8,,Charcoal_endocarp_elaeis,COD,Muanda 6,-,-,,-5.889,12.298,,-,Muanda,-,-,,Ia,,Clist et al. 2023: Tab. 1
 RICH-26746,1605,26,-19.9,,Charcoal_endocarp_elaeis,COD,Muanda 6,-,-,,-5.889,12.298,,-,Muanda,-,-,,Ia,,Clist et al. 2023: Tab. 1
 RICH-26752,1262,25,-25.9,,Charcoal,COD,Muanda 13,-,-,,-5.969,12.445,,-,Muanda,-,-,,Ia,,Clist et al. 2023: Tab. 1
-SacA-17788,245,30,,,Charcoal,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich et al. 2013: 1387 Tab. 1; Clist 2018: 239 Tab. 18.2
-SacA-17789,225,30,,,Wood,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2014; Clist 2018: 239 Tab. 18.2
-SacA-17790,235,30,,,Wood,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2014; Clist 2018: 239 Tab. 18.2
-SacA-18832,350,30,,,Charcoal,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich et al. 2013: 1387 Tab. 1; Clist 2018: 239 Tab. 18.2
-SacA-21461,280,30,,,Charcoal_rockart,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
-SacA-21462,355,30,,,Charcoal_rockart,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
-SacA-21463,325,30,,,Charcoal_rockart,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
-SacA-22300,270,30,,,Charcoal_rockart,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
-SacA-22301,255,30,,,Charcoal_rockart,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
-SacA-22302,250,30,,,Charcoal_rockart,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
-SacA-22303,365,30,,,Charcoal_rockart,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
-SacA-29124,450,30,,,Pottery,COD,Tovo 2,-,-,,-5.758,14.47,,-,indet,-,-,,Ib,"Heimlich 2016, mentioned in the text",Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
-SacA-29125,1335,45,,,Charcoal_rockart,COD,Tovo,-,Rockart,,-5.758,14.47,,-,(indet),-,-,,Ic,,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
-SacA-29137,540,90,,,Charcoal_rockart,COD,Nkamba,-,Rockart,,-5.749,14.444,,-,indet,-,-,,Ib,,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
-SacA-31426,1880,70,,,Charcoal_endocarp_elaeis,CMR,Akom,F1,Pit,-,2.402,12.422,,-,Akonetye North,object,-,,Ia,,"de Saulieu et al. 2015: 405 Tab. 1, 413 Fig. 6; Garcin et al. 2018"
-SacA-31427,1950,30,,,Charcoal_endocarp_elaeis,CMR,Akom,F2,Pit,-,2.402,12.422,,-,Akonetye South,object,-,,Ia,,de Saulieu et al. 2015: 406 Tab. 1: 410 Fig. 5; Garcin et al. 2018
-SacA-31428,210,30,,,Charcoal,CMR,Avebe,F1,Pit,-,2.413,12.544,,-,indet,-,-,,Ib,,de Saulieu et al. 2015: 406 Tab. 1; Garcin et al. 2018
-SacA-32566,1925,30,,,-,CMR,Akom,F3,Pit,-,2.402,12.422,,-,Akonetye South,-,-,,Ia,,de Saulieu et al. 2015: 406 Tab. 1: 410 Fig. 5; Garcin et al. 2018
-SacA-32567,2335,30,,,Charcoal_endocarp_elaeis,CMR,Efoulan 1,F1,Pit,-,2.386,12.462,,-,indet,-,-,,Ib,,"de Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018"
-SacA-32568,1840,30,,,Charcoal_endocarp_elaeis,CMR,Efoulan 1,F2,Pit,-,2.386,12.462,,-,Akonetye South,object,-,,Ia,,de Saulieu et al. 2015: 406 Tab. 1: 410 Fig. 5; Garcin et al. 2018
-SacA-32569,1985,30,,,-,CMR,Elleng,-,Pit,-,2.394,12.433,,-,indet,-,-,,Ib,,"de Saulieu et al. 2015: 405 Tab. 1, 413 Fig. 6; Garcin et al. 2018"
-SacA-32570,1800,30,,,Charcoal_endocarp_elaeis,CMR,Otto Mbong,F1,Pit,-,2.403,12.505,,-,Akonetye South,-,-,,Ia,,de Saulieu et al. 2015: 406 Tab. 1: 410 Fig. 5; Garcin et al. 2018
-SacA-32572,1865,30,,,Charcoal_endocarp_elaeis,CMR,GPS051,F1,Pit,-,2.496,12.032,,-,indet,slag,-,,Ib,,"de Saulieu et al. 2015: 405 Tab. 1, 411, 412; Garcin et al. 2018"
-SacA-36073,1990,30,,,Charcoal_endocarp_elaeis,CMR,GPS051,F21,Pit,-,2.496,12.032,,-,indet,slag,-,,Ib,,"de Saulieu et al. 2015: 405 Tab. 1, 411, 412; Garcin et al. 2018"
-SacA-36074,2255,30,,,Charcoal_endocarp_elaeis,CMR,Nya Zanga,F3,Pit,-,2.501,12.025,,-,indet,-,-,,Ib,,"de Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018"
-SacA-36075,2295,30,,,Charcoal_endocarp_elaeis,CMR,Nya Zanga,F5,Pit,-,2.501,12.025,,-,indet,-,-,,Ib,,"de Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018"
-SacA-36076,2240,35,,,Charcoal_endocarp_elaeis,CMR,Nya Zanga,F10,Pit,-,2.501,12.025,,-,indet,-,-,,Ib,,"de Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018"
-SacA-36077,2265,30,,,Charcoal_endocarp_elaeis,CMR,Nya Zanga,F14,Pit,-,2.501,12.025,,-,indet,object,-,,Ib,,"de Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018"
-SacA-36078,2280,30,,,Charcoal_endocarp_elaeis,CMR,Nya Zanga,F15,Pit,-,2.501,12.025,,-,indet,-,-,,Ib,,"de Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018"
-SacA-36079,2165,30,,,Charcoal_endocarp_elaeis,CMR,Nya Zanga,F18,Pit,-,2.501,12.025,,-,indet,object; slag,-,,Ib,,"de Saulieu et al. 2015: 405 Tab. 1; Garcin et al. 2018"
-SacA-36080,2255,30,,,Charcoal_endocarp_elaeis,CMR,Nya Zanga,F21,Pit,-,2.501,12.025,,-,indet,-,-,,Ib,,"de Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018"
-SacA-36081,2245,30,,,Charcoal_endocarp_elaeis,CMR,Nya Zanga,F23,Pit,-,2.501,12.025,,-,indet,-,-,,Ib,,"de Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018"
-SacA-36082,2290,30,,,Charcoal_endocarp_elaeis,CMR,Nya Zanga,F27,Pit,-,2.501,12.025,,-,indet,-,-,,Ib,,"e Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018"
-SacA-36083,1745,30,,,Charcoal,CMR,Oloundou,-,Furnace,-,2.484,12.085,,-,-,slag,-,,Ib,Four de réduction,"de Saulieu et al. 2015: 405 Tab. 1, 412; Garcin et al. 2018"
+SacA-10886,5125,30,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,2.995,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
+SacA-10887,8015,30,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,3.995,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
+SacA-10888,8915,45,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,4.495,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
+SacA-10889,9485,40,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,4.995,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
+SacA-10890,9895,40,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,5.495,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
+SacA-10891,11800,45,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,6.495,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
+SacA-10892,12605,45,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,6.995,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
+SacA-10893,13080,50,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,7.495,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
+SacA-10911,10200,40,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,5.995,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
+SacA-17788,245,30,,AMS,Charcoal,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich et al. 2013: 1387 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-17789,225,30,,AMS,Wood,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2014; Clist 2018: 239 Tab. 18.2
+SacA-17790,235,30,,AMS,Wood,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2014; Clist 2018: 239 Tab. 18.2
+SacA-18832,350,30,,AMS,Charcoal,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich et al. 2013: 1387 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-21461,280,30,,AMS,Charcoal_rockart,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-21462,355,30,,AMS,Charcoal_rockart,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-21463,325,30,,AMS,Charcoal_rockart,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-22300,270,30,,AMS,Charcoal_rockart,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-22301,255,30,,AMS,Charcoal_rockart,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-22302,250,30,,AMS,Charcoal_rockart,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-22303,365,30,,AMS,Charcoal_rockart,COD,Tovo,-,Rockart,,-5.758,14.47,,-,indet,-,-,,Ib,,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-29124,450,30,,AMS,Pottery,COD,Tovo 2,-,-,,-5.758,14.47,,-,indet,-,-,,Ib,"Heimlich 2016, mentioned in the text",Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-29125,1335,45,,AMS,Charcoal_rockart,COD,Tovo,-,Rockart,,-5.758,14.47,,-,(indet),-,-,,Ic,,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-29137,540,90,,AMS,Charcoal_rockart,COD,Nkamba,-,Rockart,,-5.749,14.444,,-,indet,-,-,,Ib,,Heimlich 2016: 1276 Tab. 1; Clist 2018: 239 Tab. 18.2
+SacA-31426,1880,70,,AMS,Charcoal_endocarp_elaeis,CMR,Akom,F1,Pit,-,2.402,12.422,,-,Akonetye North,object,-,,Ia,,"de Saulieu et al. 2015: 405 Tab. 1, 413 Fig. 6; Garcin et al. 2018"
+SacA-31427,1950,30,,AMS,Charcoal_endocarp_elaeis,CMR,Akom,F2,Pit,-,2.402,12.422,,-,Akonetye South,object,-,,Ia,,de Saulieu et al. 2015: 406 Tab. 1: 410 Fig. 5; Garcin et al. 2018
+SacA-31428,210,30,,AMS,Charcoal,CMR,Avebe,F1,Pit,-,2.413,12.544,,-,indet,-,-,,Ib,,de Saulieu et al. 2015: 406 Tab. 1; Garcin et al. 2018
+SacA-32552,1795,30,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,1.495,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
+SacA-32553,5180,40,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,2.495,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
+SacA-32566,1925,30,,AMS,-,CMR,Akom,F3,Pit,-,2.402,12.422,,-,Akonetye South,-,-,,Ia,,de Saulieu et al. 2015: 406 Tab. 1: 410 Fig. 5; Garcin et al. 2018
+SacA-32567,2335,30,,AMS,Charcoal_endocarp_elaeis,CMR,Efoulan 1,F1,Pit,-,2.386,12.462,,-,indet,-,-,,Ib,,"de Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018"
+SacA-32568,1840,30,,AMS,Charcoal_endocarp_elaeis,CMR,Efoulan 1,F2,Pit,-,2.386,12.462,,-,Akonetye South,object,-,,Ia,,de Saulieu et al. 2015: 406 Tab. 1: 410 Fig. 5; Garcin et al. 2018
+SacA-32569,1985,30,,AMS,-,CMR,Elleng,-,Pit,-,2.394,12.433,,-,indet,-,-,,Ib,,"de Saulieu et al. 2015: 405 Tab. 1, 413 Fig. 6; Garcin et al. 2018"
+SacA-32570,1800,30,,AMS,Charcoal_endocarp_elaeis,CMR,Otto Mbong,F1,Pit,-,2.403,12.505,,-,Akonetye South,-,-,,Ia,,de Saulieu et al. 2015: 406 Tab. 1: 410 Fig. 5; Garcin et al. 2018
+SacA-32572,1865,30,,AMS,Charcoal_endocarp_elaeis,CMR,GPS051,F1,Pit,-,2.496,12.032,,-,indet,slag,-,,Ib,,"de Saulieu et al. 2015: 405 Tab. 1, 411, 412; Garcin et al. 2018"
+SacA-36073,1990,30,,AMS,Charcoal_endocarp_elaeis,CMR,GPS051,F21,Pit,-,2.496,12.032,,-,indet,slag,-,,Ib,,"de Saulieu et al. 2015: 405 Tab. 1, 411, 412; Garcin et al. 2018"
+SacA-36074,2255,30,,AMS,Charcoal_endocarp_elaeis,CMR,Nya Zanga,F3,Pit,-,2.501,12.025,,-,indet,-,-,,Ib,,"de Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018"
+SacA-36075,2295,30,,AMS,Charcoal_endocarp_elaeis,CMR,Nya Zanga,F5,Pit,-,2.501,12.025,,-,indet,-,-,,Ib,,"de Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018"
+SacA-36076,2240,35,,AMS,Charcoal_endocarp_elaeis,CMR,Nya Zanga,F10,Pit,-,2.501,12.025,,-,indet,-,-,,Ib,,"de Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018"
+SacA-36077,2265,30,,AMS,Charcoal_endocarp_elaeis,CMR,Nya Zanga,F14,Pit,-,2.501,12.025,,-,indet,object,-,,Ib,,"de Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018"
+SacA-36078,2280,30,,AMS,Charcoal_endocarp_elaeis,CMR,Nya Zanga,F15,Pit,-,2.501,12.025,,-,indet,-,-,,Ib,,"de Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018"
+SacA-36079,2165,30,,AMS,Charcoal_endocarp_elaeis,CMR,Nya Zanga,F18,Pit,-,2.501,12.025,,-,indet,object; slag,-,,Ib,,"de Saulieu et al. 2015: 405 Tab. 1; Garcin et al. 2018"
+SacA-36080,2255,30,,AMS,Charcoal_endocarp_elaeis,CMR,Nya Zanga,F21,Pit,-,2.501,12.025,,-,indet,-,-,,Ib,,"de Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018"
+SacA-36081,2245,30,,AMS,Charcoal_endocarp_elaeis,CMR,Nya Zanga,F23,Pit,-,2.501,12.025,,-,indet,-,-,,Ib,,"de Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018"
+SacA-36082,2290,30,,AMS,Charcoal_endocarp_elaeis,CMR,Nya Zanga,F27,Pit,-,2.501,12.025,,-,indet,-,-,,Ib,,"e Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018"
+SacA-36083,1745,30,,AMS,Charcoal,CMR,Oloundou,-,Furnace,-,2.484,12.085,,-,-,slag,-,,Ib,Four de réduction,"de Saulieu et al. 2015: 405 Tab. 1, 412; Garcin et al. 2018"
+SacA-41169,780,30,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,0.785,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
+SacA-41170,2580,30,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,1.605,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
+SacA-41171,4290,30,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,2.105,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
+SacA-41172,4690,30,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,2.522,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
+SacA-41173,6550,40,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,3.025,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
+SacA-41174,7375,40,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,3.485,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
 SacA-60740,2470,30,-23.1,AMS,food crust,CMR,Nachtigal,NAC C 19 F1,Pit,1.35,4.35,11.633,-,-,indet,-,-,,Ib,,"Cagnato et al. 2022: Tab. 1"
 SacA-60741,2475,30,-24.2,AMS,food crust,CMR,Nachtigal,NAC C 19 F2,Pit,1.35,4.35,11.633,-,-,indet,-,-,,Ib,,"Cagnato et al. 2022: Tab. 1"
 SacA-60742,2535,30,-24.8,AMS,food crust,CMR,Nachtigal,NAC C 19 F3,Pit,1.35,4.35,11.633,-,-,indet,-,-,,Ib,,"Cagnato et al. 2022: Tab. 1"
