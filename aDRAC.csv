@@ -576,7 +576,7 @@ Beta-529832,950,30,-33.3,AMS,caryopsis_indet,COD,Iyonda,IYO 17/1-20,Colluvium,0.
 BM-2425,4180,160,,,-,CMR,Mbi Crater,7C,-,0.2,6.089,10.349,,-,-,-,-,,Ib,,Asombang 1998: 210
 BM-2426,2770,120,,,-,CMR,Mbi Crater,7C,-,0.5,6.089,10.349,,-,-,-,-,,Ib,,Asombang 1998: 210
 BM-2495,40,40,,,Charcoal,CMR,Shum Laka,"Upper Horizon of the Gray Ash Layer, sector1",-,0.05,5.859,10.078,,(indet),indet,-,Cs; Eg,,Ia,,Lavachery/Cornelissen 2000
-BM-2496,6360,100,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer:,-,0.6,5.859,10.078,,shum laka upper lithics horizon,-,-,Cs,,Ia,,Asombang 1988
+BM-2496,6360,100,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer,-,0.6,5.859,10.078,,shum laka upper lithics horizon,-,-,Cs,,Ia,,Asombang 1988
 Bon-599,1640,520,,,Sediment_wet,GAB,Bras mort Ogooue,-,Layer,5,0.667,12.833,-,-,-,-,-,,IIIc,"interpretation Clist: Environnement",Clist 2004/2005: Annex 2
 C-580,11188,490,,,-,AGO,Mufo,-,-,,-7.517,21.417,,Tshitolian/Lupemban,-,-,-,,Ib,,Cahen/Moeyersons 1977: 813 Tab. 1; de Maret et al. 1977: 491; Cahen et al. 1983: 447 Tab. 2
 C-581,14483,560,,,-,AGO,Mufo,-,-,,-7.517,21.417,,Upper Lupemban,-,-,-,,Ib,,Cahen/Moeyersons 1977: 813 Tab. 1; de Maret et al. 1977: 491; Cahen et al. 1983: 447 Tab. 2
@@ -1621,7 +1621,7 @@ Os-22251,1010,60,,,Charcoal,COD,Makubasi NW,,Layer,,1.76,28.83,,,,,,,Ib,,Mercade
 Os-22477,2900,50,,,,GNQ,Mosumu,,,,1.727,10.078,,,,,,,Ib,,Martí 2003; Clist et al. 2023
 OxA-930,7790,80,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka upper lithics horizon,-,-,Cs,,Ia,,de Maret 1992a; Garcin et al. 2018
 OxA-1139,9050,100,,,-,CMR,Mbi Crater,7C,-,0.9,6.089,10.349,LSA,indet,-,-,-,,Ib,,"Asombang 1992; Asombang 1998: 210; Mercader/Martí 2003: 82 Tab. 2.3"
-OxA-1362,7040,80,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer:,-,,5.859,10.078,,shum laka upper lithics horizon,-,-,Cs,,Ia,,Lavachery 2001; Garcin et al. 2018
+OxA-1362,7040,80,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka upper lithics horizon,-,-,Cs,,Ia,,Lavachery 2001; Garcin et al. 2018
 OxA-4538,3810,60,,,Charcoal,CMR,Shum Laka,"Lower Horizon of the Gray Ash Layer, sector1",Pit,0.4,5.859,10.078,,indet,indet,,-Cs,,Ia,,Lavachery/Cornelissen 2000
 OxA-4539,6870,80,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer,,,5.859,10.078,,shum laka upper lithics horizon,-,-,Cs,,Ia,,Lavachery 2001; Garcin et al. 2018
 OxA-4944,30300,1600,,,Charcoal,CMR,Shum Laka,B12/T-deposit,-,3.45,5.859,10.078,,(indet),,,,,Ia,,Cornelissen 2003: 6 Fig. 4
@@ -2145,7 +2145,7 @@ UTC-13255,1784,42,,,Charcoal_endocarp_elaeis,GAB,Mimongo,3_u,Pit,-,-0.917,10.454
 UTC-13256,1738,48,,,Charcoal_endocarp_elaeis,GAB,Mimongo,3_b,Pit,-,-0.917,10.454,,-,indet,-,-,,Ib,,Livingstone-Smith et al. 2007
 UTC-13257,7247,44,,,Charcoal_wood,GAB,Tsona,,,0.55,-2.471,11.314,,indet,,,,,Ic,,Livingstone-Smith et al. 2007: 27
 UTC-13258,1672,44,,,Charcoal_wood,GAB,Moulandou-Fouala,MLF.03,,,-1.98,11.062,,indet,,,,,Ic,,Livingstone-Smith et al. 2007: 27
-UTC-8026,7140,50,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer:,-,,5.859,10.078,,shum laka upper lithics horizon,(indet),-,Cs,,Ia,,Lavachery 2001; Garcin et al. 2018
+UTC-8026,7140,50,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka upper lithics horizon,(indet),-,Cs,,Ia,date for "Stone to Metal Age 1" pottery,Lavachery 2001: 225; Garcin et al. 2018
 UTC-8027,8550,60,,,Charcoal,CMR,Shum Laka,Lower Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka lower lithics horizon,-,-,-,,Ia,,Lavachery 2001; Garcin et al. 2018
 UTC-8028,8560,60,,,Charcoal,CMR,Shum Laka,Lower Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka lower lithics horizon,-,-,-,,Ia,,Lavachery 2001; Garcin et al. 2018
 UTC-8029,8920,90,,,Charcoal,CMR,Shum Laka,Lower Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka lower lithics horizon,-,-,-,,Ia,,Lavachery 2001; Garcin et al. 2018
