@@ -2034,9 +2034,9 @@ SacA-41171,4290,30,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,2.105,6.089,10.349,
 SacA-41172,4690,30,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,2.522,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
 SacA-41173,6550,40,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,3.025,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
 SacA-41174,7375,40,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,3.485,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
-SacA-60740,2470,30,-23.1,AMS,food crust,CMR,Nachtigal,NAC C 19 F1,Pit,1.35,4.35,11.633,-,-,indet,-,-,,Ib,,"Cagnato et al. 2022: Tab. 1"
-SacA-60741,2475,30,-24.2,AMS,food crust,CMR,Nachtigal,NAC C 19 F2,Pit,1.35,4.35,11.633,-,-,indet,-,-,,Ib,,"Cagnato et al. 2022: Tab. 1"
-SacA-60742,2535,30,-24.8,AMS,food crust,CMR,Nachtigal,NAC C 19 F3,Pit,1.35,4.35,11.633,-,-,indet,-,-,,Ib,,"Cagnato et al. 2022: Tab. 1"
+SacA-60740,2470,30,-23.1,AMS,Charcoal_endocarp_canarium,CMR,Nachtigal,NAC C 19 F1,Pit,1.35,4.35,11.633,-,-,indet,-,-,,Ib,,"Cagnato et al. 2022: Tab. 1"
+SacA-60741,2475,30,-24.2,AMS,Charcoal_endocarp_canarium,CMR,Nachtigal,NAC C 19 F2,Pit,1.35,4.35,11.633,-,-,indet,-,-,,Ib,,"Cagnato et al. 2022: Tab. 1"
+SacA-60742,2535,30,-24.8,AMS,Charcoal_endocarp_canarium,CMR,Nachtigal,NAC C 19 F3,Pit,1.35,4.35,11.633,-,-,indet,-,-,,Ib,,"Cagnato et al. 2022: Tab. 1"
 SacA-64848,2305,30,-29.2,AMS,Charcoal,CMR,Nachtigal,NAC B 85 (profile 2),Pit,0.47,4.35,11.633,-,-,indet,-,-,,Ib,,"Cagnato et al. 2022: Tab. 1"
 SacA-64849,2265,30,-26,AMS,Charcoal,CMR,Nachtigal,NAC B 85 (profile 1),Pit,0.4,4.35,11.633,-,-,indet,-,-,,Ib,,"Cagnato et al. 2022: Tab. 1"
 SacA-64850,145,30,-24.9,AMS,Charcoal,CMR,Nachtigal,NAC B 82 (inside ceramic vessel),Pit,0.6,4.35,11.633,-,-,indet,-,-,,Ib,,"Cagnato et al. 2022: Tab. 1"
