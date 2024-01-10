@@ -81,6 +81,14 @@ Bdy-597,3010,220,,,,CAF,Tazunu Dokoko,,,,6.1,15.3,,,,,,,Ib,,Gotilogué 2000: 265
 Bdy-598,570,130,,,,CAF,Bouboun site 58,,,,6.1,15.3,,,,,,,Ib,,Gotilogué 2000: 265
 Bdy-601,1760,180,,,,CAF,Mbili 2 site 64,,,,6.1,15.3,,,,,,,Ib,,Gotilogué 2000: 265
 Bdy-641,1740,180,,,,CAF,Mbili 2,,,,6.1,15.3,,,,,,,Ib,,Gotilogué 2000: 265
+
+
+
+Bdy-1106,1230,70,,,,COG,Sinnda,SN 2,,0.77,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1994: 1523; 1525 Fig. 2; Vincens et al. 1998: 41 Tab. 1; Bertaux et al. 2000: 45 Tab. 2
+Bdy-1108,650,80,,,,COG,Sinnda,SN 2,,0.18,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1994: 1523; 1525 Fig. 2; Vincens et al. 1998: 41 Tab. 1; Bertaux et al. 2000: 45 Tab. 2
+Bdy-1347,90,50,,,,COG,Sinnda,SN 3,,0.225,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1998: 41 Tab. 1
+Bdy-1348,400,40,,,,COG,Sinnda,SN 3,,0.625,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1998: 41 Tab. 1
+Bdy-1352,1760,50,,,,COG,Sinnda,SN 3,,0.69,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1998: 41 Tab. 1
 Beta-9076,1600,50,,,Charcoal_wood,GAB,Massango,-,Pit,-,-1.632,13.142,,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
 Beta-9077,1680,100,,,Charcoal_wood,GAB,Mboma,-,Surface,-,-1.708,13.347,,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
 Beta-9078,400,50,,,Charcoal_wood,GAB,Lebombi,A2,Pit,-,-1.5,13.373,,-,indet,-,-,,Ib,"interpretation Clist: Archéologie, Age du Fer Récent",Clist 2004/2005: Annex 2
@@ -573,6 +581,11 @@ Beta-498049,200,30,,,-,CMR,Lom Pangar,CCA 538,-,,5.38,13.5,,,,,,,Ic,,Clist et al
 Beta-498050,145,30,,,-,CMR,Lom Pangar,CCA 555,-,,5.38,13.5,,,,,,,Ic,,Clist et al. 2023
 Beta-498051,165,30,,,-,CMR,Lom Pangar,CRA 77,-,,5.38,13.5,,,,,,,Ic,,Clist et al. 2023
 Beta-529832,950,30,-33.3,AMS,caryopsis_indet,COD,Iyonda,IYO 17/1-20,Colluvium,0.285,-0.035,18.186,LIA,-,mixed,-,-,-,IIa,,Neumann et al. 2022 Tab. 1
+Beta-62248,3990,70,,AMS,,COG,Sinnda,SN 2,,1.07,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1994: 1523; 1525 Fig. 2; Vincens et al. 1998: 41 Tab. 1; Bertaux et al. 2000: 45 Tab. 2
+Beta-62249,4140,70,,AMS,,COG,Sinnda,SN 2,,1.91,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1994: 1523; 1525 Fig. 2; Vincens et al. 1998: 41 Tab. 1
+Beta-66671,1330,60,,AMS,,COG,Sinnda,SN 2,,1.22,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1998: 41 Tab. 1
+Beta-66672,4290,70,,AMS,,COG,Sinnda,SN 2,,1.57,-3.835,12.804,,,,,,,IIB,,Bertaux et al. 2000: 45 Tab. 2
+Beta-66673,4940,80,,AMS,,COG,Sinnda,SN 2,,2.33,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1998: 41 Tab. 1
 BM-2425,4180,160,,,-,CMR,Mbi Crater,7C,-,0.2,6.089,10.349,,-,-,-,-,,Ib,,Asombang 1998: 210
 BM-2426,2770,120,,,-,CMR,Mbi Crater,7C,-,0.5,6.089,10.349,,-,-,-,-,,Ib,,Asombang 1998: 210
 BM-2495,40,40,,,Charcoal,CMR,Shum Laka,"Upper Horizon of the Gray Ash Layer, sector1",-,0.05,5.859,10.078,,(indet),indet,-,Cs; Eg,,Ia,,Lavachery/Cornelissen 2000
@@ -2140,19 +2153,31 @@ UCLA-717,1010,80,,,-,AGO,Ricoco II,-,-,-,-7.467,20.85,-,-,indet,-,-,,Ib,,Berger 
 UCLA-718,465,80,,,-,AGO,Museque,-,-,,-10.833,19.167,,-,-,-,-,,Ic,,Berger et al. 1965: 359; van Noten 1982
 Uga-5688,2270,400,,,-,COG,Tchissanga,-,-,-,-4.539,11.798,-,indet,indet,-,-,,Ib,,de Maret 1990: 450 Tab. 1
 Uga-5720,2525,85,,,-,COG,Tchissanga,West,Pit,-,-4.539,11.798,,indet,Ceramic Later Stone Age 1,-,-,,Ia,,Denbow 1990; de Maret 1990: 450 Tab. 1
+UtC-?1,4850,70,,AMS,,COG,Sinnda,SN 2,,2.34,-3.835,12.804,,,,,,,IIB,,Bertaux et al. 2000: 45 Tab. 2
+UtC-?2,1740,60,,AMS,,COG,Kitina,KT 3,,1.71,-4.267,12,,,,,,,IIB,,Bertaux et al. 2000: 45 Tab. 2
+UtC-2359,5240,70,,AMS,,COG,Sinnda,SN 2,,3.79,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1994: 1523; 1525 Fig. 2; Vincens et al. 1998: 41 Tab. 1; Bertaux et al. 2000: 45 Tab. 2
+UtC-3589,4460,50,,AMS,,COG,Sinnda,SN 3,,1.195,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1998: 41 Tab. 1
+UtC-3590,490,40,,AMS,,COG,Kitina,KT 3,,0.5,-4.267,12,,,,,,,IIB,,Elenga et al. 1996: 406 Tab.;Bertaux et al. 2000: 45 Tab. 2
+UtC-3591,1340,50,,AMS,,COG,Kitina,KT 3,,1.58,-4.267,12,,,,,,,IIB,,Elenga et al. 1996: 406 Tab.; Bertaux et al. 2000: 45 Tab. 2
+UtC-3592,1900,40,,AMS,,COG,Kitina,KT 3,,1.68,-4.267,12,,,,,,,IIB,,Elenga et al. 1996: 406 Tab.; Bertaux et al. 2000: 45 Tab. 2
+UtC-3593,2770,60,,AMS,,COG,Kitina,KT 3,,2.35,-4.267,12,,,,,,,IIB,,Elenga et al. 1996: 406 Tab.; Bertaux et al. 2000: 45 Tab. 2
+UtC-3594,4020,40,,AMS,,COG,Kitina,KT 3,,3.8,-4.267,12,,,,,,,IIB,,Elenga et al. 1996: 406 Tab.; Bertaux et al. 2000: 45 Tab. 2
+UtC-3595,4900,40,,AMS,,COG,Kitina,KT 3,,5.2,-4.267,12,,,,,,,IIB,,Elenga et al. 1996: 406 Tab.; Bertaux et al. 2000: 45 Tab. 2
+UtC-3596,5460,70,,AMS,,COG,Kitina,KT 3,,6.25,-4.267,12,,,,,,,IIB,,Elenga et al. 1996: 406 Tab.; Bertaux et al. 2000: 45 Tab. 2
+UtC-4541,2490,60,,AMS,,COG,Kitina,KT 3,,2.07,-4.267,12,,,,,,,IIB,,Elenga et al. 1996: 406 Tab.; Bertaux et al. 2000: 45 Tab. 2
 UTC-5074,813,35,-12.5,,Bone,COD,Matangai Turu Northwest,,Burial,,2.17,28.6,,,,,Eg; Cs,,Ib,,Mercader et al. 2001: 27 Tab. 1; Clist 2004/2005: Tab. 10
 UTC-5075,10530,50,-25.3,,Charcoal,COD,Matangai Turu Northwest,,Layer,,2.17,28.6,LSA,indet,,,,,Ia,,"Mercader et al. 2001: 27 Tab. 1; Mercader/Martí 2003: 82 Tab. 2.3"
 UtC-5076,1080,41,,,Charcoal,COD,Makubasi NW,,Layer,,1.76,28.83,LSA,indet,,,,,Ia,,"Mercader 2000; Mercader 2003: 101 Tab. 3-1; Mercader/Martí 2003: 82 Tab. 2.3"
 UtC-5077,971,33,,,Charcoal,COD,Makubasi NW,,Layer,,1.76,28.83,LSA,indet,,,,,Ia,,"Mercader 2000; Mercader 2003: 101 Tab. 3-1; Mercader/Martí 2003: 82 Tab. 2.3"
+UTC-8026,7140,50,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka upper lithics horizon,(indet),-,Cs,,Ia,date for SMA 1 pottery,Lavachery 2001: 225; Garcin et al. 2018
+UTC-8027,8550,60,,,Charcoal,CMR,Shum Laka,Lower Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka lower lithics horizon,-,-,-,,Ia,,Lavachery 2001; Garcin et al. 2018
+UTC-8028,8560,60,,,Charcoal,CMR,Shum Laka,Lower Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka lower lithics horizon,-,-,-,,Ia,,Lavachery 2001; Garcin et al. 2018
+UTC-8029,8920,90,,,Charcoal,CMR,Shum Laka,Lower Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka lower lithics horizon,-,-,-,,Ia,,Lavachery 2001; Garcin et al. 2018
 UTC-13254,1786,33,,,Charcoal_endocarp_elaeis,GAB,Mimongo,1_b,Pit,-,-0.917,10.454,,-,indet,-,-,,Ib,,Livingstone-Smith et al. 2007
 UTC-13255,1784,42,,,Charcoal_endocarp_elaeis,GAB,Mimongo,3_u,Pit,-,-0.917,10.454,,-,indet,-,-,,Ib,,Livingstone-Smith et al. 2007
 UTC-13256,1738,48,,,Charcoal_endocarp_elaeis,GAB,Mimongo,3_b,Pit,-,-0.917,10.454,,-,indet,-,-,,Ib,,Livingstone-Smith et al. 2007
 UTC-13257,7247,44,,,Charcoal_wood,GAB,Tsona,,,0.55,-2.471,11.314,,indet,,,,,Ic,,Livingstone-Smith et al. 2007: 27
 UTC-13258,1672,44,,,Charcoal_wood,GAB,Moulandou-Fouala,MLF.03,,,-1.98,11.062,,indet,,,,,Ic,,Livingstone-Smith et al. 2007: 27
-UTC-8026,7140,50,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka upper lithics horizon,(indet),-,Cs,,Ia,date for SMA 1 pottery,Lavachery 2001: 225; Garcin et al. 2018
-UTC-8027,8550,60,,,Charcoal,CMR,Shum Laka,Lower Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka lower lithics horizon,-,-,-,,Ia,,Lavachery 2001; Garcin et al. 2018
-UTC-8028,8560,60,,,Charcoal,CMR,Shum Laka,Lower Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka lower lithics horizon,-,-,-,,Ia,,Lavachery 2001; Garcin et al. 2018
-UTC-8029,8920,90,,,Charcoal,CMR,Shum Laka,Lower Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka lower lithics horizon,-,-,-,,Ia,,Lavachery 2001; Garcin et al. 2018
 W-283,21000,500,,,-,COD,Ishango,-,-,,-0.138,29.606,MSA,indet,-,-,-,,Ib,,van Noten 1982
 W-284,3000,200,,,-,COD,Ishango,-,-,,-0.138,29.606,,indet,-,-,-,,Ib,,van Noten 1982
 Y-587,1240,100,,,-,AGO,Feti la Choya,-,-,,-14.51,15.28,,-,-,-,-,,Ic,,de Maret et al. 1977: 505; van Noten 1982
