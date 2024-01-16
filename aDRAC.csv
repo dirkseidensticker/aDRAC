@@ -81,9 +81,6 @@ Bdy-597,3010,220,,,,CAF,Tazunu Dokoko,,,,6.1,15.3,,,,,,,Ib,,Gotilogué 2000: 265
 Bdy-598,570,130,,,,CAF,Bouboun site 58,,,,6.1,15.3,,,,,,,Ib,,Gotilogué 2000: 265
 Bdy-601,1760,180,,,,CAF,Mbili 2 site 64,,,,6.1,15.3,,,,,,,Ib,,Gotilogué 2000: 265
 Bdy-641,1740,180,,,,CAF,Mbili 2,,,,6.1,15.3,,,,,,,Ib,,Gotilogué 2000: 265
-
-
-
 Bdy-1106,1230,70,,,,COG,Sinnda,SN 2,,0.77,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1994: 1523; 1525 Fig. 2; Vincens et al. 1998: 41 Tab. 1; Bertaux et al. 2000: 45 Tab. 2
 Bdy-1108,650,80,,,,COG,Sinnda,SN 2,,0.18,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1994: 1523; 1525 Fig. 2; Vincens et al. 1998: 41 Tab. 1; Bertaux et al. 2000: 45 Tab. 2
 Bdy-1347,90,50,,,,COG,Sinnda,SN 3,,0.225,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1998: 41 Tab. 1
@@ -242,6 +239,11 @@ Beta-59104,2470,70,,,Charcoal_wood,COD,Ituri,Tofya3,Pedoanthracological trench,-
 Beta-59105,700,110,,,Charcoal_wood,COD,Ituri,Tofya1,Pedoanthracological trench,-,1.34,28.51,,-,-,-,-,,IIb,"feature ID's not sure, own numerotation",Hart et al. 1996 bookchapter
 Beta-59106,3020,100,,,Charcoal_wood,COD,Ituri,Tofya4,Pedoanthracological trench,-,1.34,28.51,,-,-,-,-,,IIb,"feature ID's not sure, own numerotation",Hart et al. 1996 bookchapter
 Beta-59107,1790,60,,,Charcoal_wood,COD,Ituri,Tofya2,Pedoanthracological trench,-,1.34,28.51,,-,-,-,-,,IIb,"feature ID's not sure, own numerotation",Hart et al. 1996 bookchapter
+Beta-62248,3990,70,,AMS,,COG,Sinnda,SN 2,,1.07,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1994: 1523; 1525 Fig. 2; Vincens et al. 1998: 41 Tab. 1; Bertaux et al. 2000: 45 Tab. 2
+Beta-62249,4140,70,,AMS,,COG,Sinnda,SN 2,,1.91,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1994: 1523; 1525 Fig. 2; Vincens et al. 1998: 41 Tab. 1
+Beta-66671,1330,60,,AMS,,COG,Sinnda,SN 2,,1.22,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1998: 41 Tab. 1
+Beta-66672,4290,70,,AMS,,COG,Sinnda,SN 2,,1.57,-3.835,12.804,,,,,,,IIB,,Bertaux et al. 2000: 45 Tab. 2
+Beta-66673,4940,80,,AMS,,COG,Sinnda,SN 2,,2.33,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1998: 41 Tab. 1
 Beta-74282,740,50,-25,,Charcoal_endocarp_elaeis,GAB,Angondje,-,Layer,0.25,0.506,9.417,,-,Angondjé,object; tuyère,Eg,,Ia,"interpretation Clist: Archéologie, Age du Fer Récent","Clist 2004/2005: 691 Tab. 7-20, Annex 2"
 Beta-74283,930,50,-25,,Charcoal_endocarp_elaeis,GAB,Angondje,-,Layer,0.25,0.506,9.417,,-,Angondjé,object; tuyère,Eg,,Ia,"interpretation Clist: Archéologie, Age du Fer Récent","Clist 2004/2005: 691 Tab. 7-20, Annex 2"
 Beta-74284,10030,60,-25,,Charcoal_wood,GAB,Angondje,T05,Layer,0.25,4.87,12.49,-,-,-,-,-,,IIb,"interpretation Clist: Environnement, AUCUNE",Clist 2004/2005: Annex 2
@@ -581,11 +583,9 @@ Beta-498049,200,30,,,-,CMR,Lom Pangar,CCA 538,-,,5.38,13.5,,,,,,,Ic,,Clist et al
 Beta-498050,145,30,,,-,CMR,Lom Pangar,CCA 555,-,,5.38,13.5,,,,,,,Ic,,Clist et al. 2023
 Beta-498051,165,30,,,-,CMR,Lom Pangar,CRA 77,-,,5.38,13.5,,,,,,,Ic,,Clist et al. 2023
 Beta-529832,950,30,-33.3,AMS,caryopsis_indet,COD,Iyonda,IYO 17/1-20,Colluvium,0.285,-0.035,18.186,LIA,-,mixed,-,-,-,IIa,,Neumann et al. 2022 Tab. 1
-Beta-62248,3990,70,,AMS,,COG,Sinnda,SN 2,,1.07,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1994: 1523; 1525 Fig. 2; Vincens et al. 1998: 41 Tab. 1; Bertaux et al. 2000: 45 Tab. 2
-Beta-62249,4140,70,,AMS,,COG,Sinnda,SN 2,,1.91,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1994: 1523; 1525 Fig. 2; Vincens et al. 1998: 41 Tab. 1
-Beta-66671,1330,60,,AMS,,COG,Sinnda,SN 2,,1.22,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1998: 41 Tab. 1
-Beta-66672,4290,70,,AMS,,COG,Sinnda,SN 2,,1.57,-3.835,12.804,,,,,,,IIB,,Bertaux et al. 2000: 45 Tab. 2
-Beta-66673,4940,80,,AMS,,COG,Sinnda,SN 2,,2.33,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1998: 41 Tab. 1
+Beta-630482,1250,30,-,AMS,Charcoal_wood,COD,Esal,Tr30,Layer,0.3,-4.983,19.583,,,,,,,Ib,,Coutros et al. 2024: 6 Tab. 1
+Beta-630484,122,0.46,-,AMS,Charcoal_wood,COD,Okwon,Tr11,Layer,0.1,-4.997,19.601,,,,,,,Ib,,Coutros et al. 2024: 6 Tab. 1
+Beta-630485,350,30,-,AMS,Charcoal_wood,COD,Okwon,Tr11,Layer,0.3,-4.997,19.601,,,,,,,Ib,,Coutros et al. 2024: 6 Tab. 1
 BM-2425,4180,160,,,-,CMR,Mbi Crater,7C,-,0.2,6.089,10.349,,-,-,-,-,,Ib,,Asombang 1998: 210
 BM-2426,2770,120,,,-,CMR,Mbi Crater,7C,-,0.5,6.089,10.349,,-,-,-,-,,Ib,,Asombang 1998: 210
 BM-2495,40,40,,,Charcoal,CMR,Shum Laka,"Upper Horizon of the Gray Ash Layer, sector1",-,0.05,5.859,10.078,,(indet),indet,-,Cs; Eg,,Ia,,Lavachery/Cornelissen 2000
@@ -1993,9 +1993,16 @@ Pta-1025,1760,60,,,Shell,AGO,Benfica,-,-,-,-8.958,13.191,-,,indet,-,-,,Ib,"2160B
 Pta-1026,600,70,,,Shell,AGO,Benfica,-,-,-,-8.958,13.191,-,(indet),indet,-,-,,Ib,"1000BP-400yrs seawater age (Vogel/Visser 1981: 66)",Vogel/Visser 1981: 66
 Pta-1399,130,40,,,charcoal,AGO,Berorue,10/75,-,-,-16.75,12.33,-,,,-,-,,Ic,,Vogel/Visser 1981: 65
 Pta-9273,1940,35,,,-,CMR,Ndéba (Somié),-,-,,6.283,11.264,,-,-,-,-,,Ic,,de Saulieu et al. 2015; Garcin et al. 2018
-RICH-26741,1525,26,-21.8,,Charcoal_endocarp_elaeis,COD,Muanda 6,-,-,,-5.889,12.298,,-,Muanda,-,-,,Ia,,Clist et al. 2023: Tab. 1
-RICH-26746,1605,26,-19.9,,Charcoal_endocarp_elaeis,COD,Muanda 6,-,-,,-5.889,12.298,,-,Muanda,-,-,,Ia,,Clist et al. 2023: Tab. 1
-RICH-26752,1262,25,-25.9,,Charcoal,COD,Muanda 13,-,-,,-5.969,12.445,,-,Muanda,-,-,,Ia,,Clist et al. 2023: Tab. 1
+RICH-26741,1525,26,-21.8,AMS,Charcoal_endocarp_elaeis,COD,Muanda 6,-,-,,-5.889,12.298,,-,Muanda,-,-,,Ia,,Clist et al. 2023: Tab. 1
+RICH-26746,1605,26,-19.9,AMS,Charcoal_endocarp_elaeis,COD,Muanda 6,-,-,,-5.889,12.298,,-,Muanda,-,-,,Ia,,Clist et al. 2023: Tab. 1
+RICH-26752,1262,25,-25.9,AMS,Charcoal,COD,Muanda 13,-,-,,-5.969,12.445,,-,Muanda,-,-,,Ia,,Clist et al. 2023: Tab. 1
+RICH-27763,1194,26,-,AMS,Charcoal_wood,COD,Okwon,Tr05,Layer,0.9,-4.997,19.601,,-,(indet),-,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
+RICH-27764,1903,25,-,AMS,Charcoal_wood,COD,Okwon,Tr16,Layer,0.65,-4.997,19.601,,-,indet,slag,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
+RICH-27765,1977,26,-,AMS,Charcoal_wood,COD,Okwon,Tr11,Layer,0.7,-4.997,19.601,,(indet),indet,slag,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
+RICH-27766,2019,25,-,AMS,Charcoal_wood,COD,Okwon,Tr12,Layer,0.75,-4.997,19.601,,-,indet,slag,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
+RICH-27767,2052,26,-,AMS,Charcoal_wood,COD,Nkar,Tr41,Layer,0.95,-4.988,19.594,,(indet),indet,-,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
+RICH-27768,1938,25,-,AMS,Charcoal_wood,COD,Nkar,Tr47,Layer,0.9,-4.988,19.594,,-,indet,-,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
+RICH-27769,2103,25,-,AMS,Charcoal_wood,COD,Nkar,Tr42,Layer,1.1,-4.988,19.594,,(indet),indet,slag,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
 SacA-10886,5125,30,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,2.995,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
 SacA-10887,8015,30,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,3.995,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
 SacA-10888,8915,45,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,4.495,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
