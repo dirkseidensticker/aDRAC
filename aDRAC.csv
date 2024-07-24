@@ -215,9 +215,9 @@ Beta-46733,1590,50,,,Charcoal_endocarp_elaeis,CAF,Ndakan,2,-,-,2.34,16.14,,-,-,-
 Beta-46734,1510,60,,,Charcoal_endocarp_elaeis,CAF,Ndakan,1,-,-,2.35,16.14,,-,-,-,Eg,,Id,,Fay 1997; Garcin et al. 2018
 Beta-48066,1190,80,,,Charcoal_wood,GAB,Ofoubou 35,,,,-1.405,10.071,,-,indet,-,,-,Ib,,Clist 1992: 6
 Beta-51834,3180,80,,,Charcoal,CMR,Shum Laka,tomb7,Burial,-,5.859,10.078,Phase 2,indet,indet,-,-,,Ib,,Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
-Beta-51835,200,60,,,Charcoal,CMR,Shum Laka,"Upper Horizon of the Gray Ash Layer, sector1",-,0.17,5.859,10.078,,(indet),indet,-,Cs; Eg,,Ib,,Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
-Beta-51836,2150,110,,,Charcoal,CMR,Shum Laka,"Lower Horizon of the Gray Ash Layer, sector1",-,0.35,5.859,10.078,,(indet),indet,object,Cs,,Ib,,Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
-Beta-51837,1360,80,,,Charcoal,CMR,Shum Laka,"Middle Horizon of the Gray Ash Layer, sector1",-,0.25,5.859,10.078,,(indet),indet,object,Cs,,Ib,,Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
+Beta-51835,200,60,,,Charcoal,CMR,Shum Laka,"Upper Horizon of the Gray Ash Layer, sector1",-,0.17,5.859,10.078,,(indet),Iron Age 2,-,Cs; Eg,,Ib,,Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
+Beta-51836,2150,110,,,Charcoal,CMR,Shum Laka,"Lower Horizon of the Gray Ash Layer, sector1",-,0.35,5.859,10.078,,(indet),Stone to Metal Age 2,object,Cs,,Ib,,Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
+Beta-51837,1360,80,,,Charcoal,CMR,Shum Laka,"Middle Horizon of the Gray Ash Layer, sector1",-,0.25,5.859,10.078,,(indet),Iron Age 1,object,Cs,,Ib,,Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
 Beta-53552,1750,70,,,Charcoal_wood,GAB,Remboue 3,-,Layer,0.3,-0.197,9.959,,-,Oveng,-,Eg,,Ia,"interpretation Clist: Archéologie, Age duFer Ancien","Clist 2004/2005: 618 Tab. 7-10, Annex 2"
 Beta-53553,18020,80,,,Charcoal_wood,GAB,Remboue 1/9,-,Layer,1.1,-0.178,9.938,-,-,-,-,,-,IIb,"interpretation Clist: Environnement",Clist 2004/2005: Annex 2
 Beta-53554,1650,50,,,Charcoal_endocarp_elaeis,GAB,Remboue 1/9,-,Pit,-,-0.178,9.938,,-,Oveng,-,Eg,,Ia,"interpretation Clist: Archéologie, Age du Fer Ancien","Clist 2004/2005: 618 Tab. 7-10, Annex 2"
@@ -588,7 +588,7 @@ Beta-630484,122,0.46,-,AMS,Charcoal_wood,COD,Okwon,Tr11,Layer,0.1,-4.997,19.601,
 Beta-630485,350,30,-,AMS,Charcoal_wood,COD,Okwon,Tr11,Layer,0.3,-4.997,19.601,,,,,,,Ib,,Coutros et al. 2024: 6 Tab. 1
 BM-2425,4180,160,,,-,CMR,Mbi Crater,7C,-,0.2,6.089,10.349,,-,-,-,-,,Ib,,Asombang 1998: 210
 BM-2426,2770,120,,,-,CMR,Mbi Crater,7C,-,0.5,6.089,10.349,,-,-,-,-,,Ib,,Asombang 1998: 210
-BM-2495,40,40,,,Charcoal,CMR,Shum Laka,"Upper Horizon of the Gray Ash Layer, sector1",-,0.05,5.859,10.078,,(indet),indet,-,Cs; Eg,,Ia,,Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
+BM-2495,40,40,,,Charcoal,CMR,Shum Laka,"Upper Horizon of the Gray Ash Layer, sector1",-,0.05,5.859,10.078,,(indet),Iron Age 2,-,Cs; Eg,,Ia,,Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
 BM-2496,6360,100,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer,-,0.6,5.859,10.078,,shum laka upper lithics horizon,-,-,Cs,,Ia,,Asombang 1988; Lavachery 2001: 219 Tab. 1
 Bon-599,1640,520,,,Sediment_wet,GAB,Bras mort Ogooue,-,Layer,5,0.667,12.833,-,-,-,-,-,,IIIc,"interpretation Clist: Environnement",Clist 2004/2005: Annex 2
 C-580,11188,490,,,-,AGO,Mufo,-,-,,-7.517,21.417,,Tshitolian/Lupemban,-,-,-,,Ib,,Cahen/Moeyersons 1977: 813 Tab. 1; de Maret et al. 1977: 491; Cahen et al. 1983: 447 Tab. 2
@@ -1104,8 +1104,8 @@ Hv-10581,6020,505,,,Charcoal,CMR,Obobogo,Sondage A,Layer,0.95,3.817,11.504,LSA,i
 Hv-10582,2900,110,,,Charcoal,CMR,Obobogo,I,Pit,1.35,3.817,11.504,,-,Obobogo,-,Eg,,Ia,,de Maret 1992a: 255; Clist 2004/2005: 724 Tab. 8-3; Leka 2013: Annex 4
 Hv-10583,3070,95,,,Charcoal,CMR,Obobogo,II,Pit,0.45,3.817,11.504,,-,Obobogo,-,Eg; Cs,,Ia,,"de Maret 1992a: 255; Eggert 1993; Clist 2004/2005: 724 Tab. 8-3, 735, Tab. 10, Tab. 11; Leka 2013: Annex 4"
 Hv-10586,5565,120,,,Charcoal,CMR,Abeke,-,-,,5.925,10.158,LSA,indet,-,-,-,,Ic,,"de Maret 1982; de Maret 1987; Mercader/Martí 2003: 82 Tab. 2.3"
-Hv-10587,885,55,,,Charcoal,CMR,Shum Laka,"Middle/Upper Horizon of the Gray Ash Layer, sector2",-,(0.07),5.859,10.078,,(indet),indet,object,Cs,,Ib,"Lavachery 2001: 219 Tab. 1 lists this date as 1690+-55BP",de Maret 1992a: 250; 261; Lavachery/Cornelissen 2000: 158 Tab. 1; Lavachery 2001: 219 Tab. 1
-Hv-10588,1690,55,,,Charcoal,CMR,Shum Laka,"Middle/Upper Horizon of the Gray Ash Layer, sector2",-,(0.17),5.859,10.078,,(indet),indet,object,Cs,,Ib,"Lavachery 2001: 219 Tab. 1 lists this date as 885+-55BP",de Maret 1992a: 250; 261; Lavachery/Cornelissen 2000: 158 Tab. 1; Lavachery 2001: 219 Tab. 1
+Hv-10587,885,55,,,Charcoal,CMR,Shum Laka,"Middle/Upper Horizon of the Gray Ash Layer, sector2",-,(0.07),5.859,10.078,,(indet),Iron Age 2,object,Cs,,Ib,"Lavachery 2001: 219 Tab. 1 lists this date as 1690+-55BP",de Maret 1992a: 250; 261; Lavachery/Cornelissen 2000: 158 Tab. 1; Lavachery 2001: 219 Tab. 1
+Hv-10588,1690,55,,,Charcoal,CMR,Shum Laka,"Middle/Upper Horizon of the Gray Ash Layer, sector2",-,(0.17),5.859,10.078,,(indet),Iron Age 2,object,Cs,,Ib,"Lavachery 2001: 219 Tab. 1 lists this date as 885+-55BP",de Maret 1992a: 250; 261; Lavachery/Cornelissen 2000: 158 Tab. 1; Lavachery 2001: 219 Tab. 1
 Hv-10591,1565,55,,,Charcoal,COD,Naviundu,-,-,,-11.734,27.568,,-,-,-,-,,Ic,,Anciaux de Faveaux/de Maret 1984: 17
 Hv-10832,1990,95,,,-,CMR,Obobogo,II,Pit,1.55,3.817,11.504,,-,Obobogo,-,Eg; Cs,-,Ib,,de Maret 1992a: 255; Eggert 1993; Clist 2004/2005: 735; Leka 2013: Annex 4
 Hv-10833,3055,110,,,Charcoal,CMR,Obobogo,II,Pit,2.4,3.817,11.504,,-,Obobogo,-,Eg; Cs,,Ia,,"de Maret 1992a: 255; Eggert 1993; Clist 2004/2005: 724 Tab. 8-3, 735, Tab. 10, Tab. 11; Leka 2013: Annex 4"
@@ -1638,12 +1638,12 @@ Os-22251,1010,60,,,Charcoal,COD,Makubasi NW,,Layer,,1.76,28.83,,,,,,,Ib,,Mercade
 Os-22477,2900,50,,,,GNQ,Mosumu,,,,1.727,10.078,,,,,,,Ib,,Martí 2003; Clist et al. 2023
 OxA-1139,9050,100,,,-,CMR,Mbi Crater,7C,-,0.9,6.089,10.349,LSA,indet,-,-,-,,Ib,,"Asombang 1992; Asombang 1998: 210; Mercader/Martí 2003: 82 Tab. 2.3"
 OxA-1362,7040,80,,,Charcoal,CMR,Shum Laka,tomb1,-,,5.859,10.078,Phase 1,shum laka upper lithics horizon,-,-,Cs,,Ia,cf Upper Horizon of the Ochre Ash Layer,Lavachery 2001: 219 Tab. 1
-OxA-4538,3810,60,,,Charcoal,CMR,Shum Laka,"Lower Horizon of the Gray Ash Layer, sector1",Pit,0.4,5.859,10.078,,indet,indet,,-Cs,,Ia,,Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
+OxA-4538,3810,60,,,Charcoal,CMR,Shum Laka,"Lower Horizon of the Gray Ash Layer, sector1",Pit,0.4,5.859,10.078,,indet,Stone to Metal Age 2,,-Cs,,Ia,,Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
 OxA-4539,6870,80,,,Charcoal,CMR,Shum Laka,tomb3,,,5.859,10.078,Phase 1,shum laka upper lithics horizon,-,-,Cs,,Ia,cf Upper Horizon of the Ochre Ash Layer,Lavachery 2001: 219 Tab. 1
 OxA-4944,30300,1600,,,Charcoal,CMR,Shum Laka,B12/T-deposit,-,3.45,5.859,10.078,,(indet),,,,,Ia,,Cornelissen 2003: 6 Fig. 4
 OxA-4945,31700,750,,,Charcoal,CMR,Shum Laka,B12/T-deposit,-,3.25,5.859,10.078,LSA,(indet),,,,,Ia,,"Lavachery et al. 1996; Cornelissen 2003: 6 Fig. 4; Mercader/Martí 2003: 82 Tab. 2.3"
 OxA-5200,12800,110,,,Charcoal,CMR,Shum Laka,B12/T-deposit,-,1.75,5.859,10.078,LSA,(indet),,,,,Ia,,"Lavachery et al. 1996; Cornelissen 2003: 6 Fig. 4; Mercader/Martí 2003: 82 Tab. 2.3"
-OxA-5201,1310,65,,,Charcoal,CMR,Shum Laka,"Middle Horizon of the Gray Ash Layer, sector1",-,0.2,5.859,10.078,,(indet),indet,object,Cs,,Ia,,Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
+OxA-5201,1310,65,,,Charcoal,CMR,Shum Laka,"Middle Horizon of the Gray Ash Layer, sector1",-,0.2,5.859,10.078,,(indet),Iron Age 1,object,Cs,,Ia,,Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
 OxA-5202,8540,90,,,Charcoal,CMR,Shum Laka,Lower Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka lower lithics horizon,-,-,-,,Ia,,Lavachery 2001: 219 Tab. 1
 OxA-5203,7150,70,,,Charcoal,CMR,Shum Laka,tomb2,-,,5.859,10.078,Phase 1,shum laka upper lithics horizon,-,-,Cs,,Ia,cf. Upper Horizon of the Ochre Ash Layer,Lavachery 2001: 219 Tab. 1
 OxA-5204,3300,90,,,Charcoal,CMR,Shum Laka,tomb6/8/9,Burial,-,5.859,10.078,Phase 2,indet,indet,-,-,,Ia,,Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
@@ -2179,7 +2179,7 @@ UTC-5074,813,35,-12.5,,Bone,COD,Matangai Turu Northwest,,Burial,,2.17,28.6,,,,,E
 UTC-5075,10530,50,-25.3,,Charcoal,COD,Matangai Turu Northwest,,Layer,,2.17,28.6,LSA,indet,,,,,Ia,,"Mercader et al. 2001: 27 Tab. 1; Mercader/Martí 2003: 82 Tab. 2.3"
 UtC-5076,1080,41,,,Charcoal,COD,Makubasi NW,,Layer,,1.76,28.83,LSA,indet,,,,,Ia,,"Mercader 2000; Mercader 2003: 101 Tab. 3-1; Mercader/Martí 2003: 82 Tab. 2.3"
 UtC-5077,971,33,,,Charcoal,COD,Makubasi NW,,Layer,,1.76,28.83,LSA,indet,,,,,Ia,,"Mercader 2000; Mercader 2003: 101 Tab. 3-1; Mercader/Martí 2003: 82 Tab. 2.3"
-UTC-8026,7140,50,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka upper lithics horizon,indet,-,Cs,,Ia,date for SMA 1 pottery,Lavachery 2001: 219 Tab. 1; 225
+UTC-8026,7140,50,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka upper lithics horizon,Stone to Metal Age 1,-,Cs,,Ia,date for SMA 1 pottery,Lavachery 2001: 219 Tab. 1; 225
 UTC-8027,8550,60,,,Charcoal,CMR,Shum Laka,Lower Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka lower lithics horizon,-,-,-,,Ia,,Lavachery 2001: 219 Tab. 1
 UTC-8028,8560,60,,,Charcoal,CMR,Shum Laka,Lower Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka lower lithics horizon,-,-,-,,Ia,,Lavachery 2001: 219 Tab. 1
 UTC-8029,8920,90,,,Charcoal,CMR,Shum Laka,Lower Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka lower lithics horizon,-,-,-,,Ia,,Lavachery 2001: 219 Tab. 1
