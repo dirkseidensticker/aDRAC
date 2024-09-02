@@ -1995,6 +1995,17 @@ Pta-9273,1940,35,,,-,CMR,Ndéba (Somié),-,-,,6.283,11.264,,-,-,-,-,,Ic,,de Saul
 RICH-26741,1525,26,-21.8,AMS,Charcoal_endocarp_elaeis,COD,Muanda 6,-,-,,-5.889,12.298,,-,Muanda,-,-,,Ia,,Clist et al. 2023: Tab. 1
 RICH-26746,1605,26,-19.9,AMS,Charcoal_endocarp_elaeis,COD,Muanda 6,-,-,,-5.889,12.298,,-,Muanda,-,-,,Ia,,Clist et al. 2023: Tab. 1
 RICH-26752,1262,25,-25.9,AMS,Charcoal,COD,Muanda 13,-,-,,-5.969,12.445,,-,Muanda,-,-,,Ia,,Clist et al. 2023: Tab. 1
+RICH-26653,12329,41,-27.4,AMS,Charcoal_wood,COD,Mukila,MUK 2018/1030/10,Layer,3.2,-5.0156,16.9862,,indet,-,-,Cs,,Ia,,Jungnickel et al. 2024
+RICH-26654,3347,25,-28.14,AMS,Charcoal_wood,COD,Mukila,MUK 2018/1030/10,Layer,1.6,-5.0156,16.9862,,indet,-,-,Cs,,Ia,,Jungnickel et al. 2024
+RICH-26655,587,22,-26.98,AMS,Charcoal_endocarp_elaeis,COD,Mukila,MUK 2018/1030/10,Layer,0.6,-5.0156,16.9862,LIA,-,indet,-,Eg,,Ia,,Jungnickel et al. 2024
+RICH-26656,1992,23,-29.46,AMS,Charcoal_endocarp_elaeis,COD,Mukila,MUK 2018/1030/10,Layer,0.8,-5.0156,16.9862,,-,-,-,Eg,,Ia,,Jungnickel et al. 2024
+RICH-26657,4501,26,-26.69,AMS,Charcoal_wood,COD,Mukila,MUK 2018/1030/10,Layer,1.8,-5.0156,16.9862,,indet,-,-,-,,Ia,,Jungnickel et al. 2024
+RICH-26658,367,22,-25.48,AMS,Charcoal_endocarp_elaeis,COD,Mukila,MUK 2018/1030/10,Layer,0.6,-5.0156,16.9862,LIA,-,indet,-,Eg,,Ia,,Jungnickel et al. 2024
+RICH-27374,10098,33,-26.77,AMS,Charcoal_wood,COD,Mukila,MUK 2018/1030/10,Layer,3,-5.0156,16.9862,,indet,-,-,-,,Ia,,Jungnickel et al. 2024
+RICH-27379,12268,37,-24.95,AMS,Charcoal_wood,COD,Mukila,MUK 2018/1030/10,Layer,3.6,-5.0156,16.9862,,indet,-,-,-,,Ia,,Jungnickel et al. 2024
+RICH-27380,2176,25,-23.83,AMS,Charcoal_wood,COD,Mukila,MUK 2018/1030/10,Layer,1,-5.0156,16.9862,,-,-,-,Cs,,Ia,,Jungnickel et al. 2024
+RICH-27381,3430,26,-22.91,AMS,Charcoal_wood,COD,Mukila,MUK 2018/1030/10,Layer,0.8,-5.0156,16.9862,,indet,-,-,Eg,,Ia,,Jungnickel et al. 2024
+RICH-27410,3311,26,-23.01,AMS,Charcoal_wood,COD,Mukila,MUK 2018/1030/10,Layer,1.2,-5.0156,16.9862,,indet,-,-,Cs,,Ia,,Jungnickel et al. 2024
 RICH-27763,1194,26,-,AMS,Charcoal_wood,COD,Okwon,Tr05,Layer,0.9,-4.997,19.601,,-,(indet),-,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
 RICH-27764,1903,25,-,AMS,Charcoal_wood,COD,Okwon,Tr16,Layer,0.65,-4.997,19.601,,-,indet,slag,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
 RICH-27765,1977,26,-,AMS,Charcoal_wood,COD,Okwon,Tr11,Layer,0.7,-4.997,19.601,,(indet),indet,slag,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
@@ -2002,10 +2013,15 @@ RICH-27766,2019,25,-,AMS,Charcoal_wood,COD,Okwon,Tr12,Layer,0.75,-4.997,19.601,,
 RICH-27767,2052,26,-,AMS,Charcoal_wood,COD,Nkar,Tr41,Layer,0.95,-4.988,19.594,,(indet),indet,-,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
 RICH-27768,1938,25,-,AMS,Charcoal_wood,COD,Nkar,Tr47,Layer,0.9,-4.988,19.594,,-,indet,-,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
 RICH-27769,2103,25,-,AMS,Charcoal_wood,COD,Nkar,Tr42,Layer,1.1,-4.988,19.594,,(indet),indet,slag,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
+RICH-30594,4581,34,-21.3,AMS,Charcoal_wood,COD,Mukila,MUK1952/F-J,Layer,1.44,-5.0156,16.9862,,indet,-,-,,,Ia,,Jungnickel et al. 2024
+RICH-30595,32724,339,-24.8,AMS,Charcoal_wood,COD,Mukila,MUK1952/M,Layer,4.45,-5.0156,16.9862,,indet,-,-,,,Ia,,Jungnickel et al. 2024
+RICH-30596,10103,59,-24.8,AMS,Charcoal_wood,COD,Mukila,MUK 2018/1030/10,Layer,2.4,-5.0156,16.9862,,indet,-,-,,,Ia,,Jungnickel et al. 2024
 RICH-30864,1850,24,-26.6,AMS,Foodcrust,COG,Pikunda,PIK 87/1,,1.82,0.55,16.636,,,Pikunda-Munda,,,,Ia,,Seidensticker 2024: Tab. 2
 RICH-30865,192,22,-26.2,AMS,Foodcrust,COG,Munda,MUN 87/1-0-2,,0.65,1.163,17.357,,,Ebambe,,,,Ia,,Seidensticker 2024: Tab. 2
 RICH-30866,328,22,-26.1,AMS,Foodcrust,COG,Munda,MUN 87/1-0-2,,0.3,1.163,17.357,,,Ebambe,,,,Ia,,Seidensticker 2024: Tab. 2
 RICH-30867,841,24,-25.7,AMS,Foodcrust,COG,Ngombe,NGO 87/102,,0.3,0.37,16.99,,,Ngombe,,,,Ia,,Seidensticker 2024: Tab. 2
+RICH-33107,413,24,,AMS,Soot,COD,Mukila,MUK 52 II/J/66 (RMCA InvNo 62064),,0.66,-5.0156,16.9862,,,indet,,,,Ia,,Jungnickel et al. 2024
+RICH-33715,37203,653,,AMS,Charcoal,COD,Mukila,MUK 2018/1030/13,,6.6,-5.0156,16.9862,,,,,,,Ia,,Jungnickel et al. 2024
 SacA-10886,5125,30,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,2.995,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
 SacA-10887,8015,30,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,3.995,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
 SacA-10888,8915,45,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,4.495,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
