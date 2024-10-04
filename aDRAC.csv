@@ -591,8 +591,8 @@ BM-2426,2770,120,,,-,CMR,Mbi Crater,7C,-,0.5,6.089,10.349,,-,-,-,-,,Ib,,Asombang
 BM-2495,40,40,,,Charcoal,CMR,Shum Laka,"Upper Horizon of the Gray Ash Layer, sector1",-,0.05,5.859,10.078,Iron Age 2,(indet),Iron Age 2,-,Cs; Eg,,Ia,,Lavachery 1997: 175 & Fig. XI.5; Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
 BM-2496,6360,100,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer,-,0.6,5.859,10.078,SMA 1,indet,-,-,Cs,,Ia,Lavachery 1997: 174 & Fig. XI.3,Asombang 1988; Lavachery 1997: 174 & Fig. XI.3; Lavachery 2001: 219 Tab. 1
 Bon-599,1640,520,,,Sediment_wet,GAB,Bras mort Ogooue,-,Layer,5,0.667,12.833,-,-,-,-,-,,IIIc,"interpretation Clist: Environnement",Clist 2004/2005: Annex 2
-C-580,11188,490,,,-,AGO,Mufo,-,-,,-7.517,21.417,,Tshitolian/Lupemban,-,-,-,,Ib,,Cahen/Moeyersons 1977: 813 Tab. 1; de Maret et al. 1977: 491; Cahen et al. 1983: 447 Tab. 2
-C-581,14483,560,,,-,AGO,Mufo,-,-,,-7.517,21.417,,Upper Lupemban,-,-,-,,Ib,,Cahen/Moeyersons 1977: 813 Tab. 1; de Maret et al. 1977: 491; Cahen et al. 1983: 447 Tab. 2
+C-580,11189,490,,,-,AGO,Mufo,-,-,,-7.517,21.417,,Tshitolian/Lupemban,-,-,-,,Ib,,Clark 1963; Cahen/Moeyersons 1977: 813 Tab. 1; de Maret et al. 1977: 491; Cahen et al. 1983: 447 Tab. 2
+C-581,14503,560,,,-,AGO,Mufo,-,-,,-7.517,21.417,,Upper Lupemban,-,-,-,,Ib,14483bp?,Clark 1963; Cahen/Moeyersons 1977: 813 Tab. 1; de Maret et al. 1977: 491; Cahen et al. 1983: 447 Tab. 2
 CNA-1573,1930,30,,,-,GNQ,Nanda/Corisco,-,-,,0.917,9.317,,-,Oveng,-,-,,Ia,,Sánchez-Elipe et al. 2016: 352 Tab. 2
 CNA-1574,985,30,,,-,GNQ,Ulato/Corisco,-,-,,0.917,9.317,,-,Angondjé,-,-,,Ia,,Sánchez-Elipe et al. 2016: 353 Tab. 2
 Crg-862,570,50,,,-,COG,Tsabouka,-,Furnace,-,-4.261,14.428,,-,-,slag,-,,Ib,,Pincon 1991a: 249 Tab. 1; Dupre/Pincon 1997: 47 Tab
@@ -1398,10 +1398,10 @@ LOCEAN-161,2286,25,,,-,CMR,Ngoume,2,Pit,1.45,5.483,11.4,,-,indet,slag,,-,Ib,,Lek
 Loean-132,3707,29,,,-,CAF,Gbatoro,-,-,,6.495,14.415,,-,-,-,-,,Ic,,Zangato/Holl 2010
 Loean-135,3598,30,,,-,CAF,Bouboun,-,-,,6.133,15.333,,-,-,-,-,,Ic,,Zangato/Holl 2010
 Lv-17,7840,190,,,-,COD,Kinshasa-Lemba,-,-,,-4.396,15.319,,-,-,-,-,,Ic,,van Noten 1982
-Lv-44,>30000,,,,-,COD,Kinshasa-Lemba,-,-,,-4.396,15.319,MSA,Sangoan/Lupemban,-,-,-,,Ib,,"Dossin et al. 1962: 97; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982; Cahen et al. 1983: 447 Tab. 2; Mercader/Martí 2003: 82 Tab. 2.3"
-Lv-45,6030,190,,,-,COD,Mont Gafula,-,-,2,-4.467,15.217,,Tshitolian,-,-,-,,Ic,Gilot'65 and van Noten '82 notes this date as 5830bp,Dossin et al. 1962: 97-98; Gilot et al. 1965: 121; Cahen/Mortelmans 1973: 38; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
-Lv-46,2980,160,,,-,COD,Amba-Kinshasa,-,Layer,-,-4.433,15.3,,-,-,-,-,,IIb,,Dossin et al. 1962: 98; van Noten 1982
-Lv-47,>30000,,,,-,COD,Basoko,-,-,,-4.35,15.283,MSA,indet,-,-,-,,Ib,,"Dossin et al. 1962: 98; van Noten 1982; Mercader/Martí 2003: 82 Tab. 2.3"
+Lv-44,>30000,,,,-,COD,Kinshasa-Lemba,-,-,,-4.396,15.319,MSA,Sangoan/Lupemban,-,-,-,,Ib,,"Dossin et al. 1962: 97; Clark 1963; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982; Cahen et al. 1983: 447 Tab. 2; Mercader/Martí 2003: 82 Tab. 2.3"
+Lv-45,6030,190,,,-,COD,Mont Gafula,-,-,2,-4.467,15.217,,Tshitolian,-,-,-,,Ic,Gilot'65 and van Noten '82 notes this date as 5830bp,Dossin et al. 1962: 97-98; Clark 1963; Gilot et al. 1965: 121; Cahen/Mortelmans 1973: 38; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
+Lv-46,2980,160,,,-,COD,Amba-Kinshasa,-,Layer,-,-4.433,15.3,,-,-,-,-,,IIb,Clark 1963 lists this date as 3080+-170bp,Dossin et al. 1962: 98; Clark 1963; van Noten 1982
+Lv-47,>30000,,,,-,COD,Basoko,-,-,,-4.35,15.283,MSA,indet,-,-,-,,Ib,,"Dossin et al. 1962: 98; Clark 1963; van Noten 1982; Mercader/Martí 2003: 82 Tab. 2.3"
 Lv-162,5750,110,,,Charcoal,COD,Mont Gafula,-,Layer,2,-4.467,15.217,,Tshitolian,-,-,-,,Ib,,Gilot et al. 1965: 121; Cahen/Mortelmans 1973: 38; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982
 Lv-163,>26000,,,,Charcoal,COD,Basoko,3,Layer,0.3,-4.35,15.283,MSA,Sangoan/Lupemban,-,-,,-,Ib,,Gilot et al. 1965: 121; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982; Cahen et al. 1983: 447 Tab. 2
 Lv-164,9730,200,,,Charcoal,COD,Basoko,2,Layer,0.3,-4.35,15.283,LSA,Tshitolian/Lower,-,-,,-,Ib,,"Gilot et al. 1965: 121; Van Moorsel 1968; Cahen/Mortelmans 1973: 38; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982; Mercader/Martí 2003: 82 Tab. 2.3"
@@ -2157,12 +2157,12 @@ Ua-44138,968,30,,,-,GNQ,Garcia/Corisco,-,-,,0.917,9.317,,-,Angondjé,-,-,,Ia,,S�
 UCLA-1468A,11840,100,,,-,AGO,Camissombo,-,-,,-8.156,20.657,,indet,-,-,-,,Ib,,de Maret 1977: 491; van Noten 1982
 UCLA-1468B,6225,80,,,-,AGO,Calunda,-,-,,-12.13,23.464,,indet,-,-,-,,Ib,,de Maret 1977: 491; van Noten 1982
 UCLA-1468D,2830,80,,,-,AGO,Camissombo,-,-,-,-8.156,20.657,,-,-,-,-,,IIb,,de Maret 1977: 491; van Noten 1982
-UCLA-167,6830,120,,,-,AGO,Mufo,-,-,1.52,-7.517,21.417,,Tshitolian/Upper,-,-,,-,Ib,,Fergusson/Libby 1963: 17; Cahen/Mortelmans 1973: 38; ; Cahen/Moeyersons 1977: 813 Tab. 1; de Maret 1977: 491; van Noten 1982
-UCLA-168,38000,2500,,,-,AGO,Mufo,-,-,,-7.517,21.417,MSA,Sangoan/Lupemban,-,-,-,,Ib,,Fergusson/Libby 1963: 17; Cahen/Moeyersons 1977: 813 Tab. 1; de Maret 1977: 491; van Noten 1982; Cahen et al. 1983: 447 Tab. 2
-UCLA-169,>34000,,,,-,AGO,Mufo,-,-,,-7.517,21.417,MSA,Sangoan/Lupemban,-,-,-,,Ib,,Fergusson/Libby 1963: 17; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982; Cahen et al. 1983: 447 Tab. 2
-UCLA-170,1880,80,,,-,AGO,Furi,-,Layer,-,-7.362,21.198,,Tchitolian/Late,indet,-,-,,Ib,,Fergusson/Libby 1963: 17; van Noten 1982
-UCLA-171,4700,100,,,-,AGO,Calunda,3-2,-,,-12.13,23.464,,Tshitolian/Upper,-,-,-,,Ib,,Fergusson/Libby 1963: 17; Cahen/Mortelmans 1973: 38; Cahen/Moeyersons 1977: 813 Tab. 1; de Maret 1977: 491; van Noten 1982
-UCLA-172,12970,250,,,-,AGO,Calunda,-,-,,-12.13,23.464,,Tshitolian/Lower,-,-,-,,Ib,,Fergusson/Libby 1963: 17; de Maret 1977: 491; Cahen/Mortelmans 1973: 38; Cahen et al. 1983: 447 Tab. 2
+UCLA-167,6830,120,,,-,AGO,Mufo,-,-,1.52,-7.517,21.417,,Tshitolian/Upper,-,-,,-,Ib,,Fergusson/Libby 1963: 17; Clark 1963; Cahen/Mortelmans 1973: 38; ; Cahen/Moeyersons 1977: 813 Tab. 1; de Maret 1977: 491; van Noten 1982
+UCLA-168,38000,2500,,,-,AGO,Mufo,-,-,,-7.517,21.417,MSA,Sangoan/Lupemban,-,-,-,,Ib,,Fergusson/Libby 1963: 17; Clark 1963; Cahen/Moeyersons 1977: 813 Tab. 1; de Maret 1977: 491; van Noten 1982; Cahen et al. 1983: 447 Tab. 2
+UCLA-169,>34000,,,,-,AGO,Mufo,-,-,,-7.517,21.417,MSA,Sangoan/Lupemban,-,-,-,,Ib,,Fergusson/Libby 1963: 17; Clark 1963; Cahen/Moeyersons 1977: 813 Tab. 1; van Noten 1982; Cahen et al. 1983: 447 Tab. 2
+UCLA-170,1880,80,,,-,AGO,Furi,-,Layer,-,-7.362,21.198,,Tchitolian/Late,indet,-,-,,Ib,,Fergusson/Libby 1963: 17; Clark 1963; van Noten 1982
+UCLA-171,4700,100,,,-,AGO,Calunda,3-2,-,,-12.13,23.464,,Tshitolian/Upper,-,-,-,,Ib,,Fergusson/Libby 1963: 17; Clark 1963; Cahen/Mortelmans 1973: 38; Cahen/Moeyersons 1977: 813 Tab. 1; de Maret 1977: 491; van Noten 1982
+UCLA-172,12970,250,,,-,AGO,Calunda,-,-,,-12.13,23.464,,Tshitolian/Lower,-,-,-,,Ib,,Fergusson/Libby 1963: 17; Clark 1963; de Maret 1977: 491; Cahen/Mortelmans 1973: 38; Cahen et al. 1983: 447 Tab. 2
 UCLA-686,2830,80,,,Resin/Copal,AGO,Camissombo,-,Layer,0.9,-8.156,20.657,,-,-,-,,-,IIb,,Berger et al. 1965: 357; de Maret 1977: 491; van Noten 1982
 UCLA-708A,>34000,,,,-,AGO,Leba,-,-,,-15.08,13.25,MSA,-,-,-,-,,Ib,,de Maret 1977: 491; van Noten 1982
 UCLA-708C,29800,1650,,,-,AGO,Leba,-,-,,-15.08,13.25,MSA,-,-,-,-,,Ib,,de Maret 1977: 491; van Noten 1982
@@ -2204,8 +2204,8 @@ UTC-13255,1784,42,,,Charcoal_endocarp_elaeis,GAB,Mimongo,3_u,Pit,-,-0.917,10.454
 UTC-13256,1738,48,,,Charcoal_endocarp_elaeis,GAB,Mimongo,3_b,Pit,-,-0.917,10.454,,-,indet,-,-,,Ib,,Livingstone-Smith et al. 2007
 UTC-13257,7247,44,,,Charcoal_wood,GAB,Tsona,,,0.55,-2.471,11.314,,indet,,,,,Ic,,Livingstone-Smith et al. 2007: 27
 UTC-13258,1672,44,,,Charcoal_wood,GAB,Moulandou-Fouala,MLF.03,,,-1.98,11.062,,indet,,,,,Ic,,Livingstone-Smith et al. 2007: 27
-W-283,21000,500,,,-,COD,Ishango,-,-,,-0.138,29.606,MSA,indet,-,-,-,,Ib,,van Noten 1982
-W-284,3000,200,,,-,COD,Ishango,-,-,,-0.138,29.606,,indet,-,-,-,,Ib,,van Noten 1982
+W-283,21000,500,,,-,COD,Ishango,-,-,,-0.138,29.606,MSA,indet,-,-,-,,Ib,,Clark 1963; van Noten 1982
+W-284,3000,200,,,-,COD,Ishango,-,-,,-0.138,29.606,,indet,-,-,-,,Ib,,Clark 1963; van Noten 1982
 Y-587,1240,100,,,-,AGO,Feti la Choya,-,-,,-14.51,15.28,,-,-,-,-,,Ic,,de Maret et al. 1977: 505; van Noten 1982
 Y-588,700,65,,,-,AGO,Feti la Choya,-,-,,-14.51,15.28,,-,-,-,-,,Ic,,de Maret et al. 1977: 505; van Noten 1982
 ?3,9080,70,,,,GAB,Akoumou 1,-,-,,0.195,11.173,LSA,indet,,,,,Ic,,Oslisly/Assoko Ndong 2006: 33-34; 55
