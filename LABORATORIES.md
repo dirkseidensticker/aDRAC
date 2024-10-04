@@ -6,6 +6,7 @@ http://radiocarbon.webhost.uits.arizona.edu/sites/default/files/Labs-2021_Jul-20
 | ---- | ---------------------------------------- | ------------------------------ |
 | Arc  | ARC Seibersdorf Research GmbH            | Wien (Austria)                 |
 | Beta | Beta Analytic Inc.                       | Miami (Florida, USA)           |
+| C    | University of Chicago Radiocarbon Laboratory | Chicago (USA)              |
 | CNA  | Centro Nacionale de Aceleradores         | Sevilla (Spain)                |
 | CSIC | Laboratorio de Geocronología, Instituto de Química-Física Rocasolano, CSIC | Madrid (Spain) |
 | Erl  | AMS Facility                             | Erlangen (Germany)             |
@@ -17,4 +18,6 @@ http://radiocarbon.webhost.uits.arizona.edu/sites/default/files/Labs-2021_Jul-20
 | SR   | Salisbury (Harare)                       | Rhodesia (now Zimbabwe)        |
 | SUERC | Scottish Universities Environmental Research Centre (SUERC) | University of Glasgow |
 | Ua   | Ángstrom Laboratory                      | University of Upsalla (Sweden) |
+| UCAL | University of California Geochronology Laboratory, Los Angeles | Los Angeles (USA) |
 | Tx   | Radiocarbon Laboratory, University of Texas at Austin | Austin (Texas, US) |
+| W    |United States Geological Service          | USA                            |
