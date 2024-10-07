@@ -726,7 +726,7 @@ Gif-4280,500,60,,,Charcoal,CMR,Sou Blame Radjil,-,-,,12.2,14.683,,-,-,-,-,,,,de 
 Gif-4391,1990,90,,,Charcoal,COG,Ntadi Yomba,A,Layer in cave,-,-4.25,13.767,,-,-,-,-,,Ic,,Delibrias/Guilier 1988: 83; Kouyoumontzakis u.a. 1985
 Gif-4392,7090,140,,,Charcoal,COG,Ntadi Yomba,B,Layer in cave,,-4.25,13.767,LSA,Tshitolian,-,-,-,,Ib,,"de Bayle des Hermems/Lanfranchi 1978; Delibrias/Guilier 1988: 83; Kouyoumontzakis u.a. 1985; Mercader/Martí 2003: 82 Tab. 2.3"
 Gif-4504,630,80,,,Charcoal,CMR,Sou,-,-,,12.2,14.7,,-,-,-,-,,Ic,,de Maret 1985a
-Gif-4545,3660,100,,,-,COG,Mouambe,-,-,3.6,-2.917,14.633,,-,-,-,,-,IIb,,Delibes et al. 1983; Kouyoumontzakis u.a. 1985: 19
+Gif-4545,3660,100,,,-,COG,Mouambe,-,-,3.6,-2.917,14.633,,-,-,-,,-,IIb,,Delibes et al. 1983: 465; Kouyoumontzakis u.a. 1985: 19
 Gif-4546,0,,,,Charcoal,COG,Lombo,-,-,,-4.55,12.183,,-,-,-,-,,,,de Maret 1985a
 Gif-4568,870,90,,,Charcoal,CMR,Salak,-,-,,10.433,14.25,,-,-,-,-,,Ic,,de Maret 1985a
 Gif-4613,6890,160,,,Shell (Land),COD,Ntadi Yomba,B,Layer in cave,0.99,-4.25,13.767,,Tshitolian,-,-,,-,Ib,,Delibrias/Guilier 1988: 83
@@ -736,9 +736,11 @@ Gif-4822,1340,100,,,Charcoal,CMR,Sou,-,-,,12.2,14.7,,-,-,-,-,,Ic,,de Maret 1985a
 Gif-4833,1340,90,,,Charcoal,CMR,Sou,-,-,,12.2,14.7,,-,-,-,-,,Ic,,de Maret 1985a
 Gif-4932,850,90,,,Charcoal,CMR,Sou,-,-,,12.2,14.7,,-,-,-,-,,Ic,,de Maret 1985a
 Gif-4934,2800,110,,,Charcoal,CMR,Sou Blame Radjil,-,-,,12.2,14.683,,-,-,-,-,,Ic,,de Maret 1985a
-Gif-4963,990,200,,,Sediment_soil,COG,Gankieli,-,-,0.45,-1.717,15.917,,-,-,-,,-,IIb,,Delibes et al. 1983; Kouyoumontzakis u.a. 1985: 19
-Gif-4964,7200,140,,,-,COG,Imporo,-,-,,-1.6,15.95,,-,-,-,-,,Ic,,Kouyoumontzakis u.a. 1985
-Gif-4967,21600,580,,,-,COG,Olombo,-,-,,-1.267,15.9,MSA,-,-,-,-,,Ic,,Kouyoumontzakis u.a. 1985
+Gif-4963,990,200,,,Sediment_soil,COG,Gankieli,-,-,0.45,-1.717,15.917,,-,-,-,,-,IIb,,Delibes et al. 1983: 465; Kouyoumontzakis u.a. 1985: 19
+Gif-4964,7200,140,,,-,COG,Imporo,-,-,,-1.6,15.95,,-,-,-,-,,Ic,,Delibes et al. 1983: 465; Kouyoumontzakis u.a. 1985
+Gif-4965,>35000,,,,-,COG,Imporo,-,-,,-1.6,15.95,,-,-,-,-,,Ic,,Delibes et al. 1983: 465
+Gif-4966,>35000,,,,,COG,Gankieli,-,-,,-1.717,15.917,,-,-,-,,-,,,Delibes et al. 1983: 465
+Gif-4967,21600,580,,,-,COG,Olombo,-,-,,-1.267,15.9,MSA,-,-,-,-,,Ic,,Delibes et al. 1983: 465; Kouyoumontzakis u.a. 1985
 Gif-4990,0,,,,Charcoal,CMR,Goray,-,-,,10.5,14.5,,-,-,-,-,,,,de Maret 1985a
 Gif-4993,0,,,,Charcoal,CMR,Biou,-,-,,9.867,14.1,,-,-,-,-,,,,de Maret 1985a
 Gif-4994,690,60,,,Charcoal,CMR,Bidzar,-,-,,9.883,14.1,,-,-,-,-,,Ic,,de Maret 1985a
@@ -747,9 +749,10 @@ Gif-5209,0,,,,Charcoal,CAF,Ko Bi Doe,-,-,-,6.3,15.9,,-,-,-,-,,,,Vidal et al. 198
 Gif-5210,350,80,,,Charcoal,CAF,Ko Bi Doe,-,-,-,6.3,15.9,,-,-,-,-,,Ic,,Vidal et al. 1983: 126; de Maret 1985a
 Gif-5211,220,80,,,Charcoal,CAF,Toala,TLA/1978/A2,Layer,0.28,6.353,15.998,,indet,-,-,,-,Ib,,Vidal et al. 1983: 126; de Maret 1985a: 146; Moga 2008: 3; Zangato 2000: 25 Tab. 8
 Gif-5212,410,100,,,Charcoal,CAF,Toala,TLA/1978/A73,Layer,0.7,6.353,15.998,,indet,-,-,,-,Ib,,Vidal et al. 1983: 125; de Maret 1985a: 146; Zangato 2000: 25 Tab. 8
-Gif-5218,33800,800,,,-,COG,Owando,-,-,,-0.5,15.917,MSA,-,-,-,-,,Ic,,Kouyoumontzakis u.a. 1985
-Gif-5220,2960,100,,,Charcoal_wood_Hymenocardia acida & Hypparhenia sp.,COG,Abala,-,-,-,-1.333,15.533,,-,-,-,-,,IIb,,Delibes et al. 1983; Kouyoumontzakis u.a. 1985: 21
-Gif-5221,3540,100,,,Sediment_soil,COG,Gamboma,-,-,2.15,-1.833,15.833,,-,-,-,,-,IIb,,Delibes et al. 1983; Kouyoumontzakis u.a. 1985: 21
+Gif-5218,33800,800,,,-,COG,Owando,-,-,,-0.5,15.917,MSA,-,-,-,-,,Ic,,v; Kouyoumontzakis u.a. 1985
+Gif-5219,>33000,,,,,COG,,,,,-0.467,15.833,,,,,,,,,Delibes et al. 1983: 465
+Gif-5220,2960,100,,,Charcoal_wood_Hymenocardia acida & Hypparhenia sp.,COG,Abala,-,-,-,-1.333,15.533,,-,-,-,-,,IIb,,Delibes et al. 1983: 465; Kouyoumontzakis u.a. 1985: 21
+Gif-5221,3540,100,,,Sediment_soil,COG,Gamboma,-,-,2.15,-1.833,15.833,,-,-,-,,-,IIb,,Delibes et al. 1983: 465; Kouyoumontzakis u.a. 1985: 21
 Gif-5250,920,80,,,Charcoal,CMR,Goray,-,-,,10.5,14.5,,-,-,-,-,,Ic,,de Maret 1985a
 Gif-5251,1030,80,,,Charcoal,CMR,Goray,-,-,,10.5,14.5,,-,-,-,-,,Ic,,de Maret 1985a
 Gif-5252,720,80,,,Charcoal,RWA,Hago,-,-,,-1.683,30.683,,-,-,-,-,,Ic,,de Maret 1985a
@@ -763,12 +766,12 @@ Gif-5666,650,60,,,Charcoal,CAF,Toala,TLA/1979/1/1,Layer,1.075,6.353,15.998,,-,-,
 Gif-5667,1200,60,,,-,CAF,Toala,-,-,,6.353,15.998,,-,-,-,-,,Ic,,de Maret 1985a: 146
 Gif-5668,390,70,,,Charcoal,CAF,Toala,TLA/1979/B/2,Layer,0.475,6.353,15.998,,-,-,-,,-,Ic,,Vidal et al. 1983: 125; de Maret 1985a: 146; Zangato 2000: 25 Tab. 8
 Gif-5669,1560,80,,,Charcoal,CAF,Toala,TLA/1979/C/1,Layer,1.65,6.353,15.998,,-,-,-,-,,Ic,,Vidal et al. 1983: 125; de Maret 1985a: 146; Zangato 2000: 25 Tab. 8
-Gif-5696,3190,100,,,-,COG,Gamboma,-,-,-,-1.833,15.833,,-,-,-,-,,IIb,,Delibes et al. 1983; Kouyoumontzakis u.a. 1985: 22
-Gif-5697,1950,90,,,Charcoal,COG,Okoyo,-,-,1.275,-1.35,15.2,,-,-,-,,-,IIb,,Delibes et al. 1983; Kouyoumontzakis u.a. 1985: 22
-Gif-5698,2660,100,,,Charcoal,COG,Boundji,-,-,0.975,-1.028,15.359,,-,-,-,,-,IIb,,Delibes et al. 1983; Kouyoumontzakis u.a. 1985: 22
-Gif-5699,18100,400,,,-,COG,Boundji,-,-,,-1.028,15.359,,-,-,-,-,,Ic,,Kouyoumontzakis u.a. 1985
-Gif-5700,9410,170,,,-,COG,Oyo,-,-,,-1.117,15.95,,-,-,-,-,,Ic,,Kouyoumontzakis u.a. 1985
-Gif-5701,31000,2200,,,-,COG,Oyo,-,-,,-1.117,15.95,MSA,-,-,-,-,,Ic,,Kouyoumontzakis u.a. 1985
+Gif-5696,3190,100,,,-,COG,Gamboma,-,-,-,-1.833,15.833,,-,-,-,-,,IIb,,Delibes et al. 1983: 465; Kouyoumontzakis u.a. 1985: 22
+Gif-5697,1950,90,,,Charcoal,COG,Okoyo,-,-,1.275,-1.35,15.2,,-,-,-,,-,IIb,,Delibes et al. 1983: 465; Kouyoumontzakis u.a. 1985: 22
+Gif-5698,2660,100,,,Charcoal,COG,Boundji,-,-,0.975,-1.028,15.359,,-,-,-,,-,IIb,,Delibes et al. 1983: 465; Kouyoumontzakis u.a. 1985: 22
+Gif-5699,18100,400,,,-,COG,Boundji,-,-,,-1.028,15.359,,-,-,-,-,,Ic,,Delibes et al. 1983: 465; Kouyoumontzakis u.a. 1985
+Gif-5700,9410,170,,,-,COG,Oyo,-,-,,-1.117,15.95,,-,-,-,-,,Ic,,Delibes et al. 1983: 465; Kouyoumontzakis u.a. 1985
+Gif-5701,31000,2200,,,-,COG,Oyo,-,-,,-1.117,15.95,MSA,-,-,-,-,,Ic,,Delibes et al. 1983: 465; Kouyoumontzakis u.a. 1985
 Gif-5796,1460,90,,,Charcoal,COG,Nzabi,-,slag mound,-,-2.383,14.45,,-,-,slag,-,,Ib,,Kouyoumontzakis u.a. 1985; Pincon 1991a: 249 Tab. 1; Pincon 1991b: 30 Tab. 1
 Gif-5821,4920,110,,,-,COG,Bacongo,-,-,,-4.292,15.267,,-,-,-,-,,Ic,,Kouyoumontzakis u.a. 1985
 Gif-5894,1590,90,,,Charcoal,CAF,Batalimo,ZII,Layer,-,3.676,18.455,,-,Batalimo-Maluba,-,-,,Ia,,de Maret 1985a; Eggert 1992: 11 Tab. 2; Eggert 1993
