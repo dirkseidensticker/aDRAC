@@ -35,7 +35,7 @@ AA-96498,143,34,,AMS,-,CAF,Poutem,P02-07,Layer,1.05,4.033,17.318,,indet,indet,-,
 AA-96499,1264,36,,AMS,-,CAF,Boua,Z13-10,Furnace,0.76,4.073,17.071,,-,indet,slag,,-,Ib,,Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 7 Tab. 1
 AA-96500,2179,37,,AMS,-,CAF,Boua,Z02-02,Midden,-,4.075,17.071,,-,indet,-,-,,Ib,,Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 7 Tab. 1
 Arc-338,>35000,,,,,COG,Bout de Plateau,,,,,,,,,,,,,,Lanfranchi et al. 1989: 74
-Arc-339,2310,60,,,Charcoal_wood,GAB,Okanda 1/Mont Brazza,-,Pit,-,-0.128,11.589,,-,Okala/Epona/Yindo,-,-,,Ia,"interpretation Clist: Archéologie, Néolithique Récent ou Age du Fer Ancien","Clist 1995; Clist 2004/2005:509 Tab. 6-56,Annex 2"
+Arc-339,2310,60,,,Charcoal_wood,GAB,Okanda 1/Mont Brazza,-,Pit,-,-0.128,11.589,,-,Okala/Epona/Yindo,-,-,,Ia,"interpretation Clist: Archéologie, Néolithique Récent ou Age du Fer Ancien","Clist 1995; Clist 2004/2005:509 Tab. 6-56, Annex 2"
 Arc-340,540,50,,,-,COG,Mont Barnier,-,Layer,0.3,-4.204,15.208,,-,indet,-,,-,Ib,,Pincon 1991a: 249 Tab. 1; Pincon 1991b: 30 Tab. 1
 Arc-341,2210,100,,,Charcoal_wood,GAB,Kango 5,40,Pit,0.2,0.201,10.082,,-,indet,-,,-,Ib,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
 Arc-343,1900,50,,,Shell_Anadara senilis,GAB,Oveng 1,A22,Layer,-,0.479,9.517,,-,Oveng,-,-,indet,IIIb,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: 618 Tab. 7-10; Leka 2013: Annex 4
@@ -106,7 +106,7 @@ Beta-14827,360,60,,,Charcoal_wood,GAB,Nkobombomou,85/26,Pit,-,2.034,11.5,,-,-,sl
 Beta-14828,5950,70,,,Charcoal_wood,GAB,Sablière,-,Layer,-,0.5,9.383,LSA,indet,-,-,-,,Ic,"interpretation Clist: Archéologie, Age Récent de la Pierre","Clist 1989: 70 Tab. 1; Clist 2004/2005: 708 Tab. 8-1, Annex 2"
 Beta-14829,4400,70,,,Charcoal_wood,GAB,Sablière,-,Layer,-,0.5,9.383,LSA,indet,(indet),-,-,,Ic,"interpretation Clist: Archéologie, Age Récent de la Pierre","Clist 1989: 70 Tab. 1; Peyrot et al. 1990; Clist 2004/2005: 708 Tab. 8-1, Annex 2; Mercader/Martí 2003: 82 Tab. 2.3"
 Beta-14830,1710,60,,,Charcoal_wood,GAB,Oyem 1,-,Pit,-,1.593,11.573,,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Agedu Fer Ancien","Clist 2004/2005: Annex 2"
-Beta-14831,5710,80,,,Charcoal_wood,GAB,Sablière,-,Layer,-,0.5,9.383,LSA,indet,(indet),-,-,,Ic,"interpretation Clist: Archéologie, Age Récent de la Pierre",Clist 1989: 70 Tab. 1; Clist 2004/2005: 708 Tab. 8-1; Annex 2
+Beta-14831,5710,80,,,Charcoal_wood,GAB,Sablière,-,Layer,-,0.5,9.383,LSA,indet,(indet),-,-,,Ic,"interpretation Clist: Archéologie, Age Récent de la Pierre",Clist 1989: 70 Tab. 1; "Clist 2004/2005: 708 Tab. 8-1, Annex 2"
 Beta-14832,1970,70,,,Shell_Anadara senilis,GAB,Oveng 1,1,Layer,2,0.479,9.517,,-,(Oveng),(slag),Eg,,IIIb,"interpretation Clist: Archéologie, Age du Fer Ancien","Clist 2004/2005: 618 Tab. 7-10, Annex 2; Leka 2013: Annex 4"
 Beta-14833,1740,60,,,Charcoal_wood,GAB,Oveng 1,1,Layer,2.5,0.479,9.517,,-,Oveng,slag,,-,Ia,"interpretation Clist: Archéologie, Age du Fer Ancien","Clist 2004/2005: 618 Tab. 7-10, Annex 2; Leka 2013: Annex 4"
 Beta-14834,2640,70,,,Charcoal_wood,GAB,Otoumbi 2,-,Pit,-,-0.068,11.092,,-,-,slag,-,,IIa,terminte mound,Oslisly 1992; Clist 2004/2005: Annex 2
