@@ -2108,17 +2108,17 @@ SUERC-89289 (GU53259),312,24,,,Bone,COD,Bolondo,BLD 83/4,Burial,,-0.306,21.253,,
 SUERC-89290 (GU53260),433,24,,,Bone,COD,Bolondo,BLD 83/5,Burial,,-0.306,21.253,,,,,,,Ia,,Bleasdale et al. 2020: Suppl. Tab. 2
 SUERC-89291 (GU53261),134,24,,,Bone,COD,Bolondo,BLD 83/8,Burial,,-0.306,21.253,,,,,,,Ia,,Bleasdale et al. 2020: Suppl. Tab. 2
 TH-1175,2040,130,,,Charcoal,CMR,Bafounda,-,-,,5.543,10.327,,-,-,-,-,,IIb,no metadata available,Hori et al. 1986
-Tx-5956,2880,90,,,-,COG,Tchissanga,West; Unit 1,-,0.35,-4.539,11.798,,indet,Ceramic Later Stone Age 1,-,,-,Ia,potentially disputet; sample taken during rainy season under problematic conditions,de Maret 1990: 450 Tab. 1; Denbow 2012: 387 Tab. 1
-Tx-5957,1720,80,,,Charcoal_endocarp_elaeis,COG,Madingo-Kayes,East,-,0.31,-4.432,11.696,-,-,Herringbone; (Spaced Curvilinear),-,,-,Ia,fragm. loupe cuive et fer en surface,Denbow 2012: 387 Tab. 1; Denbow 2012: 387 Tab. 1; Denbow 2014: 66
-Tx-5958,1810,60,,,Charcoal_endocarp_elaeis,COG,Madingo-Kayes,West; Unit 1,-,0.35,-4.432,11.696,-,-,Herringbone; (Spaced Curvilinear),-,,-,Ia,fragm. loupe cuive et fer en surface,de Maret 1990: 450 Tab. 1; Denbow 2012: 387 Tab. 1; Denbow 2014: 66
-Tx-6183,2110,60,,,-,COG,Tandou-Youmbi,-,Pit,0.425,-4.416,11.691,,(polished indet),Herringbone,-,,-,Ia,,Denbow 1990; Eggert et al. 2006: 276 Tab. 1; Denbow 2012: 387 Tab. 1
-Tx-6184,2450,70,,,-,COG,Tchissanga,West; N55/W3,-,0.25,-4.539,11.798,,-,Ceramic Later Stone Age 1,-,,-,Ia,,Denbow 2012: 387 Tab. 1
-Tx-6185,2530,60,,,-,COG,Tchissanga,West; N55/W1.5,-,0.25,-4.539,11.798,,-,Ceramic Later Stone Age 1,-,,-,Ia,,Denbow 2012: 387 Tab. 1
-Tx-6186,2250,60,,,-,COG,Tchissanga,Est; N1.5/E130,-,0.35,-4.539,11.798,,-,Ceramic Later Stone Age 2,(slag); (object),Eg,,Ia,,Denbow 1990; Clist 2004/2005: Tab. 10; Eggert et al. 2006: 277 Tab. 2; Denbow 2012: 387 Tab. 1
-Tx-6187,2520,60,,,-,COG,Tchissanga,Est; N1.5/E140,-,0.46,-4.539,11.798,,-,Ceramic Later Stone Age 2,-,,-,Ia,,Denbow 2012: 387 Tab. 1
-Tx-6188,2300,80,,,-,COG,Tchissanga,Base; 1,-,0.8,-4.539,11.798,,-,Ceramic Later Stone Age 2,(slag); (object),,-,Ia,,Denbow 1990; Eggert et al. 2006: 277 Tab. 2; Denbow 2012: 387 Tab. 1
-Tx-6189,1740,70,,,-,COG,Meningue,1,-,0.5,-4.274,11.772,,-,Herringbone,slag,,-,Ia,,Denbow 2012: 387 Tab. 1
-Tx-6256,2280,70,,,-,COG,Tchissanga,Est; N3/E140,-,0.45,-4.539,11.798,,-,Ceramic Later Stone Age 2,(slag); (object),Eg,,Ia,,Denbow 1990; Clist 2004/2005: Tab. 10; Eggert et al. 2006: 277 Tab. 2; Denbow 2012: 387 Tab. 1
+Tx-5956,2880,90,,,-,COG,Tchissanga,West; Unit 1,-,0.35,-4.539,11.798,,indet,Ceramic Later Stone Age 1,-,,-,IIa,potentially disputet; outlier and sample taken during rainy season under problematic conditions (Denbow 1990: 147),Denbow 1990: 152 Fig. 7; de Maret 1990: 450 Tab. 1; Denbow 2012: 387 Tab. 1
+Tx-5957,1720,80,,,Charcoal_endocarp_elaeis,COG,Madingo-Kayes,East,-,0.31,-4.432,11.696,-,-,Herringbone; (Spaced Curvilinear),-,,-,Ia,fragm. loupe cuive et fer en surface,Denbow 1990: 152 Fig. 7; Denbow 2012: 387 Tab. 1; Denbow 2014: 66
+Tx-5958,1810,60,,,Charcoal_endocarp_elaeis,COG,Madingo-Kayes,West; Unit 1,-,0.35,-4.432,11.696,-,-,Herringbone; (Spaced Curvilinear),-,,-,Ia,fragm. loupe cuive et fer en surface,Denbow 1990: 152 Fig. 7; de Maret 1990: 450 Tab. 1; Denbow 2012: 387 Tab. 1; Denbow 2014: 66
+Tx-6183,2110,60,,,-,COG,Tandou-Youmbi,-,Pit,0.425,-4.416,11.691,,(polished indet),Herringbone,-,,-,Ia,,Denbow 1990: 152 Fig. 7; Eggert et al. 2006: 276 Tab. 1; Denbow 2012: 387 Tab. 1
+Tx-6184,2450,70,,,-,COG,Tchissanga,West; N55/W3,-,0.25,-4.539,11.798,,-,Ceramic Later Stone Age 1,-,,-,Ia,,Denbow 1990: 152 Fig. 7; Denbow 2012: 387 Tab. 1
+Tx-6185,2530,60,,,-,COG,Tchissanga,West; N55/W1.5,-,0.25,-4.539,11.798,,-,Ceramic Later Stone Age 1,-,,-,Ia,,Denbow 1990: 152 Fig. 7; Denbow 2012: 387 Tab. 1
+Tx-6186,2250,60,,,-,COG,Tchissanga,Est; N1.5/E130,-,0.35,-4.539,11.798,,-,Ceramic Later Stone Age 2,(slag); (object),Eg,,Ia,,Denbow 1990: 152 Fig. 7; Clist 2004/2005: Tab. 10; Eggert et al. 2006: 277 Tab. 2; Denbow 2012: 387 Tab. 1
+Tx-6187,2520,60,,,-,COG,Tchissanga,Est; N1.5/E140,-,0.46,-4.539,11.798,,-,Ceramic Later Stone Age 2,-,,-,Ia,,Denbow 1990: 152 Fig. 7; Denbow 2012: 387 Tab. 1
+Tx-6188,2300,80,,,-,COG,Tchissanga,Base; 1,-,0.8,-4.539,11.798,,-,Ceramic Later Stone Age 2,(slag); (object),,-,Ia,,Denbow 1990: 152 Fig. 7; Eggert et al. 2006: 277 Tab. 2; Denbow 2012: 387 Tab. 1
+Tx-6189,1740,70,,,-,COG,Meningue,1,-,0.5,-4.274,11.772,,-,Herringbone,slag,,-,Ia,,Denbow 1990: 152 Fig. 7; Denbow 2012: 387 Tab. 1
+Tx-6256,2280,70,,,-,COG,Tchissanga,Est; N3/E140,-,0.45,-4.539,11.798,,-,Ceramic Later Stone Age 2,(slag); (object),Eg,,Ia,,Denbow 1990: 152 Fig. 7; Clist 2004/2005: Tab. 10; Eggert et al. 2006: 277 Tab. 2; Denbow 2012: 387 Tab. 1
 Tx-6689,1550,80,,,-,COG,Kayes,10N/0,-,0.85,-4.42,11.7,,-,Herringbone,-,,-,Ia,,Denbow 2012: 387 Tab. 1
 Tx-6690,2310,70,,,-,COG,Kayes,0/10W,-,0.55,-4.42,11.7,,indet,,-,-,-,Ib,,Denbow 2012: 387 Tab. 1
 Tx-6691,1720,70,,,-,COG,Kayes,19S/0,-,0.35,-4.42,11.7,,-,Herringbone,-,,-,Ia,,Denbow 2012: 387 Tab. 1
@@ -2181,7 +2181,7 @@ UCLA-716,1190,80,,,-,AGO,Dundo Airfield,-,Layer,-,-7.374,20.82,-,-,indet,-,-,,Ib
 UCLA-717,1010,80,,,-,AGO,Ricoco II,-,-,-,-7.467,20.85,-,-,indet,-,-,,Ib,,Berger et al. 1965: 358; van Noten 1982; de Maret 1990: 450 Tab. 1
 UCLA-718,465,80,,,-,AGO,Museque,-,-,,-10.833,19.167,,-,-,-,-,,Ic,,Berger et al. 1965: 359; van Noten 1982
 Uga-5688,2270,400,,,-,COG,Tchissanga,-,-,-,-4.539,11.798,-,indet,indet,-,-,,Ib,,de Maret 1990: 450 Tab. 1
-Uga-5720,2525,85,,,-,COG,Tchissanga,West,Pit,-,-4.539,11.798,,indet,Ceramic Later Stone Age 1,-,-,,Ia,,Denbow 1990; de Maret 1990: 450 Tab. 1
+Uga-5720,2525,85,,,-,COG,Tchissanga,West,Pit,-,-4.539,11.798,,indet,Ceramic Later Stone Age 1,-,-,,Ia,,Denbow 1990: 152 Fig. 7; de Maret 1990: 450 Tab. 1
 UtC-?1,4850,70,,AMS,,COG,Sinnda,SN 2,,2.34,-3.835,12.804,,,,,,,IIB,,Bertaux et al. 2000: 45 Tab. 2
 UtC-?2,1740,60,,AMS,,COG,Kitina,KT 3,,1.71,-4.267,12,,,,,,,IIB,,Bertaux et al. 2000: 45 Tab. 2
 UtC-2359,5240,70,,AMS,,COG,Sinnda,SN 2,,3.79,-3.835,12.804,,,,,,,IIB,,Vincens et al. 1994: 1523; 1525 Fig. 2; Vincens et al. 1998: 41 Tab. 1; Bertaux et al. 2000: 45 Tab. 2
