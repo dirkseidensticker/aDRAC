@@ -677,13 +677,13 @@ Gif-456,590,,,,Shell (River/Ocean),GAB,Cap Lopez,-,Layer,-,-0.773,8.781,-,-,-,-,
 Gif-457,1540,,,,Shell (River/Ocean),GAB,Cap Lopez,-,Layer,15,-0.773,8.781,-,-,-,-,-,,IIIb,,Clist 2004/2005: Annex 2
 Gif-459,4030,200,,,Charcoal,COG,Bitorri,Layer 17,Layer,-,-3.905,14.502,LSA,Tshitolian,-,-,-,,Ib,,"Emphoux 1970: 15; Kouyoumontzakis u.a. 1985; Lanfranchi 1987: 82; Mercader/Martí 2003: 82 Tab. 2.3"
 Gif-460,3930,200,,,Shell,COG,Bitorri,Layer 14,Layer,-,-3.905,14.502,LSA,Tshitolian,-,-,-,,IIIb,,"Emphoux 1970: 15; Kouyoumontzakis u.a. 1985; Lanfranchi 1987: 82; Mercader/Martí 2003: 82 Tab. 2.3"
-Gif-1636,7440,170,,,-,CAF,Beforo,-,-,,5.57,15.35,,-,-,-,-,,Ic,,de Bayle des Hermens 1975: 260; van Noten 1982; Zangato 2000: 25 Tab. 8
-Gif-1637,1920,100,,,Charcoal,CAF,Tia 1,-,Megalith,-,5.85,15.5,,-,-,-,-,,Ic,,de Bayle des Hermens 1975: 260; van Noten 1982
+Gif-1636,7680,170,,,-,CAF,Beforo,-,-,,5.57,15.35,,-,-,-,-,,Ic,,de Bayle des Hermens 1975: 260; van Noten 1982; David 1992: 72 Tab. 6; Zangato 2000: 25 Tab. 8
+Gif-1637,1922,100,,,Charcoal,CAF,Tia 1,-,Megalith,-,5.85,15.5,,-,-,-,-,,Ic,,de Bayle des Hermens 1975: 260; van Noten 1982; David 1992: 72 Tab. 6
 Gif-1688,1310,100,,,-,COG,Biala,-,grotte,-,-3.867,13.25,,-,-,slag,-,,Ib,,Kouyoumontzakis u.a. 1985; Pincon 1991a: 249 Tab. 1
-Gif-1887,2560,110,,,Charcoal,CAF,Be Yole,C3,Megalith,-,5.9,15.6,,-,-,-,-,,Ic,,de Bayle des Hermens 1975: 261; van Noten 1982; Zangato 2000: 25 Tab. 8
-Gif-1888,2200,110,,,Charcoal,CAF,Be Yole,C3,Megalith,-,5.9,15.6,,-,-,-,-,,Ic,,de Bayle des Hermens 1975: 261; van Noten 1982; Zangato 2000: 25 Tab. 8
-Gif-1889,2400,100,,,Charcoal,CAF,Zupaya,-,Megalith,-,5.58,15.34,,-,-,-,-,,Ic,,de Bayle des Hermens 1975: 261; van Noten 1982; Zangato 2000: 25 Tab. 8
-Gif-1890,6700,140,,,-,CAF,Zupaya,-,-,,5.58,15.34,,-,-,-,-,,Ic,,de Bayle des Hermens 1975: 261; van Noten 1982; Zangato 2000: 25 Tab. 8
+Gif-1887,2637,110,,,Charcoal,CAF,Be Yole,C3,Megalith,-,5.9,15.6,,-,-,-,-,,Ic,,de Bayle des Hermens 1975: 261; van Noten 1982; David 1992: 72 Tab. 6; Zangato 2000: 25 Tab. 8
+Gif-1888,2266,110,,,Charcoal,CAF,Be Yole,C3,Megalith,-,5.9,15.6,,-,-,-,-,,Ic,,de Bayle des Hermens 1975: 261; van Noten 1982; David 1992: 72 Tab. 6; Zangato 2000: 25 Tab. 8
+Gif-1889,2472,100,,,Charcoal,CAF,Zupaya,-,Megalith,-,5.58,15.34,,-,-,-,-,,Ic,,de Bayle des Hermens 1975: 261; van Noten 1982; David 1992: 72 Tab. 6; Zangato 2000: 25 Tab. 8
+Gif-1890,6901,140,,,-,CAF,Zupaya,-,-,,5.58,15.34,,-,-,-,-,,Ic,,de Bayle des Hermens 1975: 261; van Noten 1982; David 1992: 72 Tab. 6; Zangato 2000: 25 Tab. 8
 Gif-1914,6600,130,,,-,COG,Moussanda,-,-,,-4.017,13.933,,Tshitolian,-,-,-,,Ib,,Kouyoumontzakis u.a. 1985
 Gif-2202,8550,200,,,-,COG,Point-Noire,-,-,,-4.75,11.85,,-,-,-,-,,Ic,,van Noten 1982
 Gif-2203,8920,200,,,-,COG,Point-Noire,-,-,,-4.75,11.85,,-,-,-,-,,Ic,,van Noten 1982
@@ -2085,15 +2085,15 @@ SacA-64850,145,30,-24.9,AMS,Charcoal,CMR,Nachtigal,NAC B 82 (inside ceramic vess
 SacA-64851,160,30,-22.8,AMS,Charcoal,CMR,Nachtigal,NAC B 83 (inside cearmic vessel),Pit,1.1,4.35,11.633,-,-,indet,-,-,,Ib,,"Cagnato et al. 2022: Tab. 1"
 SI-2538,1270,60,,,-,CAF,Nana-Modé,-,-,,6.317,15.1,,-,-,-,-,,Ib,,David/Vidal 1977
 SI-2539,1288,60,,,-,CAF,Nana-Modé,-,-,,6.317,15.1,,-,-,-,-,,Ib,,David/Vidal 1977
-SI-2655,2485,60,,,,CAF,Betume,2,Layer,,6.17,15.23,,-,-,-,-,,IIIc,bulk sample (3 indiv samples),David 1992: 67
-SI-2658,3975,80,,,,CAF,Betume,3,Layer,,6.17,15.23,,-,-,-,-,,Ic,,David 1992: 68
+SI-2655,2560,60,,,,CAF,Betume,2,Layer,,6.17,15.23,,-,-,-,-,,IIIc,bulk sample (3 indiv samples),David 1992: 67
+SI-2658,4094,80,,,,CAF,Betume,3,Layer,,6.17,15.23,,-,-,-,-,,Ic,,David 1992: 68
 SI-2659,2485,40,,,,CAF,Betume,2,Layer,,6.17,15.23,,-,-,-,-,,Ic,,David 1992: 67
-SI-2661,4340,80,,,,CAF,Betume,3,Layer,,6.17,15.23,,-,-,-,-,,Ic,,David 1992: 67-68
-SI-2662,2960,110,,,,CAF,Balimbé 1,IIC,,,6.07,15.33,,,,,,,Ic,,David 1992: 69
-SI-2663,1500,60,,,,CAF,Balimbé 1,cist 3,,,6.07,15.33,,,,,,,Ic,,David 1992: 69
-SI-2664,1690,60,,,,CAF,Balimbé 1,3,Layer,,6.07,15.33,,,,,,,Ic,,David 1992: 69
-SI-2665,2560,70,,,,CAF,Balimbé 1,cist 2,,,6.07,15.33,,,,,,,Ic,,David 1992: 69
-SI-2666,2565,70,,,,CAF,Balimbé 1,cist 3,,,6.07,15.33,,,,,,,Ic,,David 1992: 69
+SI-2661,4470,80,,,,CAF,Betume,3,Layer,,6.17,15.23,,-,-,-,-,,Ic,,David 1992: 67-68
+SI-2662,2869,110,,,,CAF,Balimbé 1,IIC,,,6.07,15.33,,,,,,,Ic,,David 1992: 69
+SI-2663,1545,60,,,,CAF,Balimbé 1,cist 3,,,6.07,15.33,,,,,,,Ic,,David 1992: 69
+SI-2664,1730,60,,,,CAF,Balimbé 1,3,Layer,,6.07,15.33,,,,,,,Ic,,David 1992: 69
+SI-2665,2637,70,,,,CAF,Balimbé 1,cist 2,,,6.07,15.33,,,,,,,Ic,,David 1992: 69
+SI-2666,2642,70,,,,CAF,Balimbé 1,cist 3,,,6.07,15.33,,,,,,,Ic,,David 1992: 69
 SI-7062,20155,245,,,-,COD,Ishango,-,-,,-0.138,29.606,,indet,-,-,-,,Ib,,van Noten 1982
 SI-7064,23760,385,,,-,COD,Ishango,-,-,,-0.138,29.606,,indet,-,-,-,,Ib,,van Noten 1982
 SI-7065,19870,240,,,-,COD,Ishango,-,-,,-0.138,29.606,,indet,-,-,-,,Ib,,van Noten 1982
