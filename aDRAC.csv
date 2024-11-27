@@ -42,8 +42,8 @@ Arc-343,1900,50,,,Shell_Anadara senilis,GAB,Oveng 1,A22,Layer,-,0.479,9.517,,-,O
 Arc-373,2110,60,,,-,COG,Les Saras,-,-,-,-4.183,12.283,,-,-,slag,Eg,,Ib,,de Foresta et al. 1990: 10; Eggert 1993: 303
 Arc-490,1564,140,,,charcoal_wood,COG,Point-Noire,-,-,-,-4.75,11.85,-,,indet,-,-,,Ib,,Schwartz/Dechamps 1991
 Arc-530,2390,65,,,Charcoal_wood,GAB,Otoumbi 13,-,Pit,0.7,-0.076,11.097,,polished indet,Okala/Epona/Yindo,-,Eg,indet,Ia,"interpretation Clist: Archéologie, Néolithique Récent","Oslisly 1992; Clist 2004/2005:509 Tab. 6-56, Annex 2, Tab. 10"
-B-263,1240,120,,,Bone,COD,Sanga,18,Grave,-,-8.182,26.49,,-,indet,-,-,,Ib,,de Maret 1977: 324; de Maret et al. 1977: 487
-B-264,1070,200,,,Bone,COD,Sanga,10,Grave,-,-8.182,26.49,,-,-,-,-,,Ic,,de Maret 1977: 324; de Maret et al. 1977: 487
+B-263,1240,120,,,Bone,COD,Sanga,18,Burial,-,-8.182,26.49,,-,indet,-,-,,Ib,,de Maret 1977: 324; de Maret et al. 1977: 487
+B-264,1070,200,,,Bone,COD,Sanga,10,Burial,-,-8.182,26.49,,-,-,-,-,,Ic,,de Maret 1977: 324; de Maret et al. 1977: 487
 B-696,6780,150,,,-,COD,Mose,-,-,,-11.125,27.141,,-,-,-,-,,,,de Maret et al. 1977
 B-755,1700,100,,,Charcoal,RWA,Ndora,-,-,,-2.585,29.823,,-,-,-,-,,Ic,,de Maret et al. 1977
 B-758,1650,80,,,Charcoal,RWA,Cyamakuza,-,-,,-2.585,29.823,,-,-,-,-,,Ic,,de Maret et al. 1977
@@ -669,7 +669,7 @@ Erl-12261,1905,39,-26.4,,Charcoal,CMR,Nkpwala-Esse,NKP 08/6,Furnace,,2.97,12.069
 Erl-12262,1953,38,-25.7,,Charcoal,CMR,Nkpwala-Esse,NKP 08/8,Furnace,,2.97,12.069,,-,-,slag,-,,Ib,,Meyer et al. 2009
 Erl-12263,1933,39,-24.2,,Charcoal,CMR,Nkpwala-Esse,NKP 08/4,Pit,,2.97,12.069,,-,indet,-,-,,Ib,,Meyer et al. 2009
 Erl-12264,1960,39,-27.6,,Charcoal,CMR,Mouanko-Lobethal,LBT 99/2,-,,3.642,9.782,,-,Campo,slag?,-,,Ia,,Meister 2010: 241; Eggert/Seidensticker 2016:81 Tab. 4.2
-Erl-14116,831,46,,,Charcoal,CMR,Mouanko-Lobethal,LBT 98/9,Grave,-,3.642,9.782,,-,(Bidjouka),object,-,,IIa,,Eggert/Seidensticker 2016:81 Tab. 4.2
+Erl-14116,831,46,,,Charcoal,CMR,Mouanko-Lobethal,LBT 98/9,Burial,-,3.642,9.782,,-,(Bidjouka),object,-,,IIa,,Eggert/Seidensticker 2016:81 Tab. 4.2
 Erl-14118,2300,50,,,-,CMR,Mintyaminyoumin,MNT 08/1,Pit,,3.02,12.025,,-,indet,-,Pg,,Ib,,Kahlheber et al. 2014: 500 Tab. 4; Garcin et al. 2018
 Erl-17763,2201,52,-9.2,,Charcoal_seed_Pennisetum glaucum,COD,Boso-Njafo,BSN 85/1,-,,1.131,19.21,,-,Imbonga,-,-,,Ia,,Kahlheber et al. 2014: 500 Tab. 4
 Gif-?1,1280,80,,,Charcoal,CMR,Bankouop,-,-,-,5.633,10.583,,-,-,-,-,,IIb,disputed; no context,Holl 1991: 194f. Tab. 1; Garcin et al. 2018
@@ -1245,7 +1245,7 @@ KIA-12945,1800,27,,AMS,Charcoal,CMR,Mouanko-Lobethal,LBT 98/4,-,,3.642,9.782,,-,
 KIA-12946,8913,49,,AMS,Charcoal,CMR,Mouanko-Lobethal,LBT 98/3,-,,3.642,9.782,,-,-,-,-,,Ic,,Eggert 2002; Eggert/Seidensticker 2016:80 Tab. 4.2
 KIA-12947,8616,50,,AMS,-,CMR,Mouanko-Lobethal,LBT 98/2,-,,3.642,9.782,,-,-,-,-,,Ic,,Eggert 2002; Eggert/Seidensticker 2016:80 Tab. 4.2
 KIA-12948,155,30,,AMS,Charcoal,CMR,Lobethal,LBT 98/2,?,-,3.645,9.787,,-,indet,(slag/object),-,,Ib,,Meister 2010; Eggert/Seidensticker 2016:80 Tab. 4.2; Garcin et al. 2018
-KIA-12949,1888,29,,AMS,-,CMR,Mouanko-Lobethal,LBT 98/9,Grave,-,3.642,9.782,,-,indet,object,-,,Ib,,Eggert 2002: 520; Meister 2007: 46 Tab. 1; Eggert/Seidensticker 2016:81 Tab. 4.2
+KIA-12949,1888,29,,AMS,-,CMR,Mouanko-Lobethal,LBT 98/9,Burial,-,3.642,9.782,,-,indet,object,-,,Ib,,Eggert 2002: 520; Meister 2007: 46 Tab. 1; Eggert/Seidensticker 2016:81 Tab. 4.2
 KIA-24729,1770,27,,AMS,Charcoal,CMR,Akonétye,AKO 04/2,Pit,-,2.475,11.175,,-,indet,-,-,,Ib,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
 KIA-24730,1685,25,,AMS,Charcoal,CMR,Akonétye,AKO 04/2,Pit,-,2.475,11.175,,-,indet,-,-,,Ib,,Meister/Eggert 2008; Eggert/Seidensticker 2016:82 Tab. 4.2
 KIA-24731,1610,26,,AMS,Charcoal,CMR,Bwambe-Beach,BWB 04/1,Pit,-,2.899,9.901,,-,indet,(slag/object),-,,Ib,,Meister 2007; Eggert/Seidensticker 2016:83 Tab. 4.2
