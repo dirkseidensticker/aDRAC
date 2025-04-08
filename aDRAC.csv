@@ -49,8 +49,8 @@ B-755,1700,100,,,Charcoal,RWA,Ndora,-,-,,-2.585,29.823,,-,-,-,-,,Ic,,de Maret et
 B-758,1650,80,,,Charcoal,RWA,Cyamakuza,-,-,,-2.585,29.823,,-,-,-,-,,Ic,,de Maret et al. 1977
 B-759,80,80,,,-,COD,Mikweti,-,Furnace,-,-1.406,28.594,,-,indet,-,-,,Ib,contamination suggested by de Maret et al. 1977,Hiernaux/Maquet 1960; de Maret et al. 1977: 486
 B-760,760,160,,,-,COD,Katoto,-,Layer,-,-9.187,25.885,,-,-,-,-,,Ic,"ditch cutting into graves, post-date",Hiernaux et al. 1972; de Maret et al. 1977: 488
-B-8494,8930,40,,,,GEQ,Njuinye,,,,5.256,9.727,LSA,indet,,,,,Ib,,"Mercader/Martí 2003: 82 Tab. 2.3"
-B-128493,8670,40,,,,GEQ,Njuinye,,,,5.256,9.727,LSA,indet,,,,,Ib,,"Mercader/Martí 2003: 82 Tab. 2.3"
+B-8494,8930,40,,,,CMR,Njuinye,,,,5.256,9.727,LSA,indet,,,,,Ib,,"Mercader/Martí 2003: 82 Tab. 2.3"
+B-128493,8670,40,,,,CMR,Njuinye,,,,5.256,9.727,LSA,indet,,,,,Ib,,"Mercader/Martí 2003: 82 Tab. 2.3"
 Bdy-252,0,,,,-,CAF,Mondongué,-,-,-,3.65,18.56,,-,indet,slag,-,,,,Kote 1992: 117 Tab. 10; Gotilogué 2000: 256
 Bdy-253,140,240,,,-,CAF,Mondongué,-,-,-,3.65,18.56,,-,indet,slag,-,Capra/Ovis,Ib,,Kote 1992: 44; 124; Moga 2008
 Bdy-254,0,,,,-,CAF,Lingbangbo,fp,-,-,3.633,18.4,,-,-,-,-,,,,Kote 1992: 117 Tab. 10; Gotilogué 2000: 256
@@ -1630,10 +1630,10 @@ Os-21235,825,30,-26.5,,Charcoal_endocarp_canarium,COD,Matangai Turu Northwest,,B
 Os-21250,18000,100,,,Charcoal,COD,Makubasi SE,,Layer,,1.76,28.83,LSA,indet,,,,,Ia,,"Mercader et al. 2000; Mercader 2003: 101 Tab. 3-1; Mercader/Martí 2003: 82 Tab. 2.3"
 Os-21251,715,45,-28.14,,Charcoal,COD,Matangai Turu Northwest,,Layer,,2.17,28.6,,,,,Cs,,Ic,,"Mercader et al. 2001: 27 Tab. 1; Mercader/Martí 2003: 82 Tab. 2.3"
 Os-21408,2030,50,,,,GNQ,Mosumu,,,,1.727,10.078,,,,,,,Ib,,Martí 2003; Clist et al. 2023
-Os-21497,34700,560,,,,GEQ,Njuinye,,,,5.256,9.727,MSA,indet,,,,,Ib,,"Mercader/Martí 2003: 82 Tab. 2.3"
+Os-21497,34700,560,,,,CMR,Njuinye,,,,5.256,9.727,MSA,indet,,,,,Ib,,"Mercader/Martí 2003: 82 Tab. 2.3"
 Os-21911,1810,40,,,,GNQ,Mosumu,,,,1.727,10.078,,,,,,,Ib,,Martí 2003; Clist et al. 2023
 Os-22141,1780,85,,,,GNQ,Mosumu,,,,1.727,10.078,,,,,,,Ib,,Martí 2003; Clist et al. 2023
-Os-22245,17800,180,,,,GEQ,Njuinye,,,,5.256,9.727,LSA,indet,,,,,Ib,,"Mercader/Martí 2003: 82 Tab. 2.3"
+Os-22245,17800,180,,,,CMR,Njuinye,,,,5.256,9.727,LSA,indet,,,,,Ib,,"Mercader/Martí 2003: 82 Tab. 2.3"
 Os-22248,1620,50,,,,GNQ,Mosumu,,,,1.727,10.078,,,,,,,Ib,,Martí 2003; Clist et al. 2023
 Os-22249,1830,40,,,,GNQ,Mosumu,,,,1.727,10.078,,,,,,,Ib,,Martí 2003; Clist et al. 2023
 Os-22250,2750,40,,,,GNQ,Mosumu,,,,1.727,10.078,,,,,,,Ib,,Martí 2003; Clist et al. 2023
