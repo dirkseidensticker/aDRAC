@@ -12,9 +12,9 @@ library(ggplot2)
 library(ggrepel)
 library(tidyverse)
 library(sf)
+library(terra)
 library(raster)
 library(rnaturalearth)
-library(rgdal)
 library(scales)
 
 # aDRAC dataset
@@ -33,6 +33,10 @@ coast10 <- ne_download(scale = 10, type = 'coastline', category = 'physical', re
 land10 <- ne_download(scale = 10, type = 'land', category = 'physical', returnclass = "sf")
 boundary_lines_land10 <- ne_download(scale = 10, type = 'boundary_lines_land', category = 'cultural', returnclass = "sf")
 
+# world data:
+africa = spData::world %>% 
+  dplyr::filter(continent == "Africa") #, !is.na(iso_a2))
+
 # landcover data from "Global Land Cover 2000 Project (GLC 2000)" https://ec.europa.eu/jrc/en/scientific-tool/global-land-cover
 
 temp <- tempfile()
@@ -40,33 +44,31 @@ download.file("https://forobs.jrc.ec.europa.eu/data/products/glc2000/Africa_v5_G
 unzip(temp)
 unlink(temp)
 dpath <- "Grid/africa_v5/hdr.adf"
-x <- new("GDALReadOnlyDataset", dpath)
-getDriver(x)
-getDriverLongName(getDriver(x))
+hdr <- terra::rast(dpath)
 
-hdr <- asSGDF_GROD(x)
-hdr <- raster(hdr)
+bands <- foreign::read.dbf("Grid/Africa_v5_legend.dbf")
 
 # extent: xmin,xmax,ymin,ymax
-e  <- extent(5, 33, -17, 13) 
-rfs <- crop(hdr, e) 
-rfs.p <- rasterToPoints(rfs)
+e  <- raster::extent(5, 33, -17, 13) 
+rfs <- raster::crop(hdr, e) 
+
+rfs.p <- terra::as.data.frame(rfs, xy = TRUE)
 
 # Make the points a dataframe for ggplot & subset rainforest bands 1-7
-rfs.bd1.7 <- data.frame(rfs.p)
-rfs.bd1.7 <- subset(rfs.bd1.7, band1 >= 1 & band1 <= 7)
+rfs.bd1.7 <- dplyr::filter(rfs.p, CLASSNAMES %in% c(
+  bands %>% 
+    dplyr::filter(VALUE >= 1 & VALUE <= 7) %>%
+    dplyr::pull(CLASSNAMES)
+))
 
 # Swamp forest
-rfs.bd5 <- data.frame(rfs.p)
-rfs.bd5 <- subset(rfs.bd5, band1 == 5)
+rfs.bd5 <- dplyr::filter(rfs.p, CLASSNAMES == "Swamp forest")
 
-# swamp buchland and grassland
-rfs.bd17 <- data.frame(rfs.p)
-rfs.bd17 <- subset(rfs.bd17, band1 == 17)
+# Swamp bushland and grassland
+rfs.bd17 <- dplyr::filter(rfs.p, CLASSNAMES == "Swamp bushland and grassland")
 
 # water
-rfs.bd26 <- data.frame(rfs.p)
-rfs.bd26 <- subset(rfs.bd26, band1 == 26)
+rfs.bd26 <- dplyr::filter(rfs.p, CLASSNAMES == "Waterbodies")
 ```
 
 The *archive for radiocarbon datings from Central Africa* (aDRAC) provides a catalogue of available radiocarbon dates from Central Africa. The data cover published radiocarbon dates and essential metadata for each date as well as available references.
@@ -235,6 +237,51 @@ table(a$CLASS) %>%
 ### Coordinates
 
 All geo-coordinates included within **aDRAC** are either obtained from the published sources that contained the radiocarbon dates itself or were derived by searching for the name of the site in [geonames.org](http://www.geonames.org/). If published the coordinates were converted into WGS84 (EPSG:4326). Coordinates are rounded to three degrees, giving a rough precision of about 100m.
+
+```{r Countries, fig.height = 5, fig.width = 6, fig.align = "center", echo=FALSE, message=FALSE, warning=FALSE}
+country.n <- table(a$COUNTRY) %>%
+  as.data.frame() %>% 
+  dplyr::mutate(
+    Var1 = dplyr::case_when(
+      Var1 == 'CMR' ~ 'Cameroon', 
+      Var1 == 'CAF' ~ 'Central African Republic',
+      Var1 == 'GNQ' ~ 'Equatorial Guinea',
+      Var1 == 'COD' ~ 'Democratic Republic of the Congo',
+      Var1 == 'GAB' ~ 'Gabon',
+      Var1 == 'COG' ~ 'Republic of the Congo',
+      Var1 == 'AGO' ~ 'Angola',
+      Var1 == 'BDI' ~ 'Burundi',
+      Var1 == 'RWA' ~ 'Rwanda',
+      Var1 == 'TCD' ~ 'Chad')) %>%
+  dplyr::rename("name_long" = "Var1")
+
+country.n.sf <- africa %>%
+  dplyr::left_join(country.n, by = "name_long") %>%
+  dplyr::filter(!is.na(Freq)) %>%
+  sf::st_centroid()
+
+ggplot() + 
+  geom_sf(
+    data = africa, 
+    fill = "white"
+  ) + 
+  geom_sf(
+    data = africa %>% 
+      dplyr::filter(name_long %in% unique(country.n.sf$name_long))) +
+  # geom_sf(
+  #   data = country.n.sf, 
+  #   aes(size = Freq)) + 
+  geom_sf_label(
+    data = country.n.sf, 
+    aes(label = Freq, size = Freq)) + 
+  scale_size_continuous(range = c(3, 6)) + 
+  coord_sf(xlim = c(6, 32), 
+           ylim = c(-16, 16)) + 
+  theme_bw() + 
+  theme(legend.position = "none",
+        panel.background = element_rect(fill = "#dff1f9"), 
+        axis.title = element_blank())
+```
 
 ## c14bazAAR
 
