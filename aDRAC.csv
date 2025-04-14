@@ -1875,14 +1875,6 @@ Poz-74507,165,30,,AMS,-,CMR,Dibamba,F. 84B (20-60 cm),Pit,0.4,3.996,9.822,,-,(Di
 Poz-74508,435,30,,AMS,-,CMR,Dibamba,F. 69 (0-50 cm),Pit,0.25,3.996,9.822,,-,Dibamba B,-,,-,Ia,,de Saulieu et al. 2017: 25 Tab. 1
 Poz-74509,420,30,,AMS,-,CMR,Dibamba,F. 67 (0-30 cm),Pit,0.15,3.996,9.822,,-,Dibamba B,-,,-,Ia,,de Saulieu et al. 2017: 25 Tab. 1
 Poz-74510,520,30,,AMS,-,CMR,Dibamba,F. 38B (30-67 cm),Pit,0.485,3.996,9.822,,-,Dibamba B,-,,-,Ia,,de Saulieu et al. 2017: 25 Tab. 1
-Poz-75419,1710,30,,AMS,Charcoal_wood,COD,Kitala,T02 A2,Pit,0.44,-5.551,14.868,,-,Kitala,slag,,-,Ia,,"Clist 2018: 238 Tab. 18.1, 239 Tab. 18.3"
-Poz-75420,1680,30,,AMS,Charcoal_wood,COD,Kitala,T06 A'19,Pit,0.55,-5.551,14.868,,-,Kitala,slag,,-,Ia,,"Clist 2018: 238 Tab. 18.1, 239 Tab. 18.3"
-Poz-75421,190,30,,AMS,Charcoal_wood,COD,Kindoki,T79 A1,Pit,1.15,-5.07,15.01,,-,Kongo C/Group III,-,,-,Ia,,Clist 2018: 237 Tab. 18.1; Clist et al. 2018: 261
-Poz-75422,335,30,,AMS,Charcoal_wood,COD,Kindoki,T100 A'2,Pit,1.15,-5.07,15.01,,-,Kongo A/Group IV; Kongo B/Group V; Kongo C/Group III; Kongo D,-,,-,Ia,,"Clist 2018: 237 Tab. 18.1; Clist et al. 2018: 258 Tab. 19.3, 261, 274 Tab. 19.6"
-Poz-75423,565,30,,AMS,Charcoal_wood,COD,Kindoki,T100 B'1,Pit,1.35,-5.07,15.01,,-,Kindoki,-,,-,Ia,,"Clist 2018: 237 Tab. 18.1; Clist et al. 2018: 245, 254 Tab. 19.2"
-Poz-75451,370,30,,AMS,charcoal_wood,COD,Yangambi,YAN-05,Pedoanthracological trench,0.45,0.768,24.44,,-,Ilambi,-,Eg,,Ia,,"Livingstone-Smith et al. 2017: 98 Tab. 1, 111 Fig. 23"
-Poz-75452,1670,30,,AMS,charcoal_wood,COD,Yangambi,YAN-05,Pedoanthracological trench,0.65,0.768,24.44,,-,Middle Pottery Phase,-,Eg,,Ia,double date within spit,"Livingstone-Smith et al. 2017: 98 Tab. 1, 111 Fig. 23"
-Poz-75462,1230,30,,AMS,charcoal_wood,COD,Yangambi,YAS-02,Pedoanthracological trench,0.55,0.768,24.44,(MIA),-,Ilambi,-,Eg,,Ia,double date within spit,"Livingstone-Smith et al. 2017: 98 Tab. 1, 111 Fig. 23"
 Poz-74815,2040,60,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 12/1/1-25,Pit,0.635,-0.035,18.186,EIA,-,Imbonga,-,Pg,-,Ia,,Neumann et al. 2022 Tab. 1 & 2
 Poz-74816,2180,50,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 12/1/1-27,Pit,0.755,-0.035,18.186,EIA,-,Imbonga,-,Pg,-,Ia,,Neumann et al. 2022 Tab. 1 & 2
 Poz-74817,1960,40,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/1/6-64,Pit,0.735,-0.035,18.186,EIA,-,(Imbonga); (Bokuma),-,Pg,-,Ic,,Neumann et al. 2022 Tab. 1 & 2
@@ -1907,6 +1899,14 @@ Poz-74918,2180,30,-,AMS,Charcoal_endocarp,COD,Iyonda,IYO 15/2/4-184,Pit,2.035,-0
 Poz-74919,2185,30,-,AMS,Charcoal,COD,Iyonda,IYO 15/2/4-269,Pit,2.83,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
 Poz-74979,2210,30,-,AMS,Charcoal_endocarp,COD,Iyonda,IYO 15/2/4-245,Pit,2.565,-0.035,18.186,EIA,-,Imbonga,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
 Poz-75080,40,30,-,AMS,Charcoal_endocarp_elaeis,COD,Iyonda,IYO 15/1/3-9,Pit,0.33,-0.035,18.186,LIA,-,Botendo,-,-,-,Ia,,Neumann et al. 2022 Tab. 1
+Poz-75419,1710,30,,AMS,Charcoal_wood,COD,Kitala,T02 A2,Pit,0.44,-5.551,14.868,,-,Kitala,slag,,-,Ia,,"Clist 2018: 238 Tab. 18.1, 239 Tab. 18.3"
+Poz-75420,1680,30,,AMS,Charcoal_wood,COD,Kitala,T06 A'19,Pit,0.55,-5.551,14.868,,-,Kitala,slag,,-,Ia,,"Clist 2018: 238 Tab. 18.1, 239 Tab. 18.3"
+Poz-75421,190,30,,AMS,Charcoal_wood,COD,Kindoki,T79 A1,Pit,1.15,-5.07,15.01,,-,Kongo C/Group III,-,,-,Ia,,Clist 2018: 237 Tab. 18.1; Clist et al. 2018: 261
+Poz-75422,335,30,,AMS,Charcoal_wood,COD,Kindoki,T100 A'2,Pit,1.15,-5.07,15.01,,-,Kongo A/Group IV; Kongo B/Group V; Kongo C/Group III; Kongo D,-,,-,Ia,,"Clist 2018: 237 Tab. 18.1; Clist et al. 2018: 258 Tab. 19.3, 261, 274 Tab. 19.6"
+Poz-75423,565,30,,AMS,Charcoal_wood,COD,Kindoki,T100 B'1,Pit,1.35,-5.07,15.01,,-,Kindoki,-,,-,Ia,,"Clist 2018: 237 Tab. 18.1; Clist et al. 2018: 245, 254 Tab. 19.2"
+Poz-75451,370,30,,AMS,charcoal_wood,COD,Yangambi,YAN-05,Pedoanthracological trench,0.45,0.768,24.44,,-,Ilambi,-,Eg,,Ia,,"Livingstone-Smith et al. 2017: 98 Tab. 1, 111 Fig. 23"
+Poz-75452,1670,30,,AMS,charcoal_wood,COD,Yangambi,YAN-05,Pedoanthracological trench,0.65,0.768,24.44,,-,Middle Pottery Phase,-,Eg,,Ia,double date within spit,"Livingstone-Smith et al. 2017: 98 Tab. 1, 111 Fig. 23"
+Poz-75462,1230,30,,AMS,charcoal_wood,COD,Yangambi,YAS-02,Pedoanthracological trench,0.55,0.768,24.44,(MIA),-,Ilambi,-,Eg,,Ia,double date within spit,"Livingstone-Smith et al. 2017: 98 Tab. 1, 111 Fig. 23"
 Poz-76918,540,30,,,Charcoal_wood,COD,Kazu 6,T01 S,Furnace,0.35,-5.523,13.731,,-,indet,slag,,-,Ib,Po: indet Kongo style,"Clist 2018: 237 Tab. 18.1, 254 Tab. 19.2"
 Poz-76919,610,30,,,Charcoal_wood,COD,Kazu 6,T03 S,Furnace,0.5,-5.523,13.731,,-,indet,slag,,-,Ib,Po: indet Kongo style,"Clist 2018: 237 Tab. 18.1, 254 Tab. 19.2"
 Poz-76920,1750,30,,,Charcoal_endocarp_canarium,COD,Kindu,T09 C4,Layer,0.25,-4.951,13.613,,-,Kay Ladio,tuyère; slag; object,Cs,,Ia,,"Clist 2018: 237 Tab. 18.1, 239 Tab. 18.3; Clist et al. 2019: 15"
