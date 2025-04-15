@@ -1,4 +1,8 @@
 
+<p align="center">
+<img src="logo.png" width = 200>
+</p>
+
 # aDRAC (*Archive des datations radiocarbones d’Afrique centrale*)
 
 [![DOI](https://zenodo.org/badge/56459302.svg)](https://zenodo.org/badge/latestdoi/56459302)
