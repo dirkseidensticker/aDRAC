@@ -583,13 +583,40 @@ Beta-498049,200,30,,,-,CMR,Lom Pangar,CCA 538,-,,5.38,13.5,,,,,,,Ic,,Clist et al
 Beta-498050,145,30,,,-,CMR,Lom Pangar,CCA 555,-,,5.38,13.5,,,,,,,Ic,,Clist et al. 2023
 Beta-498051,165,30,,,-,CMR,Lom Pangar,CRA 77,-,,5.38,13.5,,,,,,,Ic,,Clist et al. 2023
 Beta-529832,950,30,-33.3,AMS,caryopsis_indet,COD,Iyonda,IYO 17/1-20,Colluvium,0.285,-0.035,18.186,LIA,-,mixed,-,-,-,IIa,,Neumann et al. 2022 Tab. 1
-Beta-630482,1250,30,-,AMS,Charcoal_wood,COD,Esal,Tr30,Layer,0.3,-4.983,19.583,,,,,,,Ib,,Coutros et al. 2024: 6 Tab. 1
-Beta-630484,122,0.46,-,AMS,Charcoal_wood,COD,Okwon,Tr11,Layer,0.1,-4.997,19.601,,,,,,,Ib,,Coutros et al. 2024: 6 Tab. 1
-Beta-630485,350,30,-,AMS,Charcoal_wood,COD,Okwon,Tr11,Layer,0.3,-4.997,19.601,,,,,,,Ib,,Coutros et al. 2024: 6 Tab. 1
+Beta-630481,2020,30,,AMS,Charcoal,COD,Kintambu,1,Layer,0.9,−4.818,18.717,,,indet,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+Beta-630482,1250,30,-,AMS,Charcoal_wood,COD,Esal,30,Layer,0.35,-4.983,19.583,,,,,,,Ib,,Coutros et al. 2024: 6 Tab. 1; Coutros et al. 2025: 593 Tab. A2.1
+Beta-630483,210,30,,AMS,Charcoal,COD,Kintambu,1,Layer,0.5,−4.818,18.717,,,indet,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+Beta-630484,122,,-,AMS,Charcoal_wood,COD,Okwon,11,Layer,0.1,-4.997,19.601,,,,,,,Ib,,Coutros et al. 2024: 6 Tab. 1; Coutros et al. 2025: 595 Tab. A2.1
+Beta-630485,350,30,-,AMS,Charcoal_wood,COD,Okwon,11,Layer,0.3,-4.997,19.601,,,,,,,Ib,,Coutros et al. 2024: 6 Tab. 1; Coutros et al. 2025: 595 Tab. A2.1
+Beta-648803,3880,30,,AMS,Charcoal_wood,COD,Luani,5,Layer,0.76,−3.351,17.36,,indet,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+Beta-648804,3910,30,,AMS,Charcoal_wood,COD,Luani,5,Layer,0.68,−3.351,17.36,,indet,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+Beta-648805,3890,30,,AMS,Charcoal_wood,COD,Luani,5,Layer,0.75,−3.351,17.36,,indet,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+Beta-648806,3500,30,,AMS,Charcoal_wood,COD,Luani,9,Layer,0.6,−3.351,17.36,,indet,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+Beta-648807,2190,30,,AMS,Charcoal_wood,COD,Lukombe,1,Layer,0.75,−4.241,18.388,,,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+Beta-648808,2080,30,,AMS,Charcoal_wood,COD,Lukombe,1,Layer,0.77,−4.241,18.388,,,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+Beta-648809,2080,30,,AMS,Charcoal_wood,COD,Lukombe,1,Layer,0.78,−4.241,18.388,,,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+Beta-648810,1910,30,,AMS,Charcoal_wood,COD,Kikundi,4,Layer,0.35,−4.679,18.729,,,,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+Beta-648811,1930,30,,AMS,Charcoal_wood,COD,Kikundi,4,Layer,0.9,−4.679,18.729,,,,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+Beta-648812,2020,30,,AMS,Charcoal_wood,COD,Kikundi,6,Layer,0.9,−4.679,18.729,,,,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+Beta-648813,1950,30,,AMS,Charcoal_wood,COD,Kikundi,6,Layer,1.1,−4.679,18.729,,,,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+Beta-648814,2060,30,,AMS,Charcoal_wood,COD,Kikundi,9,Layer,1,−4.679,18.729,,,,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+Beta-648815,170,30,,AMS,Charcoal_wood,COD,Mfubakwan,1,Layer,0.4,−3.832,18.016,,,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+Beta-648821,170,30,,AMS,Charcoal_wood,COD,Mfubakwan,2,Layer,0.51,−3.832,18.016,,,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+Beta-648822,1560,30,,AMS,Charcoal_wood,COD,Bagat Mukea,1,Layer,1.1,−3.703,17.907,,,indet,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+Beta-648823,1530,30,,AMS,Charcoal_wood,COD,Bagat Mukea,1,Layer,0.7,−3.703,17.907,,,indet,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+Beta-648824,1980,30,,AMS,Charcoal_wood,COD,Bagat Mukea,1,Layer,0.65,−3.703,17.907,,,indet,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+Beta-648825,120,30,,AMS,Charcoal_wood,COD,Tshumbane,1,Layer,0.73,-4.008,18.16,,,indet,,,,Ib,,Coutros et al. 2025: 595 Tab. A2.1
+Beta-648826,120,30,,AMS,CharCharcoal_woodcoal,COD,Mushie,3,Layer,0.5,−3.02,16.922,,,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+Beta-648827,1970,30,,AMS,Charcoal_wood,COD,Kondji,1,Layer,0.6,−4.4,18.439,,,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+Beta-648828,330,30,,AMS,Charcoal_wood,COD,Mashita Mbanza,2,Layer,1.22,−5.65,18.89,,indet,indet,slag,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+Beta-648829,330,30,,AMS,Charcoal_wood,COD,Mashita Mbanza,1,Layer,2,−5.65,18.89,,indet,indet,slag,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+Beta-648830,105,,,AMS,Charcoal_wood,COD,Mfubakwan,4,Layer,0.6,−3.832,18.016,,,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+Beta-648831,370,30,,AMS,Charcoal_wood,COD,Mashita Mbanza,3,Layer,0.34,−5.65,18.89,,indet,indet,slag,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+Beta-648832,180,30,,AMS,Charcoal_wood,COD,Kabombo La Voix,1,Layer,0.4,−4.328,20.019,,,indet,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
 BM-2425,4180,160,,,-,CMR,Mbi Crater,7C,-,0.2,6.089,10.349,,-,-,-,-,,Ib,,Asombang 1998: 210
 BM-2426,2770,120,,,-,CMR,Mbi Crater,7C,-,0.5,6.089,10.349,,-,-,-,-,,Ib,,Asombang 1998: 210
-BM-2495,40,40,,,Charcoal,CMR,Shum Laka,"Upper Horizon of the Gray Ash Layer, sector1",-,0.05,5.859,10.078,Iron Age 2,(indet),Iron Age 2,-,Cs; Eg,,Ia,,Lavachery 1997: 175 & Fig. XI.5; Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
-BM-2496,6360,100,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer,-,0.6,5.859,10.078,SMA 1,indet,-,-,Cs,,Ia,Lavachery 1997: 174 & Fig. XI.3,Asombang 1988; Lavachery 1997: 174 & Fig. XI.3; Lavachery 2001: 219 Tab. 1
+BM-2495,40,40,,,Charcoal_wood,CMR,Shum Laka,"Upper Horizon of the Gray Ash Layer, sector1",-,0.05,5.859,10.078,Iron Age 2,(indet),Iron Age 2,-,Cs; Eg,,Ia,,Lavachery 1997: 175 & Fig. XI.5; Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
+BM-2496,6360,100,,,Charcoal_wood,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer,-,0.6,5.859,10.078,SMA 1,indet,-,-,Cs,,Ia,Lavachery 1997: 174 & Fig. XI.3,Asombang 1988; Lavachery 1997: 174 & Fig. XI.3; Lavachery 2001: 219 Tab. 1
 Bon-599,1640,520,,,Sediment_wet,GAB,Bras mort Ogooue,-,Layer,5,0.667,12.833,-,-,-,-,-,,IIIc,"interpretation Clist: Environnement",Clist 2004/2005: Annex 2
 C-580,11189,490,,,-,AGO,Mufo,-,-,,-7.517,21.417,,Tshitolian/Lupemban,-,-,-,,Ib,,Clark 1963; Cahen/Moeyersons 1977: 813 Tab. 1; de Maret et al. 1977: 491; Cahen et al. 1983: 447 Tab. 2
 C-581,14503,560,,,-,AGO,Mufo,-,-,,-7.517,21.417,,Upper Lupemban,-,-,-,,Ib,14483bp?,Clark 1963; Cahen/Moeyersons 1977: 813 Tab. 1; de Maret et al. 1977: 491; Cahen et al. 1983: 447 Tab. 2
@@ -2021,13 +2048,22 @@ RICH-27379,12268,37,-24.95,AMS,Charcoal_wood,COD,Mukila,MUK 2018/1030/10,Layer,3
 RICH-27380,2176,25,-23.83,AMS,Charcoal_wood,COD,Mukila,MUK 2018/1030/10,Layer,1,-5.0156,16.9862,,-,-,-,Cs,,Ia,,Jungnickel et al. 2024
 RICH-27381,3430,26,-22.91,AMS,Charcoal_wood,COD,Mukila,MUK 2018/1030/10,Layer,0.8,-5.0156,16.9862,,indet,-,-,Eg,,Ia,,Jungnickel et al. 2024
 RICH-27410,3311,26,-23.01,AMS,Charcoal_wood,COD,Mukila,MUK 2018/1030/10,Layer,1.2,-5.0156,16.9862,,indet,-,-,Cs,,Ia,,Jungnickel et al. 2024
-RICH-27763,1194,26,-,AMS,Charcoal_wood,COD,Okwon,Tr05,Layer,0.9,-4.997,19.601,,-,(indet),-,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
-RICH-27764,1903,25,-,AMS,Charcoal_wood,COD,Okwon,Tr16,Layer,0.65,-4.997,19.601,,-,indet,slag,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
-RICH-27765,1977,26,-,AMS,Charcoal_wood,COD,Okwon,Tr11,Layer,0.7,-4.997,19.601,,(indet),indet,slag,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
-RICH-27766,2019,25,-,AMS,Charcoal_wood,COD,Okwon,Tr12,Layer,0.75,-4.997,19.601,,-,indet,slag,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
-RICH-27767,2052,26,-,AMS,Charcoal_wood,COD,Nkar,Tr41,Layer,0.95,-4.988,19.594,,(indet),indet,-,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
-RICH-27768,1938,25,-,AMS,Charcoal_wood,COD,Nkar,Tr47,Layer,0.9,-4.988,19.594,,-,indet,-,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
-RICH-27769,2103,25,-,AMS,Charcoal_wood,COD,Nkar,Tr42,Layer,1.1,-4.988,19.594,,(indet),indet,slag,-,,Ib,,Coutros et al. 2024: 6 Tab. 1
+RICH-27763,1194,26,-,AMS,Charcoal_wood,COD,Okwon,05,Layer,0.9,-4.997,19.601,,-,(indet),-,-,,Ib,,Coutros et al. 2024: 6 Tab. 1; Coutros et al. 2025: 595 Tab. A2.1
+RICH-27764,1903,25,-,AMS,Charcoal_wood,COD,Okwon,16,Layer,0.65,-4.997,19.601,,-,indet,slag,-,,Ib,,Coutros et al. 2024: 6 Tab. 1; Coutros et al. 2025: 595 Tab. A2.1
+RICH-27765,1977,26,-,AMS,Charcoal_wood,COD,Okwon,11,Layer,0.7,-4.997,19.601,,(indet),indet,slag,-,,Ib,,Coutros et al. 2024: 6 Tab. 1; Coutros et al. 2025: 595 Tab. A2.1
+RICH-27766,2019,25,-,AMS,Charcoal_wood,COD,Okwon,12,Layer,0.75,-4.997,19.601,,-,indet,slag,-,,Ib,,Coutros et al. 2024: 6 Tab. 1; Coutros et al. 2025: 595 Tab. A2.1
+RICH-27767,2052,26,-,AMS,Charcoal_wood,COD,Nkar,41,Layer,0.95,-4.989,19.593,,(indet),indet,-,-,,Ib,,Coutros et al. 2024: 6 Tab. 1; Coutros et al. 2025: 594 Tab. A2.1
+RICH-27768,1938,25,-,AMS,Charcoal_wood,COD,Nkar,47,Layer,0.9,-4.989,19.593,,-,indet,-,-,,Ib,,Coutros et al. 2024: 6 Tab. 1; Coutros et al. 2025: 595 Tab. A2.1
+RICH-27769,2103,25,-,AMS,Charcoal_wood,COD,Nkar,42,Layer,1.1,-4.989,19.593,,(indet),indet,slag,-,,Ib,,Coutros et al. 2024: 6 Tab. 1; Coutros et al. 2025: 595 Tab. A2.1
+RICH-29609,1695,24,-,AMS,Charcoal_wood,COD,Salaminta,5,Layer,0.3,-3.393,18.065,,indet,indet,,-,,Ib,,Coutros et al. 2025: 595 Tab. A2.1
+RICH-29610,242,24,,AMS,Charcoal_wood,COD,Ngiebun,1,Layer,0.5,−3.758,19.035,,,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+RICH-29611,881,23,-,AMS,Charcoal_wood,COD,Ntswo,4,Layer,0.1,-3.482,18.281,,indet,indet,,-,,Ib,,Coutros et al. 2025: 595 Tab. A2.1
+RICH-29612,1943,24,,AMS,Charcoal_wood,COD,Bosuka,1,Layer,0.1,−3.369,17.757,,indet,indet,,,,Ic,,Coutros et al. 2025: 593 Tab. A2.1
+RICH-29617,1850,24,-,AMS,Charcoal_wood,COD,Ntabitele,2,Layer,0.9,-3.807,19.127,,,indet,,-,,Ib,,Coutros et al. 2025: 595 Tab. A2.1
+RICH-29618,365,23,-,AMS,Charcoal_wood,COD,Salaminta,4,Layer,0.6,-3.393,18.065,,indet,indet,,-,,Ib,,Coutros et al. 2025: 595 Tab. A2.1
+RICH-29619,2026,26,-,AMS,Charcoal_wood,COD,Ntabitele,3,Layer,1.1,-3.807,19.127,,,indet,,-,,Ib,,Coutros et al. 2025: 595 Tab. A2.1
+RICH-29620,1569,25,-,AMS,Charcoal_wood,COD,Ntswo,1,Layer,0.5,-3.482,18.281,,indet,indet,,-,,Ib,,Coutros et al. 2025: 595 Tab. A2.1
+RICH-29621,402,23,-,AMS,Charcoal_wood,COD,Salaminta,4,Layer,0.6,-3.393,18.065,,indet,indet,,-,,Ib,,Coutros et al. 2025: 595 Tab. A2.1
 RICH-30594,4581,34,-21.3,AMS,Charcoal_wood,COD,Mukila,MUK1952/F-J,Layer,1.44,-5.0156,16.9862,,indet,-,-,,,Ia,,Jungnickel et al. 2024
 RICH-30595,32724,339,-24.8,AMS,Charcoal_wood,COD,Mukila,MUK1952/M,Layer,4.45,-5.0156,16.9862,,indet,-,-,,,Ia,,Jungnickel et al. 2024
 RICH-30596,10103,59,-24.8,AMS,Charcoal_wood,COD,Mukila,MUK 2018/1030/10,Layer,2.4,-5.0156,16.9862,,indet,-,-,,,Ia,,Jungnickel et al. 2024
@@ -2035,10 +2071,32 @@ RICH-30864,1850,24,-26.6,AMS,Foodcrust,COG,Pikunda,PIK 87/1,,1.82,0.55,16.636,,,
 RICH-30865,192,22,-26.2,AMS,Foodcrust,COG,Munda,MUN 87/1-0-2,,0.65,1.163,17.357,,,Ebambe,,,,Ia,,Seidensticker 2024: Tab. 2
 RICH-30866,328,22,-26.1,AMS,Foodcrust,COG,Munda,MUN 87/1-0-2,,0.3,1.163,17.357,,,Ebambe,,,,Ia,,Seidensticker 2024: Tab. 2
 RICH-30867,841,24,-25.7,AMS,Foodcrust,COG,Ngombe,NGO 87/102,,0.3,0.37,16.99,,,Ngombe,,,,Ia,,Seidensticker 2024: Tab. 2
-RICH-30973,12921,38,,AMS,Charcoal,COD,Mitshakila,2,Layer,0.38,-4.66,18.73,,indet,,,,,Ia,,Mesfin et al. 2025: 3 Tab. 1
-RICH-30973,12494,37,,AMS,Charcoal,COD,Mitshakila,2,Layer,0.41,-4.66,18.73,,indet,,,,,Ia,,Mesfin et al. 2025: 3 Tab. 1
+RICH-30960,3778,26,,AMS,Charcoal_wood,COD,Luani,2,Layer,0.7,−3.351,17.36,,indet,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+RICH-30961,1812,23,,AMS,Charcoal_wood,COD,Luani,3,Layer,0.7,−3.351,17.36,,indet,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+RICH-30962,1922,24,,AMS,Charcoal_wood,COD,Luani,4,Layer,0.5,−3.351,17.36,,indet,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+RICH-30963,313,22,,AMS,Charcoal_wood,COD,Kimvula,1,Layer,0.35,−4.67,18.721,,,indet,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+RICH-30964,336,23,,AMS,Charcoal_wood,COD,Bagata,3,Layer,0.45,−3.728,17.953,,indet,indet,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+RICH-30965,19866,62,,AMS,Charcoal_wood,COD,Bagata,3,Layer,2.25,−3.728,17.953,,indet,indet,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+RICH-30966,1488,23,,AMS,Charcoal_wood,COD,Ferme Hilaire,1,Layer,0.1,−4.545,20.097,,,indet,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+RICH-30967,1402,30,,AMS,Charcoal_wood,COD,Ferme Hilaire,2,Layer,0.3,−4.545,20.097,,,indet,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+RICH-30968,1896,25,,AMS,Charcoal_wood,COD,Kikundi,1,Layer,0.7,−4.679,18.729,,indet,indet,slag,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+RICH-30969,111,,,AMS,Charcoal_wood,COD,Kangutu,1,Layer,0.3,−4.542,20.079,,,indet,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+RICH-30970,1311,23,,AMS,Charcoal_wood,COD,Kabombo La Voix,1,Layer,0.8,−4.328,20.019,,,indet,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+RICH-30972,195,21,,AMS,Charcoal_wood,COD,Mitshakila,1,Layer,0.35,−4.667,18.741,,indet,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+RICH-30973,12921,38,,AMS,Charcoal_wood,COD,Mitshakila,2,Layer,0.38,-4.667,18.741,,indet,,,,,Ia,,Mesfin et al. 2025: 3 Tab. 1; Coutros et al. 2025: 594 Tab. A2.1
+RICH-30974,12494,37,,AMS,Charcoal_wood,COD,Mitshakila,2,Layer,0.41,-4.667,18.741,,indet,,,,,Ia,,Mesfin et al. 2025: 3 Tab. 1; Coutros et al. 2025: 594 Tab. A2.1
+RICH-30975,215,21,,AMS,Charcoal_wood,COD,Eolo,2,Layer,1,-3.708,18.911,,,indet,,,,Ic,,Coutros et al. 2025: 593 Tab. A2.1
+RICH-30976,146,,,AMS,Charcoal_wood,COD,Eolo,2,Layer,1.2,-3.708,18.911,,,indet,,,,Ic,,Coutros et al. 2025: 593 Tab. A2.1
+RICH-30977,102,,,AMS,Charcoal_wood,COD,Eolo,5,Layer,1.2,-3.708,18.911,,,indet,,,,Ic,,Coutros et al. 2025: 593 Tab. A2.1
 RICH-33107,413,24,,AMS,Soot,COD,Mukila,MUK 52 II/J/66 (RMCA InvNo 62064),,0.66,-5.0156,16.9862,,,indet,,,,Ia,,Jungnickel et al. 2024
-RICH-33715,37203,653,,AMS,Charcoal,COD,Mukila,MUK 2018/1030/13,,6.6,-5.0156,16.9862,,,,,,,Ia,,Jungnickel et al. 2024
+RICH-33715,37203,653,,AMS,Charcoal_wood,COD,Mukila,MUK 2018/1030/13,,6.6,-5.0156,16.9862,,,,,,,Ia,,Jungnickel et al. 2024
+RICH-33864,2010,25,,AMS,Charcoal_wood,COD,Bandundu,BAD 2018/1000/13,,2.35,−3.323,17.433,,indet,,,,,IIa,,Seidensticker et al. 2025: 316
+RICH-35103,465,25,,AMS,Charcoal_wood,COD,Kikundi,4,Layer,0.4,−4.679,18.729,,,,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+RICH-35104,104,23,,AMS,Charcoal_wood,COD,Kimvula,1,Layer,0.3,−4.67,18.721,,,indet,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
+RICH-35105,2223,23,,AMS,Charcoal_wood,COD,Luani,7,Layer,0.37,−3.351,17.36,,indet,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+RICH-35106,2082,25,,AMS,Charcoal_wood,COD,Luani,1,Layer,0.35,−3.351,17.36,,indet,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+RICH-35107,1796,25,,AMS,Charcoal_wood,COD,Luani,3,Layer,0.5,−3.351,17.36,,indet,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
+RICH-35108,1926,25,,AMS,Charcoal_wood,COD,Luani,4,Layer,0.5,−3.351,17.36,,indet,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
 SacA-10886,5125,30,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,2.995,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
 SacA-10887,8015,30,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,3.995,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
 SacA-10888,8915,45,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,4.495,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
