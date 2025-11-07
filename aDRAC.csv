@@ -2034,6 +2034,9 @@ Pta-1025,1760,60,,,Shell,AGO,Benfica,-,-,-,-8.958,13.191,-,,indet,-,-,,Ib,"2160B
 Pta-1026,600,70,,,Shell,AGO,Benfica,-,-,-,-8.958,13.191,-,(indet),indet,-,-,,Ib,"1000BP-400yrs seawater age (Vogel/Visser 1981: 66)",Vogel/Visser 1981: 66
 Pta-1399,130,40,,,charcoal,AGO,Berorue,10/75,-,-,-16.75,12.33,-,,,-,-,,Ic,,Vogel/Visser 1981: 65
 Pta-9273,1940,35,,,-,CMR,Ndéba (Somié),-,-,,6.283,11.264,,-,-,-,-,,Ic,,de Saulieu et al. 2015; Garcin et al. 2018
+RICH-25306,2185,25,,,Charcoal,COG,SNP,SNP-01,Layer,0.65,-1.7,20.55,,,(Bokuma),,,,Ia,,Seidensticker et al. 2025
+RICH-25315,385,26,,,Charcoal,COG,SNP,SNP-01,Layer,0.35,-1.7,20.55,,,indet,,,,Ia,,Seidensticker et al. 2025
+RICH-25317,1239,25,,,Charcoal,COG,SNP,SNP-03,Layer,0.35,-1.7,20.55,,,indet,,,,Ia,,Seidensticker et al. 2025
 RICH-26741,1525,26,-21.8,AMS,Charcoal_endocarp_elaeis,COD,Muanda 6,-,-,,-5.889,12.298,,-,Muanda,-,-,,Ia,,Clist et al. 2023: Tab. 1
 RICH-26746,1605,26,-19.9,AMS,Charcoal_endocarp_elaeis,COD,Muanda 6,-,-,,-5.889,12.298,,-,Muanda,-,-,,Ia,,Clist et al. 2023: Tab. 1
 RICH-26752,1262,25,-25.9,AMS,Charcoal,COD,Muanda 13,-,-,,-5.969,12.445,,-,Muanda,-,-,,Ia,,Clist et al. 2023: Tab. 1
@@ -2089,6 +2092,7 @@ RICH-30975,215,21,,AMS,Charcoal_wood,COD,Eolo,2,Layer,1,-3.708,18.911,,,indet,,,
 RICH-30976,146,,,AMS,Charcoal_wood,COD,Eolo,2,Layer,1.2,-3.708,18.911,,,indet,,,,Ic,,Coutros et al. 2025: 593 Tab. A2.1
 RICH-30977,102,,,AMS,Charcoal_wood,COD,Eolo,5,Layer,1.2,-3.708,18.911,,,indet,,,,Ic,,Coutros et al. 2025: 593 Tab. A2.1
 RICH-33107,413,24,,AMS,Soot,COD,Mukila,MUK 52 II/J/66 (RMCA InvNo 62064),,0.66,-5.0156,16.9862,,,indet,,,,Ia,,Jungnickel et al. 2024
+RICH-33240,1169,28,,,Seed,COG,Wafanya,WAF 83/16,Layer,,0.55,16.636,,-,Bekongo,,,,Ia,,Seidensticker et al. 2025
 RICH-33715,37203,653,,AMS,Charcoal_wood,COD,Mukila,MUK 2018/1030/13,,6.6,-5.0156,16.9862,,,,,,,Ia,,Jungnickel et al. 2024
 RICH-33864,2010,25,,AMS,Charcoal_wood,COD,Bandundu,BAD 2018/1000/13,,2.35,-3.323,17.433,,indet,,,,,IIa,,Seidensticker et al. 2025: 316
 RICH-35103,465,25,,AMS,Charcoal_wood,COD,Kikundi,4,Layer,0.4,-4.679,18.729,,,indet,,,,Ib,,"Coutros et al. 2025: 218 Fig. 10.6, 593 Tab. A2.1"
