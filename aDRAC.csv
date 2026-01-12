@@ -343,7 +343,7 @@ Beta-116644,1130,50,,,-,CMR,Aissa Dugjé,2 A19,-,,11.09,14.23,,-,-,-,-,,Ia,,Bour
 Beta-116645,1220,50,,,-,CMR,Aissa Dugjé,2 A22,-,,11.09,14.23,,-,-,-,-,,Ia,,Bourges et al. 1999: 11 Tab. 1
 Beta-116646,1570,90,,,-,CMR,Aissa Dugjé,2 A27,-,,11.09,14.23,,-,-,-,-,,Ia,,Bourges et al. 1999: 11 Tab. 1
 Beta-116647,1270,50,,,-,CMR,Aissa Dugjé,3 A12,-,,11.09,14.23,,-,-,-,-,,Ia,,Bourges et al. 1999: 11 Tab. 1
-Beta-127078,850,70,,,Charcoal_endocarp_elaeis,COD,Lengbe,,Layer,,1.55,28.23,LSA,indet,,,Eg,,Ib,,"Mercader 2003: 101 Tab. 3-1; Mercader/Martí 2003: 82 Tab. 2.3; Clist 2004/2005: Tab. 10"
+Beta-127078,850,70,,,Charcoal_endocarp_elaeis,COD,Lengbe,,Layer,,1.55,28.23,LSA,indet,indet,,Eg,,Ib,,"Mercader 2000: 168; Mercader 2003: 101 Tab. 3-1; Mercader/Martí 2003: 82 Tab. 2.3; Clist 2004/2005: Tab. 10"
 Beta-127079,2970,70,,,Charcoal_endocarp_canarium,COD,Lengbe,,Layer,,1.55,28.23,LSA,indet,,,Cs,,Ib,,"Mercader 2003: 101 Tab. 3-1; Mercader/Martí 2003: 82 Tab. 2.3; Clist 2004/2005: Tab. 11"
 Beta-127080,19020,140,,,,GNQ,Mosumu,,,,1.727,10.078,MSA,indet,,,,,Ib,,"Mercader/Martí 2003: 82 Tab. 2.3"
 Beta-127081,1660,70,,,,GNQ,Mosumu,,,,1.727,10.078,,,,,,,Ib,,Martí 2003; Clist et al. 2023
@@ -2294,8 +2294,8 @@ UtC-3596,5460,70,,AMS,,COG,Kitina,KT 3,,6.25,-4.267,12,,,,,,,IIB,,Elenga et al. 
 UtC-4541,2490,60,,AMS,,COG,Kitina,KT 3,,2.07,-4.267,12,,,,,,,IIB,,Elenga et al. 1996: 406 Tab.; Bertaux et al. 2000: 45 Tab. 2
 UTC-5074,813,35,-12.5,,Bone,COD,Matangai Turu Northwest,,Burial,,2.17,28.6,,,,,Eg; Cs,,Ib,,Mercader et al. 2001: 27 Tab. 1; Clist 2004/2005: Tab. 10
 UTC-5075,10530,50,-25.3,,Charcoal,COD,Matangai Turu Northwest,,Layer,,2.17,28.6,LSA,indet,,,,,Ia,,"Mercader et al. 2001: 27 Tab. 1; Mercader/Martí 2003: 82 Tab. 2.3"
-UtC-5076,1080,41,,,Charcoal,COD,Makubasi NW,,Layer,,1.76,28.83,LSA,indet,,,,,Ia,,"Mercader 2000; Mercader 2003: 101 Tab. 3-1; Mercader/Martí 2003: 82 Tab. 2.3"
-UtC-5077,971,33,,,Charcoal,COD,Makubasi NW,,Layer,,1.76,28.83,LSA,indet,,,,,Ia,,"Mercader 2000; Mercader 2003: 101 Tab. 3-1; Mercader/Martí 2003: 82 Tab. 2.3"
+UtC-5076,1080,41,,,Charcoal,COD,Makubasi NW,,Layer,,1.76,28.83,LSA,indet,indet,,,,Ia,,"Mercader 2000: 167; Mercader 2003: 101 Tab. 3-1; Mercader/Martí 2003: 82 Tab. 2.3"
+UtC-5077,971,33,,,Charcoal,COD,Makubasi NW,,Layer,,1.76,28.83,LSA,indet,indet,,,,Ia,,"Mercader 2000: 167-168; Mercader 2003: 101 Tab. 3-1; Mercader/Martí 2003: 82 Tab. 2.3"
 UTC-8026,7140,50,,,Charcoal,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka upper lithics horizon,Stone to Metal Age 1,-,Cs,,Ia,date for SMA 1 pottery,"Lavachery 2001: 219 Tab. 1, 225"
 UTC-8027,8550,60,,,Charcoal,CMR,Shum Laka,Lower Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka lower lithics horizon,-,-,-,,Ia,,Lavachery 2001: 219 Tab. 1
 UTC-8028,8560,60,,,Charcoal,CMR,Shum Laka,Lower Horizon of the Ochre Ash Layer,-,,5.859,10.078,,shum laka lower lithics horizon,-,-,-,,Ia,,Lavachery 2001: 219 Tab. 1
