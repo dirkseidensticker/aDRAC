@@ -613,8 +613,8 @@ Beta-648829,330,30,,AMS,Charcoal_wood,COD,Mashita Mbanza,1,Layer,2,-5.65,18.89,,
 Beta-648830,105,,,AMS,Charcoal_wood,COD,Mfubakwan,4,Layer,0.6,-3.832,18.016,,,indet,,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
 Beta-648831,370,30,,AMS,Charcoal_wood,COD,Mashita Mbanza,3,Layer,0.34,-5.65,18.89,,indet,indet,slag,,,Ib,,Coutros et al. 2025: 594 Tab. A2.1
 Beta-648832,180,30,,AMS,Charcoal_wood,COD,Kabombo La Voix,1,Layer,0.4,-4.328,20.019,,,,,,,Ib,,Coutros et al. 2025: 593 Tab. A2.1
-BM-2425,4180,160,,,-,CMR,Mbi Crater,7C,-,0.2,6.089,10.349,,-,-,-,-,,Ib,,Asombang 1998: 210
-BM-2426,2770,120,,,-,CMR,Mbi Crater,7C,-,0.5,6.089,10.349,,-,-,-,-,,Ib,,Asombang 1998: 210
+BM-2425,4180,160,,,-,CMR,Mbi Crater,7C,-,0.2,6.088,10.339,,-,-,-,-,,Ib,,Asombang 1998: 210
+BM-2426,2770,120,,,-,CMR,Mbi Crater,7C,-,0.5,6.088,10.339,,-,-,-,-,,Ib,,Asombang 1998: 210
 BM-2495,40,40,,,Charcoal_wood,CMR,Shum Laka,"Upper Horizon of the Gray Ash Layer, sector1",Layer,0.05,5.859,10.078,Iron Age 2,(indet),Iron Age 2,-,Cs; Eg,,Ia,,Lavachery 1997: 175 & Fig. XI.5; Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
 BM-2496,6360,100,,,Charcoal_wood,CMR,Shum Laka,Upper Horizon of the Ochre Ash Layer,Layer,0.6,5.859,10.078,SMA 1,indet,-,-,Cs,,Ia,Lavachery 1997: 174 & Fig. XI.3,Asombang 1988; Lavachery 1997: 174 & Fig. XI.3; Lavachery 2001: 219 Tab. 1
 Bon-599,1640,520,,,Sediment_wet,GAB,Bras mort Ogooue,-,Layer,5,0.667,12.833,-,-,-,-,-,,IIIc,"interpretation Clist: Environnement",Clist 2004/2005: Annex 2
@@ -1468,8 +1468,8 @@ Lv-1533,860,50,,,-,COG,Moubiri,-,Furnace,-,-3.873,13.75,,-,indet,slag,-,,Ib,,Pin
 Lv-1534,280,60,,,-,COG,Moubiri,-,Furnace,-,-3.873,13.75,,-,-,"slag, copper",,-,Ib,copper metallurgy,Pincon 1991a: 249 Tab. 1
 Lv-1535,3840,75,,,Shell_Anadara,AGO,Cachama I,,,0.625,-12.62,13.18,,indet,,,,-,Ib,,Pais Pinto 1988: 10
 Lv-1536,2680,60,,,Shell_Anadara,AGO,Cachama I,,,0.625,-12.62,13.18,,indet,,,,-,Ib,,Pais Pinto 1988: 10
-Lv-1601d,18180,820,,,-,CMR,Mbi Crater,7C,-,-1.0,6.089,10.349,,-,-,-,-,,Ib,,Asombang 1998: 210
-Lv-1602d,18730,690,,,-,CMR,Mbi Crater,7C,-,-1.1,6.089,10.349,,-,-,-,-,,Ib,,Asombang 1998: 210
+Lv-1601d,18180,820,,,-,CMR,Mbi Crater,7C,-,-1.0,6.088,10.339,,-,-,-,-,,Ib,,Asombang 1998: 210
+Lv-1602d,18730,690,,,-,CMR,Mbi Crater,7C,-,-1.1,6.088,10.339,,-,-,-,-,,Ib,,Asombang 1998: 210
 Lv-1603,8480,140,,,Charcoal,CMR,Shum Laka,Lower Horizon of the Ochre Ash Layer,Layer,0.6,5.859,10.078,LSA,indet,-,-,,-,Ia,shum laka lower lithics horizon,"Lavachery 1997: 174, Fig. XI.3; Lavachery 2001: 219 Tab. 1"
 Lv-1605,2320,70,,,-,CMR,Okolo,17,Pit,2.1,3.933,11.517,,indet,Obobogo,slag,Eg; Cs,,Ia,,"Atangana 1988: 67 Tab. 5, 260, 262; Atangana 1992; Asombang 1998; Clist 2004/2005: 724 Tab. 8-3, Tab. 10, Tab. 11; Leka 2013: Annex 4; Garcin et al. 2018"
 Lv-1697,2290,50,,,Charcoal_endocarp_elaeis,COD,Sakuzi,-,Pit,-,-5.167,14.008,-,-,indet,-,Eg,,Ib,Clist does not accept this date; polished axe on surface,"Gosselain 1988; de Maret 1990: 450 Tab. 1; Clist 2018: 239 Tab. 18.2, Tab. 18.3, Tab. 10; Garcin et al. 2018"
@@ -1670,7 +1670,7 @@ Os-22249,1830,40,,,,GNQ,Mosumu,,Layer,,1.727,10.078,,,,,,,Ib,,Martí 2003; Clist
 Os-22250,2750,40,,,,GNQ,Mosumu,,Layer,,1.727,10.078,,,,,,,Ib,,Martí 2003; Clist et al. 2023
 Os-22251,1010,60,,,Charcoal,COD,Makubasi NW,,Layer,,1.76,28.83,,,,,,,Ib,,Mercader 2003: 101 Tab. 3-1
 Os-22477,2900,50,,,,GNQ,Mosumu,,Layer,,1.727,10.078,,,,,,,Ib,,Martí 2003; Clist et al. 2023
-OxA-1139,9050,100,,AMS,-,CMR,Mbi Crater,7C,-,0.9,6.089,10.349,LSA,indet,-,-,-,,Ib,,"Asombang 1992; Asombang 1998: 210; Mercader/Martí 2003: 82 Tab. 2.3"
+OxA-1139,9050,100,,AMS,-,CMR,Mbi Crater,7C,-,0.9,6.088,10.339,LSA,indet,-,-,-,,Ib,,"Asombang 1992; Asombang 1998: 210; Mercader/Martí 2003: 82 Tab. 2.3"
 OxA-1362,7040,80,,AMS,Charcoal,CMR,Shum Laka,tomb1,Burial,,5.859,10.078,SMA 1,indet,-,-,Cs,,Ia,cf Upper Horizon of the Ochre Ash Layer - shum laka upper lithics horizon,Lavachery 1997: Fig. XI.3; Lavachery 2001: 219 Tab. 1
 OxA-4538,3810,60,,AMS,Charcoal,CMR,Shum Laka,"Lower Horizon of the Gray Ash Layer, sector1",Pit,0.4,5.859,10.078,SMA 2,indet,Stone to Metal Age 2,,Cs,,Ia,,Lavachery 1997: 175 & Fig. XI.4; Lavachery/Cornelissen 2000; Lavachery 2001: 219 Tab. 1
 OxA-4539,6870,80,,AMS,Charcoal,CMR,Shum Laka,tomb3,Burial,,5.859,10.078,SMA 1,indet,-,-,Cs,,Ia,cf Upper Horizon of the Ochre Ash Layer - shum laka upper lithics horizon,Lavachery 1997: Fig. XI.3; Lavachery 2001: 219 Tab. 1
@@ -2131,8 +2131,8 @@ SacA-29137,540,90,,AMS,Charcoal_rockart,COD,Nkamba,-,Rockart,,-5.749,14.444,,-,i
 SacA-31426,1880,70,,AMS,Charcoal_endocarp_elaeis,CMR,Akom,F1,Pit,-,2.402,12.422,,-,Akonetye North,object,-,,Ia,,"de Saulieu et al. 2015: 405 Tab. 1, 413 Fig. 6; Garcin et al. 2018"
 SacA-31427,1950,30,,AMS,Charcoal_endocarp_elaeis,CMR,Akom,F2,Pit,-,2.402,12.422,,-,Akonetye South,object,-,,Ia,,de Saulieu et al. 2015: 406 Tab. 1: 410 Fig. 5; Garcin et al. 2018
 SacA-31428,210,30,,AMS,Charcoal,CMR,Avebe,F1,Pit,-,2.413,12.544,,-,indet,-,-,,Ib,,de Saulieu et al. 2015: 406 Tab. 1; Garcin et al. 2018
-SacA-32552,1795,30,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,1.495,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
-SacA-32553,5180,40,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,2.495,6.089,10.349,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
+SacA-32552,1795,30,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,1.495,6.088,10.339,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
+SacA-32553,5180,40,,AMS,Sediment,CMR,Mbi Crater,Pollencore,-,2.495,6.088,10.339,-,-,-,-,-,,IIb,,Lézine et al. 2023: 69 Tab. 1
 SacA-32566,1925,30,,AMS,-,CMR,Akom,F3,Pit,-,2.402,12.422,,-,Akonetye South,-,-,,Ia,,de Saulieu et al. 2015: 406 Tab. 1: 410 Fig. 5; Garcin et al. 2018
 SacA-32567,2335,30,,AMS,Charcoal_endocarp_elaeis,CMR,Efoulan 1,F1,Pit,-,2.386,12.462,,-,Obobogo,-,-,,Ia,,"de Saulieu et al. 2015: 406 Tab. 1, 409 Fig. 4; Garcin et al. 2018; de Saulieu et al. 2024: 33 Tab. 4"
 SacA-32568,1840,30,,AMS,Charcoal_endocarp_elaeis,CMR,Efoulan 1,F2,Pit,-,2.386,12.462,,-,Akonetye South,object,-,,Ia,,de Saulieu et al. 2015: 406 Tab. 1: 410 Fig. 5; Garcin et al. 2018
