@@ -363,12 +363,12 @@ Beta-146660,1940,70,,,-,CMR,Campo,CAM Campo2/Pit 1,Pit,,2.377,9.831,,-,indet,-,-
 Beta-146661,1820,80,,,-,CMR,Kribi Hotel,-,Trench,0.225,2.933,9.904,,-,indet,-,,-,Ib,,Oslisly et al. 2006: 130; Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:83 Tab. 4.2
 Beta-156376,1570,70,,,-,CMR,Boussibilinga 1,BOS 1 1,Pit,0.5,2.737,9.878,,indet,indet,object,,-,Ib,,Nlend Nlend 2013/2014: 204; Eggert/Seidensticker 2016:83 Tab. 4.2
 Beta-156377,550,70,,,-,CMR,Bwambe-Beach,BWB D1,Layer,0.4,2.899,9.901,,-,indet,-,,-,Ib,,Nlend Nlend 2013/2014: 170; Eggert/Seidensticker 2016:83 Tab. 4.2
-Beta-156378,2240,70,,,-,CMR,Bwambé-Sommet (Est),BWS 12,Pit,0.3,2.894,9.904,,-,Malongo/Bissiang,-,,-,Ia,,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
-Beta-156379,2360,70,,,-,CMR,Bwambé-Sommet (Est),BWS 16,Pit,0.3,2.894,9.904,,-,Malongo/Bissiang,-,,-,Ia,,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
-Beta-156380,2550,90,,,-,CMR,Bwambé-Sommet (Est),BWS 17,Pit,0.1,2.894,9.904,,-,Malongo/Bissiang,-,,-,Ia,,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
-Beta-156381,2240,90,,,-,CMR,Bwambé-Sommet (Est),BWS 19,Pit,0.7,2.894,9.904,,-,Malongo/Bissiang,-,,-,Ia,,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
-Beta-156382,2410,60,,,-,CMR,Bwambé-Sommet (Est),BWS 2,Pit,1.3,2.894,9.904,,-,Bwambé/Mpoengu,-,,-,Ia,,Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2
-Beta-156383,2460,70,,,-,CMR,Bwambé-Sommet (Est),BWS 2,Pit,2.2,2.894,9.904,,-,Malongo/Bissiang,-,,-,Ia,,Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2
+Beta-156378,2240,70,,,-,CMR,Bwambé-Sommet (Est),12,Pit,0.3,2.894,9.904,,-,Malongo/Bissiang,-,,-,Ia,,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
+Beta-156379,2360,70,,,-,CMR,Bwambé-Sommet (Est),16,Pit,0.3,2.894,9.904,,-,Malongo/Bissiang,-,,-,Ia,,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
+Beta-156380,2550,90,,,-,CMR,Bwambé-Sommet (Est),17,Pit,0.1,2.894,9.904,,-,Malongo/Bissiang,-,,-,Ia,,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
+Beta-156381,2240,90,,,-,CMR,Bwambé-Sommet (Est),19,Pit,0.7,2.894,9.904,,-,Malongo/Bissiang,-,,-,Ia,,Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:78 Tab. 4.2
+Beta-156382,2410,60,,,-,CMR,Bwambé-Sommet (Est),2,Pit,1.3,2.894,9.904,,-,Bwambé/Mpoengu,-,,-,Ia,,Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2
+Beta-156383,2460,70,,,-,CMR,Bwambé-Sommet (Est),2,Pit,2.2,2.894,9.904,,-,Malongo/Bissiang,-,,-,Ia,,Nlend Nlend 2013/2014: 257; Eggert/Seidensticker 2016:78 Tab. 4.2
 Beta-156384,1830,70,,,-,CMR,Campo,CAM 00/3,Burial,,2.377,9.831,,-,Campo,object,-,,Ia,,Oslisly et al. 2006; Eggert/Seidensticker 2016:65 Tab. 4.1
 Beta-156385,1780,60,,,-,CMR,Campo,CAM 00/2,Pit,,2.377,9.831,,-,Campo,-,-,,Ia,,Oslisly et al. 2006; Eggert/Seidensticker 2016:65 Tab. 4.1
 Beta-156387,2340,60,,,-,CMR,Malongo 1,2,Pit,,2.734,9.867,,-,Malongo/Bissiang,-,-,,Ia,,Oslisly et al. 2006: 130; Nlend Nlend 2013/2014; Eggert/Seidensticker 2016:83 Tab. 4.2
@@ -480,7 +480,7 @@ Beta-245116,1900,50,,AMS,-,CMR,Dibamba,43,Pit,0.475,3.996,9.822,,-,Dibamba D,-,,
 Beta-245117,530,40,,AMS,-,CMR,Dibamba,51,Pit,0.5,3.996,9.822,,-,Dibamba B,-,,-,Ia,,Oslisly et al. 2013; de Saulieu et al. 2017: 25 Tab. 1
 Beta-245118,830,50,,AMS,-,CMR,Dibamba,54,Pit,1.1,3.996,9.822,,-,Dibamba C,slag?,,-,Ia,,Oslisly et al. 2013; de Saulieu et al. 2017: 25 Tab. 1
 Beta-245119,1810,50,,AMS,-,CMR,Dibamba,73,Pit,1.55,3.996,9.822,,-,Dibamba D,-,,-,Ia,,de Saulieu et al. 2017: 25 Tab. 1
-Beta-245120,120,50,,AMS,-,CMR,Dibamba,84A,Pit,0.35,3.996,9.822,,-,Dibamba A,-,,-,Ia,,Oslisly et al. 2013; de Saulieu et al. 2017: 25 Tab. 1
+Beta-245120,120,50,,AMS,-,CMR,Dibamba,84a,Pit,0.35,3.996,9.822,,-,Dibamba A,-,,-,Ia,,Oslisly et al. 2013; de Saulieu et al. 2017: 25 Tab. 1
 Beta-245121,210,50,,AMS,-,CMR,Dibamba,85A,Pit,0.5,3.996,9.822,,-,Dibamba A,-,,-,Ia,,Oslisly et al. 2013; de Saulieu et al. 2017: 25 Tab. 1
 Beta-245122,200,40,,AMS,-,CMR,Dibamba,171,Pit,0.5,3.996,9.822,,-,Dibamba B,-,,-,Ia,,de Saulieu et al. 2017: 25 Tab. 1
 Beta-245123,130,40,,AMS,-,CMR,Dibamba,Niv. 1,Layer,,3.996,9.822,,-,Dibamba B,-,-,,Ia,,de Saulieu et al. 2017: 25 Tab. 1
@@ -804,7 +804,7 @@ Gif-5700,9410,170,,,-,COG,Oyo,-,-,,-1.117,15.95,,-,-,-,-,,Ic,,Delibrias et al. 1
 Gif-5701,31000,2200,,,-,COG,Oyo,-,-,,-1.117,15.95,MSA,-,-,-,-,,Ic,,Delibrias et al. 1983: 465; Kouyoumontzakis u.a. 1985
 Gif-5796,1460,90,,,Charcoal,COG,Nzabi,-,slag mound,-,-2.383,14.45,,-,-,slag,-,,Ib,,Kouyoumontzakis u.a. 1985; Pincon 1991a: 249 Tab. 1; Pincon 1991b: 30 Tab. 1
 Gif-5821,4920,110,,,-,COG,Bacongo,-,-,,-4.292,15.267,,-,-,-,-,,Ic,,Kouyoumontzakis u.a. 1985
-Gif-5894,1590,90,,,Charcoal,CAF,Batalimo,ZII,Layer,-,3.676,18.455,,-,Batalimo-Maluba,-,-,,Ia,,de Maret 1985a; Eggert 1992: 11 Tab. 2; Eggert 1993
+Gif-5894,1590,90,,,Charcoal,CAF,Batalimo,Z II,Layer,-,3.676,18.455,,-,Batalimo-Maluba,-,-,,Ia,,de Maret 1985a; Eggert 1992: 11 Tab. 2; Eggert 1993
 Gif-5972,590,60,,,Charcoal,RWA,Bugarama,-,-,,-2.61,29.02,,-,-,-,-,,Ic,,de Maret 1985a
 Gif-5986,660,80,,,Charcoal,COG,Mpassa,-,Furnace,-,-4.3,14.267,,-,-,copper,-,,Ib,copper metallurgy,de Maret 1985a; Pincon 1991a: 249 Tab. 1
 Gif-5987,4870,90,,,Charcoal_wood,GAB,Sablière,-,Layer,-,0.5,9.383,LSA,indet,(indet),-,-,,Ib,"interpretation Clist: Archéologie, Age Récent de la Pierre","Clist 1989: 70 Tab. 1; Clist 2004/2005: 708 Tab. 8-1, Annex 2"
@@ -1696,7 +1696,7 @@ OxA-7912,18040,100,,AMS,Charcoal,CMR,Shum Laka,I14/S-deposit,Layer,0.525,5.859,1
 OxA-19517,1610,26,-23.09,AMS,Charcoal,RWA,Kabusanze,-,-,,-2.5,29.7,,-,Urewe,-,,-,Ib,,Giblin et al. 2010
 OxA-19518,1630,26,-26.88,AMS,Charcoal,RWA,Kabusanze,-,-,,-2.5,29.7,,-,Urewe,-,,-,Ib,,Giblin et al. 2010
 OxA-19583,1694,37,-24.16,AMS,Charcoal,RWA,Kabusanze,-,-,,-2.5,29.7,,-,Urewe,-,,-,Ib,,Giblin et al. 2010
-OxTL-154a-4,1570,220,,TL,Pottery,CAF,Batalimo,ZI,Layer,-,3.676,18.455,,-,Batalimo-Maluba,-,-,,Ia,,de Bayle des Hermens 1975: 233; Eggert 1987; Kote 1992: 117
+OxTL-154a-4,1570,220,,TL,Pottery,CAF,Batalimo,Z I,Layer,-,3.676,18.455,,-,Batalimo-Maluba,-,-,,Ia,,de Bayle des Hermens 1975: 233; Eggert 1987; Kote 1992: 117
 OxTL-200j,21350,3500,,,,COD,Matupi,-,-,,1.193,30.008,,,-,-,,-,Ic,,Van Noten 1977; Cornelissen 2002
 OxTL-202a,630,34,,TL,Pottery,COD,Sanga,EAI11,-,,-8.182,26.49,,-,Classical Kisalian,-,-,,Ia,,de Maret 1985b: 259
 OxTL-202b,350,24,,TL,Pottery,COD,Sanga,T176,-,,-8.182,26.49,,-,Kabambian A,-,-,,Ia,,de Maret 1985b: 260
@@ -1748,7 +1748,7 @@ Poz-39110,2205,35,,,Charcoal_wood,COD,Luki,UH48,Pedoanthracological trench,0.85,
 Poz-39111,1925,30,,,Charcoal_wood,COD,Kisala Singa,KS9,Pedoanthracological trench,0.65,-4.763,13.007,,-,-,-,,-,IIb,double date within spit,Hubau et al. 2015
 Poz-39112,265,30,,,Charcoal_wood,COD,Kisala Singa,KS9,Pedoanthracological trench,0.15,-4.763,13.007,,-,-,-,,-,IIb,,Hubau et al. 2015
 Poz-39113,1855,35,,,Charcoal_wood,COD,Kisala Singa,KS9,Pedoanthracological trench,0.65,-4.763,13.007,,-,-,-,,-,IIb,,Hubau et al. 2015
-Poz-39115,1685,30,,,charcoal_wood,COD,Yantshambi II,MBI/10/IIA,Pit,0.55,0.725,24.218,,-,(Early Pottery Phase); Middle Pottery Phase,slag,Eg,,Ia,,"Livingstone-Smith et al. 2017: 98 Tab. 1, 111 Fig. 23"
+Poz-39115,1685,30,,,charcoal_wood,COD,Yandjambi,MBI/10/IIA,Pit,0.55,0.725,24.218,,-,(Early Pottery Phase); Middle Pottery Phase,slag,Eg,,Ia,,"Livingstone-Smith et al. 2017: 98 Tab. 1, 111 Fig. 23"
 Poz-39116,1990,30,,,charcoal_wood,COD,Ilambi Moke,MOK/10/IIB,Pit,0.55,0.649,24.23,,-,Early Pottery Phase; (Middle Pottery Phase),slag,Eg,,Ia,,"Livingstone-Smith et al. 2017: 98 Tab. 1, 111 Fig. 23"
 Poz-39117,2085,35,,,Charcoal_endocarp_elaeis,COD,Ilambi Moke,MOK/10/IIB,Pit,0.7,0.649,24.23,,-,Early Pottery Phase,slag,Eg,,Ia,,"Livingstone-Smith et al. 2017: 98 Tab. 1, 111 Fig. 23"
 Poz-39121,1880,30,,,charcoal_wood,COD,Bomane Yangwa,YNG/10/I,Pit,0.55,1.303,23.817,,-,Middle Pottery Phase,-,Eg,,Ia,,"Livingstone-Smith et al. 2017: 98 Tab. 1, 111 Fig. 23"
@@ -1902,7 +1902,7 @@ Poz-74444,340,30,,AMS,-,CMR,Dibamba,206,Pit,0.35,3.996,9.822,,-,Dibamba B,-,,-,I
 Poz-74504,2435,30,,AMS,-,CMR,Dibamba,80,Pit,0.3,3.996,9.822,,-,Obobogo,-,,-,Ia,Dibamba E,"de Saulieu et al. 2017: 25 Tab. 1; de Saulieu et al. 2024: 33 Tab. 4"
 Poz-74505,1855,30,,AMS,-,CMR,Dibamba,103,Pit,0.25,3.996,9.822,,-,Dibamba D,-,,-,Ia,,de Saulieu et al. 2017: 25 Tab. 1
 Poz-74506,320,30,,AMS,-,CMR,Dibamba,183,Pit,0.4,3.996,9.822,,-,Dibamba B,-,,-,Ia,,de Saulieu et al. 2017: 25 Tab. 1
-Poz-74507,165,30,,AMS,-,CMR,Dibamba,84B,Pit,0.4,3.996,9.822,,-,(Dibamba E),-,,-,IIa,disputed; probably contaminated,de Saulieu et al. 2017: 25 Tab. 1
+Poz-74507,165,30,,AMS,-,CMR,Dibamba,84b,Pit,0.4,3.996,9.822,,-,(Dibamba E),-,,-,IIa,disputed; probably contaminated,de Saulieu et al. 2017: 25 Tab. 1
 Poz-74508,435,30,,AMS,-,CMR,Dibamba,69,Pit,0.25,3.996,9.822,,-,Dibamba B,-,,-,Ia,,de Saulieu et al. 2017: 25 Tab. 1
 Poz-74509,420,30,,AMS,-,CMR,Dibamba,67,Pit,0.15,3.996,9.822,,-,Dibamba B,-,,-,Ia,,de Saulieu et al. 2017: 25 Tab. 1
 Poz-74510,520,30,,AMS,-,CMR,Dibamba,38B,Pit,0.485,3.996,9.822,,-,Dibamba B,-,,-,Ia,,de Saulieu et al. 2017: 25 Tab. 1
@@ -2170,8 +2170,8 @@ SacA-60739,845,30,,AMS,,CMR,Nachtigal C,NAC/C/12,Layer,0.15,4.294,11.644,-,-,IV,
 SacA-60740,2470,30,-23.1,AMS,Charcoal_endocarp_canarium,CMR,Nachtigal C,NAC/C/19-F1,Pit,1.35,4.294,11.644,-,-,Ndindan,-,-,,Ib,IIa,"Cagnato et al. 2022: Tab. 1, de Saulieu et al. 2024: 31 Tab. 3"
 SacA-60741,2475,30,-24.2,AMS,Charcoal_endocarp_canarium,CMR,Nachtigal C,NAC/C/19-F2,Pit,1.35,4.294,11.644,-,-,Ndindan,-,-,,Ib,,"Cagnato et al. 2022: Tab. 1, de Saulieu et al. 2024: 31 Tab. 3"
 SacA-60742,2535,30,-24.8,AMS,Charcoal_endocarp_canarium,CMR,Nachtigal C,NAC/C/19-F3,Pit,1.35,4.294,11.644,-,-,indet,-,-,,Ib,,"Cagnato et al. 2022: Tab. 1"
-SacA-64848,2305,30,-29.2,AMS,Charcoal,CMR,Nachtigal B,NAC/B/85-F (profile 2),Pit,0.47,4.376,11.715,-,-,Obobogo,-,-,,Ia,IIb,"Cagnato et al. 2022: Tab. 1; de Saulieu et al. 2024: 31 Tab. 3"
-SacA-64849,2265,30,-26,AMS,Charcoal,CMR,Nachtigal B,NAC/B/85-F (profile 1),Pit,0.4,4.376,11.715,-,-,Obobogo,-,-,,Ia,IIb,"Cagnato et al. 2022: Tab. 1; de Saulieu et al. 2024: 31 Tab. 3"
+SacA-64848,2305,30,-29.2,AMS,Charcoal,CMR,Nachtigal B,NAC/B/85,Pit,0.47,4.376,11.715,-,-,Obobogo,-,-,,Ia,IIb/-F (profile 2),"Cagnato et al. 2022: Tab. 1; de Saulieu et al. 2024: 31 Tab. 3"
+SacA-64849,2265,30,-26,AMS,Charcoal,CMR,Nachtigal B,NAC/B/85,Pit,0.4,4.376,11.715,-,-,Obobogo,-,-,,Ia,IIb/-F (profile 1),"Cagnato et al. 2022: Tab. 1; de Saulieu et al. 2024: 31 Tab. 3"
 SacA-64850,145,30,-24.9,AMS,Charcoal,CMR,Nachtigal B,NAC/B/82 (inside ceramic vessel),Pit,0.6,4.376,11.715,-,-,VI,-,-,,Ib,,"Cagnato et al. 2022: Tab. 1; de Saulieu et al. 2024: 31 Tab. 3"
 SacA-64851,160,30,-22.8,AMS,Charcoal,CMR,Nachtigal B,NAC/B/83-F (inside cearmic vessel),Pit,1.1,4.376,11.715,-,-,VI,-,-,,Ia,,"Cagnato et al. 2022: Tab. 1; de Saulieu et al. 2024: 31 Tab. 3"
 SacA-68600,2240,30,,AMS,,CMR,Nachtigal D,NAC/D/13-F10,Pit,1,4.2,11.6,-,-,Obobogo,-,-,,Ia,IIb,"de Saulieu et al. 2024: 31 Tab. 3"
