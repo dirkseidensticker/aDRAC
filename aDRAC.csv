@@ -156,7 +156,7 @@ Beta-18734,5160,100,,,-,GAB,Ikengue 1,S29E10,Layer,-,-1.5,9.499,LSA,indet,-,-,-,
 Beta-18735,220,50,,,-,GAB,Ikengue 1,E21E2,Layer,-,-1.5,9.499,,-,indet,-,-,,Ib,"interpretation Clist: Archéologie, Age du Fer Récent",Digombe et al. 1990: 584 Tab. 1; Clist 2004/2005: Annex 2
 Beta-19464,1556,70,,,-,CMR,Mfomakap/Nkometou,A1/X1,Pit,0.3,4.05,11.55,,-,indet,slag,,-,Ib,,Essomba 1991: 257 Tab. 20; Leka 2013: Annex 4
 Beta-19465,2596,220,,,-,CMR,Mfomakap/Nkometou,A1/X1,Pit,1.1,4.05,11.55,,indet,indet,slag,,-,Ib,,Essomba 1991: 257 Tab. 20; Essomba 1992: 241; Elouga 1998; Leka 2013: Annex 4
-Beta-20060,6450,130,,,-,GAB,Lac Noir de Ndende,-,Layer,-,-2.233,11.333,LSA,indet,-,-,-,,Ib,"interpretation Clist: Archéologie, Age Récent de la Pierre",Clist 1989: 70 Tab. 1; Clist 2004/2005: Annex 2
+Beta-20060,6450,130,,,-,GAB,Lac Noir de Ndende,-,Layer,-,-2.368,11.319,LSA,indet,-,-,-,,Ib,"interpretation Clist: Archéologie, Age Récent de la Pierre",Clist 1989: 70 Tab. 1; Clist 2004/2005: Annex 2
 Beta-20063,1910,80,,,-,GAB,Yombi Pk. 8,-,-,-,-1.417,10.633,,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
 Beta-20064,1770,60,,,-,GAB,Mouila 1,-,-,-,-1.985,11.033,,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
 Beta-20065,1200,60,,,-,GAB,Ditouba,-,-,-,-3.271,10.684,,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
@@ -171,8 +171,8 @@ Beta-20788,2250,60,,,Charcoal_endocarp_elaeis,GAB,Okala 1,4,Pit,-,0.491,9.412,,i
 Beta-20789,4810,80,,,Charcoal_wood,GAB,Riviere Denis 1,-,Layer,0.5,0.322,9.348,,indet,(indet),-,,-,Ic,"interpretation Clist: Archéologie, Néolithique Ancien",Clist 1989: 70 Tab. 1; Clist 2004/2005: Annex 2
 Beta-20790,2230,60,,,Charcoal_endocarp_elaeis,GAB,Okala 1,1,Pit,-,0.491,9.412,,indet,Okala/Epona/Yindo,-,Eg,,Ia,"grindsrtones; interpretation Clist: Archéologie, Néolithique Récent, Polissoir et meule","Clist 2004/2005:509 Tab. 6-56, Annex 2, Tab. 10"
 Beta-20791,2300,100,,,Charcoal,COG,Djambala,-,-,0.5,-2.545,14.753,,-,indet,-,,-,Ib,,Lanfranchi/Pincon 1988: 28f.; Pincon 1991a: 249 Tab. 1; Pincon 1991b: 30 Tab. 1
-Beta-22081,5420,120,,,Charcoal_wood,GAB,Lac Noir de Ndende,-,Layer,-,-2.233,11.333,LSA,indet,-,-,-,,Ib,"interpretation Clist: Archéologie, Age Récent de la Pierre","Clist 1989: 70 Tab. 1; Locko 1989; Locko 1991; Clist 2004/2005: Annex 2; Mercader/Martí 2003: 82 Tab. 2.3"
-Beta-22082,4990,120,,,Charcoal_wood,GAB,Lac Noir de Ndende,-,Layer,-,-2.233,11.333,LSA,indet,-,-,-,,Ic,"interpretation Clist: Archéologie, Age Récent de la Pierre",Clist 1989: 70 Tab. 1; Clist 2004/2005: Annex 2
+Beta-22081,5420,120,,,Charcoal_wood,GAB,Lac Noir de Ndende,-,Layer,-,-2.368,11.319,LSA,indet,-,-,-,,Ib,"interpretation Clist: Archéologie, Age Récent de la Pierre","Clist 1989: 70 Tab. 1; Locko 1989; Locko 1991; Clist 2004/2005: Annex 2; Mercader/Martí 2003: 82 Tab. 2.3"
+Beta-22082,4990,120,,,Charcoal_wood,GAB,Lac Noir de Ndende,-,Layer,-,-2.368,11.319,LSA,indet,-,-,-,,Ic,"interpretation Clist: Archéologie, Age Récent de la Pierre",Clist 1989: 70 Tab. 1; Clist 2004/2005: Annex 2
 Beta-22493,2360,120,,,-,CMR,Mfomakap/Nkometou,A1/X1,Pit,0.7,4.05,11.55,,-,indet,-,,-,Ib,,Essomba 1991: 257 Tab. 20; Essomba 1989: 42; Essomba 1992: 241; Elouga 1998
 Beta-22495,2380,70,,,-,CMR,Mfomakap/Nkometou,3,Pit,0.9,4.05,11.55,,indet,Obobogo; Ndindan,slag,Cs,,Ia,,"Essomba 1992: 241; Elouga 1998; Clist 2004/2005: 724 Tab. 8-3, Tab. 11; Leka 2013: Annex 4; de Saulieu et al. 2024: 27"
 Beta-22496,100,60,,,-,CMR,Pong Solo,-,-,-,4.117,11.283,,-,-,-,-,,Ic,,Essomba 1989
@@ -190,11 +190,11 @@ Beta-25582,2450,70,,,Charcoal_endocarp_elaeis,GAB,Okala 1,10,Pit,-,0.491,9.412,,
 Beta-28200,830,60,,,Charcoal_wood,COD,Ituri,Edoro10,Pedoanthracological trench,-,1.55,28.54,,-,-,-,-,,IIb,"feature ID's not sure, own numerotation",Hart et al. 1996 bookchapter
 Beta-28201,1430,90,,,Charcoal_wood,COD,Ituri,Edoro14,Pedoanthracological trench,-,1.55,28.54,(MIA),-,-,-,-,,IIb,"feature ID's not sure, own numerotation",Hart et al. 1996 bookchapter
 Beta-28202,1330,50,,,Charcoal_wood_Cynometra alexandri,COD,Ituri,Edoro13,Pedoanthracological trench,-,1.55,28.54,(MIA),-,-,-,-,,IIb,"feature ID's not sure, own numerotation",Hart et al. 1996 bookchapter
-Beta-29772,5530,230,,,Charcoal_wood,GAB,Lac Noir de Ndende,-,Layer,0.12,-2.233,11.333,LSA,indet,-,-,,-,Ib,"interpretation Clist: Archéologie, Age Récent de la Pierre","Locko 1989; Locko 1991; Clist 2004/2005: Annex 2; Mercader/Martí 2003: 82 Tab. 2.3"
-Beta-29773,4590,70,,,Charcoal_wood,GAB,Lac Noir de Ndende,-,Layer,0.06,-2.233,11.333,,indet,-,-,Eg; Cs,-,Ib,"interpretation Clist: Archéologie, Age Récent de la Pierre","Clist 2004/2005: Annex 2, Tab. 10, Tab. 11"
-Beta-29774,7180,220,,,Charcoal_wood,GAB,Lac Noir de Ndende,-,Layer,0.25,-2.233,11.333,,indet,-,-,,-,Ib,"interpretation Clist: Archéologie, Age Récent de la Pierre",Clist 2004/2005: Annex 2
-Beta-29775,1790,80,,,Charcoal_wood,GAB,Lac Noir de Ndende,-,Layer,-,-2.233,11.333,-,-,-,-,-,,IIb,"interpretation Clist: Archéologie, ?",Clist 2004/2005: Annex 2
-Beta-29777,7760,120,,,Charcoal_wood,GAB,Lac Noir de Ndende,-,Layer,-,-2.233,11.333,,indet,-,-,-,,Ib,"interpretation Clist: Archéologie, Age Récent de la Pierre",Clist 2004/2005: Annex 2
+Beta-29772,5530,230,,,Charcoal_wood,GAB,Lac Noir de Ndende,-,Layer,0.12,-2.368,11.319,LSA,indet,-,-,,-,Ib,"interpretation Clist: Archéologie, Age Récent de la Pierre","Locko 1989; Locko 1991; Clist 2004/2005: Annex 2; Mercader/Martí 2003: 82 Tab. 2.3"
+Beta-29773,4590,70,,,Charcoal_wood,GAB,Lac Noir de Ndende,-,Layer,0.06,-2.368,11.319,,indet,-,-,Eg; Cs,-,Ib,"interpretation Clist: Archéologie, Age Récent de la Pierre","Clist 2004/2005: Annex 2, Tab. 10, Tab. 11"
+Beta-29774,7180,220,,,Charcoal_wood,GAB,Lac Noir de Ndende,-,Layer,0.25,-2.368,11.319,,indet,-,-,,-,Ib,"interpretation Clist: Archéologie, Age Récent de la Pierre",Clist 2004/2005: Annex 2
+Beta-29775,1790,80,,,Charcoal_wood,GAB,Lac Noir de Ndende,-,Layer,-,-2.368,11.319,-,-,-,-,-,,IIb,"interpretation Clist: Archéologie, ?",Clist 2004/2005: Annex 2
+Beta-29777,7760,120,,,Charcoal_wood,GAB,Lac Noir de Ndende,-,Layer,-,-2.368,11.319,,indet,-,-,-,,Ib,"interpretation Clist: Archéologie, Age Récent de la Pierre",Clist 2004/2005: Annex 2
 Beta-31410,2810,100,,,-,CMR,Oliga,A2 NA7,Furnace,0.95,3.904,11.5,,-,-,slag,,-,Ib,,Essomba 1991: 219; Essomba 1998: 238 Tab. 14.1; Leka 2013: Annex 4; Garcin et al. 2018
 Beta-31411,2710,130,,,-,CMR,Oliga,A2 NA7,Furnace,0.9,3.904,11.5,,-,-,slag,,-,Ib,,Essomba 1991: 219; Essomba 1998: 238 Tab. 14.1; Leka 2013: Annex 4; Garcin et al. 2018
 Beta-31412,1860,70,,,-,CMR,Oliga,A1-B1 NA1-2,Furnace,0.5,3.904,11.5,,-,-,slag,,-,Ib,,Essomba 1991: 219; Essomba 1998: 238 Tab. 14.1; Leka 2013: Annex 4; Garcin et al. 2018
