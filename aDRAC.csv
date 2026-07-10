@@ -156,13 +156,13 @@ Beta-18734,5160,100,,,-,GAB,Ikengue 1,S29E10,Layer,-,-1.5,9.499,LSA,indet,-,-,-,
 Beta-18735,220,50,,,-,GAB,Ikengue 1,E21E2,Layer,-,-1.5,9.499,,-,indet,-,-,,Ib,"interpretation Clist: Archéologie, Age du Fer Récent",Digombe et al. 1990: 584 Tab. 1; Clist 2004/2005: Annex 2
 Beta-19464,1556,70,,,-,CMR,Mfomakap/Nkometou,A1/X1,Pit,0.3,4.05,11.55,,-,indet,slag,,-,Ib,,Essomba 1991: 257 Tab. 20; Leka 2013: Annex 4
 Beta-19465,2596,220,,,-,CMR,Mfomakap/Nkometou,A1/X1,Pit,1.1,4.05,11.55,,indet,indet,slag,,-,Ib,,Essomba 1991: 257 Tab. 20; Essomba 1992: 241; Elouga 1998; Leka 2013: Annex 4
-Beta-20060,6450,130,,,-,GAB,Lac Noir de Ndende,-,Layer,-,-2.368,11.319,LSA,indet,-,-,-,,Ib,"interpretation Clist: Archéologie, Age Récent de la Pierre",Clist 1989: 70 Tab. 1; Clist 2004/2005: Annex 2
-Beta-20063,1910,80,,,-,GAB,Yombi Pk. 8,-,-,-,-1.417,10.633,,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
-Beta-20064,1770,60,,,-,GAB,Mouila 1,-,-,-,-1.985,11.033,,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
-Beta-20065,1200,60,,,-,GAB,Ditouba,-,-,-,-3.271,10.684,,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
-Beta-20066,930,60,,,-,GAB,Ditouba,-,-,-,-3.271,10.684,,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Récent",Clist 2004/2005: Annex 2
+Beta-20060,6450,130,,,-,GAB,Lac Noir de Ndende,-,Layer,-,-2.368,11.319,LSA,indet,-,-,-,,Ib,"interpretation Clist: Archéologie, Age Récent de la Pierre",Digombe et al. 1987; Clist 1989: 70 Tab. 1; Clist 2004/2005: Annex 2
+Beta-20063,1910,80,,,-,GAB,Yombi Pk. 8,-,-,-,-1.417,10.633,,indet,indet,indet,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Digombe et al. 1987; Clist 2004/2005: Annex 2
+Beta-20064,1770,60,,,-,GAB,Mouila 1,-,-,-,-1.985,11.033,,-,indet,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Digombe et al. 1987; Clist 2004/2005: Annex 2
+Beta-20065,1200,60,,,-,GAB,Ditouba,-,-,-,-3.271,10.684,,-,indet,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Digombe et al. 1987; Clist 2004/2005: Annex 2
+Beta-20066,930,60,,,-,GAB,Ditouba,-,-,-,-3.271,10.684,,-,indet,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Récent",Digombe et al. 1987; Clist 2004/2005: Annex 2
 Beta-20068,3890,140,,,-,GAB,Mandilou 2,-,-,-,-1.265,10.617,LSA,indet,-,-,-,,Ib,"interpretation Clist: Archéologie, Age Récent de la Pierre","Digombe et al. 1987; Clist 1989: 70 Tab. 1; Clist 2004/2005: Annex 2; Mercader/Martí 2003: 82 Tab. 2.3"
-Beta-20069,1860,90,,,-,GAB,Mandilou 3,-,-,-,-1.265,10.617,,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
+Beta-20069,1860,90,,,-,GAB,Mandilou 3,-,-,-,-1.265,10.617,,-,indet,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Digombe et al. 1987; Clist 2004/2005: Annex 2
 Beta-20784,1290,140,,,-,GAB,Malekou,-,-,-,0.452,9.478,,-,Nandá/Group II,-,-,,Ia,"interpretation Clist: Archéologie, Age du Fer Ancien","Clist 2004/2005: 628 Fig. 7-68, Annex 2"
 Beta-20785,380,90,,,-,GAB,Malekou,-,-,-,0.452,9.478,,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du FerRécent",Clist 2004/2005: Annex 2
 Beta-20786,520,50,,,Charcoal_wood,GAB,Moanda Gare,-,-,-,-1.556,13.181,,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Récent",Clist 2004/2005: Annex 2
