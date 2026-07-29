@@ -849,7 +849,7 @@ Gif-7439,440,50,,,-,COG,Bime (Kibouende),-,Layer,0.5,-4.156,15.181,,-,indet,-,,-
 Gif-7517,2500,60,,,-,CAF,Gbayoyo site 39,,,,NA,NA,,,,,,,Ic,,Zangato 1991: 261; Zangato 2000: 25 Tab. 8
 Gif-7518,2430,60,,,-,CAF,Gbayoyo site 39,,,,NA,NA,,,,,,,Ic,,Zangato 1991: 261; Zangato 2000: 25 Tab. 8
 Gif-7519,3430,60,,,charcoal,CAF,Balimbe 2 site 21,,-,,6.133,15.333,,,,,,,Ic,,Zangato 1991: 197; Zangato 2000: 26 Tab. 8
-Gif-7524,1840,60,,,Charcoal_wood,GAB,Okanda 5,10,Pit,-,-0.108,11.553,,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2; Leka 2013: Annex 4
+Gif-7524,1840,60,,,Charcoal_wood,GAB,Okanda 5,10,Pit,-,-0.121,11.553,,-,-,-,-,,Ic,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2; Leka 2013: Annex 4
 Gif-7525,2280,80,,,Charcoal_wood,GAB,Lope 12,-,Pit,-,-0.208,11.594,,polished indet,Okala/Epona/Yindo,-,-,,Ia,"interpretation Clist: Archéologie, Néolithique Récent","Clist 1989: 70 Tab. 1; Clist 2004/2005: 509 Tab. 6-56, Annex 2"
 Gif-7526,0,,,,Charcoal_wood,GAB,Otoumbi 10,-,-,-,-0.067,11.117,,indet,Lope,-,-,,Ia,"interpretation Clist: Archéologie, Age du Fer Récent",Assoko Ndong 2001: 475 Tab. 64; Clist 2004/2005: Annex 2
 Gif-7564,2390,80,,,charcoal,CAF,Balimbe 2 site 21,,-,,6.133,15.333,,,,,,,Ic,,Zangato 1991: 197; Zangato 2000: 26 Tab. 8
@@ -934,8 +934,8 @@ Gif-10279,0,,,,-,GAB,Mitendi 1,-,Furnace,-,-0.648,11.692,,-,-,-,-,,Ic,"interpret
 Gif-10325,200,50,,,-,GAB,HVL 4,-,Furnace,-,-0.566,11.602,,-,-,slag,-,,Ib,"interpretation Clist: Archéologie, Age du Fer Récent",Clist 2004/2005: Annex 2
 Gif-10327,820,60,,,-,GAB,Lope 15,-,-,-,-0.208,11.594,,-,Lope,-,-,,Ia,,Assoko Ndong 2001: 474 Tab. 64; Garcin et al. 2018
 Gif-10436,1890,50,,,Charcoal_wood,GAB,Lindili 1,6,Pit,0.42,-0.158,11.502,,-,Okanda,-,,-,Ia,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: 622 Fig. 7-63
-Gif-10437,1950,40,,,Charcoal_wood,GAB,Okanda 5,1,Pit,1,-0.108,11.553,,-,Okanda,-,-,,Ia,"interpretation Clist: Archéologie, Age du Fer Ancien","Assoko Ndong 2001; Clist 2004/2005: 622 Fig. 7-63, Annex 2"
-Gif-10438,4500,50,,,Charcoal_wood,GAB,Okanda 5,2,Pit,0.15,-0.108,11.553,,-,-,-,,-,IIa,"interpretation Clist: Archéologie maisaberrante, Age du Fer Ancien",Assoko Ndong 2001; Clist 2004/2005: Annex 2; Garcin et al. 2018
+Gif-10437,1950,40,,,Charcoal_wood,GAB,Okanda 5,1,Pit,1,-0.121,11.553,,-,Okanda,-,-,,Ia,"interpretation Clist: Archéologie, Age du Fer Ancien","Assoko Ndong 2001; Clist 2004/2005: 622 Fig. 7-63, Annex 2"
+Gif-10438,4500,50,,,Charcoal_wood,GAB,Okanda 5,2,Pit,0.15,-0.121,11.553,,-,-,-,,-,IIa,"interpretation Clist: Archéologie maisaberrante, Age du Fer Ancien",Assoko Ndong 2001; Clist 2004/2005: Annex 2; Garcin et al. 2018
 Gif-10672,480,60,,,-,GAB,Oumondo 1,-,Furnace,-,-0.595,11.543,,-,-,slag,-,,Ib,"interpretation Clist: Archéologie, Age du Fer Récent",Clist 2004/2005: Annex 2
 Gif-10749,580,40,-27.04,,Charcoal,CMR,Nfeitok 1,-,Pit,,5.566,9.367,,-,indet,-,-,,Ib,,"Oslisly et al. 2000: 345, 351 Tab. 1"
 Gif-10751/1,0,,,,Charcoal_wood,GAB,Okanda 6,2,Pit,0.5,-0.117,11.569,,-,Okala/Epona/Yindo,(slag); (object),,-,Ia,"Clist 2004/2005: 509 Ftm. 2 & Annex 2.2 list this date as Gif-10751; interpretation Clist: Archéologie, Age du Fer Ancien","Assoko Ndong 2001: 168 Tab.12; Clist 2004/2005: Annex 2"
@@ -959,8 +959,8 @@ Gif-11341,1785,50,,,Charcoal_wood,GAB,Riviere Denis 1,-,Layer,0.5,0.322,9.348,,i
 Gif-11342,1920,45,,,Charcoal_wood,GAB,Riviere Denis 2,-,Layer,,0.322,9.348,,-,indet,-,-,,Ib,"interpretation Clist: Archéologie, Néolithique ancien","Clist 2004/2005: 481, Annex 2"
 Gif-11343,720,30,,,Charcoal_wood,GAB,Lope 5,-,Layer,0.25,-0.158,11.611,,-,Lope,-,,-,Ia,"interpretation Clist: Archéologie, Age du Fer Récent",Assoko Ndong 2001: 474 Tab. 69; Clist 2004/2005: Annex 2
 Gif-11344,0,,,,Charcoal_wood,GAB,Azobé 1,-,Layer,0.2,-0.202,11.621,,-,Lope,-,,-,Ia,"interpretation Clist: Archéologie, Age du Fer Récent",Assoko Ndong 2001: 475 Tab. 69; Clist 2004/2005: Annex 2
-Gif-11345,1620,55,,,Charcoal_wood,GAB,Okanda 5,C3,Layer,-,-0.108,11.553,,-,Okanda,-,-,,Ia,"interpretation Clist: Archéologie, Agedu Fer Ancien","Assoko Ndong 2001; Clist 2004/2005: 622 Fig. 7-63, Annex 2"
-Gif-11346,5540,90,,,Charcoal_wood,GAB,Okanda 5,A1,Layer,-,-0.108,11.553,-,-,-,-,-,,Ic,"interpretation Clist: Archéologie, ?",Assoko Ndong 2001; Clist 2004/2005: Annex 2; Garcin et al. 2018
+Gif-11345,1620,55,,,Charcoal_wood,GAB,Okanda 5,C3,Layer,-,-0.121,11.553,,-,Okanda,-,-,,Ia,"interpretation Clist: Archéologie, Agedu Fer Ancien","Assoko Ndong 2001; Clist 2004/2005: 622 Fig. 7-63, Annex 2"
+Gif-11346,5540,90,,,Charcoal_wood,GAB,Okanda 5,A1,Layer,-,-0.121,11.553,-,-,-,-,-,,Ic,"interpretation Clist: Archéologie, ?",Assoko Ndong 2001; Clist 2004/2005: Annex 2; Garcin et al. 2018
 Gif-11411,4430,40,,,Charcoal_wood,GAB,Maboue 5,1,Layer,0.45,-0.143,11.524,,indet,-,-,-,,Ia,,Mesfin et al. 2021: 4
 Gif-11412,12570,100,,,Charcoal_wood,GAB,Maboue 5,2,Layer,1.35,-0.143,11.524,,indet,-,-,-,,Ia,,Mesfin et al. 2021: 5
 Gif-11413,40010,850,,,Charcoal_wood,GAB,Maboue 5,3,Layer,2.7,-0.143,11.524,MSA,indet,-,-,-,,Ia,,Mesfin et al. 2021: 5
@@ -1687,7 +1687,7 @@ OxA-5635,9880,100,,AMS,Charcoal,CMR,Shum Laka,C12/T-deposit,Layer,1.15,5.859,10.
 OxA-5636,9095,70,,AMS,Charcoal,CMR,Shum Laka,Lower Horizon of the Ochre Ash Layer,Layer,,5.859,10.078,LSA,indet,-,-,-,,Ia,shum laka lower lithics horizon,Lavachery 1997: 174 & Fig. XI.3; Lavachery 2001: 219 Tab. 1
 OxA-7601,2370,35,,AMS,Charcoal_wood,GAB,Lope 2,1,Pit,0.5,-0.218,11.588,,-,Okala/Epona/Yindo,(slag); (object),,-,Ia,"interpretation Clist: Archéologie, Age du FerAncien","Assoko Ndong 2001: 199-200; Clist 2004/2005:509 Tab. 6-56, Annex 2; Eggert et al. 2006: 277 Tab. 2"
 OxA-7602,1905,35,,AMS,Charcoal_wood,GAB,Lindili 1,11/8,Pit,0.6,-0.158,11.502,,-,Okanda,-,,-,Ia,"interpretation Clist: Archéologie, Age du Fer Ancien","Assoko Ndong 2001; Clist 2004/2005: 622 Fig. 7-63, Annex 2"
-OxA-7603,1980,35,,AMS,Charcoal_wood,GAB,Okanda 5,E4,Layer,0.25,-0.108,11.553,,-,Okanda,-,,-,Ia,"interpretation Clist: Archéologie, Age du Fer Ancien","Assoko Ndong 2001; Clist 2004/2005: 622 Fig. 7-63, Annex 2"
+OxA-7603,1980,35,,AMS,Charcoal_wood,GAB,Okanda 5,E4,Layer,0.25,-0.121,11.553,,-,Okanda,-,,-,Ia,"interpretation Clist: Archéologie, Age du Fer Ancien","Assoko Ndong 2001; Clist 2004/2005: 622 Fig. 7-63, Annex 2"
 OxA-7604,2160,35,,AMS,Charcoal_wood,GAB,Okanda 6,2,Pit,1,-0.117,11.569,,-,Okala/Epona/Yindo,-,Eg,,Ia,"interpretation Clist: Archéologie, Age du FerAncien","Assoko Ndong 2001: 168 Tab.12; Clist 2004/2005:509 Tab. 6-56, Annex 2"
 OxA-7753,1830,35,,AMS,Charcoal_wood,GAB,Lindili 1,17,Pit,0.27,-0.158,11.502,,-,Okanda,-,,-,Ia,"interpretation Clist: Archéologie, Age du Fer Ancien","Clist 2004/2005: 622 Fig. 7-63, Annex 2"
 OxA-7875,20260,180,,AMS,Charcoal,CMR,Shum Laka,I14/S-deposit,Layer,0.725,5.859,10.078,,(indet),,,,,Ib,,Cornelissen 2003: 7 Fig. 5
