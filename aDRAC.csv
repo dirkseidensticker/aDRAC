@@ -36,7 +36,7 @@ AA-96499,1264,36,,AMS,-,CAF,Boua,Z13-10,Furnace,0.76,4.073,17.071,,-,indet,slag,
 AA-96500,2179,37,,AMS,-,CAF,Boua,Z02-02,Midden,-,4.075,17.071,,-,indet,-,-,,Ib,,Kiahtipes 2016:81 Tab. 4-1; Lupo et al. 2018: 7 Tab. 1
 Arc-338,>35000,,,,,COG,Bout de Plateau,,,,,,,,,,,,,,Lanfranchi et al. 1989: 74
 Arc-339,2310,60,,,Charcoal_wood,GAB,Okanda 1/Mont Brazza,-,Pit,-,-0.128,11.589,,-,Okala/Epona/Yindo,-,-,,Ia,"interpretation Clist: Archéologie, Néolithique Récent ou Age du Fer Ancien","Clist 1995; Clist 2004/2005:509 Tab. 6-56, Annex 2"
-Arc-340,540,50,,,-,COG,Mont Barnier,-,Layer,0.3,-4.204,15.208,,-,indet,-,,-,Ib,,Pincon 1991a: 249 Tab. 1; Pincon 1991b: 30 Tab. 1
+Arc-340,540,50,,,-,COG,Mont Barnier II,-,Layer,0.3,-4.204167,15.208333,,-,indet,-,,-,Ib,,Pincon 1991a: 249 Tab. 1; Pincon 1991b: 30 Tab. 1
 Arc-341,2210,100,,,Charcoal_wood,GAB,Kango 5,40,Pit,0.2,0.201,10.082,,-,indet,-,,-,Ib,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: Annex 2
 Arc-343,1900,50,,,Shell_Anadara senilis,GAB,Oveng 1,A22,Layer,-,0.479,9.517,,-,Oveng,-,-,indet,IIIb,"interpretation Clist: Archéologie, Age du Fer Ancien",Clist 2004/2005: 618 Tab. 7-10; Leka 2013: Annex 4
 Arc-373,2110,60,,,-,COG,Les Saras,-,Layer,-,-4.183,12.283,,-,-,slag,Eg,,Ib,,de Foresta et al. 1990: 10; Eggert 1993: 303
@@ -873,7 +873,7 @@ Gif-8153,810,50,,,Shell_Tympanotonus fuscatus,GAB,Bolokoboue,-,Layer,-,0.643,9.4
 Gif-8154,860,40,,,-,COG,Impe,-,slag mound,-,-2.729,15.27,,-,-,slag,-,,Ib,,Pincon 1991a: 249 Tab. 1; Pincon 1991b: 30 Tab. 1
 Gif-8155,880,50,,,-,COG,Inoni Falaise,-,slag mound,-,-3.017,15.667,,-,-,slag,-,,Ib,,Pincon 1991b: 30 Tab. 1; Dupre/Pincon 1997; Garcin et al. 2018
 Gif-8156,130,50,,,-,COG,Masamasa II,-,slag mound,-,-3.878,14.884,,-,-,slag,-,,Ib,,Pincon 1991a: 249 Tab. 1; Pincon 1991b: 30 Tab. 1
-Gif-8157,7690,70,,,-,COG,Mont Barnier,-,Layer,1,-4.204,15.208,LSA,indet,-,-,-,,Ib,,"Pincon 1991b: 30 Tab. 1; Mercader/Martí 2003: 82 Tab. 2.3"
+Gif-8157,7690,70,,,-,COG,Mont Barnier I,-,Layer,1,-4.191667,15.2,LSA,indet,-,-,-,,Ib,,"Pincon 1991b: 30 Tab. 1; Mercader/Martí 2003: 82 Tab. 2.3"
 Gif-8159,960,30,,,-,COG,Ngoulonkila 1,-,slag mound,-,-2.433,14.583,,-,-,slag,-,,Ib,,Pincon 1991b: 30 Tab. 1; Dupre/Pincon 1997; Garcin et al. 2018
 Gif-8160,300,90,,,-,COG,Inoni,-,slag mound,-,-3.033,15.333,,-,-,slag,-,,Ib,,Pincon 1991b: 30 Tab. 1; Dupre/Pincon 1997; Garcin et al. 2018
 Gif-8161,110,80,,,-,COG,Ingamfini 2,-,slag mound,-,-3.85,15.65,,-,-,slag,-,,Ib,,Pincon 1991b: 30 Tab. 1; Dupre/Pincon 1997; Garcin et al. 2018
